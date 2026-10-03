@@ -19,14 +19,12 @@
 | Rig packs and face anchors | 0 | Blocked by complete asset-sheet approval. |
 | VO clips / music / video | 0 | Blocked by the required earlier gates. |
 
-## Current work
+## Current gate
 
-Asset-sheet queue and style lock: `production/asset_manifest.md`.
+Four character-voice auditions are now required at the user's request: one distinct mascot voice and the three additional character tracks permitted by the master brief. The four-part / 132-wpm / ~25:25 delivery plan is recorded in `production/voice_and_delivery_plan.md`.
 
-- Next character sheets: Odysseus, Paris, and Helen.
-- Then: the remaining supporting characters and eight recurring location references.
-- Once all sheets are visually reviewed, a contact-sheet review pack will be presented for the required Step 3 approval.
+## Next actions after voice selections
 
-## Voice direction
-
-Use the selected narrator for every narrator line: a mature, warm, low-to-mid masculine English delivery at a 132-wpm average. The performance stays compassionate in scenes of loss and quietly firmer in the final act. No artificial pitch shifting will be used; native voice quality, pacing, pauses, and mix will carry the weight.
+1. Lock the complete five-voice cast in `production/voice_cast.json`.
+2. Resume the Step 3 character-sheet queue: Odysseus, Paris, and Helen next, then supporting characters and recurring locations.
+3. Present contact sheets for the required Step 3 approval before any rig or scene work.

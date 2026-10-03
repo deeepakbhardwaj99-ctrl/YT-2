@@ -7,8 +7,27 @@
     "target_average_wpm": 132,
     "consistency_rule": "Use this voice for all narrator lines in every part."
   },
-  "other_voices": {
-    "status": "not_auditioned",
-    "note": "Character and mascot voices will be cast after the narrator and asset-sheet gates."
-  }
+  "dialogue_tracks": {
+    "mascot": {
+      "selection_status": "audition_pending",
+      "role_coverage": ["Meno the skeleton mascot"],
+      "performance_direction": "Lighter, warm, alert and gently wry."
+    },
+    "authority_warriors": {
+      "selection_status": "audition_pending",
+      "role_coverage": ["Zeus", "Agamemnon", "Menelaus", "Achilles", "Hector", "Priam", "Ajax", "Neoptolemus", "Poseidon"],
+      "performance_direction": "Grounded adult masculine, textured and controlled."
+    },
+    "strategists_younger_men": {
+      "selection_status": "audition_pending",
+      "role_coverage": ["Paris", "Odysseus", "Patroclus", "Palamedes", "Philoctetes", "Calchas", "Chryses", "Sinon", "Helenus", "Epeius", "other minor male roles"],
+      "performance_direction": "Clear, thoughtful adult masculine, slightly lighter and more agile than authority warriors."
+    },
+    "women_divine_prophetic": {
+      "selection_status": "audition_pending",
+      "role_coverage": ["Eris", "Hera", "Athena", "Aphrodite", "Helen", "Thetis", "Iphigenia", "Andromache", "Clytemnestra", "Cassandra", "Oenone", "other minor female roles"],
+      "performance_direction": "Clear adult feminine, poised and emotionally precise; never exaggerated."
+    }
+  },
+  "master_brief_voice_limit": "Narrator plus up to three extra character voices and one distinct mascot voice."
 }
