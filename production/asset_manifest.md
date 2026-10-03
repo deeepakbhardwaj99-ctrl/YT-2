@@ -1,6 +1,6 @@
 # Step 3 — Character and Location Asset Manifest
 
-**Status:** Character-sheet batches 01–04 accepted: 12/17 character identities complete; 0/8 first-view location references complete. No scene image may be generated until the complete set is approved.
+**Status:** Character-sheet batches 01–05 accepted: 15/17 character identities complete; 0/8 first-view location references complete. No scene image may be generated until the complete set is approved.
 
 ## Locked hybrid visual bridge
 
@@ -25,12 +25,12 @@ Each identity sheet is a single 16:9 image: full body, neutral standing pose, fr
 | 7 | Agamemnon | Static cut-out reference | Accepted — batch 03 |
 | 8 | Menelaus | Static cut-out reference | Accepted — batch 03 |
 | 9 | Thetis | Static cut-out reference | Accepted — batch 03 |
-| 10 | Iphigenia | Static cut-out reference | Queued |
-| 11 | Patroclus | Static cut-out reference | Queued |
-| 12 | Andromache | Static cut-out reference | Queued |
-| 13 | Priam | Static cut-out reference | Queued |
-| 14 | Clytemnestra | Static cut-out reference | Queued |
-| 15 | Cassandra | Static cut-out reference | Queued |
+| 10 | Iphigenia | Static cut-out reference | Accepted — batch 04 |
+| 11 | Patroclus | Static cut-out reference | Accepted — batch 04 |
+| 12 | Andromache | Static cut-out reference | Accepted — batch 04 |
+| 13 | Priam | Static cut-out reference | Accepted — batch 05 |
+| 14 | Clytemnestra | Static cut-out reference | Accepted — batch 05 |
+| 15 | Cassandra | Static cut-out reference | Accepted — batch 05 |
 | 16 | Ajax | Static cut-out reference | Queued |
 | 17 | Neoptolemus | Static cut-out reference | Queued |
 
