@@ -14,289 +14,481 @@
         "chapter": "[COLD OPEN]",
         "raw": "About three thousand two hundred years ago, a walled city on a windy hill in what is now Turkey burned to the ground. What came after is a mix of poetry, memory, and shovel work. The Greeks said it fell over one woman. Their poets blamed a grudge between goddesses. Archaeologists point to something far less romantic. So which one is it? To find out, we start where the Greeks started: with a wedding, and a guest list that went very wrong.",
         "spoken": "About three thousand two hundred years ago, a walled city on a windy hill in what is now Turkey burned to the ground. What came after is a mix of poetry, memory, and shovel work. The Greeks said it fell over one woman. Their poets blamed a grudge between goddesses. Archaeologists point to something far less romantic. So which one is it? To find out, we start where the Greeks started: with a wedding, and a guest list that went very wrong.",
-        "words": 82
+        "words": 82,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "About three thousand two hundred years ago, a walled city on a windy hill in what is now Turkey burned to the ground. What came after is a mix of poetry, memory, and shovel work. The Greeks said it fell over one woman. Their poets blamed a grudge between goddesses. Archaeologists point to something far less romantic. So which one is it? To find out, we start where the Greeks started: with a wedding, and a guest list that went very wrong.",
+        "line_index": 0
       },
       {
         "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
         "raw": "The groom was a mortal king named Peleus. The bride was Thetis, a sea goddess so lovely that Zeus himself had wanted her, until he heard a prophecy. Her son, it said, would grow up greater than his father. Suddenly no god wanted anything to do with her. Marry her to a mortal, they decided, and the problem goes away.",
         "spoken": "The groom was a mortal king named Peleus. The bride was Thetis, a sea goddess so lovely that Zeus himself had wanted her, until he heard a prophecy. Her son, it said, would grow up greater than his father. Suddenly no god wanted anything to do with her. Marry her to a mortal, they decided, and the problem goes away.",
-        "words": 60
+        "words": 60,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "The groom was a mortal king named Peleus. The bride was Thetis, a sea goddess so lovely that Zeus himself had wanted her, until he heard a prophecy. Her son, it said, would grow up greater than his father. Suddenly no god wanted anything to do with her. Marry her to a mortal, they decided, and the problem goes away.",
+        "line_index": 1
       },
       {
         "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
         "raw": "So Olympus came to the wedding. Music, wine, mountains of food. And one missing guest. Eris, the goddess of strife, had not been invited.",
         "spoken": "So Olympus came to the wedding. Music, wine, mountains of food. And one missing guest. Eris, the goddess of strife, had not been invited.",
-        "words": 24
+        "words": 24,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "So Olympus came to the wedding. Music, wine, mountains of food. And one missing guest. Eris, the goddess of strife, had not been invited.",
+        "line_index": 2
       },
       {
         "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
         "raw": "MASCOT: \"Spoiler. Terrible idea.\"",
         "spoken": "Spoiler. Terrible idea.",
-        "words": 3
+        "words": 3,
+        "speaker": "MASCOT",
+        "voice_id": "voice-01",
+        "clean_speech": "Spoiler. Terrible idea.",
+        "line_index": 3
       },
       {
         "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
         "raw": "She showed up anyway.",
         "spoken": "She showed up anyway.",
-        "words": 4
+        "words": 4,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "She showed up anyway.",
+        "line_index": 4
       },
       {
         "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
         "raw": "ERIS: (sweetly) \"Don't mind me. I only came to drop off a gift.\"",
         "spoken": "Don't mind me. I only came to drop off a gift.",
-        "words": 11
+        "words": 11,
+        "speaker": "ERIS",
+        "voice_id": "voice-04",
+        "clean_speech": "Don't mind me. I only came to drop off a gift.",
+        "line_index": 5
       },
       {
         "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
         "raw": "She rolled a golden apple across the floor. Scratched into it were the words: for the most beautiful.",
         "spoken": "She rolled a golden apple across the floor. Scratched into it were the words: for the most beautiful.",
-        "words": 18
+        "words": 18,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "She rolled a golden apple across the floor. Scratched into it were the words: for the most beautiful.",
+        "line_index": 6
       },
       {
         "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
         "raw": "Three goddesses reached for it at once.",
         "spoken": "Three goddesses reached for it at once.",
-        "words": 7
+        "words": 7,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "Three goddesses reached for it at once.",
+        "line_index": 7
       },
       {
         "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
         "raw": "HERA: \"Obviously it's mine. I'm the queen of heaven.\"",
         "spoken": "Obviously it's mine. I'm the queen of heaven.",
-        "words": 8
+        "words": 8,
+        "speaker": "HERA",
+        "voice_id": "voice-04",
+        "clean_speech": "Obviously it's mine. I'm the queen of heaven.",
+        "line_index": 8
       },
       {
         "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
         "raw": "ATHENA: \"Beauty fades. Wisdom doesn't. Hand it over.\"",
         "spoken": "Beauty fades. Wisdom doesn't. Hand it over.",
-        "words": 7
+        "words": 7,
+        "speaker": "ATHENA",
+        "voice_id": "voice-04",
+        "clean_speech": "Beauty fades. Wisdom doesn't. Hand it over.",
+        "line_index": 9
       },
       {
         "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
         "raw": "APHRODITE: \"Please. I'm the goddess of beauty. It practically has my name on it.\"",
         "spoken": "Please. I'm the goddess of beauty. It practically has my name on it.",
-        "words": 13
+        "words": 13,
+        "speaker": "APHRODITE",
+        "voice_id": "voice-04",
+        "clean_speech": "Please. I'm the goddess of beauty. It practically has my name on it.",
+        "line_index": 10
       },
       {
         "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
         "raw": "They turned to Zeus, and Zeus, who had not stayed king by being foolish, wanted no part of it.",
         "spoken": "They turned to Zeus, and Zeus, who had not stayed king by being foolish, wanted no part of it.",
-        "words": 19
+        "words": 19,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "They turned to Zeus, and Zeus, who had not stayed king by being foolish, wanted no part of it.",
+        "line_index": 11
       },
       {
         "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
         "raw": "ZEUS: \"Pick one of you, and I make two enemies. Not a chance. Find a mortal.\"",
         "spoken": "Pick one of you, and I make two enemies. Not a chance. Find a mortal.",
-        "words": 15
+        "words": 15,
+        "speaker": "ZEUS",
+        "voice_id": "voice-03",
+        "clean_speech": "Pick one of you, and I make two enemies. Not a chance. Find a mortal.",
+        "line_index": 12
       },
       {
         "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
         "raw": "Far away on Mount Ida, a young shepherd named Paris was minding his flock. He was secretly a prince of Troy. At his birth, his mother had dreamed her baby would set the city on fire, so the king ordered him left on a mountainside. Troy had tried to avoid its own destruction, and ended up raising its destroyer in a hut.",
         "spoken": "Far away on Mount Ida, a young shepherd named Paris was minding his flock. He was secretly a prince of Troy. At his birth, his mother had dreamed her baby would set the city on fire, so the king ordered him left on a mountainside. Troy had tried to avoid its own destruction, and ended up raising its destroyer in a hut.",
-        "words": 62
+        "words": 62,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "Far away on Mount Ida, a young shepherd named Paris was minding his flock. He was secretly a prince of Troy. At his birth, his mother had dreamed her baby would set the city on fire, so the king ordered him left on a mountainside. Troy had tried to avoid its own destruction, and ended up raising its destroyer in a hut.",
+        "line_index": 13
       },
       {
         "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
         "raw": "Each goddess came to him alone, with an offer.",
         "spoken": "Each goddess came to him alone, with an offer.",
-        "words": 9
+        "words": 9,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "Each goddess came to him alone, with an offer.",
+        "line_index": 14
       },
       {
         "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
         "raw": "HERA: \"Choose me, and you rule every kingdom between here and the sunrise.\"",
         "spoken": "Choose me, and you rule every kingdom between here and the sunrise.",
-        "words": 12
+        "words": 12,
+        "speaker": "HERA",
+        "voice_id": "voice-04",
+        "clean_speech": "Choose me, and you rule every kingdom between here and the sunrise.",
+        "line_index": 15
       },
       {
         "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
         "raw": "ATHENA: \"Choose me, and no one will ever beat you in battle.\"",
         "spoken": "Choose me, and no one will ever beat you in battle.",
-        "words": 11
+        "words": 11,
+        "speaker": "ATHENA",
+        "voice_id": "voice-04",
+        "clean_speech": "Choose me, and no one will ever beat you in battle.",
+        "line_index": 16
       },
       {
         "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
         "raw": "APHRODITE: \"Choose me, and the most beautiful woman alive is yours.\"",
         "spoken": "Choose me, and the most beautiful woman alive is yours.",
-        "words": 10
+        "words": 10,
+        "speaker": "APHRODITE",
+        "voice_id": "voice-04",
+        "clean_speech": "Choose me, and the most beautiful woman alive is yours.",
+        "line_index": 17
       },
       {
         "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
         "raw": "PARIS: (after a very short pause) \"Sorry, Hera. Sorry, Athena.\"",
         "spoken": "Sorry, Hera. Sorry, Athena.",
-        "words": 4
+        "words": 4,
+        "speaker": "PARIS",
+        "voice_id": "voice-02",
+        "clean_speech": "Sorry, Hera. Sorry, Athena.",
+        "line_index": 18
       },
       {
         "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
         "raw": "Aphrodite got the apple. The most beautiful woman alive was named Helen. And Helen was already married.",
         "spoken": "Aphrodite got the apple. The most beautiful woman alive was named Helen. And Helen was already married.",
-        "words": 17
+        "words": 17,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "Aphrodite got the apple. The most beautiful woman alive was named Helen. And Helen was already married.",
+        "line_index": 19
       },
       {
         "chapter": "[CHAPTER 2: THE OATH]",
         "raw": "Helen was the daughter of Tyndareus, king of Sparta, and when she came of age, nearly every important man in Greece arrived to ask for her hand. Tyndareus panicked.",
         "spoken": "Helen was the daughter of Tyndareus, king of Sparta, and when she came of age, nearly every important man in Greece arrived to ask for her hand. Tyndareus panicked.",
-        "words": 29
+        "words": 29,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "Helen was the daughter of Tyndareus, king of Sparta, and when she came of age, nearly every important man in Greece arrived to ask for her hand. Tyndareus panicked.",
+        "line_index": 20
       },
       {
         "chapter": "[CHAPTER 2: THE OATH]",
         "raw": "TYNDAREUS: \"Whoever I choose, the rest will tear Greece apart.\"",
         "spoken": "Whoever I choose, the rest will tear Greece apart.",
-        "words": 9
+        "words": 9,
+        "speaker": "TYNDAREUS",
+        "voice_id": "voice-03",
+        "clean_speech": "Whoever I choose, the rest will tear Greece apart.",
+        "line_index": 21
       },
       {
         "chapter": "[CHAPTER 2: THE OATH]",
         "raw": "The man who solved it was Odysseus, who had no real chance at Helen himself.",
         "spoken": "The man who solved it was Odysseus, who had no real chance at Helen himself.",
-        "words": 15
+        "words": 15,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "The man who solved it was Odysseus, who had no real chance at Helen himself.",
+        "line_index": 22
       },
       {
         "chapter": "[CHAPTER 2: THE OATH]",
         "raw": "ODYSSEUS: \"Then make them swear first. Whoever wins, every other suitor defends his marriage. And in return, help me win Penelope.\"",
         "spoken": "Then make them swear first. Whoever wins, every other suitor defends his marriage. And in return, help me win Penelope.",
-        "words": 20
+        "words": 20,
+        "speaker": "ODYSSEUS",
+        "voice_id": "voice-02",
+        "clean_speech": "Then make them swear first. Whoever wins, every other suitor defends his marriage. And in return, help me win Penelope.",
+        "line_index": 23
       },
       {
         "chapter": "[CHAPTER 2: THE OATH]",
         "raw": "Tyndareus sacrificed a horse, and the suitors swore standing over its remains.",
         "spoken": "Tyndareus sacrificed a horse, and the suitors swore standing over its remains.",
-        "words": 12
+        "words": 12,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "Tyndareus sacrificed a horse, and the suitors swore standing over its remains.",
+        "line_index": 24
       },
       {
         "chapter": "[CHAPTER 2: THE OATH]",
         "raw": "MASCOT: \"Keep that horse in mind.\"",
         "spoken": "Keep that horse in mind.",
-        "words": 5
+        "words": 5,
+        "speaker": "MASCOT",
+        "voice_id": "voice-01",
+        "clean_speech": "Keep that horse in mind.",
+        "line_index": 25
       },
       {
         "chapter": "[CHAPTER 2: THE OATH]",
         "raw": "Helen chose Menelaus, a king with a famous brother. That brother was Agamemnon of Mycenae, the most powerful ruler in Greece.",
         "spoken": "Helen chose Menelaus, a king with a famous brother. That brother was Agamemnon of Mycenae, the most powerful ruler in Greece.",
-        "words": 21
+        "words": 21,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "Helen chose Menelaus, a king with a famous brother. That brother was Agamemnon of Mycenae, the most powerful ruler in Greece.",
+        "line_index": 26
       },
       {
         "chapter": "[CHAPTER 2: THE OATH]",
         "raw": "Years later, Paris arrived in Sparta as a guest. Menelaus was called away to Crete, and when he came home, his wife and a good part of his treasure were gone. Did Helen leave willingly, or was she taken? The Greeks never agreed. In Homer, Helen blames herself bitterly for the rest of her life.",
         "spoken": "Years later, Paris arrived in Sparta as a guest. Menelaus was called away to Crete, and when he came home, his wife and a good part of his treasure were gone. Did Helen leave willingly, or was she taken? The Greeks never agreed. In Homer, Helen blames herself bitterly for the rest of her life.",
-        "words": 55
+        "words": 55,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "Years later, Paris arrived in Sparta as a guest. Menelaus was called away to Crete, and when he came home, his wife and a good part of his treasure were gone. Did Helen leave willingly, or was she taken? The Greeks never agreed. In Homer, Helen blames herself bitterly for the rest of her life.",
+        "line_index": 27
       },
       {
         "chapter": "[CHAPTER 2: THE OATH]",
         "raw": "MENELAUS: (shaking) \"He sat at my table. He ate my food. And he took my wife.\"",
         "spoken": "He sat at my table. He ate my food. And he took my wife.",
-        "words": 14
+        "words": 14,
+        "speaker": "MENELAUS",
+        "voice_id": "voice-03",
+        "clean_speech": "He sat at my table. He ate my food. And he took my wife.",
+        "line_index": 28
       },
       {
         "chapter": "[CHAPTER 2: THE OATH]",
         "raw": "AGAMEMNON: \"Then we call in the oath. Every king who ever courted Helen sails with us.\"",
         "spoken": "Then we call in the oath. Every king who ever courted Helen sails with us.",
-        "words": 15
+        "words": 15,
+        "speaker": "AGAMEMNON",
+        "voice_id": "voice-03",
+        "clean_speech": "Then we call in the oath. Every king who ever courted Helen sails with us.",
+        "line_index": 29
       },
       {
         "chapter": "[CHAPTER 2: THE OATH]",
         "raw": "Except that some of them did not want to go.",
         "spoken": "Except that some of them did not want to go.",
-        "words": 10
+        "words": 10,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "Except that some of them did not want to go.",
+        "line_index": 30
       },
       {
         "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
         "raw": "Odysseus, king of Ithaca, had a new baby and a happy home. When the recruiters arrived, he pretended to be out of his mind. He yoked a donkey and an ox to a plow and began sowing the beach with salt.",
         "spoken": "Odysseus, king of Ithaca, had a new baby and a happy home. When the recruiters arrived, he pretended to be out of his mind. He yoked a donkey and an ox to a plow and began sowing the beach with salt.",
-        "words": 41
+        "words": 41,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "Odysseus, king of Ithaca, had a new baby and a happy home. When the recruiters arrived, he pretended to be out of his mind. He yoked a donkey and an ox to a plow and began sowing the beach with salt.",
+        "line_index": 31
       },
       {
         "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
         "raw": "A man named Palamedes saw through it. He laid Odysseus's infant son in front of the plow.",
         "spoken": "A man named Palamedes saw through it. He laid Odysseus's infant son in front of the plow.",
-        "words": 17
+        "words": 17,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "A man named Palamedes saw through it. He laid Odysseus's infant son in front of the plow.",
+        "line_index": 32
       },
       {
         "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
         "raw": "PALAMEDES: \"Keep plowing, my king. Straight ahead.\"",
         "spoken": "Keep plowing, my king. Straight ahead.",
-        "words": 6
+        "words": 6,
+        "speaker": "PALAMEDES",
+        "voice_id": "voice-03",
+        "clean_speech": "Keep plowing, my king. Straight ahead.",
+        "line_index": 33
       },
       {
         "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
         "raw": "Odysseus swerved.",
         "spoken": "Odysseus swerved.",
-        "words": 2
+        "words": 2,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "Odysseus swerved.",
+        "line_index": 34
       },
       {
         "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
         "raw": "ODYSSEUS: (through his teeth) \"All right. You made your point. I'll go.\"",
         "spoken": "All right. You made your point. I'll go.",
-        "words": 8
+        "words": 8,
+        "speaker": "ODYSSEUS",
+        "voice_id": "voice-02",
+        "clean_speech": "All right. You made your point. I'll go.",
+        "line_index": 35
       },
       {
         "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
         "raw": "He never forgave Palamedes, which, as we will see, ended badly for Palamedes.",
         "spoken": "He never forgave Palamedes, which, as we will see, ended badly for Palamedes.",
-        "words": 13
+        "words": 13,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "He never forgave Palamedes, which, as we will see, ended badly for Palamedes.",
+        "line_index": 36
       },
       {
         "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
         "raw": "The Greeks also needed Achilles, the best warrior of his generation. His mother Thetis knew he was fated to die at Troy, so she hid him among the daughters of a king on the island of Skyros, where he fell in love and fathered a son named Neoptolemus.",
         "spoken": "The Greeks also needed Achilles, the best warrior of his generation. His mother Thetis knew he was fated to die at Troy, so she hid him among the daughters of a king on the island of Skyros, where he fell in love and fathered a son named Neoptolemus.",
-        "words": 48
+        "words": 48,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "The Greeks also needed Achilles, the best warrior of his generation. His mother Thetis knew he was fated to die at Troy, so she hid him among the daughters of a king on the island of Skyros, where he fell in love and fathered a son named Neoptolemus.",
+        "line_index": 37
       },
       {
         "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
         "raw": "THETIS: \"Stay hidden, my son. If you go to Troy, you will not come home.\"",
         "spoken": "Stay hidden, my son. If you go to Troy, you will not come home.",
-        "words": 14
+        "words": 14,
+        "speaker": "THETIS",
+        "voice_id": "voice-04",
+        "clean_speech": "Stay hidden, my son. If you go to Troy, you will not come home.",
+        "line_index": 38
       },
       {
         "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
         "raw": "ACHILLES: \"A long life that nobody remembers, or a short one that nobody forgets. It's not much of a choice, Mother.\"",
         "spoken": "A long life that nobody remembers, or a short one that nobody forgets. It's not much of a choice, Mother.",
-        "words": 20
+        "words": 20,
+        "speaker": "ACHILLES",
+        "voice_id": "voice-02",
+        "clean_speech": "A long life that nobody remembers, or a short one that nobody forgets. It's not much of a choice, Mother.",
+        "line_index": 39
       },
       {
         "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
         "raw": "The fleet gathered at a harbor called Aulis, and then it sat there. No wind. Day after day, the sails hung limp.",
         "spoken": "The fleet gathered at a harbor called Aulis, and then it sat there. No wind. Day after day, the sails hung limp.",
-        "words": 22
+        "words": 22,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "The fleet gathered at a harbor called Aulis, and then it sat there. No wind. Day after day, the sails hung limp.",
+        "line_index": 40
       },
       {
         "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
         "raw": "CALCHAS: \"Artemis is angry. The wind returns when your daughter Iphigenia is sacrificed.\"",
         "spoken": "Artemis is angry. The wind returns when your daughter Iphigenia is sacrificed.",
-        "words": 12
+        "words": 12,
+        "speaker": "CALCHAS",
+        "voice_id": "voice-03",
+        "clean_speech": "Artemis is angry. The wind returns when your daughter Iphigenia is sacrificed.",
+        "line_index": 41
       },
       {
         "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
         "raw": "AGAMEMNON: \"Not her. Anyone but her.\"",
         "spoken": "Not her. Anyone but her.",
-        "words": 5
+        "words": 5,
+        "speaker": "AGAMEMNON",
+        "voice_id": "voice-03",
+        "clean_speech": "Not her. Anyone but her.",
+        "line_index": 42
       },
       {
         "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
         "raw": "CALCHAS: \"Then the ships stay where they are.\"",
         "spoken": "Then the ships stay where they are.",
-        "words": 7
+        "words": 7,
+        "speaker": "CALCHAS",
+        "voice_id": "voice-03",
+        "clean_speech": "Then the ships stay where they are.",
+        "line_index": 43
       },
       {
         "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
         "raw": "Agamemnon sent word that Iphigenia should come to the camp, to marry Achilles. She arrived in her wedding dress.",
         "spoken": "Agamemnon sent word that Iphigenia should come to the camp, to marry Achilles. She arrived in her wedding dress.",
-        "words": 19
+        "words": 19,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "Agamemnon sent word that Iphigenia should come to the camp, to marry Achilles. She arrived in her wedding dress.",
+        "line_index": 44
       },
       {
         "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
         "raw": "IPHIGENIA: \"Father? Where is the groom?\"",
         "spoken": "Father? Where is the groom?",
-        "words": 5
+        "words": 5,
+        "speaker": "IPHIGENIA",
+        "voice_id": "voice-04",
+        "clean_speech": "Father? Where is the groom?",
+        "line_index": 45
       },
       {
         "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
         "raw": "What happened next depends on who is telling it. In some versions she was killed. In others, Artemis swapped her for a deer at the last second and carried her away.",
         "spoken": "What happened next depends on who is telling it. In some versions she was killed. In others, Artemis swapped her for a deer at the last second and carried her away.",
-        "words": 31
+        "words": 31,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "What happened next depends on who is telling it. In some versions she was killed. In others, Artemis swapped her for a deer at the last second and carried her away.",
+        "line_index": 46
       },
       {
         "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
         "raw": "The wind rose. The fleet sailed. And Clytemnestra, back in Mycenae, began to wait.",
         "spoken": "The wind rose. The fleet sailed. And Clytemnestra, back in Mycenae, began to wait.",
-        "words": 14
+        "words": 14,
+        "speaker": "NARRATOR",
+        "voice_id": "voice-00",
+        "clean_speech": "The wind rose. The fleet sailed. And Clytemnestra, back in Mycenae, began to wait.",
+        "line_index": 47
       }
     ],
     "closing_line": "The wind rose. The fleet sailed. And Clytemnestra, back in Mycenae, began to wait.",

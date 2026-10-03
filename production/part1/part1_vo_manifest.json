@@ -1,0 +1,790 @@
+{
+  "part": 1,
+  "total_clips": 25,
+  "clips": [
+    {
+      "clip_id": "p1_clip_01",
+      "chapter": "[COLD OPEN]",
+      "file_path": "production/part1/vo/p1_clip_01.mp3",
+      "duration_s": 18.851,
+      "words": 43,
+      "wpm": 136.9,
+      "segments": [
+        {
+          "line_index": 0,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "About three thousand two hundred years ago, a walled city on a windy hill in what is now Turkey burned to the ground. What came after is a mix of poetry, memory, and shovel work. The Greeks said it fell over one woman.",
+          "words": 43,
+          "t_start": 0.33,
+          "t_end": 18.301,
+          "duration_s": 17.971
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_02",
+      "chapter": "[COLD OPEN]",
+      "file_path": "production/part1/vo/p1_clip_02.mp3",
+      "duration_s": 18.986,
+      "words": 39,
+      "wpm": 123.2,
+      "segments": [
+        {
+          "line_index": 0,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Their poets blamed a grudge between goddesses. Archaeologists point to something far less romantic. So which one is it? To find out, we start where the Greeks started: with a wedding, and a guest list that went very wrong.",
+          "words": 39,
+          "t_start": 0.12,
+          "t_end": 18.786,
+          "duration_s": 18.666
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_03",
+      "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+      "file_path": "production/part1/vo/p1_clip_03.mp3",
+      "duration_s": 12.707,
+      "words": 28,
+      "wpm": 132.2,
+      "segments": [
+        {
+          "line_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "The groom was a mortal king named Peleus. The bride was Thetis, a sea goddess so lovely that Zeus himself had wanted her, until he heard a prophecy.",
+          "words": 28,
+          "t_start": 0.323,
+          "t_end": 12.169,
+          "duration_s": 11.846
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_04",
+      "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+      "file_path": "production/part1/vo/p1_clip_04.mp3",
+      "duration_s": 14.657,
+      "words": 32,
+      "wpm": 131.0,
+      "segments": [
+        {
+          "line_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Her son, it said, would grow up greater than his father. Suddenly no god wanted anything to do with her. Marry her to a mortal, they decided, and the problem goes away.",
+          "words": 32,
+          "t_start": 0.167,
+          "t_end": 14.378,
+          "duration_s": 14.211
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_05",
+      "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+      "file_path": "production/part1/vo/p1_clip_05.mp3",
+      "duration_s": 19.278,
+      "words": 42,
+      "wpm": 130.7,
+      "segments": [
+        {
+          "line_index": 2,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "So Olympus came to the wedding. Music, wine, mountains of food. And one missing guest. Eris, the goddess of strife, had not been invited.",
+          "words": 24,
+          "t_start": 0.16,
+          "t_end": 9.772,
+          "duration_s": 9.612
+        },
+        {
+          "line_index": 3,
+          "speaker": "MASCOT",
+          "voice_id": "voice-01",
+          "text": "Spoiler. Terrible idea.",
+          "words": 3,
+          "t_start": 10.039,
+          "t_end": 12.13,
+          "duration_s": 2.091
+        },
+        {
+          "line_index": 4,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "She showed up anyway.",
+          "words": 4,
+          "t_start": 12.397,
+          "t_end": 13.884,
+          "duration_s": 1.487
+        },
+        {
+          "line_index": 5,
+          "speaker": "ERIS",
+          "voice_id": "voice-04",
+          "text": "Don't mind me. I only came to drop off a gift.",
+          "words": 11,
+          "t_start": 14.151,
+          "t_end": 19.011,
+          "duration_s": 4.86
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_06",
+      "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+      "file_path": "production/part1/vo/p1_clip_06.mp3",
+      "duration_s": 18.319,
+      "words": 40,
+      "wpm": 131.0,
+      "segments": [
+        {
+          "line_index": 6,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "She rolled a golden apple across the floor. Scratched into it were the words: for the most beautiful.",
+          "words": 18,
+          "t_start": 0.213,
+          "t_end": 8.452,
+          "duration_s": 8.239
+        },
+        {
+          "line_index": 7,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Three goddesses reached for it at once.",
+          "words": 7,
+          "t_start": 8.807,
+          "t_end": 10.786,
+          "duration_s": 1.978
+        },
+        {
+          "line_index": 8,
+          "speaker": "HERA",
+          "voice_id": "voice-04",
+          "text": "Obviously it's mine. I'm the queen of heaven.",
+          "words": 8,
+          "t_start": 11.141,
+          "t_end": 14.658,
+          "duration_s": 3.517
+        },
+        {
+          "line_index": 9,
+          "speaker": "ATHENA",
+          "voice_id": "voice-04",
+          "text": "Beauty fades. Wisdom doesn't. Hand it over.",
+          "words": 7,
+          "t_start": 15.013,
+          "t_end": 17.964,
+          "duration_s": 2.951
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_07",
+      "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+      "file_path": "production/part1/vo/p1_clip_07.mp3",
+      "duration_s": 14.639,
+      "words": 32,
+      "wpm": 131.2,
+      "segments": [
+        {
+          "line_index": 10,
+          "speaker": "APHRODITE",
+          "voice_id": "voice-04",
+          "text": "Please. I'm the goddess of beauty. It practically has my name on it.",
+          "words": 13,
+          "t_start": 0.196,
+          "t_end": 5.957,
+          "duration_s": 5.761
+        },
+        {
+          "line_index": 11,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "They turned to Zeus, and Zeus, who had not stayed king by being foolish, wanted no part of it.",
+          "words": 19,
+          "t_start": 6.283,
+          "t_end": 14.313,
+          "duration_s": 8.03
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_08",
+      "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+      "file_path": "production/part1/vo/p1_clip_08.mp3",
+      "duration_s": 16.44,
+      "words": 36,
+      "wpm": 131.4,
+      "segments": [
+        {
+          "line_index": 12,
+          "speaker": "ZEUS",
+          "voice_id": "voice-03",
+          "text": "Pick one of you, and I make two enemies. Not a chance. Find a mortal.",
+          "words": 15,
+          "t_start": 0.264,
+          "t_end": 6.002,
+          "duration_s": 5.738
+        },
+        {
+          "line_index": 13,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Far away on Mount Ida, a young shepherd named Paris was minding his flock. He was secretly a prince of Troy.",
+          "words": 21,
+          "t_start": 6.441,
+          "t_end": 16.001,
+          "duration_s": 9.56
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_09",
+      "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+      "file_path": "production/part1/vo/p1_clip_09.mp3",
+      "duration_s": 18.795,
+      "words": 41,
+      "wpm": 130.9,
+      "segments": [
+        {
+          "line_index": 13,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "At his birth, his mother had dreamed her baby would set the city on fire, so the king ordered him left on a mountainside. Troy had tried to avoid its own destruction, and ended up raising its destroyer in a hut.",
+          "words": 41,
+          "t_start": 0.192,
+          "t_end": 18.474,
+          "duration_s": 18.282
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_10",
+      "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+      "file_path": "production/part1/vo/p1_clip_10.mp3",
+      "duration_s": 19.258,
+      "words": 42,
+      "wpm": 130.9,
+      "segments": [
+        {
+          "line_index": 14,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Each goddess came to him alone, with an offer.",
+          "words": 9,
+          "t_start": 0.189,
+          "t_end": 3.946,
+          "duration_s": 3.757
+        },
+        {
+          "line_index": 15,
+          "speaker": "HERA",
+          "voice_id": "voice-04",
+          "text": "Choose me, and you rule every kingdom between here and the sunrise.",
+          "words": 12,
+          "t_start": 4.261,
+          "t_end": 9.409,
+          "duration_s": 5.147
+        },
+        {
+          "line_index": 16,
+          "speaker": "ATHENA",
+          "voice_id": "voice-04",
+          "text": "Choose me, and no one will ever beat you in battle.",
+          "words": 11,
+          "t_start": 9.724,
+          "t_end": 14.385,
+          "duration_s": 4.661
+        },
+        {
+          "line_index": 17,
+          "speaker": "APHRODITE",
+          "voice_id": "voice-04",
+          "text": "Choose me, and the most beautiful woman alive is yours.",
+          "words": 10,
+          "t_start": 14.7,
+          "t_end": 18.943,
+          "duration_s": 4.243
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_11",
+      "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+      "file_path": "production/part1/vo/p1_clip_11.mp3",
+      "duration_s": 10.666,
+      "words": 21,
+      "wpm": 118.1,
+      "segments": [
+        {
+          "line_index": 18,
+          "speaker": "PARIS",
+          "voice_id": "voice-02",
+          "text": "Sorry, Hera. Sorry, Athena.",
+          "words": 4,
+          "t_start": 0.12,
+          "t_end": 2.808,
+          "duration_s": 2.688
+        },
+        {
+          "line_index": 19,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Aphrodite got the apple. The most beautiful woman alive was named Helen. And Helen was already married.",
+          "words": 17,
+          "t_start": 3.008,
+          "t_end": 10.466,
+          "duration_s": 7.458
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_12",
+      "chapter": "[CHAPTER 2: THE OATH]",
+      "file_path": "production/part1/vo/p1_clip_12.mp3",
+      "duration_s": 17.188,
+      "words": 38,
+      "wpm": 132.7,
+      "segments": [
+        {
+          "line_index": 20,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Helen was the daughter of Tyndareus, king of Sparta, and when she came of age, nearly every important man in Greece arrived to ask for her hand. Tyndareus panicked.",
+          "words": 29,
+          "t_start": 0.33,
+          "t_end": 12.321,
+          "duration_s": 11.991
+        },
+        {
+          "line_index": 21,
+          "speaker": "TYNDAREUS",
+          "voice_id": "voice-03",
+          "text": "Whoever I choose, the rest will tear Greece apart.",
+          "words": 9,
+          "t_start": 12.871,
+          "t_end": 16.638,
+          "duration_s": 3.767
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_13",
+      "chapter": "[CHAPTER 2: THE OATH]",
+      "file_path": "production/part1/vo/p1_clip_13.mp3",
+      "duration_s": 16.252,
+      "words": 35,
+      "wpm": 129.2,
+      "segments": [
+        {
+          "line_index": 22,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "The man who solved it was Odysseus, who had no real chance at Helen himself.",
+          "words": 15,
+          "t_start": 0.12,
+          "t_end": 6.612,
+          "duration_s": 6.492
+        },
+        {
+          "line_index": 23,
+          "speaker": "ODYSSEUS",
+          "voice_id": "voice-02",
+          "text": "Then make them swear first. Whoever wins, every other suitor defends his marriage. And in return, help me win Penelope.",
+          "words": 20,
+          "t_start": 6.812,
+          "t_end": 16.052,
+          "duration_s": 9.24
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_14",
+      "chapter": "[CHAPTER 2: THE OATH]",
+      "file_path": "production/part1/vo/p1_clip_14.mp3",
+      "duration_s": 17.439,
+      "words": 38,
+      "wpm": 130.7,
+      "segments": [
+        {
+          "line_index": 24,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Tyndareus sacrificed a horse, and the suitors swore standing over its remains.",
+          "words": 12,
+          "t_start": 0.148,
+          "t_end": 5.604,
+          "duration_s": 5.456
+        },
+        {
+          "line_index": 25,
+          "speaker": "MASCOT",
+          "voice_id": "voice-01",
+          "text": "Keep that horse in mind.",
+          "words": 5,
+          "t_start": 5.852,
+          "t_end": 7.729,
+          "duration_s": 1.877
+        },
+        {
+          "line_index": 26,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Helen chose Menelaus, a king with a famous brother. That brother was Agamemnon of Mycenae, the most powerful ruler in Greece.",
+          "words": 21,
+          "t_start": 7.976,
+          "t_end": 17.192,
+          "duration_s": 9.216
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_15",
+      "chapter": "[CHAPTER 2: THE OATH]",
+      "file_path": "production/part1/vo/p1_clip_15.mp3",
+      "duration_s": 14.165,
+      "words": 31,
+      "wpm": 131.3,
+      "segments": [
+        {
+          "line_index": 27,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Years later, Paris arrived in Sparta as a guest. Menelaus was called away to Crete, and when he came home, his wife and a good part of his treasure were gone.",
+          "words": 31,
+          "t_start": 0.212,
+          "t_end": 13.811,
+          "duration_s": 13.599
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_16",
+      "chapter": "[CHAPTER 2: THE OATH]",
+      "file_path": "production/part1/vo/p1_clip_16.mp3",
+      "duration_s": 16.222,
+      "words": 38,
+      "wpm": 140.5,
+      "segments": [
+        {
+          "line_index": 27,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Did Helen leave willingly, or was she taken? The Greeks never agreed. In Homer, Helen blames herself bitterly for the rest of her life.",
+          "words": 24,
+          "t_start": 0.33,
+          "t_end": 9.774,
+          "duration_s": 9.444
+        },
+        {
+          "line_index": 28,
+          "speaker": "MENELAUS",
+          "voice_id": "voice-03",
+          "text": "He sat at my table. He ate my food. And he took my wife.",
+          "words": 14,
+          "t_start": 10.324,
+          "t_end": 15.672,
+          "duration_s": 5.348
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_17",
+      "chapter": "[CHAPTER 2: THE OATH]",
+      "file_path": "production/part1/vo/p1_clip_17.mp3",
+      "duration_s": 11.324,
+      "words": 25,
+      "wpm": 132.5,
+      "segments": [
+        {
+          "line_index": 29,
+          "speaker": "AGAMEMNON",
+          "voice_id": "voice-03",
+          "text": "Then we call in the oath. Every king who ever courted Helen sails with us.",
+          "words": 15,
+          "t_start": 0.321,
+          "t_end": 6.805,
+          "duration_s": 6.484
+        },
+        {
+          "line_index": 30,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Except that some of them did not want to go.",
+          "words": 10,
+          "t_start": 7.34,
+          "t_end": 10.789,
+          "duration_s": 3.45
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_18",
+      "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+      "file_path": "production/part1/vo/p1_clip_18.mp3",
+      "duration_s": 18.8,
+      "words": 41,
+      "wpm": 130.9,
+      "segments": [
+        {
+          "line_index": 31,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Odysseus, king of Ithaca, had a new baby and a happy home. When the recruiters arrived, he pretended to be out of his mind. He yoked a donkey and an ox to a plow and began sowing the beach with salt.",
+          "words": 41,
+          "t_start": 0.184,
+          "t_end": 18.493,
+          "duration_s": 18.309
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_19",
+      "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+      "file_path": "production/part1/vo/p1_clip_19.mp3",
+      "duration_s": 17.526,
+      "words": 33,
+      "wpm": 113.0,
+      "segments": [
+        {
+          "line_index": 32,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "A man named Palamedes saw through it. He laid Odysseus's infant son in front of the plow.",
+          "words": 17,
+          "t_start": 0.12,
+          "t_end": 8.153,
+          "duration_s": 8.034
+        },
+        {
+          "line_index": 33,
+          "speaker": "PALAMEDES",
+          "voice_id": "voice-03",
+          "text": "Keep plowing, my king. Straight ahead.",
+          "words": 6,
+          "t_start": 8.353,
+          "t_end": 10.727,
+          "duration_s": 2.373
+        },
+        {
+          "line_index": 34,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Odysseus swerved.",
+          "words": 2,
+          "t_start": 10.927,
+          "t_end": 12.538,
+          "duration_s": 1.611
+        },
+        {
+          "line_index": 35,
+          "speaker": "ODYSSEUS",
+          "voice_id": "voice-02",
+          "text": "All right. You made your point. I'll go.",
+          "words": 8,
+          "t_start": 12.738,
+          "t_end": 17.326,
+          "duration_s": 4.588
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_20",
+      "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+      "file_path": "production/part1/vo/p1_clip_20.mp3",
+      "duration_s": 10.987,
+      "words": 24,
+      "wpm": 131.1,
+      "segments": [
+        {
+          "line_index": 36,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "He never forgave Palamedes, which, as we will see, ended badly for Palamedes.",
+          "words": 13,
+          "t_start": 0.136,
+          "t_end": 5.709,
+          "duration_s": 5.573
+        },
+        {
+          "line_index": 37,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "The Greeks also needed Achilles, the best warrior of his generation.",
+          "words": 11,
+          "t_start": 5.936,
+          "t_end": 10.76,
+          "duration_s": 4.825
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_21",
+      "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+      "file_path": "production/part1/vo/p1_clip_21.mp3",
+      "duration_s": 15.965,
+      "words": 37,
+      "wpm": 139.1,
+      "segments": [
+        {
+          "line_index": 37,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "His mother Thetis knew he was fated to die at Troy, so she hid him among the daughters of a king on the island of Skyros, where he fell in love and fathered a son named Neoptolemus.",
+          "words": 37,
+          "t_start": 0.33,
+          "t_end": 15.415,
+          "duration_s": 15.085
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_22",
+      "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+      "file_path": "production/part1/vo/p1_clip_22.mp3",
+      "duration_s": 15.555,
+      "words": 34,
+      "wpm": 131.1,
+      "segments": [
+        {
+          "line_index": 38,
+          "speaker": "THETIS",
+          "voice_id": "voice-04",
+          "text": "Stay hidden, my son. If you go to Troy, you will not come home.",
+          "words": 14,
+          "t_start": 0.206,
+          "t_end": 6.09,
+          "duration_s": 5.884
+        },
+        {
+          "line_index": 39,
+          "speaker": "ACHILLES",
+          "voice_id": "voice-02",
+          "text": "A long life that nobody remembers, or a short one that nobody forgets. It's not much of a choice, Mother.",
+          "words": 20,
+          "t_start": 6.433,
+          "t_end": 15.211,
+          "duration_s": 8.777
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_23",
+      "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+      "file_path": "production/part1/vo/p1_clip_23.mp3",
+      "duration_s": 17.89,
+      "words": 39,
+      "wpm": 130.8,
+      "segments": [
+        {
+          "line_index": 40,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "The fleet gathered at a harbor called Aulis, and then it sat there. No wind. Day after day, the sails hung limp.",
+          "words": 22,
+          "t_start": 0.166,
+          "t_end": 9.869,
+          "duration_s": 9.703
+        },
+        {
+          "line_index": 41,
+          "speaker": "CALCHAS",
+          "voice_id": "voice-03",
+          "text": "Artemis is angry. The wind returns when your daughter Iphigenia is sacrificed.",
+          "words": 12,
+          "t_start": 10.146,
+          "t_end": 15.301,
+          "duration_s": 5.155
+        },
+        {
+          "line_index": 42,
+          "speaker": "AGAMEMNON",
+          "voice_id": "voice-03",
+          "text": "Not her. Anyone but her.",
+          "words": 5,
+          "t_start": 15.577,
+          "t_end": 17.614,
+          "duration_s": 2.036
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_24",
+      "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+      "file_path": "production/part1/vo/p1_clip_24.mp3",
+      "duration_s": 14.161,
+      "words": 31,
+      "wpm": 131.3,
+      "segments": [
+        {
+          "line_index": 43,
+          "speaker": "CALCHAS",
+          "voice_id": "voice-03",
+          "text": "Then the ships stay where they are.",
+          "words": 7,
+          "t_start": 0.22,
+          "t_end": 2.517,
+          "duration_s": 2.297
+        },
+        {
+          "line_index": 44,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Agamemnon sent word that Iphigenia should come to the camp, to marry Achilles. She arrived in her wedding dress.",
+          "words": 19,
+          "t_start": 2.884,
+          "t_end": 10.901,
+          "duration_s": 8.017
+        },
+        {
+          "line_index": 45,
+          "speaker": "IPHIGENIA",
+          "voice_id": "voice-04",
+          "text": "Father? Where is the groom?",
+          "words": 5,
+          "t_start": 11.268,
+          "t_end": 13.794,
+          "duration_s": 2.525
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_25",
+      "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+      "file_path": "production/part1/vo/p1_clip_25.mp3",
+      "duration_s": 20.564,
+      "words": 45,
+      "wpm": 131.3,
+      "segments": [
+        {
+          "line_index": 46,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "What happened next depends on who is telling it. In some versions she was killed. In others, Artemis swapped her for a deer at the last second and carried her away.",
+          "words": 31,
+          "t_start": 0.308,
+          "t_end": 14.067,
+          "duration_s": 13.759
+        },
+        {
+          "line_index": 47,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "The wind rose. The fleet sailed. And Clytemnestra, back in Mycenae, began to wait.",
+          "words": 14,
+          "t_start": 14.58,
+          "t_end": 20.051,
+          "duration_s": 5.471
+        }
+      ]
+    }
+  ],
+  "total_duration_s": 406.63,
+  "total_minutes": 6.78,
+  "total_words": 885,
+  "average_wpm": 130.6
+}

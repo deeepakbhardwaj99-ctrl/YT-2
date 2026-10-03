@@ -1,0 +1,34 @@
+{
+  "voices": {
+    "voice-00": {
+      "role": "Narrator",
+      "speakers": ["NARRATOR"]
+    },
+    "voice-01": {
+      "role": "Spartan Skeleton Mascot",
+      "speakers": ["MASCOT"]
+    },
+    "voice-02": {
+      "role": "Heroic / Young Male",
+      "speakers": [
+        "ACHILLES", "HECTOR", "ODYSSEUS", "PARIS", "PATROCLUS",
+        "PROTESILAUS", "PHILOCTETES", "SINON", "NEOPTOLEMUS", "EPEIUS", "TROJAN"
+      ]
+    },
+    "voice-03": {
+      "role": "Regal / Older / Gruff Male",
+      "speakers": [
+        "AGAMEMNON", "MENELAUS", "PRIAM", "ZEUS", "POSEIDON", "TYNDAREUS",
+        "PALAMEDES", "CALCHAS", "CHRYSES", "AJAX", "AJAX THE LESSER",
+        "HELENUS", "LAOCOON", "SCHLIEMANN", "ANOTHER TROJAN", "THIRD TROJAN", "CROWD"
+      ]
+    },
+    "voice-04": {
+      "role": "Female / Goddess",
+      "speakers": [
+        "ERIS", "HERA", "ATHENA", "APHRODITE", "THETIS", "IPHIGENIA",
+        "HELEN", "ANDROMACHE", "OENONE", "CASSANDRA", "CLYTEMNESTRA"
+      ]
+    }
+  }
+}
