@@ -1,6 +1,6 @@
 # Step 3 — Character and Location Asset Manifest
 
-**Status:** Character-sheet batches 01–06 accepted: 17/17 character identities complete; 1/8 first-view location references complete. No scene image may be generated until the complete set is approved.
+**Status:** Character-sheet batches 01–08 accepted: 17/17 character identities complete; 7/8 first-view location references complete. No scene image may be generated until the complete set is approved.
 
 ## Locked hybrid visual bridge
 
@@ -46,9 +46,9 @@ Each approved location receives a wide reference view plus four later approved c
 | 2 | Greek shore camp at Troy | Fleet, ships, Achilles, Greek council | First wide reference accepted — batch 07; 4 continuity angles remaining |
 | 3 | Troy palace and royal court | Hector, Priam, Cassandra, night fall | First wide reference accepted — batch 07; 4 continuity angles remaining |
 | 4 | Mount Olympus and Ida | Apple judgment and divine setup | First wide reference accepted — batch 07; 4 continuity angles remaining |
-| 5 | Sparta palace and harbor | Helen and Paris's departure | Queued |
-| 6 | Aulis harbor | Fleet and Iphigenia | Queued |
-| 7 | Mycenae palace | Clytemnestra and Agamemnon | Queued |
+| 5 | Sparta palace and harbor | Helen and Paris's departure | First wide reference accepted — batch 08; 4 continuity angles remaining |
+| 6 | Aulis harbor | Fleet and Iphigenia | First wide reference accepted — batch 08; 4 continuity angles remaining |
+| 7 | Mycenae palace | Clytemnestra and Agamemnon | First wide reference accepted — batch 08; 4 continuity angles remaining |
 | 8 | Hisarlik archaeological mound | Evidence conclusion | Queued |
 
 ## Required approval gate
