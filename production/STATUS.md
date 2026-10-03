@@ -2,42 +2,32 @@
 
 **Last updated:** 2026-10-03 UTC
 **Branch:** `arena/01a10301-yt-2`
-**Phase:** Step 2 — part structure and timing confirmation pending
-**Production state:** No media generation has started.
+**Phase:** Narrator audition — user selection pending
+**Production state:** No media-generation asset has started.
 
-## Source audit (Step 0)
+## Completed
 
 | Item | Status | Notes |
 |---|---:|---|
-| Production directory | Created | It was absent at audit; no prior assets, scripts, character sheets, scene plans, VO, music, or tooling existed. |
+| Workspace audit | Done | No prior production assets, scripts, character sheets, scene plans, VO, music, or tooling existed. |
 | Master brief | Found | `MASTER_PROMPT_v3 Hybrid Trojan War.md` |
 | Draft script | Preserved | `trojan_war_script_20min_with_dialogue.txt` remains unchanged. |
-| Retention proposal | Approved | All ten proposed spoken retention edits were approved on 2026-10-03. |
-| Final approved script | Created | `production/trojan_war_script_approved.txt` — this is the verbatim VO source from this point forward. |
-| Part structure | Created | `production/part_structure.md` and `production/part_structure.json` |
-| Generated images / rigs / location sheets | 0 | Blocked until the part structure is confirmed. |
-| Voiceover / music / video | 0 | Blocked until the required earlier gates are complete. |
-
-## Script measurement (approved source)
-
-- Spoken text: **3,196 words** (titles, speaker tags, and parenthetical delivery notes excluded).
-- Estimated runtime at the brief's 125–135 wpm: **23:40–25:34**.
-- A four-part split has been drafted around the approved recap-hooks and natural chapter boundaries. See `production/part_structure.md`.
+| Retention proposal | Done | All ten proposed spoken retention edits were approved on 2026-10-03. |
+| Final approved script | Locked | `production/trojan_war_script_approved.txt` is the verbatim VO source. |
+| Part structure | Locked | Four parts; see `production/part_structure.md` and `.json`. |
+| Runtime direction | Locked | 132 wpm average; around 24:13 spoken VO and ~25 minutes assembled. |
+| Creative direction | Locked | HYBRID, 16:9, Calm Story preset; see `production/creative_direction.md`. |
+| Generated images / rigs / location sheets | 0 | Not started. |
+| Voiceover / music / video | 0 | Not started. |
 
 ## Current gate
 
-**Step 2 — confirmation required.** Confirm the four-part table and select a timing direction before Step 3 begins:
+**Narrator audition selection required.** The user asked to review a sample before production continues. The audition seeks a mature, warm, low-to-mid masculine English narrator with credible weight and restrained emotional control.
 
-1. retain the approved script at 125–135 wpm (expected 24–26 minutes);
-2. explicitly allow a faster delivery of roughly 145 wpm (about 22 minutes); or
-3. authorize a separate timing trim pass.
+No artificial pitch shifting is planned: credibility will come from the voice's natural register, controlled pacing, pauses, and audio mix. The selected narrator remains consistent across all four parts.
 
-## Next actions after confirmation
+## Next actions after narrator selection
 
-1. Lock the part table and timing direction.
-2. Produce character, mascot, and HYBRID location sheets for approval before scene production.
-3. Build the scene plan, rig packs, and calibrated anchors only after their required gates.
-
-## Working assumptions (not yet locked)
-
-The title and source material indicate a Trojan War **HYBRID** production with the script's skeleton mascot, but aspect ratio, tone preset, visual palette, and voice casting remain unapproved. They will be proposed at their applicable approval gates; no irreversible asset work has been performed.
+1. Record the chosen narrator voice in the production metadata.
+2. Produce character, mascot, and HYBRID location sheets for user approval (the next required master-brief gate).
+3. Only after those sheets are approved, create the rig packs and calibrate face anchors.

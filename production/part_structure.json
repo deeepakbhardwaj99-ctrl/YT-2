@@ -1,11 +1,9 @@
 {
   "approved_script": "production/trojan_war_script_approved.txt",
   "script_word_count": 3196,
-  "estimated_wpm_range": [125, 135],
-  "estimated_total_duration_seconds": {
-    "at_125_wpm": 1534.08,
-    "at_135_wpm": 1420.44
-  },
+  "locked_average_wpm": 132,
+  "estimated_spoken_vo_duration_seconds": 1452.73,
+  "target_completed_runtime_seconds": 1500,
   "part_count": 4,
   "parts": [
     {
@@ -14,7 +12,7 @@
       "sections": ["COLD OPEN", "CHAPTER 1: THE UNINVITED GUEST", "CHAPTER 2: THE OATH", "CHAPTER 3: THE FLEET AT AULIS"],
       "scene_count": 4,
       "word_count": 914,
-      "estimated_duration_seconds": {"at_125_wpm": 438.72, "at_135_wpm": 406.22},
+      "estimated_vo_duration_seconds": 415.45,
       "closing_line": "The wind rose. The fleet sailed. And Clytemnestra, back in Mycenae, began to wait — while across the sea, a war that was supposed to be quick settled in for ten long years.",
       "tease_card": "NEXT: A WAR THAT WILL NOT END"
     },
@@ -24,7 +22,7 @@
       "sections": ["CHAPTER 4: NINE YEARS OF NOTHING", "CHAPTER 5: THE ARGUMENT", "CHAPTER 6: A DUEL AND A GOODBYE", "CHAPTER 7: ARMOR"],
       "scene_count": 4,
       "word_count": 822,
-      "estimated_duration_seconds": {"at_125_wpm": 394.56, "at_135_wpm": 365.33},
+      "estimated_vo_duration_seconds": 373.64,
       "closing_line": "The spear went through his neck. Achilles tied the body behind his chariot and dragged it around Patroclus's tomb every morning, for twelve days.",
       "tease_card": "NEXT: A KING WALKS INTO HIS ENEMY'S TENT"
     },
@@ -34,7 +32,7 @@
       "sections": ["CHAPTER 8: THE KING IN THE TENT", "CHAPTER 9: THE DEATH OF ACHILLES", "CHAPTER 10: THE HORSE"],
       "scene_count": 3,
       "word_count": 830,
-      "estimated_duration_seconds": {"at_125_wpm": 398.4, "at_135_wpm": 368.89},
+      "estimated_vo_duration_seconds": 377.27,
       "closing_line": "The Trojans pulled the horse inside. They celebrated all night, and then they slept — unaware that the war had finally crossed their own threshold.",
       "tease_card": "NEXT: TROY BURNS"
     },
@@ -44,10 +42,10 @@
       "sections": ["CHAPTER 11: THE NIGHT TROY BURNED", "CHAPTER 12: THE ROAD HOME", "CHAPTER 13: SO WHAT ACTUALLY HAPPENED?"],
       "scene_count": 3,
       "word_count": 630,
-      "estimated_duration_seconds": {"at_125_wpm": 302.4, "at_135_wpm": 280.0},
+      "estimated_vo_duration_seconds": 286.36,
       "closing_line": "In the Greek version, it all began with a guest list. A party, and one goddess nobody thought to invite.",
       "tease_card": "MYTH MEETS EVIDENCE"
     }
   ],
-  "status": "awaiting_part_structure_and_timing_confirmation"
+  "status": "awaiting_narrator_voice_selection"
 }
