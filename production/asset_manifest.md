@@ -1,6 +1,6 @@
 # Step 3 — Character and Location Asset Manifest
 
-**Status:** Character-sheet batches 01–08 accepted: 17/17 character identities complete; 7/8 first-view location references complete. No scene image may be generated until the complete set is approved.
+**Status:** Character-sheet batches 01–09 accepted: 17/17 character identities complete; 8/8 first-view location references complete. Location continuity-angle generation is in progress; no scene image may be generated until the complete set is approved.
 
 ## Locked hybrid visual bridge
 
@@ -42,14 +42,14 @@ Each approved location receives a wide reference view plus four later approved c
 
 | Priority | Location | Continuity purpose | Status |
 |---:|---|---|---|
-| 1 | Troy exterior and Scaean Gate | Siege, duels, horse, burning city | First wide reference accepted — batch 06; 4 continuity angles remaining |
+| 1 | Troy exterior and Scaean Gate | Siege, duels, horse, burning city | Wide reference plus medium and night angles accepted — batches 06/09; 2 continuity angles remaining |
 | 2 | Greek shore camp at Troy | Fleet, ships, Achilles, Greek council | First wide reference accepted — batch 07; 4 continuity angles remaining |
 | 3 | Troy palace and royal court | Hector, Priam, Cassandra, night fall | First wide reference accepted — batch 07; 4 continuity angles remaining |
 | 4 | Mount Olympus and Ida | Apple judgment and divine setup | First wide reference accepted — batch 07; 4 continuity angles remaining |
 | 5 | Sparta palace and harbor | Helen and Paris's departure | First wide reference accepted — batch 08; 4 continuity angles remaining |
 | 6 | Aulis harbor | Fleet and Iphigenia | First wide reference accepted — batch 08; 4 continuity angles remaining |
 | 7 | Mycenae palace | Clytemnestra and Agamemnon | First wide reference accepted — batch 08; 4 continuity angles remaining |
-| 8 | Hisarlik archaeological mound | Evidence conclusion | Queued |
+| 8 | Hisarlik archaeological mound | Evidence conclusion | First wide reference accepted — batch 09; 4 continuity angles remaining |
 
 ## Required approval gate
 
