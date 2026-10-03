@@ -1,6 +1,6 @@
 # Step 1 — Retention Pass Proposal
 
-**Draft source:** `trojan_war_script_20min_with_dialogue.txt`  
+**Draft source:** `trojan_war_script_20min_with_dialogue.txt`
 **Status:** Proposed only — do not treat any wording below as approved VO text.
 
 The draft has a strong chronological spine, concise dialogue, and a compelling final evidence section. The edits below are deliberately limited to the master brief's permitted Step 1 categories: a sharper opening, curiosity gaps, part recap-hooks/cliffhangers, and occasional pattern interrupts. The underlying history, tone, dialogue attribution, and ending are unchanged.
@@ -109,7 +109,7 @@ The draft has a strong chronological spine, concise dialogue, and a compelling f
 > SINON: (quietly, at the horse) "Now."
 
 **After**
-> Ten years of siege had failed. One night of trust would do what an army could not.  
+> Ten years of siege had failed. One night of trust would do what an army could not.
 > SINON: (quietly, at the horse) "Now."
 
 **Why:** A compact recap-hook that launches directly into the fall of Troy.
@@ -141,12 +141,8 @@ These are editing instructions only; they do **not** change the approved spoken 
 
 The current draft is 3,050 spoken words, or an estimated 22.6–24.4 minutes at 125–135 wpm. These retention revisions add approximately 90 spoken words overall. If all are approved verbatim, the final duration must be validated from measured VO and may sit modestly above the filename's 20–22-minute estimate. No cuts are proposed here, because the master brief limits this gate to retention work.
 
-## Approval requested
+## Approval record
 
-Please choose one of the following in your reply:
-
-1. **Approve all** — apply all ten spoken edits and move to Step 2.
-2. **Approve selected items** — name the item numbers to apply.
-3. **Revise** — give replacement wording or direction; the source script will remain untouched until confirmed.
+**Approved all** by the user on 2026-10-03. The original draft remains unchanged; the approved verbatim VO source is `production/trojan_war_script_approved.txt`.
 
 No voice, image, rig, music, or video asset has been generated.
