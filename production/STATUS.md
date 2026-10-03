@@ -15,7 +15,7 @@
 | Creative direction | Locked | HYBRID, 16:9, Calm Story preset; see `production/creative_direction.md`. |
 | Voice cast | 5 / 5 selected | Narrator `voice-00`; mascot `voice-01`; authority/warriors `voice-02`; strategists/younger men `voice-03`; women/divine/prophetic `voice-04`. |
 | Character identity sheets | 17 / 17 accepted | Batches 01–06 accepted; see `production/qc/asset_qc_batch_01.md` through `asset_qc_batch_06.md`. |
-| First-view location references | 1 / 8 accepted | Troy exterior / Scaean Gate accepted; four continuity angles remain. |
+| First-view location references | 4 / 8 accepted | Troy exterior, Greek shore camp, Troy palace, and Mount Olympus/Ida accepted; each needs four continuity angles. |
 | Rig packs and face anchors | 0 | Blocked by complete asset-sheet approval. |
 | VO clips / music / video | 0 | Blocked by the required earlier gates. |
 

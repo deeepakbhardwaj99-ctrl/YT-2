@@ -43,9 +43,9 @@ Each approved location receives a wide reference view plus four later approved c
 | Priority | Location | Continuity purpose | Status |
 |---:|---|---|---|
 | 1 | Troy exterior and Scaean Gate | Siege, duels, horse, burning city | First wide reference accepted — batch 06; 4 continuity angles remaining |
-| 2 | Greek shore camp at Troy | Fleet, ships, Achilles, Greek council | Queued |
-| 3 | Troy palace and royal court | Hector, Priam, Cassandra, night fall | Queued |
-| 4 | Mount Olympus and Ida | Apple judgment and divine setup | Queued |
+| 2 | Greek shore camp at Troy | Fleet, ships, Achilles, Greek council | First wide reference accepted — batch 07; 4 continuity angles remaining |
+| 3 | Troy palace and royal court | Hector, Priam, Cassandra, night fall | First wide reference accepted — batch 07; 4 continuity angles remaining |
+| 4 | Mount Olympus and Ida | Apple judgment and divine setup | First wide reference accepted — batch 07; 4 continuity angles remaining |
 | 5 | Sparta palace and harbor | Helen and Paris's departure | Queued |
 | 6 | Aulis harbor | Fleet and Iphigenia | Queued |
 | 7 | Mycenae palace | Clytemnestra and Agamemnon | Queued |
