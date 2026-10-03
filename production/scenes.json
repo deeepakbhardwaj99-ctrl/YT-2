@@ -1,0 +1,4936 @@
+{
+  "project": "THE TROJAN WAR: THE FULL STORY (Hybrid v3)",
+  "style_mode": "HYBRID",
+  "preset": "A \u2014 LIVELY EXPLAINER",
+  "accent_color": "#9B3A12",
+  "font": "production/fonts/DisplaySerif-Bold.ttf",
+  "part1_clips": [
+    {
+      "clip_id": "p1_clip_01",
+      "chapter": "[COLD OPEN]",
+      "duration_s": 18.851,
+      "is_new_location": true,
+      "place_label": "TROY (HISARLIK) \u2014 1180 BC",
+      "active_characters": [
+        "mascot"
+      ],
+      "dialogue_bubbles": [],
+      "overlay_card": {
+        "headline": "3,200 YEARS AGO",
+        "emphasis": "3,200",
+        "chips": [
+          "WINDY HILL",
+          "BURNED RUINS",
+          "MYTH VS FACT"
+        ],
+        "style": "card"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 3.77,
+          "location": "loc_troy",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_troy_wide.jpg",
+          "image_prompt": "TROY (HISARLIK) \u2014 1180 BC, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "TROY (HISARLIK) \u2014 1180 BC",
+          "emphasis_word": "3,200",
+          "chips": [
+            "WINDY HILL",
+            "BURNED RUINS",
+            "MYTH VS FACT"
+          ],
+          "text_style": "label",
+          "text_position": "bottom-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "mascot",
+          "dim_background": false,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 3.77,
+          "t_end": 7.54,
+          "location": "loc_troy",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_troy_med.jpg",
+          "image_prompt": "TROY (HISARLIK) \u2014 1180 BC, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "mascot"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "3,200 YEARS AGO",
+          "emphasis_word": "3,200",
+          "chips": [
+            "WINDY HILL",
+            "BURNED RUINS",
+            "MYTH VS FACT"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "mascot",
+          "dim_background": false,
+          "sfx": "whoosh"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 7.54,
+          "t_end": 11.31,
+          "location": "loc_troy",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_troy_detail.jpg",
+          "image_prompt": "TROY (HISARLIK) \u2014 1180 BC, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "mascot"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "3,200 YEARS AGO",
+          "emphasis_word": "3,200",
+          "chips": [
+            "WINDY HILL",
+            "BURNED RUINS",
+            "MYTH VS FACT"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "mascot",
+          "dim_background": true,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 11.31,
+          "t_end": 15.08,
+          "location": "loc_troy",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_troy_wide.jpg",
+          "image_prompt": "TROY (HISARLIK) \u2014 1180 BC, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "mascot"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "3,200 YEARS AGO",
+          "emphasis_word": "3,200",
+          "chips": [
+            "WINDY HILL",
+            "BURNED RUINS",
+            "MYTH VS FACT"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "mascot",
+          "dim_background": false,
+          "sfx": "arrow"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 15.08,
+          "t_end": 18.851,
+          "location": "loc_troy",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_troy_night.jpg",
+          "image_prompt": "TROY (HISARLIK) \u2014 1180 BC, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "mascot"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "3,200 YEARS AGO",
+          "emphasis_word": "3,200",
+          "chips": [
+            "WINDY HILL",
+            "BURNED RUINS",
+            "MYTH VS FACT"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "mascot",
+          "dim_background": false,
+          "sfx": "none"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 0,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "About three thousand two hundred years ago, a walled city on a windy hill in what is now Turkey burned to the ground. What came after is a mix of poetry, memory, and shovel work. The Greeks said it fell over one woman.",
+          "words": 43,
+          "t_start": 0.33,
+          "t_end": 18.301,
+          "duration_s": 17.971
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_02",
+      "chapter": "[COLD OPEN]",
+      "duration_s": 18.986,
+      "is_new_location": false,
+      "place_label": "TROY (HISARLIK) \u2014 1180 BC",
+      "active_characters": [
+        "achilles",
+        "hector"
+      ],
+      "dialogue_bubbles": [],
+      "overlay_card": {
+        "headline": "ONE GOLDEN APPLE",
+        "emphasis": "GOLDEN",
+        "chips": [
+          "POETRY",
+          "SHOVEL WORK",
+          "1200 SHIPS"
+        ],
+        "style": "keyword"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 3.797,
+          "location": "loc_troy",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_troy_med.jpg",
+          "image_prompt": "TROY (HISARLIK) \u2014 1180 BC, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "achilles",
+            "hector"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "ONE GOLDEN APPLE",
+          "emphasis_word": "GOLDEN",
+          "chips": [
+            "POETRY",
+            "SHOVEL WORK",
+            "1200 SHIPS"
+          ],
+          "text_style": "keyword",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "achilles",
+          "dim_background": false,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 3.797,
+          "t_end": 7.594,
+          "location": "loc_troy",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_troy_detail.jpg",
+          "image_prompt": "TROY (HISARLIK) \u2014 1180 BC, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "achilles",
+            "hector"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "ONE GOLDEN APPLE",
+          "emphasis_word": "GOLDEN",
+          "chips": [
+            "POETRY",
+            "SHOVEL WORK",
+            "1200 SHIPS"
+          ],
+          "text_style": "keyword",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "achilles",
+          "dim_background": false,
+          "sfx": "whoosh"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 7.594,
+          "t_end": 11.391,
+          "location": "loc_troy",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_troy_wide.jpg",
+          "image_prompt": "TROY (HISARLIK) \u2014 1180 BC, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "achilles",
+            "hector"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "ONE GOLDEN APPLE",
+          "emphasis_word": "GOLDEN",
+          "chips": [
+            "POETRY",
+            "SHOVEL WORK",
+            "1200 SHIPS"
+          ],
+          "text_style": "keyword",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "achilles",
+          "dim_background": true,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 11.391,
+          "t_end": 15.188,
+          "location": "loc_troy",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_troy_night.jpg",
+          "image_prompt": "TROY (HISARLIK) \u2014 1180 BC, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "achilles",
+            "hector"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "ONE GOLDEN APPLE",
+          "emphasis_word": "GOLDEN",
+          "chips": [
+            "POETRY",
+            "SHOVEL WORK",
+            "1200 SHIPS"
+          ],
+          "text_style": "keyword",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "achilles",
+          "dim_background": false,
+          "sfx": "arrow"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 15.188,
+          "t_end": 18.986,
+          "location": "loc_troy",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_troy_wide.jpg",
+          "image_prompt": "TROY (HISARLIK) \u2014 1180 BC, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "achilles",
+            "hector"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "ONE GOLDEN APPLE",
+          "emphasis_word": "GOLDEN",
+          "chips": [
+            "POETRY",
+            "SHOVEL WORK",
+            "1200 SHIPS"
+          ],
+          "text_style": "keyword",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "achilles",
+          "dim_background": false,
+          "sfx": "none"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 0,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Their poets blamed a grudge between goddesses. Archaeologists point to something far less romantic. So which one is it? To find out, we start where the Greeks started: with a wedding, and a guest list that went very wrong.",
+          "words": 39,
+          "t_start": 0.12,
+          "t_end": 18.786,
+          "duration_s": 18.666
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_03",
+      "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+      "duration_s": 12.707,
+      "is_new_location": true,
+      "place_label": "MOUNT OLYMPUS & MOUNT IDA",
+      "active_characters": [
+        "helen"
+      ],
+      "dialogue_bubbles": [],
+      "overlay_card": {
+        "headline": "FOR THE MOST BEAUTIFUL",
+        "emphasis": "BEAUTIFUL",
+        "chips": [
+          "HERA",
+          "ATHENA",
+          "APHRODITE"
+        ],
+        "style": "card"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 2.541,
+          "location": "loc_olympus",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_olympus_wide.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "MOUNT OLYMPUS & MOUNT IDA",
+          "emphasis_word": "BEAUTIFUL",
+          "chips": [
+            "HERA",
+            "ATHENA",
+            "APHRODITE"
+          ],
+          "text_style": "label",
+          "text_position": "bottom-left",
+          "mascot": "none",
+          "arrow_target": "helen",
+          "dim_background": false,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 2.541,
+          "t_end": 5.082,
+          "location": "loc_olympus",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_olympus_wide.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "FOR THE MOST BEAUTIFUL",
+          "emphasis_word": "BEAUTIFUL",
+          "chips": [
+            "HERA",
+            "ATHENA",
+            "APHRODITE"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "helen",
+          "dim_background": false,
+          "sfx": "whoosh"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 5.082,
+          "t_end": 7.623,
+          "location": "loc_olympus",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_olympus_night.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "FOR THE MOST BEAUTIFUL",
+          "emphasis_word": "BEAUTIFUL",
+          "chips": [
+            "HERA",
+            "ATHENA",
+            "APHRODITE"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 7.623,
+          "t_end": 10.164,
+          "location": "loc_olympus",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_olympus_wide.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "FOR THE MOST BEAUTIFUL",
+          "emphasis_word": "BEAUTIFUL",
+          "chips": [
+            "HERA",
+            "ATHENA",
+            "APHRODITE"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "helen",
+          "dim_background": false,
+          "sfx": "arrow"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 10.164,
+          "t_end": 12.707,
+          "location": "loc_olympus",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_olympus_med.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "FOR THE MOST BEAUTIFUL",
+          "emphasis_word": "BEAUTIFUL",
+          "chips": [
+            "HERA",
+            "ATHENA",
+            "APHRODITE"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "helen",
+          "dim_background": false,
+          "sfx": "none"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "The groom was a mortal king named Peleus. The bride was Thetis, a sea goddess so lovely that Zeus himself had wanted her, until he heard a prophecy.",
+          "words": 28,
+          "t_start": 0.323,
+          "t_end": 12.169,
+          "duration_s": 11.846
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_04",
+      "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+      "duration_s": 14.657,
+      "is_new_location": false,
+      "place_label": "MOUNT OLYMPUS & MOUNT IDA",
+      "active_characters": [
+        "mascot",
+        "paris"
+      ],
+      "dialogue_bubbles": [],
+      "overlay_card": {
+        "headline": "JUDGMENT OF PARIS",
+        "emphasis": "PARIS",
+        "chips": [
+          "MOUNT IDA",
+          "SECRET PRINCE",
+          "HELEN"
+        ],
+        "style": "card"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 2.931,
+          "location": "loc_olympus",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_olympus_wide.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "mascot",
+            "paris"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "JUDGMENT OF PARIS",
+          "emphasis_word": "PARIS",
+          "chips": [
+            "MOUNT IDA",
+            "SECRET PRINCE",
+            "HELEN"
+          ],
+          "text_style": "card",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "mascot",
+          "dim_background": false,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 2.931,
+          "t_end": 5.862,
+          "location": "loc_olympus",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_olympus_night.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "mascot",
+            "paris"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "JUDGMENT OF PARIS",
+          "emphasis_word": "PARIS",
+          "chips": [
+            "MOUNT IDA",
+            "SECRET PRINCE",
+            "HELEN"
+          ],
+          "text_style": "card",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "mascot",
+          "dim_background": false,
+          "sfx": "whoosh"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 5.862,
+          "t_end": 8.793,
+          "location": "loc_olympus",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_olympus_wide.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "mascot",
+            "paris"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "JUDGMENT OF PARIS",
+          "emphasis_word": "PARIS",
+          "chips": [
+            "MOUNT IDA",
+            "SECRET PRINCE",
+            "HELEN"
+          ],
+          "text_style": "card",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "mascot",
+          "dim_background": true,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 8.793,
+          "t_end": 11.724,
+          "location": "loc_olympus",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_olympus_med.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "mascot",
+            "paris"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "JUDGMENT OF PARIS",
+          "emphasis_word": "PARIS",
+          "chips": [
+            "MOUNT IDA",
+            "SECRET PRINCE",
+            "HELEN"
+          ],
+          "text_style": "card",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "mascot",
+          "dim_background": false,
+          "sfx": "arrow"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 11.724,
+          "t_end": 14.657,
+          "location": "loc_olympus",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_olympus_detail.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "mascot",
+            "paris"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "JUDGMENT OF PARIS",
+          "emphasis_word": "PARIS",
+          "chips": [
+            "MOUNT IDA",
+            "SECRET PRINCE",
+            "HELEN"
+          ],
+          "text_style": "card",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "mascot",
+          "dim_background": false,
+          "sfx": "none"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Her son, it said, would grow up greater than his father. Suddenly no god wanted anything to do with her. Marry her to a mortal, they decided, and the problem goes away.",
+          "words": 32,
+          "t_start": 0.167,
+          "t_end": 14.378,
+          "duration_s": 14.211
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_05",
+      "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+      "duration_s": 19.278,
+      "is_new_location": false,
+      "place_label": "MOUNT OLYMPUS & MOUNT IDA",
+      "active_characters": [
+        "mascot",
+        "helen"
+      ],
+      "dialogue_bubbles": [
+        {
+          "speaker": "MASCOT",
+          "char": "mascot",
+          "bubble_text": "Spoiler. Terrible idea.",
+          "t_start": 10.039,
+          "t_end": 12.13
+        },
+        {
+          "speaker": "ERIS",
+          "char": "helen",
+          "bubble_text": "Don't mind me. I...",
+          "t_start": 14.151,
+          "t_end": 19.011
+        }
+      ],
+      "overlay_card": {
+        "headline": "WEDDING OF PELEUS & THETIS",
+        "emphasis": "PROPHECY",
+        "chips": [
+          "GREATER SON",
+          "MORTAL GROOM"
+        ],
+        "style": "card"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 3.856,
+          "location": "loc_olympus",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_olympus_night.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "mascot",
+            "helen"
+          ],
+          "speaker": "MASCOT",
+          "bubble_text": "Spoiler. Terrible idea.",
+          "overlay_text": "WEDDING OF PELEUS & THETIS",
+          "emphasis_word": "PROPHECY",
+          "chips": [
+            "GREATER SON",
+            "MORTAL GROOM"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "mascot",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 3.856,
+          "t_end": 7.712,
+          "location": "loc_olympus",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_olympus_wide.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "mascot",
+            "helen"
+          ],
+          "speaker": "MASCOT",
+          "bubble_text": "Spoiler. Terrible idea.",
+          "overlay_text": "WEDDING OF PELEUS & THETIS",
+          "emphasis_word": "PROPHECY",
+          "chips": [
+            "GREATER SON",
+            "MORTAL GROOM"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "mascot",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 7.712,
+          "t_end": 11.568,
+          "location": "loc_olympus",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_olympus_med.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "mascot",
+            "helen"
+          ],
+          "speaker": "MASCOT",
+          "bubble_text": "Spoiler. Terrible idea.",
+          "overlay_text": "WEDDING OF PELEUS & THETIS",
+          "emphasis_word": "PROPHECY",
+          "chips": [
+            "GREATER SON",
+            "MORTAL GROOM"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "mascot",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 11.568,
+          "t_end": 15.424,
+          "location": "loc_olympus",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_olympus_detail.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "mascot",
+            "helen"
+          ],
+          "speaker": "MASCOT",
+          "bubble_text": "Spoiler. Terrible idea.",
+          "overlay_text": "WEDDING OF PELEUS & THETIS",
+          "emphasis_word": "PROPHECY",
+          "chips": [
+            "GREATER SON",
+            "MORTAL GROOM"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "mascot",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 15.424,
+          "t_end": 19.278,
+          "location": "loc_olympus",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_olympus_wide.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "mascot",
+            "helen"
+          ],
+          "speaker": "MASCOT",
+          "bubble_text": "Spoiler. Terrible idea.",
+          "overlay_text": "WEDDING OF PELEUS & THETIS",
+          "emphasis_word": "PROPHECY",
+          "chips": [
+            "GREATER SON",
+            "MORTAL GROOM"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "mascot",
+          "dim_background": true,
+          "sfx": "pop"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 2,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "So Olympus came to the wedding. Music, wine, mountains of food. And one missing guest. Eris, the goddess of strife, had not been invited.",
+          "words": 24,
+          "t_start": 0.16,
+          "t_end": 9.772,
+          "duration_s": 9.612
+        },
+        {
+          "line_index": 3,
+          "speaker": "MASCOT",
+          "voice_id": "voice-01",
+          "text": "Spoiler. Terrible idea.",
+          "words": 3,
+          "t_start": 10.039,
+          "t_end": 12.13,
+          "duration_s": 2.091
+        },
+        {
+          "line_index": 4,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "She showed up anyway.",
+          "words": 4,
+          "t_start": 12.397,
+          "t_end": 13.884,
+          "duration_s": 1.487
+        },
+        {
+          "line_index": 5,
+          "speaker": "ERIS",
+          "voice_id": "voice-04",
+          "text": "Don't mind me. I only came to drop off a gift.",
+          "words": 11,
+          "t_start": 14.151,
+          "t_end": 19.011,
+          "duration_s": 4.86
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_06",
+      "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+      "duration_s": 18.319,
+      "is_new_location": false,
+      "place_label": "MOUNT OLYMPUS & MOUNT IDA",
+      "active_characters": [
+        "helen"
+      ],
+      "dialogue_bubbles": [
+        {
+          "speaker": "HERA",
+          "char": "helen",
+          "bubble_text": "Obviously it's mine. I'm...",
+          "t_start": 11.141,
+          "t_end": 14.658
+        },
+        {
+          "speaker": "ATHENA",
+          "char": "helen",
+          "bubble_text": "Beauty fades. Wisdom doesn't....",
+          "t_start": 15.013,
+          "t_end": 17.964
+        }
+      ],
+      "overlay_card": {
+        "headline": "ERIS: UNINVITED GUEST",
+        "emphasis": "UNINVITED",
+        "chips": [
+          "GODDESS OF STRIFE",
+          "GOLDEN APPLE"
+        ],
+        "style": "keyword"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 3.664,
+          "location": "loc_olympus",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_olympus_wide.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "HERA",
+          "bubble_text": "Obviously it's mine. I'm...",
+          "overlay_text": "ERIS: UNINVITED GUEST",
+          "emphasis_word": "UNINVITED",
+          "chips": [
+            "GODDESS OF STRIFE",
+            "GOLDEN APPLE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 3.664,
+          "t_end": 7.328,
+          "location": "loc_olympus",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_olympus_med.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "HERA",
+          "bubble_text": "Obviously it's mine. I'm...",
+          "overlay_text": "ERIS: UNINVITED GUEST",
+          "emphasis_word": "UNINVITED",
+          "chips": [
+            "GODDESS OF STRIFE",
+            "GOLDEN APPLE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 7.328,
+          "t_end": 10.992,
+          "location": "loc_olympus",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_olympus_detail.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "HERA",
+          "bubble_text": "Obviously it's mine. I'm...",
+          "overlay_text": "ERIS: UNINVITED GUEST",
+          "emphasis_word": "UNINVITED",
+          "chips": [
+            "GODDESS OF STRIFE",
+            "GOLDEN APPLE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 10.992,
+          "t_end": 14.656,
+          "location": "loc_olympus",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_olympus_wide.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "HERA",
+          "bubble_text": "Obviously it's mine. I'm...",
+          "overlay_text": "ERIS: UNINVITED GUEST",
+          "emphasis_word": "UNINVITED",
+          "chips": [
+            "GODDESS OF STRIFE",
+            "GOLDEN APPLE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 14.656,
+          "t_end": 18.319,
+          "location": "loc_olympus",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_olympus_night.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "HERA",
+          "bubble_text": "Obviously it's mine. I'm...",
+          "overlay_text": "ERIS: UNINVITED GUEST",
+          "emphasis_word": "UNINVITED",
+          "chips": [
+            "GODDESS OF STRIFE",
+            "GOLDEN APPLE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 6,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "She rolled a golden apple across the floor. Scratched into it were the words: for the most beautiful.",
+          "words": 18,
+          "t_start": 0.213,
+          "t_end": 8.452,
+          "duration_s": 8.239
+        },
+        {
+          "line_index": 7,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Three goddesses reached for it at once.",
+          "words": 7,
+          "t_start": 8.807,
+          "t_end": 10.786,
+          "duration_s": 1.978
+        },
+        {
+          "line_index": 8,
+          "speaker": "HERA",
+          "voice_id": "voice-04",
+          "text": "Obviously it's mine. I'm the queen of heaven.",
+          "words": 8,
+          "t_start": 11.141,
+          "t_end": 14.658,
+          "duration_s": 3.517
+        },
+        {
+          "line_index": 9,
+          "speaker": "ATHENA",
+          "voice_id": "voice-04",
+          "text": "Beauty fades. Wisdom doesn't. Hand it over.",
+          "words": 7,
+          "t_start": 15.013,
+          "t_end": 17.964,
+          "duration_s": 2.951
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_07",
+      "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+      "duration_s": 14.639,
+      "is_new_location": false,
+      "place_label": "MOUNT OLYMPUS & MOUNT IDA",
+      "active_characters": [
+        "helen"
+      ],
+      "dialogue_bubbles": [
+        {
+          "speaker": "APHRODITE",
+          "char": "helen",
+          "bubble_text": "Please. I'm the goddess...",
+          "t_start": 0.196,
+          "t_end": 5.957
+        }
+      ],
+      "overlay_card": {
+        "headline": "FOR THE MOST BEAUTIFUL",
+        "emphasis": "BEAUTIFUL",
+        "chips": [
+          "HERA",
+          "ATHENA",
+          "APHRODITE"
+        ],
+        "style": "card"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 2.928,
+          "location": "loc_olympus",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_olympus_med.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "APHRODITE",
+          "bubble_text": "Please. I'm the goddess...",
+          "overlay_text": "FOR THE MOST BEAUTIFUL",
+          "emphasis_word": "BEAUTIFUL",
+          "chips": [
+            "HERA",
+            "ATHENA",
+            "APHRODITE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 2.928,
+          "t_end": 5.856,
+          "location": "loc_olympus",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_olympus_detail.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "APHRODITE",
+          "bubble_text": "Please. I'm the goddess...",
+          "overlay_text": "FOR THE MOST BEAUTIFUL",
+          "emphasis_word": "BEAUTIFUL",
+          "chips": [
+            "HERA",
+            "ATHENA",
+            "APHRODITE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 5.856,
+          "t_end": 8.784,
+          "location": "loc_olympus",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_olympus_wide.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "APHRODITE",
+          "bubble_text": "Please. I'm the goddess...",
+          "overlay_text": "FOR THE MOST BEAUTIFUL",
+          "emphasis_word": "BEAUTIFUL",
+          "chips": [
+            "HERA",
+            "ATHENA",
+            "APHRODITE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 8.784,
+          "t_end": 11.712,
+          "location": "loc_olympus",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_olympus_night.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "APHRODITE",
+          "bubble_text": "Please. I'm the goddess...",
+          "overlay_text": "FOR THE MOST BEAUTIFUL",
+          "emphasis_word": "BEAUTIFUL",
+          "chips": [
+            "HERA",
+            "ATHENA",
+            "APHRODITE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 11.712,
+          "t_end": 14.639,
+          "location": "loc_olympus",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_olympus_wide.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "APHRODITE",
+          "bubble_text": "Please. I'm the goddess...",
+          "overlay_text": "FOR THE MOST BEAUTIFUL",
+          "emphasis_word": "BEAUTIFUL",
+          "chips": [
+            "HERA",
+            "ATHENA",
+            "APHRODITE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 10,
+          "speaker": "APHRODITE",
+          "voice_id": "voice-04",
+          "text": "Please. I'm the goddess of beauty. It practically has my name on it.",
+          "words": 13,
+          "t_start": 0.196,
+          "t_end": 5.957,
+          "duration_s": 5.761
+        },
+        {
+          "line_index": 11,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "They turned to Zeus, and Zeus, who had not stayed king by being foolish, wanted no part of it.",
+          "words": 19,
+          "t_start": 6.283,
+          "t_end": 14.313,
+          "duration_s": 8.03
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_08",
+      "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+      "duration_s": 16.44,
+      "is_new_location": false,
+      "place_label": "MOUNT OLYMPUS & MOUNT IDA",
+      "active_characters": [
+        "agamemnon"
+      ],
+      "dialogue_bubbles": [
+        {
+          "speaker": "ZEUS",
+          "char": "agamemnon",
+          "bubble_text": "Pick one of you,...",
+          "t_start": 0.264,
+          "t_end": 6.002
+        }
+      ],
+      "overlay_card": {
+        "headline": "JUDGMENT OF PARIS",
+        "emphasis": "PARIS",
+        "chips": [
+          "MOUNT IDA",
+          "SECRET PRINCE",
+          "HELEN"
+        ],
+        "style": "card"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 3.288,
+          "location": "loc_olympus",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_olympus_detail.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "agamemnon"
+          ],
+          "speaker": "ZEUS",
+          "bubble_text": "Pick one of you,...",
+          "overlay_text": "JUDGMENT OF PARIS",
+          "emphasis_word": "PARIS",
+          "chips": [
+            "MOUNT IDA",
+            "SECRET PRINCE",
+            "HELEN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 3.288,
+          "t_end": 6.576,
+          "location": "loc_olympus",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_olympus_wide.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "agamemnon"
+          ],
+          "speaker": "ZEUS",
+          "bubble_text": "Pick one of you,...",
+          "overlay_text": "JUDGMENT OF PARIS",
+          "emphasis_word": "PARIS",
+          "chips": [
+            "MOUNT IDA",
+            "SECRET PRINCE",
+            "HELEN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 6.576,
+          "t_end": 9.864,
+          "location": "loc_olympus",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_olympus_night.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "agamemnon"
+          ],
+          "speaker": "ZEUS",
+          "bubble_text": "Pick one of you,...",
+          "overlay_text": "JUDGMENT OF PARIS",
+          "emphasis_word": "PARIS",
+          "chips": [
+            "MOUNT IDA",
+            "SECRET PRINCE",
+            "HELEN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 9.864,
+          "t_end": 13.152,
+          "location": "loc_olympus",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_olympus_wide.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "agamemnon"
+          ],
+          "speaker": "ZEUS",
+          "bubble_text": "Pick one of you,...",
+          "overlay_text": "JUDGMENT OF PARIS",
+          "emphasis_word": "PARIS",
+          "chips": [
+            "MOUNT IDA",
+            "SECRET PRINCE",
+            "HELEN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 13.152,
+          "t_end": 16.44,
+          "location": "loc_olympus",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_olympus_med.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "agamemnon"
+          ],
+          "speaker": "ZEUS",
+          "bubble_text": "Pick one of you,...",
+          "overlay_text": "JUDGMENT OF PARIS",
+          "emphasis_word": "PARIS",
+          "chips": [
+            "MOUNT IDA",
+            "SECRET PRINCE",
+            "HELEN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": true,
+          "sfx": "pop"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 12,
+          "speaker": "ZEUS",
+          "voice_id": "voice-03",
+          "text": "Pick one of you, and I make two enemies. Not a chance. Find a mortal.",
+          "words": 15,
+          "t_start": 0.264,
+          "t_end": 6.002,
+          "duration_s": 5.738
+        },
+        {
+          "line_index": 13,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Far away on Mount Ida, a young shepherd named Paris was minding his flock. He was secretly a prince of Troy.",
+          "words": 21,
+          "t_start": 6.441,
+          "t_end": 16.001,
+          "duration_s": 9.56
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_09",
+      "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+      "duration_s": 18.795,
+      "is_new_location": false,
+      "place_label": "MOUNT OLYMPUS & MOUNT IDA",
+      "active_characters": [
+        "helen"
+      ],
+      "dialogue_bubbles": [],
+      "overlay_card": {
+        "headline": "WEDDING OF PELEUS & THETIS",
+        "emphasis": "PROPHECY",
+        "chips": [
+          "GREATER SON",
+          "MORTAL GROOM"
+        ],
+        "style": "card"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 3.759,
+          "location": "loc_olympus",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_olympus_wide.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "WEDDING OF PELEUS & THETIS",
+          "emphasis_word": "PROPHECY",
+          "chips": [
+            "GREATER SON",
+            "MORTAL GROOM"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "helen",
+          "dim_background": false,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 3.759,
+          "t_end": 7.518,
+          "location": "loc_olympus",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_olympus_night.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "WEDDING OF PELEUS & THETIS",
+          "emphasis_word": "PROPHECY",
+          "chips": [
+            "GREATER SON",
+            "MORTAL GROOM"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "helen",
+          "dim_background": false,
+          "sfx": "whoosh"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 7.518,
+          "t_end": 11.277,
+          "location": "loc_olympus",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_olympus_wide.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "WEDDING OF PELEUS & THETIS",
+          "emphasis_word": "PROPHECY",
+          "chips": [
+            "GREATER SON",
+            "MORTAL GROOM"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 11.277,
+          "t_end": 15.036,
+          "location": "loc_olympus",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_olympus_med.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "WEDDING OF PELEUS & THETIS",
+          "emphasis_word": "PROPHECY",
+          "chips": [
+            "GREATER SON",
+            "MORTAL GROOM"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "helen",
+          "dim_background": false,
+          "sfx": "arrow"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 15.036,
+          "t_end": 18.795,
+          "location": "loc_olympus",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_olympus_detail.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "WEDDING OF PELEUS & THETIS",
+          "emphasis_word": "PROPHECY",
+          "chips": [
+            "GREATER SON",
+            "MORTAL GROOM"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "helen",
+          "dim_background": false,
+          "sfx": "none"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 13,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "At his birth, his mother had dreamed her baby would set the city on fire, so the king ordered him left on a mountainside. Troy had tried to avoid its own destruction, and ended up raising its destroyer in a hut.",
+          "words": 41,
+          "t_start": 0.192,
+          "t_end": 18.474,
+          "duration_s": 18.282
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_10",
+      "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+      "duration_s": 19.258,
+      "is_new_location": false,
+      "place_label": "MOUNT OLYMPUS & MOUNT IDA",
+      "active_characters": [
+        "helen"
+      ],
+      "dialogue_bubbles": [
+        {
+          "speaker": "HERA",
+          "char": "helen",
+          "bubble_text": "Choose me, and you...",
+          "t_start": 4.261,
+          "t_end": 9.409
+        },
+        {
+          "speaker": "ATHENA",
+          "char": "helen",
+          "bubble_text": "Choose me, and no...",
+          "t_start": 9.724,
+          "t_end": 14.385
+        },
+        {
+          "speaker": "APHRODITE",
+          "char": "helen",
+          "bubble_text": "Choose me, and the...",
+          "t_start": 14.7,
+          "t_end": 18.943
+        }
+      ],
+      "overlay_card": {
+        "headline": "ERIS: UNINVITED GUEST",
+        "emphasis": "UNINVITED",
+        "chips": [
+          "GODDESS OF STRIFE",
+          "GOLDEN APPLE"
+        ],
+        "style": "keyword"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 3.852,
+          "location": "loc_olympus",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_olympus_night.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "HERA",
+          "bubble_text": "Choose me, and you...",
+          "overlay_text": "ERIS: UNINVITED GUEST",
+          "emphasis_word": "UNINVITED",
+          "chips": [
+            "GODDESS OF STRIFE",
+            "GOLDEN APPLE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 3.852,
+          "t_end": 7.704,
+          "location": "loc_olympus",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_olympus_wide.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "HERA",
+          "bubble_text": "Choose me, and you...",
+          "overlay_text": "ERIS: UNINVITED GUEST",
+          "emphasis_word": "UNINVITED",
+          "chips": [
+            "GODDESS OF STRIFE",
+            "GOLDEN APPLE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 7.704,
+          "t_end": 11.556,
+          "location": "loc_olympus",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_olympus_med.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "HERA",
+          "bubble_text": "Choose me, and you...",
+          "overlay_text": "ERIS: UNINVITED GUEST",
+          "emphasis_word": "UNINVITED",
+          "chips": [
+            "GODDESS OF STRIFE",
+            "GOLDEN APPLE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 11.556,
+          "t_end": 15.408,
+          "location": "loc_olympus",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_olympus_detail.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "HERA",
+          "bubble_text": "Choose me, and you...",
+          "overlay_text": "ERIS: UNINVITED GUEST",
+          "emphasis_word": "UNINVITED",
+          "chips": [
+            "GODDESS OF STRIFE",
+            "GOLDEN APPLE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 15.408,
+          "t_end": 19.258,
+          "location": "loc_olympus",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_olympus_wide.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "helen"
+          ],
+          "speaker": "HERA",
+          "bubble_text": "Choose me, and you...",
+          "overlay_text": "ERIS: UNINVITED GUEST",
+          "emphasis_word": "UNINVITED",
+          "chips": [
+            "GODDESS OF STRIFE",
+            "GOLDEN APPLE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 14,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Each goddess came to him alone, with an offer.",
+          "words": 9,
+          "t_start": 0.189,
+          "t_end": 3.946,
+          "duration_s": 3.757
+        },
+        {
+          "line_index": 15,
+          "speaker": "HERA",
+          "voice_id": "voice-04",
+          "text": "Choose me, and you rule every kingdom between here and the sunrise.",
+          "words": 12,
+          "t_start": 4.261,
+          "t_end": 9.409,
+          "duration_s": 5.147
+        },
+        {
+          "line_index": 16,
+          "speaker": "ATHENA",
+          "voice_id": "voice-04",
+          "text": "Choose me, and no one will ever beat you in battle.",
+          "words": 11,
+          "t_start": 9.724,
+          "t_end": 14.385,
+          "duration_s": 4.661
+        },
+        {
+          "line_index": 17,
+          "speaker": "APHRODITE",
+          "voice_id": "voice-04",
+          "text": "Choose me, and the most beautiful woman alive is yours.",
+          "words": 10,
+          "t_start": 14.7,
+          "t_end": 18.943,
+          "duration_s": 4.243
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_11",
+      "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+      "duration_s": 10.666,
+      "is_new_location": false,
+      "place_label": "MOUNT OLYMPUS & MOUNT IDA",
+      "active_characters": [
+        "paris"
+      ],
+      "dialogue_bubbles": [
+        {
+          "speaker": "PARIS",
+          "char": "paris",
+          "bubble_text": "Sorry, Hera. Sorry, Athena.",
+          "t_start": 0.12,
+          "t_end": 2.808
+        }
+      ],
+      "overlay_card": {
+        "headline": "FOR THE MOST BEAUTIFUL",
+        "emphasis": "BEAUTIFUL",
+        "chips": [
+          "HERA",
+          "ATHENA",
+          "APHRODITE"
+        ],
+        "style": "card"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 2.133,
+          "location": "loc_olympus",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_olympus_wide.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "paris"
+          ],
+          "speaker": "PARIS",
+          "bubble_text": "Sorry, Hera. Sorry, Athena.",
+          "overlay_text": "FOR THE MOST BEAUTIFUL",
+          "emphasis_word": "BEAUTIFUL",
+          "chips": [
+            "HERA",
+            "ATHENA",
+            "APHRODITE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "paris",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 2.133,
+          "t_end": 4.266,
+          "location": "loc_olympus",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_olympus_med.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "paris"
+          ],
+          "speaker": "PARIS",
+          "bubble_text": "Sorry, Hera. Sorry, Athena.",
+          "overlay_text": "FOR THE MOST BEAUTIFUL",
+          "emphasis_word": "BEAUTIFUL",
+          "chips": [
+            "HERA",
+            "ATHENA",
+            "APHRODITE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "paris",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 4.266,
+          "t_end": 6.399,
+          "location": "loc_olympus",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_olympus_detail.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "paris"
+          ],
+          "speaker": "PARIS",
+          "bubble_text": "Sorry, Hera. Sorry, Athena.",
+          "overlay_text": "FOR THE MOST BEAUTIFUL",
+          "emphasis_word": "BEAUTIFUL",
+          "chips": [
+            "HERA",
+            "ATHENA",
+            "APHRODITE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "paris",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 6.399,
+          "t_end": 8.532,
+          "location": "loc_olympus",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_olympus_wide.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "paris"
+          ],
+          "speaker": "PARIS",
+          "bubble_text": "Sorry, Hera. Sorry, Athena.",
+          "overlay_text": "FOR THE MOST BEAUTIFUL",
+          "emphasis_word": "BEAUTIFUL",
+          "chips": [
+            "HERA",
+            "ATHENA",
+            "APHRODITE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "paris",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 8.532,
+          "t_end": 10.666,
+          "location": "loc_olympus",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_olympus_night.jpg",
+          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "paris"
+          ],
+          "speaker": "PARIS",
+          "bubble_text": "Sorry, Hera. Sorry, Athena.",
+          "overlay_text": "FOR THE MOST BEAUTIFUL",
+          "emphasis_word": "BEAUTIFUL",
+          "chips": [
+            "HERA",
+            "ATHENA",
+            "APHRODITE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "paris",
+          "dim_background": true,
+          "sfx": "pop"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 18,
+          "speaker": "PARIS",
+          "voice_id": "voice-02",
+          "text": "Sorry, Hera. Sorry, Athena.",
+          "words": 4,
+          "t_start": 0.12,
+          "t_end": 2.808,
+          "duration_s": 2.688
+        },
+        {
+          "line_index": 19,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Aphrodite got the apple. The most beautiful woman alive was named Helen. And Helen was already married.",
+          "words": 17,
+          "t_start": 3.008,
+          "t_end": 10.466,
+          "duration_s": 7.458
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_12",
+      "chapter": "[CHAPTER 2: THE OATH]",
+      "duration_s": 17.188,
+      "is_new_location": true,
+      "place_label": "ROYAL PALACE OF SPARTA",
+      "active_characters": [
+        "priam"
+      ],
+      "dialogue_bubbles": [
+        {
+          "speaker": "TYNDAREUS",
+          "char": "priam",
+          "bubble_text": "Whoever I choose, the...",
+          "t_start": 12.871,
+          "t_end": 16.638
+        }
+      ],
+      "overlay_card": {
+        "headline": "HELEN TAKEN FROM SPARTA",
+        "emphasis": "SPARTA",
+        "chips": [
+          "PARIS THE GUEST",
+          "OATH CALLED IN"
+        ],
+        "style": "card"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 3.438,
+          "location": "loc_palace",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_palace_wide.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [],
+          "speaker": "TYNDAREUS",
+          "bubble_text": "Whoever I choose, the...",
+          "overlay_text": "ROYAL PALACE OF SPARTA",
+          "emphasis_word": "SPARTA",
+          "chips": [
+            "PARIS THE GUEST",
+            "OATH CALLED IN"
+          ],
+          "text_style": "label",
+          "text_position": "bottom-left",
+          "mascot": "none",
+          "arrow_target": "priam",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 3.438,
+          "t_end": 6.876,
+          "location": "loc_palace",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_palace_detail.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "priam"
+          ],
+          "speaker": "TYNDAREUS",
+          "bubble_text": "Whoever I choose, the...",
+          "overlay_text": "HELEN TAKEN FROM SPARTA",
+          "emphasis_word": "SPARTA",
+          "chips": [
+            "PARIS THE GUEST",
+            "OATH CALLED IN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "priam",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 6.876,
+          "t_end": 10.314,
+          "location": "loc_palace",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_palace_wide.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "priam"
+          ],
+          "speaker": "TYNDAREUS",
+          "bubble_text": "Whoever I choose, the...",
+          "overlay_text": "HELEN TAKEN FROM SPARTA",
+          "emphasis_word": "SPARTA",
+          "chips": [
+            "PARIS THE GUEST",
+            "OATH CALLED IN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "priam",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 10.314,
+          "t_end": 13.752,
+          "location": "loc_palace",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_palace_night.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "priam"
+          ],
+          "speaker": "TYNDAREUS",
+          "bubble_text": "Whoever I choose, the...",
+          "overlay_text": "HELEN TAKEN FROM SPARTA",
+          "emphasis_word": "SPARTA",
+          "chips": [
+            "PARIS THE GUEST",
+            "OATH CALLED IN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "priam",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 13.752,
+          "t_end": 17.188,
+          "location": "loc_palace",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_palace_wide.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "priam"
+          ],
+          "speaker": "TYNDAREUS",
+          "bubble_text": "Whoever I choose, the...",
+          "overlay_text": "HELEN TAKEN FROM SPARTA",
+          "emphasis_word": "SPARTA",
+          "chips": [
+            "PARIS THE GUEST",
+            "OATH CALLED IN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "priam",
+          "dim_background": true,
+          "sfx": "pop"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 20,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Helen was the daughter of Tyndareus, king of Sparta, and when she came of age, nearly every important man in Greece arrived to ask for her hand. Tyndareus panicked.",
+          "words": 29,
+          "t_start": 0.33,
+          "t_end": 12.321,
+          "duration_s": 11.991
+        },
+        {
+          "line_index": 21,
+          "speaker": "TYNDAREUS",
+          "voice_id": "voice-03",
+          "text": "Whoever I choose, the rest will tear Greece apart.",
+          "words": 9,
+          "t_start": 12.871,
+          "t_end": 16.638,
+          "duration_s": 3.767
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_13",
+      "chapter": "[CHAPTER 2: THE OATH]",
+      "duration_s": 16.252,
+      "is_new_location": false,
+      "place_label": "ROYAL PALACE OF SPARTA",
+      "active_characters": [
+        "odysseus"
+      ],
+      "dialogue_bubbles": [
+        {
+          "speaker": "ODYSSEUS",
+          "char": "odysseus",
+          "bubble_text": "Then make them swear...",
+          "t_start": 6.812,
+          "t_end": 16.052
+        }
+      ],
+      "overlay_card": {
+        "headline": "THE OATH OF TYNDAREUS",
+        "emphasis": "OATH",
+        "chips": [
+          "SUITORS OF HELEN",
+          "ODYSSEUS'S PLAN"
+        ],
+        "style": "card"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 3.25,
+          "location": "loc_palace",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_palace_detail.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "odysseus"
+          ],
+          "speaker": "ODYSSEUS",
+          "bubble_text": "Then make them swear...",
+          "overlay_text": "THE OATH OF TYNDAREUS",
+          "emphasis_word": "OATH",
+          "chips": [
+            "SUITORS OF HELEN",
+            "ODYSSEUS'S PLAN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "odysseus",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 3.25,
+          "t_end": 6.5,
+          "location": "loc_palace",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_palace_wide.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "odysseus"
+          ],
+          "speaker": "ODYSSEUS",
+          "bubble_text": "Then make them swear...",
+          "overlay_text": "THE OATH OF TYNDAREUS",
+          "emphasis_word": "OATH",
+          "chips": [
+            "SUITORS OF HELEN",
+            "ODYSSEUS'S PLAN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "odysseus",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 6.5,
+          "t_end": 9.75,
+          "location": "loc_palace",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_palace_night.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "odysseus"
+          ],
+          "speaker": "ODYSSEUS",
+          "bubble_text": "Then make them swear...",
+          "overlay_text": "THE OATH OF TYNDAREUS",
+          "emphasis_word": "OATH",
+          "chips": [
+            "SUITORS OF HELEN",
+            "ODYSSEUS'S PLAN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "odysseus",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 9.75,
+          "t_end": 13.0,
+          "location": "loc_palace",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_palace_wide.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "odysseus"
+          ],
+          "speaker": "ODYSSEUS",
+          "bubble_text": "Then make them swear...",
+          "overlay_text": "THE OATH OF TYNDAREUS",
+          "emphasis_word": "OATH",
+          "chips": [
+            "SUITORS OF HELEN",
+            "ODYSSEUS'S PLAN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "odysseus",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 13.0,
+          "t_end": 16.252,
+          "location": "loc_palace",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_palace_med.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "odysseus"
+          ],
+          "speaker": "ODYSSEUS",
+          "bubble_text": "Then make them swear...",
+          "overlay_text": "THE OATH OF TYNDAREUS",
+          "emphasis_word": "OATH",
+          "chips": [
+            "SUITORS OF HELEN",
+            "ODYSSEUS'S PLAN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "odysseus",
+          "dim_background": true,
+          "sfx": "pop"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 22,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "The man who solved it was Odysseus, who had no real chance at Helen himself.",
+          "words": 15,
+          "t_start": 0.12,
+          "t_end": 6.612,
+          "duration_s": 6.492
+        },
+        {
+          "line_index": 23,
+          "speaker": "ODYSSEUS",
+          "voice_id": "voice-02",
+          "text": "Then make them swear first. Whoever wins, every other suitor defends his marriage. And in return, help me win Penelope.",
+          "words": 20,
+          "t_start": 6.812,
+          "t_end": 16.052,
+          "duration_s": 9.24
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_14",
+      "chapter": "[CHAPTER 2: THE OATH]",
+      "duration_s": 17.439,
+      "is_new_location": false,
+      "place_label": "ROYAL PALACE OF SPARTA",
+      "active_characters": [
+        "mascot"
+      ],
+      "dialogue_bubbles": [
+        {
+          "speaker": "MASCOT",
+          "char": "mascot",
+          "bubble_text": "Keep that horse in...",
+          "t_start": 5.852,
+          "t_end": 7.729
+        }
+      ],
+      "overlay_card": {
+        "headline": "SWORN ON A SACRIFICED HORSE",
+        "emphasis": "HORSE",
+        "chips": [
+          "DEFEND THE MARRIAGE",
+          "MENELAUS CHOSEN"
+        ],
+        "style": "keyword"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 3.488,
+          "location": "loc_palace",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_palace_wide.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "mascot"
+          ],
+          "speaker": "MASCOT",
+          "bubble_text": "Keep that horse in...",
+          "overlay_text": "SWORN ON A SACRIFICED HORSE",
+          "emphasis_word": "HORSE",
+          "chips": [
+            "DEFEND THE MARRIAGE",
+            "MENELAUS CHOSEN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "mascot",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 3.488,
+          "t_end": 6.976,
+          "location": "loc_palace",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_palace_night.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "mascot"
+          ],
+          "speaker": "MASCOT",
+          "bubble_text": "Keep that horse in...",
+          "overlay_text": "SWORN ON A SACRIFICED HORSE",
+          "emphasis_word": "HORSE",
+          "chips": [
+            "DEFEND THE MARRIAGE",
+            "MENELAUS CHOSEN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "mascot",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 6.976,
+          "t_end": 10.464,
+          "location": "loc_palace",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_palace_wide.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "mascot"
+          ],
+          "speaker": "MASCOT",
+          "bubble_text": "Keep that horse in...",
+          "overlay_text": "SWORN ON A SACRIFICED HORSE",
+          "emphasis_word": "HORSE",
+          "chips": [
+            "DEFEND THE MARRIAGE",
+            "MENELAUS CHOSEN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "mascot",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 10.464,
+          "t_end": 13.952,
+          "location": "loc_palace",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_palace_med.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "mascot"
+          ],
+          "speaker": "MASCOT",
+          "bubble_text": "Keep that horse in...",
+          "overlay_text": "SWORN ON A SACRIFICED HORSE",
+          "emphasis_word": "HORSE",
+          "chips": [
+            "DEFEND THE MARRIAGE",
+            "MENELAUS CHOSEN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "mascot",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 13.952,
+          "t_end": 17.439,
+          "location": "loc_palace",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_palace_detail.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "mascot"
+          ],
+          "speaker": "MASCOT",
+          "bubble_text": "Keep that horse in...",
+          "overlay_text": "SWORN ON A SACRIFICED HORSE",
+          "emphasis_word": "HORSE",
+          "chips": [
+            "DEFEND THE MARRIAGE",
+            "MENELAUS CHOSEN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "mascot",
+          "dim_background": true,
+          "sfx": "pop"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 24,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Tyndareus sacrificed a horse, and the suitors swore standing over its remains.",
+          "words": 12,
+          "t_start": 0.148,
+          "t_end": 5.604,
+          "duration_s": 5.456
+        },
+        {
+          "line_index": 25,
+          "speaker": "MASCOT",
+          "voice_id": "voice-01",
+          "text": "Keep that horse in mind.",
+          "words": 5,
+          "t_start": 5.852,
+          "t_end": 7.729,
+          "duration_s": 1.877
+        },
+        {
+          "line_index": 26,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Helen chose Menelaus, a king with a famous brother. That brother was Agamemnon of Mycenae, the most powerful ruler in Greece.",
+          "words": 21,
+          "t_start": 7.976,
+          "t_end": 17.192,
+          "duration_s": 9.216
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_15",
+      "chapter": "[CHAPTER 2: THE OATH]",
+      "duration_s": 14.165,
+      "is_new_location": false,
+      "place_label": "ROYAL PALACE OF SPARTA",
+      "active_characters": [
+        "paris"
+      ],
+      "dialogue_bubbles": [],
+      "overlay_card": {
+        "headline": "HELEN TAKEN FROM SPARTA",
+        "emphasis": "SPARTA",
+        "chips": [
+          "PARIS THE GUEST",
+          "OATH CALLED IN"
+        ],
+        "style": "card"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 2.833,
+          "location": "loc_palace",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_palace_night.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "paris"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "HELEN TAKEN FROM SPARTA",
+          "emphasis_word": "SPARTA",
+          "chips": [
+            "PARIS THE GUEST",
+            "OATH CALLED IN"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "paris",
+          "dim_background": false,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 2.833,
+          "t_end": 5.666,
+          "location": "loc_palace",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_palace_wide.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "paris"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "HELEN TAKEN FROM SPARTA",
+          "emphasis_word": "SPARTA",
+          "chips": [
+            "PARIS THE GUEST",
+            "OATH CALLED IN"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "paris",
+          "dim_background": false,
+          "sfx": "whoosh"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 5.666,
+          "t_end": 8.499,
+          "location": "loc_palace",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_palace_med.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "paris"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "HELEN TAKEN FROM SPARTA",
+          "emphasis_word": "SPARTA",
+          "chips": [
+            "PARIS THE GUEST",
+            "OATH CALLED IN"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "paris",
+          "dim_background": true,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 8.499,
+          "t_end": 11.332,
+          "location": "loc_palace",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_palace_detail.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "paris"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "HELEN TAKEN FROM SPARTA",
+          "emphasis_word": "SPARTA",
+          "chips": [
+            "PARIS THE GUEST",
+            "OATH CALLED IN"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "paris",
+          "dim_background": false,
+          "sfx": "arrow"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 11.332,
+          "t_end": 14.165,
+          "location": "loc_palace",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_palace_wide.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "paris"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "HELEN TAKEN FROM SPARTA",
+          "emphasis_word": "SPARTA",
+          "chips": [
+            "PARIS THE GUEST",
+            "OATH CALLED IN"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "paris",
+          "dim_background": false,
+          "sfx": "none"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 27,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Years later, Paris arrived in Sparta as a guest. Menelaus was called away to Crete, and when he came home, his wife and a good part of his treasure were gone.",
+          "words": 31,
+          "t_start": 0.212,
+          "t_end": 13.811,
+          "duration_s": 13.599
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_16",
+      "chapter": "[CHAPTER 2: THE OATH]",
+      "duration_s": 16.222,
+      "is_new_location": false,
+      "place_label": "ROYAL PALACE OF SPARTA",
+      "active_characters": [
+        "menelaus"
+      ],
+      "dialogue_bubbles": [
+        {
+          "speaker": "MENELAUS",
+          "char": "menelaus",
+          "bubble_text": "He sat at my...",
+          "t_start": 10.324,
+          "t_end": 15.672
+        }
+      ],
+      "overlay_card": {
+        "headline": "THE OATH OF TYNDAREUS",
+        "emphasis": "OATH",
+        "chips": [
+          "SUITORS OF HELEN",
+          "ODYSSEUS'S PLAN"
+        ],
+        "style": "card"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 3.244,
+          "location": "loc_palace",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_palace_wide.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "menelaus"
+          ],
+          "speaker": "MENELAUS",
+          "bubble_text": "He sat at my...",
+          "overlay_text": "THE OATH OF TYNDAREUS",
+          "emphasis_word": "OATH",
+          "chips": [
+            "SUITORS OF HELEN",
+            "ODYSSEUS'S PLAN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "menelaus",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 3.244,
+          "t_end": 6.488,
+          "location": "loc_palace",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_palace_med.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "menelaus"
+          ],
+          "speaker": "MENELAUS",
+          "bubble_text": "He sat at my...",
+          "overlay_text": "THE OATH OF TYNDAREUS",
+          "emphasis_word": "OATH",
+          "chips": [
+            "SUITORS OF HELEN",
+            "ODYSSEUS'S PLAN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "menelaus",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 6.488,
+          "t_end": 9.732,
+          "location": "loc_palace",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_palace_detail.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "menelaus"
+          ],
+          "speaker": "MENELAUS",
+          "bubble_text": "He sat at my...",
+          "overlay_text": "THE OATH OF TYNDAREUS",
+          "emphasis_word": "OATH",
+          "chips": [
+            "SUITORS OF HELEN",
+            "ODYSSEUS'S PLAN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "menelaus",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 9.732,
+          "t_end": 12.976,
+          "location": "loc_palace",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_palace_wide.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "menelaus"
+          ],
+          "speaker": "MENELAUS",
+          "bubble_text": "He sat at my...",
+          "overlay_text": "THE OATH OF TYNDAREUS",
+          "emphasis_word": "OATH",
+          "chips": [
+            "SUITORS OF HELEN",
+            "ODYSSEUS'S PLAN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "menelaus",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 12.976,
+          "t_end": 16.222,
+          "location": "loc_palace",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_palace_night.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "menelaus"
+          ],
+          "speaker": "MENELAUS",
+          "bubble_text": "He sat at my...",
+          "overlay_text": "THE OATH OF TYNDAREUS",
+          "emphasis_word": "OATH",
+          "chips": [
+            "SUITORS OF HELEN",
+            "ODYSSEUS'S PLAN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "menelaus",
+          "dim_background": true,
+          "sfx": "pop"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 27,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Did Helen leave willingly, or was she taken? The Greeks never agreed. In Homer, Helen blames herself bitterly for the rest of her life.",
+          "words": 24,
+          "t_start": 0.33,
+          "t_end": 9.774,
+          "duration_s": 9.444
+        },
+        {
+          "line_index": 28,
+          "speaker": "MENELAUS",
+          "voice_id": "voice-03",
+          "text": "He sat at my table. He ate my food. And he took my wife.",
+          "words": 14,
+          "t_start": 10.324,
+          "t_end": 15.672,
+          "duration_s": 5.348
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_17",
+      "chapter": "[CHAPTER 2: THE OATH]",
+      "duration_s": 11.324,
+      "is_new_location": false,
+      "place_label": "ROYAL PALACE OF SPARTA",
+      "active_characters": [
+        "agamemnon"
+      ],
+      "dialogue_bubbles": [
+        {
+          "speaker": "AGAMEMNON",
+          "char": "agamemnon",
+          "bubble_text": "Then we call in...",
+          "t_start": 0.321,
+          "t_end": 6.805
+        }
+      ],
+      "overlay_card": {
+        "headline": "SWORN ON A SACRIFICED HORSE",
+        "emphasis": "HORSE",
+        "chips": [
+          "DEFEND THE MARRIAGE",
+          "MENELAUS CHOSEN"
+        ],
+        "style": "keyword"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 2.265,
+          "location": "loc_palace",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_palace_med.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "agamemnon"
+          ],
+          "speaker": "AGAMEMNON",
+          "bubble_text": "Then we call in...",
+          "overlay_text": "SWORN ON A SACRIFICED HORSE",
+          "emphasis_word": "HORSE",
+          "chips": [
+            "DEFEND THE MARRIAGE",
+            "MENELAUS CHOSEN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 2.265,
+          "t_end": 4.53,
+          "location": "loc_palace",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_palace_detail.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "agamemnon"
+          ],
+          "speaker": "AGAMEMNON",
+          "bubble_text": "Then we call in...",
+          "overlay_text": "SWORN ON A SACRIFICED HORSE",
+          "emphasis_word": "HORSE",
+          "chips": [
+            "DEFEND THE MARRIAGE",
+            "MENELAUS CHOSEN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 4.53,
+          "t_end": 6.795,
+          "location": "loc_palace",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_palace_wide.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "agamemnon"
+          ],
+          "speaker": "AGAMEMNON",
+          "bubble_text": "Then we call in...",
+          "overlay_text": "SWORN ON A SACRIFICED HORSE",
+          "emphasis_word": "HORSE",
+          "chips": [
+            "DEFEND THE MARRIAGE",
+            "MENELAUS CHOSEN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 6.795,
+          "t_end": 9.06,
+          "location": "loc_palace",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_palace_night.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "agamemnon"
+          ],
+          "speaker": "AGAMEMNON",
+          "bubble_text": "Then we call in...",
+          "overlay_text": "SWORN ON A SACRIFICED HORSE",
+          "emphasis_word": "HORSE",
+          "chips": [
+            "DEFEND THE MARRIAGE",
+            "MENELAUS CHOSEN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 9.06,
+          "t_end": 11.324,
+          "location": "loc_palace",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_palace_wide.jpg",
+          "image_prompt": "ROYAL PALACE OF SPARTA, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "agamemnon"
+          ],
+          "speaker": "AGAMEMNON",
+          "bubble_text": "Then we call in...",
+          "overlay_text": "SWORN ON A SACRIFICED HORSE",
+          "emphasis_word": "HORSE",
+          "chips": [
+            "DEFEND THE MARRIAGE",
+            "MENELAUS CHOSEN"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": true,
+          "sfx": "pop"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 29,
+          "speaker": "AGAMEMNON",
+          "voice_id": "voice-03",
+          "text": "Then we call in the oath. Every king who ever courted Helen sails with us.",
+          "words": 15,
+          "t_start": 0.321,
+          "t_end": 6.805,
+          "duration_s": 6.484
+        },
+        {
+          "line_index": 30,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Except that some of them did not want to go.",
+          "words": 10,
+          "t_start": 7.34,
+          "t_end": 10.789,
+          "duration_s": 3.45
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_18",
+      "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+      "duration_s": 18.8,
+      "is_new_location": true,
+      "place_label": "HARBOR OF AULIS \u2014 GREECE",
+      "active_characters": [
+        "agamemnon",
+        "odysseus"
+      ],
+      "dialogue_bubbles": [],
+      "overlay_card": {
+        "headline": "ACHILLES ON SKYROS",
+        "emphasis": "ACHILLES",
+        "chips": [
+          "SHORT GLORIOUS LIFE",
+          "FATED TO DIE"
+        ],
+        "style": "keyword"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 3.76,
+          "location": "loc_aulis",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_aulis_wide.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "HARBOR OF AULIS \u2014 GREECE",
+          "emphasis_word": "ACHILLES",
+          "chips": [
+            "SHORT GLORIOUS LIFE",
+            "FATED TO DIE"
+          ],
+          "text_style": "label",
+          "text_position": "bottom-left",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": false,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 3.76,
+          "t_end": 7.52,
+          "location": "loc_aulis",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_aulis_wide.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "agamemnon",
+            "odysseus"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "ACHILLES ON SKYROS",
+          "emphasis_word": "ACHILLES",
+          "chips": [
+            "SHORT GLORIOUS LIFE",
+            "FATED TO DIE"
+          ],
+          "text_style": "keyword",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": false,
+          "sfx": "whoosh"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 7.52,
+          "t_end": 11.28,
+          "location": "loc_aulis",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_aulis_night.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "agamemnon",
+            "odysseus"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "ACHILLES ON SKYROS",
+          "emphasis_word": "ACHILLES",
+          "chips": [
+            "SHORT GLORIOUS LIFE",
+            "FATED TO DIE"
+          ],
+          "text_style": "keyword",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": true,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 11.28,
+          "t_end": 15.04,
+          "location": "loc_aulis",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_aulis_wide.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "agamemnon",
+            "odysseus"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "ACHILLES ON SKYROS",
+          "emphasis_word": "ACHILLES",
+          "chips": [
+            "SHORT GLORIOUS LIFE",
+            "FATED TO DIE"
+          ],
+          "text_style": "keyword",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": false,
+          "sfx": "arrow"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 15.04,
+          "t_end": 18.8,
+          "location": "loc_aulis",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_aulis_med.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "agamemnon",
+            "odysseus"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "ACHILLES ON SKYROS",
+          "emphasis_word": "ACHILLES",
+          "chips": [
+            "SHORT GLORIOUS LIFE",
+            "FATED TO DIE"
+          ],
+          "text_style": "keyword",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": false,
+          "sfx": "none"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 31,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Odysseus, king of Ithaca, had a new baby and a happy home. When the recruiters arrived, he pretended to be out of his mind. He yoked a donkey and an ox to a plow and began sowing the beach with salt.",
+          "words": 41,
+          "t_start": 0.184,
+          "t_end": 18.493,
+          "duration_s": 18.309
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_19",
+      "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+      "duration_s": 17.526,
+      "is_new_location": false,
+      "place_label": "HARBOR OF AULIS \u2014 GREECE",
+      "active_characters": [
+        "odysseus"
+      ],
+      "dialogue_bubbles": [
+        {
+          "speaker": "PALAMEDES",
+          "char": "odysseus",
+          "bubble_text": "Keep plowing, my king....",
+          "t_start": 8.353,
+          "t_end": 10.727
+        },
+        {
+          "speaker": "ODYSSEUS",
+          "char": "odysseus",
+          "bubble_text": "All right. You made...",
+          "t_start": 12.738,
+          "t_end": 17.326
+        }
+      ],
+      "overlay_card": {
+        "headline": "1,200 SHIPS \u2014 NO WIND",
+        "emphasis": "AULIS",
+        "chips": [
+          "ARTEMIS ANGRY",
+          "IPHIGENIA"
+        ],
+        "style": "card"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 3.505,
+          "location": "loc_aulis",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_aulis_wide.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "odysseus"
+          ],
+          "speaker": "PALAMEDES",
+          "bubble_text": "Keep plowing, my king....",
+          "overlay_text": "1,200 SHIPS \u2014 NO WIND",
+          "emphasis_word": "AULIS",
+          "chips": [
+            "ARTEMIS ANGRY",
+            "IPHIGENIA"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "odysseus",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 3.505,
+          "t_end": 7.01,
+          "location": "loc_aulis",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_aulis_night.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "odysseus"
+          ],
+          "speaker": "PALAMEDES",
+          "bubble_text": "Keep plowing, my king....",
+          "overlay_text": "1,200 SHIPS \u2014 NO WIND",
+          "emphasis_word": "AULIS",
+          "chips": [
+            "ARTEMIS ANGRY",
+            "IPHIGENIA"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "odysseus",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 7.01,
+          "t_end": 10.515,
+          "location": "loc_aulis",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_aulis_wide.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "odysseus"
+          ],
+          "speaker": "PALAMEDES",
+          "bubble_text": "Keep plowing, my king....",
+          "overlay_text": "1,200 SHIPS \u2014 NO WIND",
+          "emphasis_word": "AULIS",
+          "chips": [
+            "ARTEMIS ANGRY",
+            "IPHIGENIA"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "odysseus",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 10.515,
+          "t_end": 14.02,
+          "location": "loc_aulis",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_aulis_med.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "odysseus"
+          ],
+          "speaker": "PALAMEDES",
+          "bubble_text": "Keep plowing, my king....",
+          "overlay_text": "1,200 SHIPS \u2014 NO WIND",
+          "emphasis_word": "AULIS",
+          "chips": [
+            "ARTEMIS ANGRY",
+            "IPHIGENIA"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "odysseus",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 14.02,
+          "t_end": 17.526,
+          "location": "loc_aulis",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_aulis_detail.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "odysseus"
+          ],
+          "speaker": "PALAMEDES",
+          "bubble_text": "Keep plowing, my king....",
+          "overlay_text": "1,200 SHIPS \u2014 NO WIND",
+          "emphasis_word": "AULIS",
+          "chips": [
+            "ARTEMIS ANGRY",
+            "IPHIGENIA"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "odysseus",
+          "dim_background": true,
+          "sfx": "pop"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 32,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "A man named Palamedes saw through it. He laid Odysseus's infant son in front of the plow.",
+          "words": 17,
+          "t_start": 0.12,
+          "t_end": 8.153,
+          "duration_s": 8.034
+        },
+        {
+          "line_index": 33,
+          "speaker": "PALAMEDES",
+          "voice_id": "voice-03",
+          "text": "Keep plowing, my king. Straight ahead.",
+          "words": 6,
+          "t_start": 8.353,
+          "t_end": 10.727,
+          "duration_s": 2.373
+        },
+        {
+          "line_index": 34,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Odysseus swerved.",
+          "words": 2,
+          "t_start": 10.927,
+          "t_end": 12.538,
+          "duration_s": 1.611
+        },
+        {
+          "line_index": 35,
+          "speaker": "ODYSSEUS",
+          "voice_id": "voice-02",
+          "text": "All right. You made your point. I'll go.",
+          "words": 8,
+          "t_start": 12.738,
+          "t_end": 17.326,
+          "duration_s": 4.588
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_20",
+      "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+      "duration_s": 10.987,
+      "is_new_location": false,
+      "place_label": "HARBOR OF AULIS \u2014 GREECE",
+      "active_characters": [
+        "achilles",
+        "agamemnon"
+      ],
+      "dialogue_bubbles": [],
+      "overlay_card": {
+        "headline": "THE FLEET SAILS FOR TROY",
+        "emphasis": "SAILS",
+        "chips": [
+          "WIND RISES",
+          "CLYTEMNESTRA WAITS"
+        ],
+        "style": "keyword"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 2.197,
+          "location": "loc_aulis",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_aulis_night.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "achilles",
+            "agamemnon"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "THE FLEET SAILS FOR TROY",
+          "emphasis_word": "SAILS",
+          "chips": [
+            "WIND RISES",
+            "CLYTEMNESTRA WAITS"
+          ],
+          "text_style": "keyword",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "achilles",
+          "dim_background": false,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 2.197,
+          "t_end": 4.394,
+          "location": "loc_aulis",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_aulis_wide.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "achilles",
+            "agamemnon"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "THE FLEET SAILS FOR TROY",
+          "emphasis_word": "SAILS",
+          "chips": [
+            "WIND RISES",
+            "CLYTEMNESTRA WAITS"
+          ],
+          "text_style": "keyword",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "achilles",
+          "dim_background": false,
+          "sfx": "whoosh"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 4.394,
+          "t_end": 6.591,
+          "location": "loc_aulis",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_aulis_med.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "achilles",
+            "agamemnon"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "THE FLEET SAILS FOR TROY",
+          "emphasis_word": "SAILS",
+          "chips": [
+            "WIND RISES",
+            "CLYTEMNESTRA WAITS"
+          ],
+          "text_style": "keyword",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "achilles",
+          "dim_background": true,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 6.591,
+          "t_end": 8.788,
+          "location": "loc_aulis",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_aulis_detail.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "achilles",
+            "agamemnon"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "THE FLEET SAILS FOR TROY",
+          "emphasis_word": "SAILS",
+          "chips": [
+            "WIND RISES",
+            "CLYTEMNESTRA WAITS"
+          ],
+          "text_style": "keyword",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "achilles",
+          "dim_background": false,
+          "sfx": "arrow"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 8.788,
+          "t_end": 10.987,
+          "location": "loc_aulis",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_aulis_wide.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "achilles",
+            "agamemnon"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "THE FLEET SAILS FOR TROY",
+          "emphasis_word": "SAILS",
+          "chips": [
+            "WIND RISES",
+            "CLYTEMNESTRA WAITS"
+          ],
+          "text_style": "keyword",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "achilles",
+          "dim_background": false,
+          "sfx": "none"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 36,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "He never forgave Palamedes, which, as we will see, ended badly for Palamedes.",
+          "words": 13,
+          "t_start": 0.136,
+          "t_end": 5.709,
+          "duration_s": 5.573
+        },
+        {
+          "line_index": 37,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "The Greeks also needed Achilles, the best warrior of his generation.",
+          "words": 11,
+          "t_start": 5.936,
+          "t_end": 10.76,
+          "duration_s": 4.825
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_21",
+      "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+      "duration_s": 15.965,
+      "is_new_location": false,
+      "place_label": "HARBOR OF AULIS \u2014 GREECE",
+      "active_characters": [
+        "agamemnon"
+      ],
+      "dialogue_bubbles": [],
+      "overlay_card": {
+        "headline": "ODYSSEUS PLOWS SALT",
+        "emphasis": "SALT",
+        "chips": [
+          "FEIGNING MADNESS",
+          "PALAMEDES'S TEST"
+        ],
+        "style": "card"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 3.193,
+          "location": "loc_aulis",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_aulis_wide.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "agamemnon"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "ODYSSEUS PLOWS SALT",
+          "emphasis_word": "SALT",
+          "chips": [
+            "FEIGNING MADNESS",
+            "PALAMEDES'S TEST"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": false,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 3.193,
+          "t_end": 6.386,
+          "location": "loc_aulis",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_aulis_med.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "agamemnon"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "ODYSSEUS PLOWS SALT",
+          "emphasis_word": "SALT",
+          "chips": [
+            "FEIGNING MADNESS",
+            "PALAMEDES'S TEST"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": false,
+          "sfx": "whoosh"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 6.386,
+          "t_end": 9.579,
+          "location": "loc_aulis",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_aulis_detail.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "agamemnon"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "ODYSSEUS PLOWS SALT",
+          "emphasis_word": "SALT",
+          "chips": [
+            "FEIGNING MADNESS",
+            "PALAMEDES'S TEST"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": true,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 9.579,
+          "t_end": 12.772,
+          "location": "loc_aulis",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_aulis_wide.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "agamemnon"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "ODYSSEUS PLOWS SALT",
+          "emphasis_word": "SALT",
+          "chips": [
+            "FEIGNING MADNESS",
+            "PALAMEDES'S TEST"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": false,
+          "sfx": "arrow"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 12.772,
+          "t_end": 15.965,
+          "location": "loc_aulis",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_aulis_night.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "agamemnon"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "ODYSSEUS PLOWS SALT",
+          "emphasis_word": "SALT",
+          "chips": [
+            "FEIGNING MADNESS",
+            "PALAMEDES'S TEST"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "agamemnon",
+          "dim_background": false,
+          "sfx": "none"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 37,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "His mother Thetis knew he was fated to die at Troy, so she hid him among the daughters of a king on the island of Skyros, where he fell in love and fathered a son named Neoptolemus.",
+          "words": 37,
+          "t_start": 0.33,
+          "t_end": 15.415,
+          "duration_s": 15.085
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_22",
+      "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+      "duration_s": 15.555,
+      "is_new_location": false,
+      "place_label": "HARBOR OF AULIS \u2014 GREECE",
+      "active_characters": [
+        "helen",
+        "achilles"
+      ],
+      "dialogue_bubbles": [
+        {
+          "speaker": "THETIS",
+          "char": "helen",
+          "bubble_text": "Stay hidden, my son....",
+          "t_start": 0.206,
+          "t_end": 6.09
+        },
+        {
+          "speaker": "ACHILLES",
+          "char": "achilles",
+          "bubble_text": "A long life that...",
+          "t_start": 6.433,
+          "t_end": 15.211
+        }
+      ],
+      "overlay_card": {
+        "headline": "ACHILLES ON SKYROS",
+        "emphasis": "ACHILLES",
+        "chips": [
+          "SHORT GLORIOUS LIFE",
+          "FATED TO DIE"
+        ],
+        "style": "keyword"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 3.111,
+          "location": "loc_aulis",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_aulis_med.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "helen",
+            "achilles"
+          ],
+          "speaker": "THETIS",
+          "bubble_text": "Stay hidden, my son....",
+          "overlay_text": "ACHILLES ON SKYROS",
+          "emphasis_word": "ACHILLES",
+          "chips": [
+            "SHORT GLORIOUS LIFE",
+            "FATED TO DIE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 3.111,
+          "t_end": 6.222,
+          "location": "loc_aulis",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_aulis_detail.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "helen",
+            "achilles"
+          ],
+          "speaker": "THETIS",
+          "bubble_text": "Stay hidden, my son....",
+          "overlay_text": "ACHILLES ON SKYROS",
+          "emphasis_word": "ACHILLES",
+          "chips": [
+            "SHORT GLORIOUS LIFE",
+            "FATED TO DIE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 6.222,
+          "t_end": 9.333,
+          "location": "loc_aulis",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_aulis_wide.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "helen",
+            "achilles"
+          ],
+          "speaker": "THETIS",
+          "bubble_text": "Stay hidden, my son....",
+          "overlay_text": "ACHILLES ON SKYROS",
+          "emphasis_word": "ACHILLES",
+          "chips": [
+            "SHORT GLORIOUS LIFE",
+            "FATED TO DIE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 9.333,
+          "t_end": 12.444,
+          "location": "loc_aulis",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_aulis_night.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "helen",
+            "achilles"
+          ],
+          "speaker": "THETIS",
+          "bubble_text": "Stay hidden, my son....",
+          "overlay_text": "ACHILLES ON SKYROS",
+          "emphasis_word": "ACHILLES",
+          "chips": [
+            "SHORT GLORIOUS LIFE",
+            "FATED TO DIE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 12.444,
+          "t_end": 15.555,
+          "location": "loc_aulis",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_aulis_wide.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "helen",
+            "achilles"
+          ],
+          "speaker": "THETIS",
+          "bubble_text": "Stay hidden, my son....",
+          "overlay_text": "ACHILLES ON SKYROS",
+          "emphasis_word": "ACHILLES",
+          "chips": [
+            "SHORT GLORIOUS LIFE",
+            "FATED TO DIE"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": {
+            "pose": "pose_c",
+            "side": "right"
+          },
+          "arrow_target": "helen",
+          "dim_background": true,
+          "sfx": "pop"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 38,
+          "speaker": "THETIS",
+          "voice_id": "voice-04",
+          "text": "Stay hidden, my son. If you go to Troy, you will not come home.",
+          "words": 14,
+          "t_start": 0.206,
+          "t_end": 6.09,
+          "duration_s": 5.884
+        },
+        {
+          "line_index": 39,
+          "speaker": "ACHILLES",
+          "voice_id": "voice-02",
+          "text": "A long life that nobody remembers, or a short one that nobody forgets. It's not much of a choice, Mother.",
+          "words": 20,
+          "t_start": 6.433,
+          "t_end": 15.211,
+          "duration_s": 8.777
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_23",
+      "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+      "duration_s": 17.89,
+      "is_new_location": false,
+      "place_label": "HARBOR OF AULIS \u2014 GREECE",
+      "active_characters": [
+        "priam",
+        "agamemnon"
+      ],
+      "dialogue_bubbles": [
+        {
+          "speaker": "CALCHAS",
+          "char": "priam",
+          "bubble_text": "Artemis is angry. The...",
+          "t_start": 10.146,
+          "t_end": 15.301
+        },
+        {
+          "speaker": "AGAMEMNON",
+          "char": "agamemnon",
+          "bubble_text": "Not her. Anyone but...",
+          "t_start": 15.577,
+          "t_end": 17.614
+        }
+      ],
+      "overlay_card": {
+        "headline": "1,200 SHIPS \u2014 NO WIND",
+        "emphasis": "AULIS",
+        "chips": [
+          "ARTEMIS ANGRY",
+          "IPHIGENIA"
+        ],
+        "style": "card"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 3.578,
+          "location": "loc_aulis",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_aulis_detail.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "priam",
+            "agamemnon"
+          ],
+          "speaker": "CALCHAS",
+          "bubble_text": "Artemis is angry. The...",
+          "overlay_text": "1,200 SHIPS \u2014 NO WIND",
+          "emphasis_word": "AULIS",
+          "chips": [
+            "ARTEMIS ANGRY",
+            "IPHIGENIA"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "priam",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 3.578,
+          "t_end": 7.156,
+          "location": "loc_aulis",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_aulis_wide.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "priam",
+            "agamemnon"
+          ],
+          "speaker": "CALCHAS",
+          "bubble_text": "Artemis is angry. The...",
+          "overlay_text": "1,200 SHIPS \u2014 NO WIND",
+          "emphasis_word": "AULIS",
+          "chips": [
+            "ARTEMIS ANGRY",
+            "IPHIGENIA"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "priam",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 7.156,
+          "t_end": 10.734,
+          "location": "loc_aulis",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_aulis_night.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "priam",
+            "agamemnon"
+          ],
+          "speaker": "CALCHAS",
+          "bubble_text": "Artemis is angry. The...",
+          "overlay_text": "1,200 SHIPS \u2014 NO WIND",
+          "emphasis_word": "AULIS",
+          "chips": [
+            "ARTEMIS ANGRY",
+            "IPHIGENIA"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "priam",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 10.734,
+          "t_end": 14.312,
+          "location": "loc_aulis",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_aulis_wide.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "priam",
+            "agamemnon"
+          ],
+          "speaker": "CALCHAS",
+          "bubble_text": "Artemis is angry. The...",
+          "overlay_text": "1,200 SHIPS \u2014 NO WIND",
+          "emphasis_word": "AULIS",
+          "chips": [
+            "ARTEMIS ANGRY",
+            "IPHIGENIA"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "priam",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 14.312,
+          "t_end": 17.89,
+          "location": "loc_aulis",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_aulis_med.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "priam",
+            "agamemnon"
+          ],
+          "speaker": "CALCHAS",
+          "bubble_text": "Artemis is angry. The...",
+          "overlay_text": "1,200 SHIPS \u2014 NO WIND",
+          "emphasis_word": "AULIS",
+          "chips": [
+            "ARTEMIS ANGRY",
+            "IPHIGENIA"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-left",
+          "mascot": "none",
+          "arrow_target": "priam",
+          "dim_background": true,
+          "sfx": "pop"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 40,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "The fleet gathered at a harbor called Aulis, and then it sat there. No wind. Day after day, the sails hung limp.",
+          "words": 22,
+          "t_start": 0.166,
+          "t_end": 9.869,
+          "duration_s": 9.703
+        },
+        {
+          "line_index": 41,
+          "speaker": "CALCHAS",
+          "voice_id": "voice-03",
+          "text": "Artemis is angry. The wind returns when your daughter Iphigenia is sacrificed.",
+          "words": 12,
+          "t_start": 10.146,
+          "t_end": 15.301,
+          "duration_s": 5.155
+        },
+        {
+          "line_index": 42,
+          "speaker": "AGAMEMNON",
+          "voice_id": "voice-03",
+          "text": "Not her. Anyone but her.",
+          "words": 5,
+          "t_start": 15.577,
+          "t_end": 17.614,
+          "duration_s": 2.036
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_24",
+      "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+      "duration_s": 14.161,
+      "is_new_location": false,
+      "place_label": "HARBOR OF AULIS \u2014 GREECE",
+      "active_characters": [
+        "priam",
+        "helen"
+      ],
+      "dialogue_bubbles": [
+        {
+          "speaker": "CALCHAS",
+          "char": "priam",
+          "bubble_text": "Then the ships stay...",
+          "t_start": 0.22,
+          "t_end": 2.517
+        },
+        {
+          "speaker": "IPHIGENIA",
+          "char": "helen",
+          "bubble_text": "Father? Where is the...",
+          "t_start": 11.268,
+          "t_end": 13.794
+        }
+      ],
+      "overlay_card": {
+        "headline": "THE FLEET SAILS FOR TROY",
+        "emphasis": "SAILS",
+        "chips": [
+          "WIND RISES",
+          "CLYTEMNESTRA WAITS"
+        ],
+        "style": "keyword"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 2.832,
+          "location": "loc_aulis",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_aulis_wide.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "priam",
+            "helen"
+          ],
+          "speaker": "CALCHAS",
+          "bubble_text": "Then the ships stay...",
+          "overlay_text": "THE FLEET SAILS FOR TROY",
+          "emphasis_word": "SAILS",
+          "chips": [
+            "WIND RISES",
+            "CLYTEMNESTRA WAITS"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "priam",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 2.832,
+          "t_end": 5.664,
+          "location": "loc_aulis",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_aulis_night.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "priam",
+            "helen"
+          ],
+          "speaker": "CALCHAS",
+          "bubble_text": "Then the ships stay...",
+          "overlay_text": "THE FLEET SAILS FOR TROY",
+          "emphasis_word": "SAILS",
+          "chips": [
+            "WIND RISES",
+            "CLYTEMNESTRA WAITS"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "priam",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 5.664,
+          "t_end": 8.496,
+          "location": "loc_aulis",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_aulis_wide.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "priam",
+            "helen"
+          ],
+          "speaker": "CALCHAS",
+          "bubble_text": "Then the ships stay...",
+          "overlay_text": "THE FLEET SAILS FOR TROY",
+          "emphasis_word": "SAILS",
+          "chips": [
+            "WIND RISES",
+            "CLYTEMNESTRA WAITS"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "priam",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 8.496,
+          "t_end": 11.328,
+          "location": "loc_aulis",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_aulis_med.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "priam",
+            "helen"
+          ],
+          "speaker": "CALCHAS",
+          "bubble_text": "Then the ships stay...",
+          "overlay_text": "THE FLEET SAILS FOR TROY",
+          "emphasis_word": "SAILS",
+          "chips": [
+            "WIND RISES",
+            "CLYTEMNESTRA WAITS"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "priam",
+          "dim_background": true,
+          "sfx": "pop"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 11.328,
+          "t_end": 14.161,
+          "location": "loc_aulis",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_aulis_detail.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "priam",
+            "helen"
+          ],
+          "speaker": "CALCHAS",
+          "bubble_text": "Then the ships stay...",
+          "overlay_text": "THE FLEET SAILS FOR TROY",
+          "emphasis_word": "SAILS",
+          "chips": [
+            "WIND RISES",
+            "CLYTEMNESTRA WAITS"
+          ],
+          "text_style": "bubble",
+          "text_position": "top-right",
+          "mascot": "none",
+          "arrow_target": "priam",
+          "dim_background": true,
+          "sfx": "pop"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 43,
+          "speaker": "CALCHAS",
+          "voice_id": "voice-03",
+          "text": "Then the ships stay where they are.",
+          "words": 7,
+          "t_start": 0.22,
+          "t_end": 2.517,
+          "duration_s": 2.297
+        },
+        {
+          "line_index": 44,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Agamemnon sent word that Iphigenia should come to the camp, to marry Achilles. She arrived in her wedding dress.",
+          "words": 19,
+          "t_start": 2.884,
+          "t_end": 10.901,
+          "duration_s": 8.017
+        },
+        {
+          "line_index": 45,
+          "speaker": "IPHIGENIA",
+          "voice_id": "voice-04",
+          "text": "Father? Where is the groom?",
+          "words": 5,
+          "t_start": 11.268,
+          "t_end": 13.794,
+          "duration_s": 2.525
+        }
+      ]
+    },
+    {
+      "clip_id": "p1_clip_25",
+      "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+      "duration_s": 20.564,
+      "is_new_location": false,
+      "place_label": "HARBOR OF AULIS \u2014 GREECE",
+      "active_characters": [
+        "odysseus"
+      ],
+      "dialogue_bubbles": [],
+      "overlay_card": {
+        "headline": "ODYSSEUS PLOWS SALT",
+        "emphasis": "SALT",
+        "chips": [
+          "FEIGNING MADNESS",
+          "PALAMEDES'S TEST"
+        ],
+        "style": "card"
+      },
+      "shots": [
+        {
+          "shot_index": 1,
+          "t_start": 0.0,
+          "t_end": 4.113,
+          "location": "loc_aulis",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_aulis_night.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "odysseus"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "ODYSSEUS PLOWS SALT",
+          "emphasis_word": "SALT",
+          "chips": [
+            "FEIGNING MADNESS",
+            "PALAMEDES'S TEST"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "odysseus",
+          "dim_background": false,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 2,
+          "t_start": 4.113,
+          "t_end": 8.226,
+          "location": "loc_aulis",
+          "shot_type": "establishing",
+          "bg_path": "production/assets/locations/loc_aulis_wide.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, establishing shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "dolly-in",
+          "characters": [
+            "odysseus"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "ODYSSEUS PLOWS SALT",
+          "emphasis_word": "SALT",
+          "chips": [
+            "FEIGNING MADNESS",
+            "PALAMEDES'S TEST"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "odysseus",
+          "dim_background": false,
+          "sfx": "whoosh"
+        },
+        {
+          "shot_index": 3,
+          "t_start": 8.226,
+          "t_end": 12.339,
+          "location": "loc_aulis",
+          "shot_type": "wide",
+          "bg_path": "production/assets/locations/loc_aulis_med.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-right",
+          "characters": [
+            "odysseus"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "ODYSSEUS PLOWS SALT",
+          "emphasis_word": "SALT",
+          "chips": [
+            "FEIGNING MADNESS",
+            "PALAMEDES'S TEST"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "odysseus",
+          "dim_background": true,
+          "sfx": "none"
+        },
+        {
+          "shot_index": 4,
+          "t_start": 12.339,
+          "t_end": 16.452,
+          "location": "loc_aulis",
+          "shot_type": "medium",
+          "bg_path": "production/assets/locations/loc_aulis_detail.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, medium shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pull-back",
+          "characters": [
+            "odysseus"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "ODYSSEUS PLOWS SALT",
+          "emphasis_word": "SALT",
+          "chips": [
+            "FEIGNING MADNESS",
+            "PALAMEDES'S TEST"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "odysseus",
+          "dim_background": false,
+          "sfx": "arrow"
+        },
+        {
+          "shot_index": 5,
+          "t_start": 16.452,
+          "t_end": 20.564,
+          "location": "loc_aulis",
+          "shot_type": "detail",
+          "bg_path": "production/assets/locations/loc_aulis_wide.jpg",
+          "image_prompt": "HARBOR OF AULIS \u2014 GREECE, detail shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+          "camera": "pan-left",
+          "characters": [
+            "odysseus"
+          ],
+          "speaker": "narrator",
+          "bubble_text": "",
+          "overlay_text": "ODYSSEUS PLOWS SALT",
+          "emphasis_word": "SALT",
+          "chips": [
+            "FEIGNING MADNESS",
+            "PALAMEDES'S TEST"
+          ],
+          "text_style": "card",
+          "text_position": "top-left",
+          "mascot": {
+            "pose": "pose_b",
+            "side": "left"
+          },
+          "arrow_target": "odysseus",
+          "dim_background": false,
+          "sfx": "none"
+        }
+      ],
+      "vo_segments": [
+        {
+          "line_index": 46,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "What happened next depends on who is telling it. In some versions she was killed. In others, Artemis swapped her for a deer at the last second and carried her away.",
+          "words": 31,
+          "t_start": 0.308,
+          "t_end": 14.067,
+          "duration_s": 13.759
+        },
+        {
+          "line_index": 47,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "The wind rose. The fleet sailed. And Clytemnestra, back in Mycenae, began to wait.",
+          "words": 14,
+          "t_start": 14.58,
+          "t_end": 20.051,
+          "duration_s": 5.471
+        }
+      ]
+    }
+  ]
+}

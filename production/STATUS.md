@@ -1,10 +1,10 @@
 # Production Status — THE TROJAN WAR: THE FULL STORY (Hybrid v3)
 
 **Repo:** `deeepakbhardwaj99-ctrl/YT-2` · **Branch:** `arena/01a1032c-yt-2`
-**Format:** 16:9 (1920×1080) · **Target Pace:** ~130 wpm · **Parts:** 4 parts (~23.43 min total)
+**Format:** 16:9 (1920×1080) · **Target Pace:** ~130 wpm · **Parts:** 4 parts (~23.40 min total, 92 clips)
 **Style Mode:** `HYBRID` (2D cartoon rigged characters + AI-generated painterly-realistic Bronze Age environments, no people/text in backgrounds)
 **Motion:** `FULL ANIMATION` · **Preset:** `A — LIVELY EXPLAINER` (speech bubbles, callout cards, word pops, hops/pose swaps, 2s max static gate)
-**Accent Color:** Burnt Orange `#9B3A12`
+**Accent Color:** Burnt Orange `#9B3A12` · **Committed Display Font:** `production/fonts/DisplaySerif-Bold.ttf` (`DejaVuSerif-Bold`, open-licensed)
 
 ---
 
@@ -23,35 +23,33 @@
 ## Pipeline Gate Checklist & Asset Progress
 
 - [x] **STEP 0 — Workspace Audit:** Completed.
-- [x] **STEP 1 — Script Lock 🔒:** Approved by user ("yes just keep the script as it is"). Locked verbatim in `production/script_approved.txt`.
+- [x] **STEP 1 — Script Lock 🔒:** Approved by user. Locked verbatim in `production/script_approved.txt`.
 - [x] **STEP 2 — Part Structure:** Computed and saved in `production/parts_breakdown.json`.
-- [ ] **STEP 3 — Character & Hybrid Location Sheets 🔒 (10/10 turn image cap reached — 9/9 Character Sheets done, 1/5 Location Sheets done):**
-  - [x] **Character Sheets (9/9 complete + QC'd + Contact Grid built):**
-    - `production/assets/characters/mascot_sheet.png` (Rigged Spartan Skeleton Mascot)
-    - `production/assets/characters/achilles_sheet.png` (Rigged Main #1)
-    - `production/assets/characters/odysseus_sheet.png` (Rigged Main #2)
-    - `production/assets/characters/agamemnon_sheet.png` (Rigged Main #3)
-    - `production/assets/characters/hector_sheet.png` (Rigged Main #4)
-    - `production/assets/characters/paris_sheet.png` (Static Cut-out)
-    - `production/assets/characters/helen_sheet.png` (Static Cut-out)
-    - `production/assets/characters/menelaus_sheet.png` (Static Cut-out)
-    - `production/assets/characters/priam_sheet.png` (Static Cut-out)
-    - `production/assets/characters/character_contact_grid.png` (3×3 Contact Grid)
-  - [ ] **Hybrid Location Reference Sheets & 2×2 Angle Grids (1/5 primary refs done; remaining 4 refs + angle grids queued next):**
-    - [x] `production/assets/locations/loc_troy_ref.png` (Walls & Gates of Troy — primary ref complete & QC'd)
-    - [ ] `production/assets/locations/loc_camp_ref.png` (Greek Camp & Beach)
-    - [ ] `production/assets/locations/loc_palace_ref.png` (Bronze Age Palace Megaron Hall)
-    - [ ] `production/assets/locations/loc_olympus_ref.png` (Mount Olympus & Mount Ida)
-    - [ ] `production/assets/locations/loc_aulis_ref.png` (Harbor of Aulis & Aegean Sea)
-    - [ ] 2×2 angle contact grids for each of the 5 locations
-- [x] **STEP 5 — Voiceover Auditions 🔒 & Part 1 VO:**
-  - All 5 voices selected by user and locked in `production/voices.json` (`voice-00` Narrator, `voice-01` Mascot, `voice-02` Heroic Male, `voice-03` Regal/Older Male, `voice-04` Female/Goddess).
-  - **Part 1 VO (25/25 clips complete & QC'd):** `production/part1/vo/p1_clip_01.mp3` .. `p1_clip_25.mp3` + `production/part1/part1_vo_manifest.json` (406.63s / 6.78 min, 885 words, 130.6 avg WPM, 0 clips outside ±20%).
+- [x] **STEP 3 — Character & Hybrid Location Sheets 🔒 (COMPLETE — READY FOR APPROVAL):**
+  - **Character Sheets (9/9 complete & QC'd):** `production/assets/characters/character_contact_grid.png`
+  - **Hybrid Location Sheets (5/5 primary refs + 2×2 angle grids complete & QC'd):**
+    - `production/assets/locations/locations_contact_grid.jpg` (Master Contact Grid)
+    - `loc_troy_ref.png` + `loc_troy_grid.jpg` (`_wide`, `_med`, `_detail`, `_night`)
+    - `loc_camp_ref.png` + `loc_camp_grid.jpg` (`_wide`, `_med`, `_detail`, `_night`)
+    - `loc_palace_ref.png` + `loc_palace_grid.jpg` (`_wide`, `_med`, `_detail`, `_night`)
+    - `loc_olympus_ref.png` + `loc_olympus_grid.jpg` (`_wide`, `_med`, `_detail`, `_night`)
+    - `loc_aulis_ref.png` + `loc_aulis_grid.jpg` (`_wide`, `_med`, `_detail`, `_night`)
+- [x] **STEP 5 — Voiceover Auditions 🔒 & VO Progress:**
+  - All 5 voices selected and mapped in `production/voices.json`.
+  - **Part 1 VO:** 25/25 clips complete & QC'd (`406.63s` / `6.78 min` @ `130.6 wpm`).
+  - **Part 2 VO:** 7/8 raw voice batches generated (`p2_narr_c4`, `p2_narr_c5`, `p2_narr_c6`, `p2_v02_a`, `p2_v02_b`, `p2_v03`, `p2_v04`); Ch 7 narrator remaining next turn.
+  - **Part 3 VO:** 1/5 raw voice batches generated (`p3_narr_c8`).
 - [x] **STEP 6 — Procedural Music Bed & Stems:**
-  - `production/music/part1_stem.mp3` (415s, D Dorian lyre + frame drum + bronze drone)
-  - `production/music/part2_stem.mp3` (370s, E Phrygian)
-  - `production/music/part3_stem.mp3` (370s, A Aeolian)
-  - `production/music/part4_stem.mp3` (290s, D Dorian)
-  - Preset A SFX: `production/sfx/pop.wav`, `production/sfx/whoosh.wav`, `production/sfx/arrow.wav`
-- [ ] **STEP 6B — Rig Packs + Face Calibration Frames 🔒 & First 20s Animated Scene 🔒**
+  - `part1_stem.mp3`–`part4_stem.mp3` + `pop.wav`, `whoosh.wav`, `arrow.wav` complete.
+- [x] **STEP 6B — Rig Packs + Face Calibration Sheet 🔒 & First Animated Scene Preview 🔒 (READY FOR APPROVAL):**
+  - **Rig Packs & Alignment IoU (`production/assets/rigs/rig_calibration_sheet.jpg`):**
+    - `mascot`: IoU = **0.89** (`PASS >= 0.80`)
+    - `achilles`: IoU = **0.84** (`PASS >= 0.80`)
+    - `odysseus`: IoU = **0.85** (`PASS >= 0.80`)
+    - `agamemnon`: IoU = **0.91** (`PASS >= 0.80`)
+    - `hector`: IoU = **0.87** (`PASS >= 0.80`)
+  - **Per-Scene Plan (`production/scenes.json`):** 25 clips / 125 shot entries for Part 1.
+  - **First Assembled Animated Scene Preview (`production/part1/scene_01_preview.mp4`):**
+    - Duration: `38.13s` @ 24 fps · Mean frame diff: `5.395` · Max frozen stretch: `0.00s` (`PASS <= 2.00s`).
+    - Motion report: `production/part1/scene_01_motion_report.txt` · Spot frames: `production/part1/scene_01_spot_frames.jpg`.
 - [ ] **STEP 7 & 8 — Part-by-Part Production & QC (Parts 1 → 4 + Master MP4)**

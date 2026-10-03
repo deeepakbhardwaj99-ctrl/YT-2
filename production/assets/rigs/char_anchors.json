@@ -1,0 +1,287 @@
+{
+  "mascot": {
+    "bbox": [
+      515,
+      13,
+      1199,
+      928
+    ],
+    "foot_anchor": [
+      888,
+      928
+    ],
+    "head_top_y": 13,
+    "eye_left": [
+      729,
+      336
+    ],
+    "eye_right": [
+      798,
+      340
+    ],
+    "eye_radius": 41,
+    "mouth_center": [
+      763,
+      403
+    ],
+    "mouth_radius": [
+      14,
+      6
+    ],
+    "iou_ab": 0.886,
+    "iou_ac": 0.886,
+    "min_iou": 0.886
+  },
+  "achilles": {
+    "bbox": [
+      481,
+      8,
+      1231,
+      934
+    ],
+    "foot_anchor": [
+      850,
+      934
+    ],
+    "head_top_y": 11,
+    "eye_left": [
+      734,
+      210
+    ],
+    "eye_right": [
+      776,
+      208
+    ],
+    "eye_radius": 8,
+    "mouth_center": [
+      755,
+      246
+    ],
+    "mouth_radius": [
+      11,
+      5
+    ],
+    "iou_ab": 0.856,
+    "iou_ac": 0.845,
+    "min_iou": 0.845
+  },
+  "odysseus": {
+    "bbox": [
+      590,
+      17,
+      1079,
+      919
+    ],
+    "foot_anchor": [
+      865,
+      919
+    ],
+    "head_top_y": 40,
+    "eye_left": [
+      789,
+      150
+    ],
+    "eye_right": [
+      835,
+      147
+    ],
+    "eye_radius": 8,
+    "mouth_center": [
+      812,
+      189
+    ],
+    "mouth_radius": [
+      11,
+      5
+    ],
+    "iou_ab": 0.857,
+    "iou_ac": 0.849,
+    "min_iou": 0.849
+  },
+  "agamemnon": {
+    "bbox": [
+      452,
+      14,
+      1233,
+      934
+    ],
+    "foot_anchor": [
+      819,
+      934
+    ],
+    "head_top_y": 14,
+    "eye_left": [
+      814,
+      142
+    ],
+    "eye_right": [
+      846,
+      142
+    ],
+    "eye_radius": 6,
+    "mouth_center": [
+      832,
+      168
+    ],
+    "mouth_radius": [
+      11,
+      5
+    ],
+    "iou_ab": 0.914,
+    "iou_ac": 0.913,
+    "min_iou": 0.913
+  },
+  "hector": {
+    "bbox": [
+      508,
+      14,
+      1117,
+      930
+    ],
+    "foot_anchor": [
+      803,
+      923
+    ],
+    "head_top_y": 14,
+    "eye_left": [
+      774,
+      196
+    ],
+    "eye_right": [
+      802,
+      196
+    ],
+    "eye_radius": 6,
+    "mouth_center": [
+      786,
+      224
+    ],
+    "mouth_radius": [
+      11,
+      5
+    ],
+    "iou_ab": 0.87,
+    "iou_ac": 0.87,
+    "min_iou": 0.87
+  },
+  "paris": {
+    "bbox": [
+      609,
+      22,
+      1101,
+      928
+    ],
+    "foot_anchor": [
+      909,
+      928
+    ],
+    "head_top_y": 23,
+    "eye_left": [
+      831,
+      128
+    ],
+    "eye_right": [
+      873,
+      123
+    ],
+    "eye_radius": 8,
+    "mouth_center": [
+      852,
+      162
+    ],
+    "mouth_radius": [
+      11,
+      5
+    ]
+  },
+  "helen": {
+    "bbox": [
+      529,
+      26,
+      1135,
+      926
+    ],
+    "foot_anchor": [
+      846,
+      926
+    ],
+    "head_top_y": 26,
+    "eye_left": [
+      813,
+      112
+    ],
+    "eye_right": [
+      854,
+      114
+    ],
+    "eye_radius": 8,
+    "mouth_center": [
+      833,
+      149
+    ],
+    "mouth_radius": [
+      11,
+      5
+    ]
+  },
+  "menelaus": {
+    "bbox": [
+      602,
+      25,
+      1123,
+      922
+    ],
+    "foot_anchor": [
+      888,
+      922
+    ],
+    "head_top_y": 25,
+    "eye_left": [
+      793,
+      106
+    ],
+    "eye_right": [
+      861,
+      104
+    ],
+    "eye_radius": 11,
+    "mouth_center": [
+      827,
+      166
+    ],
+    "mouth_radius": [
+      11,
+      5
+    ]
+  },
+  "priam": {
+    "bbox": [
+      471,
+      20,
+      1188,
+      927
+    ],
+    "foot_anchor": [
+      874,
+      927
+    ],
+    "head_top_y": 26,
+    "eye_left": [
+      781,
+      140
+    ],
+    "eye_right": [
+      831,
+      137
+    ],
+    "eye_radius": 7,
+    "mouth_center": [
+      806,
+      183
+    ],
+    "mouth_radius": [
+      11,
+      5
+    ]
+  }
+}
