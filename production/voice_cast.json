@@ -1,0 +1,14 @@
+{
+  "narrator": {
+    "voice_id": "voice-00",
+    "language": "en",
+    "selection_status": "approved_by_user_via_audition",
+    "performance_direction": "Mature, warm, low-to-mid masculine English narration; calm, compassionate, historically grounded, with controlled firmness in the final act.",
+    "target_average_wpm": 132,
+    "consistency_rule": "Use this voice for all narrator lines in every part."
+  },
+  "other_voices": {
+    "status": "not_auditioned",
+    "note": "Character and mascot voices will be cast after the narrator and asset-sheet gates."
+  }
+}
