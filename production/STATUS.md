@@ -14,7 +14,7 @@
 | Runtime and part structure | Locked | Four parts; 132 wpm average; about 25:25 assembled. |
 | Creative direction | Locked | HYBRID, 16:9, Calm Story preset; see `production/creative_direction.md`. |
 | Voice cast | 5 / 5 selected | Narrator `voice-00`; mascot `voice-01`; authority/warriors `voice-02`; strategists/younger men `voice-03`; women/divine/prophetic `voice-04`. |
-| Character identity sheets | 6 / 17 accepted | Meno, Achilles, Hector, Odysseus, Paris, and Helen accepted in batches 01–02; see `production/qc/asset_qc_batch_01.md` and `asset_qc_batch_02.md`. |
+| Character identity sheets | 9 / 17 accepted | Batches 01–03 accepted; see `production/qc/asset_qc_batch_01.md` through `asset_qc_batch_03.md`. |
 | First-view location references | 0 / 8 | Not yet generated. |
 | Rig packs and face anchors | 0 | Blocked by complete asset-sheet approval. |
 | VO clips / music / video | 0 | Blocked by the required earlier gates. |
@@ -23,5 +23,5 @@
 
 The exact voice assignment and four-part delivery targets are in `production/voice_and_delivery_plan.md` and `production/voice_cast.json`.
 
-- Continue Step 3 with Odysseus, Paris, and Helen, followed by supporting characters and recurring locations.
+- Continue Step 3 with Iphigenia, Patroclus, and Andromache, followed by supporting characters and recurring locations.
 - Present complete contact sheets for the required Step 3 approval before any rig or scene work.
