@@ -14,7 +14,7 @@
 | Runtime and part structure | Locked | Four parts; 132 wpm average; about 25:25 assembled. |
 | Creative direction | Locked | HYBRID, 16:9, Calm Story preset; see `production/creative_direction.md`. |
 | Voice cast | 5 / 5 selected | Narrator `voice-00`; mascot `voice-01`; authority/warriors `voice-02`; strategists/younger men `voice-03`; women/divine/prophetic `voice-04`. |
-| Character identity sheets | 3 / 17 accepted | Meno, Achilles, and Hector accepted in batch 01; see `production/qc/asset_qc_batch_01.md`. |
+| Character identity sheets | 6 / 17 accepted | Meno, Achilles, Hector, Odysseus, Paris, and Helen accepted in batches 01–02; see `production/qc/asset_qc_batch_01.md` and `asset_qc_batch_02.md`. |
 | First-view location references | 0 / 8 | Not yet generated. |
 | Rig packs and face anchors | 0 | Blocked by complete asset-sheet approval. |
 | VO clips / music / video | 0 | Blocked by the required earlier gates. |

@@ -1,6 +1,6 @@
 # Step 3 — Character and Location Asset Manifest
 
-**Status:** Asset-sheet generation in progress. No scene image may be generated until this set is approved.
+**Status:** Character-sheet batches 01–02 accepted: 6/17 character identities complete; 0/8 first-view location references complete. No scene image may be generated until the complete set is approved.
 
 ## Locked hybrid visual bridge
 
@@ -19,9 +19,9 @@ Each identity sheet is a single 16:9 image: full body, neutral standing pose, fr
 | 1 | Meno, the skeleton mascot narrator | Rigged | Accepted — batch 01 |
 | 2 | Achilles | Rigged | Accepted — batch 01 |
 | 3 | Hector | Rigged | Accepted — batch 01 |
-| 4 | Odysseus | Rigged | Queued |
-| 5 | Paris | Rigged | Queued |
-| 6 | Helen | Static cut-out reference | Queued |
+| 4 | Odysseus | Rigged | Accepted — batch 02 |
+| 5 | Paris | Rigged | Accepted — batch 02 |
+| 6 | Helen | Static cut-out reference | Accepted — batch 02 |
 | 7 | Agamemnon | Static cut-out reference | Queued |
 | 8 | Menelaus | Static cut-out reference | Queued |
 | 9 | Thetis | Static cut-out reference | Queued |
