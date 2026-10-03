@@ -23,5 +23,5 @@
 
 The exact voice assignment and four-part delivery targets are in `production/voice_and_delivery_plan.md` and `production/voice_cast.json`.
 
-- Continue Step 3 with Iphigenia, Patroclus, and Andromache, followed by supporting characters and recurring locations.
+- Continue Step 3 with Priam, Clytemnestra, and Cassandra, followed by the final two character sheets and recurring locations.
 - Present complete contact sheets for the required Step 3 approval before any rig or scene work.

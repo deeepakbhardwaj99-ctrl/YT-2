@@ -1,6 +1,6 @@
 # Step 3 — Character and Location Asset Manifest
 
-**Status:** Character-sheet batches 01–03 accepted: 9/17 character identities complete; 0/8 first-view location references complete. No scene image may be generated until the complete set is approved.
+**Status:** Character-sheet batches 01–04 accepted: 12/17 character identities complete; 0/8 first-view location references complete. No scene image may be generated until the complete set is approved.
 
 ## Locked hybrid visual bridge
 
