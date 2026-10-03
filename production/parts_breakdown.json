@@ -1,0 +1,992 @@
+{
+  "1": {
+    "part": 1,
+    "title": "Part 1: The Apple & The Fleet",
+    "chapters": [
+      "[COLD OPEN]",
+      "[CHAPTER 1: THE UNINVITED GUEST]",
+      "[CHAPTER 2: THE OATH]",
+      "[CHAPTER 3: THE FLEET AT AULIS]"
+    ],
+    "words": 885,
+    "lines": [
+      {
+        "chapter": "[COLD OPEN]",
+        "raw": "About three thousand two hundred years ago, a walled city on a windy hill in what is now Turkey burned to the ground. What came after is a mix of poetry, memory, and shovel work. The Greeks said it fell over one woman. Their poets blamed a grudge between goddesses. Archaeologists point to something far less romantic. So which one is it? To find out, we start where the Greeks started: with a wedding, and a guest list that went very wrong.",
+        "spoken": "About three thousand two hundred years ago, a walled city on a windy hill in what is now Turkey burned to the ground. What came after is a mix of poetry, memory, and shovel work. The Greeks said it fell over one woman. Their poets blamed a grudge between goddesses. Archaeologists point to something far less romantic. So which one is it? To find out, we start where the Greeks started: with a wedding, and a guest list that went very wrong.",
+        "words": 82
+      },
+      {
+        "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+        "raw": "The groom was a mortal king named Peleus. The bride was Thetis, a sea goddess so lovely that Zeus himself had wanted her, until he heard a prophecy. Her son, it said, would grow up greater than his father. Suddenly no god wanted anything to do with her. Marry her to a mortal, they decided, and the problem goes away.",
+        "spoken": "The groom was a mortal king named Peleus. The bride was Thetis, a sea goddess so lovely that Zeus himself had wanted her, until he heard a prophecy. Her son, it said, would grow up greater than his father. Suddenly no god wanted anything to do with her. Marry her to a mortal, they decided, and the problem goes away.",
+        "words": 60
+      },
+      {
+        "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+        "raw": "So Olympus came to the wedding. Music, wine, mountains of food. And one missing guest. Eris, the goddess of strife, had not been invited.",
+        "spoken": "So Olympus came to the wedding. Music, wine, mountains of food. And one missing guest. Eris, the goddess of strife, had not been invited.",
+        "words": 24
+      },
+      {
+        "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+        "raw": "MASCOT: \"Spoiler. Terrible idea.\"",
+        "spoken": "Spoiler. Terrible idea.",
+        "words": 3
+      },
+      {
+        "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+        "raw": "She showed up anyway.",
+        "spoken": "She showed up anyway.",
+        "words": 4
+      },
+      {
+        "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+        "raw": "ERIS: (sweetly) \"Don't mind me. I only came to drop off a gift.\"",
+        "spoken": "Don't mind me. I only came to drop off a gift.",
+        "words": 11
+      },
+      {
+        "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+        "raw": "She rolled a golden apple across the floor. Scratched into it were the words: for the most beautiful.",
+        "spoken": "She rolled a golden apple across the floor. Scratched into it were the words: for the most beautiful.",
+        "words": 18
+      },
+      {
+        "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+        "raw": "Three goddesses reached for it at once.",
+        "spoken": "Three goddesses reached for it at once.",
+        "words": 7
+      },
+      {
+        "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+        "raw": "HERA: \"Obviously it's mine. I'm the queen of heaven.\"",
+        "spoken": "Obviously it's mine. I'm the queen of heaven.",
+        "words": 8
+      },
+      {
+        "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+        "raw": "ATHENA: \"Beauty fades. Wisdom doesn't. Hand it over.\"",
+        "spoken": "Beauty fades. Wisdom doesn't. Hand it over.",
+        "words": 7
+      },
+      {
+        "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+        "raw": "APHRODITE: \"Please. I'm the goddess of beauty. It practically has my name on it.\"",
+        "spoken": "Please. I'm the goddess of beauty. It practically has my name on it.",
+        "words": 13
+      },
+      {
+        "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+        "raw": "They turned to Zeus, and Zeus, who had not stayed king by being foolish, wanted no part of it.",
+        "spoken": "They turned to Zeus, and Zeus, who had not stayed king by being foolish, wanted no part of it.",
+        "words": 19
+      },
+      {
+        "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+        "raw": "ZEUS: \"Pick one of you, and I make two enemies. Not a chance. Find a mortal.\"",
+        "spoken": "Pick one of you, and I make two enemies. Not a chance. Find a mortal.",
+        "words": 15
+      },
+      {
+        "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+        "raw": "Far away on Mount Ida, a young shepherd named Paris was minding his flock. He was secretly a prince of Troy. At his birth, his mother had dreamed her baby would set the city on fire, so the king ordered him left on a mountainside. Troy had tried to avoid its own destruction, and ended up raising its destroyer in a hut.",
+        "spoken": "Far away on Mount Ida, a young shepherd named Paris was minding his flock. He was secretly a prince of Troy. At his birth, his mother had dreamed her baby would set the city on fire, so the king ordered him left on a mountainside. Troy had tried to avoid its own destruction, and ended up raising its destroyer in a hut.",
+        "words": 62
+      },
+      {
+        "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+        "raw": "Each goddess came to him alone, with an offer.",
+        "spoken": "Each goddess came to him alone, with an offer.",
+        "words": 9
+      },
+      {
+        "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+        "raw": "HERA: \"Choose me, and you rule every kingdom between here and the sunrise.\"",
+        "spoken": "Choose me, and you rule every kingdom between here and the sunrise.",
+        "words": 12
+      },
+      {
+        "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+        "raw": "ATHENA: \"Choose me, and no one will ever beat you in battle.\"",
+        "spoken": "Choose me, and no one will ever beat you in battle.",
+        "words": 11
+      },
+      {
+        "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+        "raw": "APHRODITE: \"Choose me, and the most beautiful woman alive is yours.\"",
+        "spoken": "Choose me, and the most beautiful woman alive is yours.",
+        "words": 10
+      },
+      {
+        "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+        "raw": "PARIS: (after a very short pause) \"Sorry, Hera. Sorry, Athena.\"",
+        "spoken": "Sorry, Hera. Sorry, Athena.",
+        "words": 4
+      },
+      {
+        "chapter": "[CHAPTER 1: THE UNINVITED GUEST]",
+        "raw": "Aphrodite got the apple. The most beautiful woman alive was named Helen. And Helen was already married.",
+        "spoken": "Aphrodite got the apple. The most beautiful woman alive was named Helen. And Helen was already married.",
+        "words": 17
+      },
+      {
+        "chapter": "[CHAPTER 2: THE OATH]",
+        "raw": "Helen was the daughter of Tyndareus, king of Sparta, and when she came of age, nearly every important man in Greece arrived to ask for her hand. Tyndareus panicked.",
+        "spoken": "Helen was the daughter of Tyndareus, king of Sparta, and when she came of age, nearly every important man in Greece arrived to ask for her hand. Tyndareus panicked.",
+        "words": 29
+      },
+      {
+        "chapter": "[CHAPTER 2: THE OATH]",
+        "raw": "TYNDAREUS: \"Whoever I choose, the rest will tear Greece apart.\"",
+        "spoken": "Whoever I choose, the rest will tear Greece apart.",
+        "words": 9
+      },
+      {
+        "chapter": "[CHAPTER 2: THE OATH]",
+        "raw": "The man who solved it was Odysseus, who had no real chance at Helen himself.",
+        "spoken": "The man who solved it was Odysseus, who had no real chance at Helen himself.",
+        "words": 15
+      },
+      {
+        "chapter": "[CHAPTER 2: THE OATH]",
+        "raw": "ODYSSEUS: \"Then make them swear first. Whoever wins, every other suitor defends his marriage. And in return, help me win Penelope.\"",
+        "spoken": "Then make them swear first. Whoever wins, every other suitor defends his marriage. And in return, help me win Penelope.",
+        "words": 20
+      },
+      {
+        "chapter": "[CHAPTER 2: THE OATH]",
+        "raw": "Tyndareus sacrificed a horse, and the suitors swore standing over its remains.",
+        "spoken": "Tyndareus sacrificed a horse, and the suitors swore standing over its remains.",
+        "words": 12
+      },
+      {
+        "chapter": "[CHAPTER 2: THE OATH]",
+        "raw": "MASCOT: \"Keep that horse in mind.\"",
+        "spoken": "Keep that horse in mind.",
+        "words": 5
+      },
+      {
+        "chapter": "[CHAPTER 2: THE OATH]",
+        "raw": "Helen chose Menelaus, a king with a famous brother. That brother was Agamemnon of Mycenae, the most powerful ruler in Greece.",
+        "spoken": "Helen chose Menelaus, a king with a famous brother. That brother was Agamemnon of Mycenae, the most powerful ruler in Greece.",
+        "words": 21
+      },
+      {
+        "chapter": "[CHAPTER 2: THE OATH]",
+        "raw": "Years later, Paris arrived in Sparta as a guest. Menelaus was called away to Crete, and when he came home, his wife and a good part of his treasure were gone. Did Helen leave willingly, or was she taken? The Greeks never agreed. In Homer, Helen blames herself bitterly for the rest of her life.",
+        "spoken": "Years later, Paris arrived in Sparta as a guest. Menelaus was called away to Crete, and when he came home, his wife and a good part of his treasure were gone. Did Helen leave willingly, or was she taken? The Greeks never agreed. In Homer, Helen blames herself bitterly for the rest of her life.",
+        "words": 55
+      },
+      {
+        "chapter": "[CHAPTER 2: THE OATH]",
+        "raw": "MENELAUS: (shaking) \"He sat at my table. He ate my food. And he took my wife.\"",
+        "spoken": "He sat at my table. He ate my food. And he took my wife.",
+        "words": 14
+      },
+      {
+        "chapter": "[CHAPTER 2: THE OATH]",
+        "raw": "AGAMEMNON: \"Then we call in the oath. Every king who ever courted Helen sails with us.\"",
+        "spoken": "Then we call in the oath. Every king who ever courted Helen sails with us.",
+        "words": 15
+      },
+      {
+        "chapter": "[CHAPTER 2: THE OATH]",
+        "raw": "Except that some of them did not want to go.",
+        "spoken": "Except that some of them did not want to go.",
+        "words": 10
+      },
+      {
+        "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+        "raw": "Odysseus, king of Ithaca, had a new baby and a happy home. When the recruiters arrived, he pretended to be out of his mind. He yoked a donkey and an ox to a plow and began sowing the beach with salt.",
+        "spoken": "Odysseus, king of Ithaca, had a new baby and a happy home. When the recruiters arrived, he pretended to be out of his mind. He yoked a donkey and an ox to a plow and began sowing the beach with salt.",
+        "words": 41
+      },
+      {
+        "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+        "raw": "A man named Palamedes saw through it. He laid Odysseus's infant son in front of the plow.",
+        "spoken": "A man named Palamedes saw through it. He laid Odysseus's infant son in front of the plow.",
+        "words": 17
+      },
+      {
+        "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+        "raw": "PALAMEDES: \"Keep plowing, my king. Straight ahead.\"",
+        "spoken": "Keep plowing, my king. Straight ahead.",
+        "words": 6
+      },
+      {
+        "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+        "raw": "Odysseus swerved.",
+        "spoken": "Odysseus swerved.",
+        "words": 2
+      },
+      {
+        "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+        "raw": "ODYSSEUS: (through his teeth) \"All right. You made your point. I'll go.\"",
+        "spoken": "All right. You made your point. I'll go.",
+        "words": 8
+      },
+      {
+        "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+        "raw": "He never forgave Palamedes, which, as we will see, ended badly for Palamedes.",
+        "spoken": "He never forgave Palamedes, which, as we will see, ended badly for Palamedes.",
+        "words": 13
+      },
+      {
+        "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+        "raw": "The Greeks also needed Achilles, the best warrior of his generation. His mother Thetis knew he was fated to die at Troy, so she hid him among the daughters of a king on the island of Skyros, where he fell in love and fathered a son named Neoptolemus.",
+        "spoken": "The Greeks also needed Achilles, the best warrior of his generation. His mother Thetis knew he was fated to die at Troy, so she hid him among the daughters of a king on the island of Skyros, where he fell in love and fathered a son named Neoptolemus.",
+        "words": 48
+      },
+      {
+        "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+        "raw": "THETIS: \"Stay hidden, my son. If you go to Troy, you will not come home.\"",
+        "spoken": "Stay hidden, my son. If you go to Troy, you will not come home.",
+        "words": 14
+      },
+      {
+        "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+        "raw": "ACHILLES: \"A long life that nobody remembers, or a short one that nobody forgets. It's not much of a choice, Mother.\"",
+        "spoken": "A long life that nobody remembers, or a short one that nobody forgets. It's not much of a choice, Mother.",
+        "words": 20
+      },
+      {
+        "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+        "raw": "The fleet gathered at a harbor called Aulis, and then it sat there. No wind. Day after day, the sails hung limp.",
+        "spoken": "The fleet gathered at a harbor called Aulis, and then it sat there. No wind. Day after day, the sails hung limp.",
+        "words": 22
+      },
+      {
+        "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+        "raw": "CALCHAS: \"Artemis is angry. The wind returns when your daughter Iphigenia is sacrificed.\"",
+        "spoken": "Artemis is angry. The wind returns when your daughter Iphigenia is sacrificed.",
+        "words": 12
+      },
+      {
+        "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+        "raw": "AGAMEMNON: \"Not her. Anyone but her.\"",
+        "spoken": "Not her. Anyone but her.",
+        "words": 5
+      },
+      {
+        "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+        "raw": "CALCHAS: \"Then the ships stay where they are.\"",
+        "spoken": "Then the ships stay where they are.",
+        "words": 7
+      },
+      {
+        "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+        "raw": "Agamemnon sent word that Iphigenia should come to the camp, to marry Achilles. She arrived in her wedding dress.",
+        "spoken": "Agamemnon sent word that Iphigenia should come to the camp, to marry Achilles. She arrived in her wedding dress.",
+        "words": 19
+      },
+      {
+        "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+        "raw": "IPHIGENIA: \"Father? Where is the groom?\"",
+        "spoken": "Father? Where is the groom?",
+        "words": 5
+      },
+      {
+        "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+        "raw": "What happened next depends on who is telling it. In some versions she was killed. In others, Artemis swapped her for a deer at the last second and carried her away.",
+        "spoken": "What happened next depends on who is telling it. In some versions she was killed. In others, Artemis swapped her for a deer at the last second and carried her away.",
+        "words": 31
+      },
+      {
+        "chapter": "[CHAPTER 3: THE FLEET AT AULIS]",
+        "raw": "The wind rose. The fleet sailed. And Clytemnestra, back in Mycenae, began to wait.",
+        "spoken": "The wind rose. The fleet sailed. And Clytemnestra, back in Mycenae, began to wait.",
+        "words": 14
+      }
+    ],
+    "closing_line": "The wind rose. The fleet sailed. And Clytemnestra, back in Mycenae, began to wait.",
+    "est_seconds": 408.5,
+    "est_minutes": 6.81,
+    "est_clips": 28
+  },
+  "2": {
+    "part": 2,
+    "title": "Part 2: The Wrath of Achilles",
+    "chapters": [
+      "[CHAPTER 4: NINE YEARS OF NOTHING]",
+      "[CHAPTER 5: THE ARGUMENT]",
+      "[CHAPTER 6: A DUEL AND A GOODBYE]",
+      "[CHAPTER 7: ARMOR]"
+    ],
+    "words": 780,
+    "lines": [
+      {
+        "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+        "raw": "By Homer's count, close to twelve hundred ships crossed the Aegean. According to tradition, the first man to step ashore was destined to die.",
+        "spoken": "By Homer's count, close to twelve hundred ships crossed the Aegean. According to tradition, the first man to step ashore was destined to die.",
+        "words": 24
+      },
+      {
+        "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+        "raw": "PROTESILAUS: \"Someone has to be first.\"",
+        "spoken": "Someone has to be first.",
+        "words": 5
+      },
+      {
+        "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+        "raw": "He was dead within the hour.",
+        "spoken": "He was dead within the hour.",
+        "words": 6
+      },
+      {
+        "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+        "raw": "Early on, another leader, Philoctetes, was bitten by a snake. The wound smelled so foul that the army abandoned him on the island of Lemnos, along with his bow.",
+        "spoken": "Early on, another leader, Philoctetes, was bitten by a snake. The wound smelled so foul that the army abandoned him on the island of Lemnos, along with his bow.",
+        "words": 29
+      },
+      {
+        "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+        "raw": "PHILOCTETES: \"You can't leave me here!\"",
+        "spoken": "You can't leave me here!",
+        "words": 5
+      },
+      {
+        "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+        "raw": "ODYSSEUS: \"Your wound is too foul for the camp. We'll send for you.\"",
+        "spoken": "Your wound is too foul for the camp. We'll send for you.",
+        "words": 12
+      },
+      {
+        "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+        "raw": "That bow had belonged to Heracles. They would regret leaving it.",
+        "spoken": "That bow had belonged to Heracles. They would regret leaving it.",
+        "words": 11
+      },
+      {
+        "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+        "raw": "Then came the long middle. Troy's walls were said to have been raised by Poseidon and Apollo, who had been cheated of their payment by an earlier king, so at least two gods had a grudge against the city. The Greeks raided the surrounding land for years.",
+        "spoken": "Then came the long middle. Troy's walls were said to have been raised by Poseidon and Apollo, who had been cheated of their payment by an earlier king, so at least two gods had a grudge against the city. The Greeks raided the surrounding land for years.",
+        "words": 47
+      },
+      {
+        "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+        "raw": "ACHILLES: \"A dozen cities by sea. Eleven more by land. And Troy's walls still stand.\"",
+        "spoken": "A dozen cities by sea. Eleven more by land. And Troy's walls still stand.",
+        "words": 14
+      },
+      {
+        "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+        "raw": "Nine years of this. And then, in the tenth, it all nearly fell apart. Not because of Troy, but because of an argument in the Greek camp.",
+        "spoken": "Nine years of this. And then, in the tenth, it all nearly fell apart. Not because of Troy, but because of an argument in the Greek camp.",
+        "words": 27
+      },
+      {
+        "chapter": "[CHAPTER 5: THE ARGUMENT]",
+        "raw": "The Iliad does not open with a battle. It opens with a plague. Agamemnon had taken a captive girl, Chryseis, whose father served as a priest of Apollo.",
+        "spoken": "The Iliad does not open with a battle. It opens with a plague. Agamemnon had taken a captive girl, Chryseis, whose father served as a priest of Apollo.",
+        "words": 28
+      },
+      {
+        "chapter": "[CHAPTER 5: THE ARGUMENT]",
+        "raw": "CHRYSES: \"Give me back my daughter.\"",
+        "spoken": "Give me back my daughter.",
+        "words": 5
+      },
+      {
+        "chapter": "[CHAPTER 5: THE ARGUMENT]",
+        "raw": "AGAMEMNON: \"Leave my camp, old man, before I lose my patience.\"",
+        "spoken": "Leave my camp, old man, before I lose my patience.",
+        "words": 10
+      },
+      {
+        "chapter": "[CHAPTER 5: THE ARGUMENT]",
+        "raw": "The priest prayed to his god, and Apollo's arrows fell on the Greek camp for nine days. Agamemnon finally gave in.",
+        "spoken": "The priest prayed to his god, and Apollo's arrows fell on the Greek camp for nine days. Agamemnon finally gave in.",
+        "words": 21
+      },
+      {
+        "chapter": "[CHAPTER 5: THE ARGUMENT]",
+        "raw": "AGAMEMNON: \"Fine. She goes home. But I'll take Briseis in her place.\"",
+        "spoken": "Fine. She goes home. But I'll take Briseis in her place.",
+        "words": 11
+      },
+      {
+        "chapter": "[CHAPTER 5: THE ARGUMENT]",
+        "raw": "ACHILLES: \"After everything I've done for you? You'd take from me?\"",
+        "spoken": "After everything I've done for you? You'd take from me?",
+        "words": 10
+      },
+      {
+        "chapter": "[CHAPTER 5: THE ARGUMENT]",
+        "raw": "AGAMEMNON: \"I'm the king. I take what I choose.\"",
+        "spoken": "I'm the king. I take what I choose.",
+        "words": 8
+      },
+      {
+        "chapter": "[CHAPTER 5: THE ARGUMENT]",
+        "raw": "Achilles reached for his sword. Athena herself caught him by the hair, and he held back. But he left the field, and he sat in his tent, and he asked his mother for something terrible.",
+        "spoken": "Achilles reached for his sword. Athena herself caught him by the hair, and he held back. But he left the field, and he sat in his tent, and he asked his mother for something terrible.",
+        "words": 35
+      },
+      {
+        "chapter": "[CHAPTER 5: THE ARGUMENT]",
+        "raw": "ACHILLES: \"Mother, ask Zeus to let them lose. Let them find out what they owe me.\"",
+        "spoken": "Mother, ask Zeus to let them lose. Let them find out what they owe me.",
+        "words": 15
+      },
+      {
+        "chapter": "[CHAPTER 5: THE ARGUMENT]",
+        "raw": "Zeus agreed. And the tide of the war turned.",
+        "spoken": "Zeus agreed. And the tide of the war turned.",
+        "words": 9
+      },
+      {
+        "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+        "raw": "First, a pause. With the armies lined up, Paris and Menelaus agreed to settle everything in single combat. Winner takes Helen. Menelaus was winning, with one hand on Paris's helmet, when Aphrodite snapped the strap and swept Paris away in a mist. She set him down in his bedroom.",
+        "spoken": "First, a pause. With the armies lined up, Paris and Menelaus agreed to settle everything in single combat. Winner takes Helen. Menelaus was winning, with one hand on Paris's helmet, when Aphrodite snapped the strap and swept Paris away in a mist. She set him down in his bedroom.",
+        "words": 49
+      },
+      {
+        "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+        "raw": "Helen watched all this from the walls.",
+        "spoken": "Helen watched all this from the walls.",
+        "words": 7
+      },
+      {
+        "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+        "raw": "HELEN: (cold) \"So you're alive. I almost hoped the battle would end this.\"",
+        "spoken": "So you're alive. I almost hoped the battle would end this.",
+        "words": 11
+      },
+      {
+        "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+        "raw": "The truce collapsed anyway, and the fighting began again.",
+        "spoken": "The truce collapsed anyway, and the fighting began again.",
+        "words": 9
+      },
+      {
+        "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+        "raw": "Then comes the quietest scene in the whole poem. Hector, prince of Troy and its best fighter, walks back into the city to say goodbye to his wife, Andromache, and their baby son, Astyanax.",
+        "spoken": "Then comes the quietest scene in the whole poem. Hector, prince of Troy and its best fighter, walks back into the city to say goodbye to his wife, Andromache, and their baby son, Astyanax.",
+        "words": 34
+      },
+      {
+        "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+        "raw": "ANDROMACHE: \"You are my husband, my father, my brothers. Please don't go back out there.\"",
+        "spoken": "You are my husband, my father, my brothers. Please don't go back out there.",
+        "words": 14
+      },
+      {
+        "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+        "raw": "HECTOR: \"If I hide behind these walls, I could never face my own people.\"",
+        "spoken": "If I hide behind these walls, I could never face my own people.",
+        "words": 13
+      },
+      {
+        "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+        "raw": "He reaches for his boy, and the child screams. His father's helmet has a plume that looks like a monster. Hector laughs, lifts the helmet off, and sets it on the ground.",
+        "spoken": "He reaches for his boy, and the child screams. His father's helmet has a plume that looks like a monster. Hector laughs, lifts the helmet off, and sets it on the ground.",
+        "words": 32
+      },
+      {
+        "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+        "raw": "HECTOR: \"May my son grow up better than his father.\"",
+        "spoken": "May my son grow up better than his father.",
+        "words": 9
+      },
+      {
+        "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+        "raw": "Everyone listening knew how this was going to end.",
+        "spoken": "Everyone listening knew how this was going to end.",
+        "words": 9
+      },
+      {
+        "chapter": "[CHAPTER 7: ARMOR]",
+        "raw": "Without Achilles, the Greeks were crushed. Agamemnon sent three envoys to beg him, with gifts, and Achilles refused. He said he was thinking of sailing home.",
+        "spoken": "Without Achilles, the Greeks were crushed. Agamemnon sent three envoys to beg him, with gifts, and Achilles refused. He said he was thinking of sailing home.",
+        "words": 26
+      },
+      {
+        "chapter": "[CHAPTER 7: ARMOR]",
+        "raw": "Hector reached the beach. The first Greek ship caught fire. And Achilles's closest friend, Patroclus, could not watch any longer. He asked to wear Achilles's armor and lead his men.",
+        "spoken": "Hector reached the beach. The first Greek ship caught fire. And Achilles's closest friend, Patroclus, could not watch any longer. He asked to wear Achilles's armor and lead his men.",
+        "words": 30
+      },
+      {
+        "chapter": "[CHAPTER 7: ARMOR]",
+        "raw": "ACHILLES: \"Drive them from the ships. Then come back. Do not chase them to the city.\"",
+        "spoken": "Drive them from the ships. Then come back. Do not chase them to the city.",
+        "words": 15
+      },
+      {
+        "chapter": "[CHAPTER 7: ARMOR]",
+        "raw": "PATROCLUS: \"I understand.\"",
+        "spoken": "I understand.",
+        "words": 2
+      },
+      {
+        "chapter": "[CHAPTER 7: ARMOR]",
+        "raw": "He did not. Patroclus drove the Trojans to their own walls, and there Apollo knocked the helmet from his head. A Trojan spear wounded him, and Hector finished the job.",
+        "spoken": "He did not. Patroclus drove the Trojans to their own walls, and there Apollo knocked the helmet from his head. A Trojan spear wounded him, and Hector finished the job.",
+        "words": 30
+      },
+      {
+        "chapter": "[CHAPTER 7: ARMOR]",
+        "raw": "When Achilles heard, he lay on the ground and poured dust over his head. His mother brought a new set of armor, made by the god Hephaestus, with a shield that showed the whole world on it. Achilles made peace with Agamemnon, and went to find Hector.",
+        "spoken": "When Achilles heard, he lay on the ground and poured dust over his head. His mother brought a new set of armor, made by the god Hephaestus, with a shield that showed the whole world on it. Achilles made peace with Agamemnon, and went to find Hector.",
+        "words": 47
+      },
+      {
+        "chapter": "[CHAPTER 7: ARMOR]",
+        "raw": "He killed a river's worth of Trojans. The river god Scamander, choked with bodies, rose against him, and only fire from the gods turned it back. The Trojans fled into the city. All except Hector, who stood alone outside the gate.",
+        "spoken": "He killed a river's worth of Trojans. The river god Scamander, choked with bodies, rose against him, and only fire from the gods turned it back. The Trojans fled into the city. All except Hector, who stood alone outside the gate.",
+        "words": 41
+      },
+      {
+        "chapter": "[CHAPTER 7: ARMOR]",
+        "raw": "Then his nerve broke. He ran. Achilles chased him around the walls again and again, until Athena, disguised as Hector's own brother, convinced him to turn and fight.",
+        "spoken": "Then his nerve broke. He ran. Achilles chased him around the walls again and again, until Athena, disguised as Hector's own brother, convinced him to turn and fight.",
+        "words": 28
+      },
+      {
+        "chapter": "[CHAPTER 7: ARMOR]",
+        "raw": "HECTOR: \"If I lose, swear you'll give my body back to my family.\"",
+        "spoken": "If I lose, swear you'll give my body back to my family.",
+        "words": 12
+      },
+      {
+        "chapter": "[CHAPTER 7: ARMOR]",
+        "raw": "ACHILLES: \"Lions don't make bargains with men.\"",
+        "spoken": "Lions don't make bargains with men.",
+        "words": 6
+      },
+      {
+        "chapter": "[CHAPTER 7: ARMOR]",
+        "raw": "The spear went through his neck. Achilles tied the body behind his chariot and dragged it around Patroclus's tomb every morning, for twelve days.",
+        "spoken": "The spear went through his neck. Achilles tied the body behind his chariot and dragged it around Patroclus's tomb every morning, for twelve days.",
+        "words": 24
+      }
+    ],
+    "closing_line": "The spear went through his neck. Achilles tied the body behind his chariot and dragged it around Patroclus's tomb every morning, for twelve days.",
+    "est_seconds": 360.0,
+    "est_minutes": 6.0,
+    "est_clips": 24
+  },
+  "3": {
+    "part": 3,
+    "title": "Part 3: The Fall of Heroes & The Wooden Horse",
+    "chapters": [
+      "[CHAPTER 8: THE KING IN THE TENT]",
+      "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "[CHAPTER 10: THE HORSE]"
+    ],
+    "words": 780,
+    "lines": [
+      {
+        "chapter": "[CHAPTER 8: THE KING IN THE TENT]",
+        "raw": "On the twelfth night, an old man crossed the plain alone. Priam, king of Troy, had come to the Greek camp, led by the god Hermes, carrying a ransom. He walked past the guards, into the tent of the man who had killed his son, and knelt. He took Achilles's hands and kissed them.",
+        "spoken": "On the twelfth night, an old man crossed the plain alone. Priam, king of Troy, had come to the Greek camp, led by the god Hermes, carrying a ransom. He walked past the guards, into the tent of the man who had killed his son, and knelt. He took Achilles's hands and kissed them.",
+        "words": 54
+      },
+      {
+        "chapter": "[CHAPTER 8: THE KING IN THE TENT]",
+        "raw": "PRIAM: \"Think of your own father, Achilles. He is old, like me.\"",
+        "spoken": "Think of your own father, Achilles. He is old, like me.",
+        "words": 11
+      },
+      {
+        "chapter": "[CHAPTER 8: THE KING IN THE TENT]",
+        "raw": "Achilles did. The two of them wept in the same room, one for Hector and one for Patroclus.",
+        "spoken": "Achilles did. The two of them wept in the same room, one for Hector and one for Patroclus.",
+        "words": 18
+      },
+      {
+        "chapter": "[CHAPTER 8: THE KING IN THE TENT]",
+        "raw": "ACHILLES: \"Sit, old king. Eat. Even Niobe ate, after she lost all her children.\"",
+        "spoken": "Sit, old king. Eat. Even Niobe ate, after she lost all her children.",
+        "words": 13
+      },
+      {
+        "chapter": "[CHAPTER 8: THE KING IN THE TENT]",
+        "raw": "He gave back the body and promised a truce for the funeral. The Iliad ends right there, with the burial of Hector, tamer of horses. Not with a victory. But the war was not over.",
+        "spoken": "He gave back the body and promised a truce for the funeral. The Iliad ends right there, with the burial of Hector, tamer of horses. Not with a victory. But the war was not over.",
+        "words": 35
+      },
+      {
+        "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+        "raw": "The rest comes from lost poems and later writers. Two more allies arrived to help Troy. An Amazon queen named Penthesilea, whom Achilles killed, and then, the story says, regretted. Then Memnon, a king from the east and the son of the goddess of dawn. Achilles killed him too.",
+        "spoken": "The rest comes from lost poems and later writers. Two more allies arrived to help Troy. An Amazon queen named Penthesilea, whom Achilles killed, and then, the story says, regretted. Then Memnon, a king from the east and the son of the goddess of dawn. Achilles killed him too.",
+        "words": 49
+      },
+      {
+        "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+        "raw": "But Paris, the shepherd who started it all, drew his bow at the city gates. The arrow struck Achilles, guided by Apollo, and the greatest warrior of the Greeks was dead. The famous heel does not appear in any of the early poems. A Roman poet added it more than a thousand years later.",
+        "spoken": "But Paris, the shepherd who started it all, drew his bow at the city gates. The arrow struck Achilles, guided by Apollo, and the greatest warrior of the Greeks was dead. The famous heel does not appear in any of the early poems. A Roman poet added it more than a thousand years later.",
+        "words": 54
+      },
+      {
+        "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+        "raw": "Achilles's divine armor now needed an owner. Ajax, the huge, stubborn warrior who had carried the body from the field, was sure it was his.",
+        "spoken": "Achilles's divine armor now needed an owner. Ajax, the huge, stubborn warrior who had carried the body from the field, was sure it was his.",
+        "words": 25
+      },
+      {
+        "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+        "raw": "AJAX: \"I stood over his body while the arrows fell. Those weapons are mine.\"",
+        "spoken": "I stood over his body while the arrows fell. Those weapons are mine.",
+        "words": 13
+      },
+      {
+        "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+        "raw": "ODYSSEUS: \"And I held the line behind you. Let the judges decide.\"",
+        "spoken": "And I held the line behind you. Let the judges decide.",
+        "words": 11
+      },
+      {
+        "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+        "raw": "The Greeks gave it to Odysseus. Ajax lost his reason and slaughtered a flock of livestock, thinking they were his own commanders. When he came to his senses, he could not bear what he had done, and he took his own life.",
+        "spoken": "The Greeks gave it to Odysseus. Ajax lost his reason and slaughtered a flock of livestock, thinking they were his own commanders. When he came to his senses, he could not bear what he had done, and he took his own life.",
+        "words": 42
+      },
+      {
+        "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+        "raw": "Then a captured Trojan seer told the Greeks what they still needed.",
+        "spoken": "Then a captured Trojan seer told the Greeks what they still needed.",
+        "words": 12
+      },
+      {
+        "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+        "raw": "HELENUS: \"You need three things. Achilles's son. The statue of Athena inside the city. And the bow of Heracles. Without them, Troy stands forever.\"",
+        "spoken": "You need three things. Achilles's son. The statue of Athena inside the city. And the bow of Heracles. Without them, Troy stands forever.",
+        "words": 23
+      },
+      {
+        "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+        "raw": "They sent for all three. Philoctetes was healed and went back to the war. His first target was Paris. The arrow struck, and Paris, dying, begged for help from Oenone, a nymph he had abandoned years before.",
+        "spoken": "They sent for all three. Philoctetes was healed and went back to the war. His first target was Paris. The arrow struck, and Paris, dying, begged for help from Oenone, a nymph he had abandoned years before.",
+        "words": 37
+      },
+      {
+        "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+        "raw": "OENONE: \"You left me for her. And now you want my help?\"",
+        "spoken": "You left me for her. And now you want my help?",
+        "words": 11
+      },
+      {
+        "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+        "raw": "She refused. She changed her mind too late, and she took her own life beside his funeral fire.",
+        "spoken": "She refused. She changed her mind too late, and she took her own life beside his funeral fire.",
+        "words": 18
+      },
+      {
+        "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+        "raw": "Odysseus and Diomedes crept into Troy at night and stole the statue. Every prophecy was now fulfilled. And Troy's walls still stood.",
+        "spoken": "Odysseus and Diomedes crept into Troy at night and stole the statue. Every prophecy was now fulfilled. And Troy's walls still stood.",
+        "words": 22
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "ODYSSEUS: \"We can't break their walls. So we make them open the gates themselves.\"",
+        "spoken": "We can't break their walls. So we make them open the gates themselves.",
+        "words": 13
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "The Greeks would build a giant wooden horse and leave it outside the gate, as an offering to Athena for a safe voyage home. Inside, they would hide their best men. The rest would burn the camp and sail away, hiding behind a nearby island.",
+        "spoken": "The Greeks would build a giant wooden horse and leave it outside the gate, as an offering to Athena for a safe voyage home. Inside, they would hide their best men. The rest would burn the camp and sail away, hiding behind a nearby island.",
+        "words": 45
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "EPEIUS: \"Give me pine from Mount Ida and three days.\"",
+        "spoken": "Give me pine from Mount Ida and three days.",
+        "words": 9
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "A craftsman named Epeius built it, with Athena's help. The story does not agree on how many men fit inside. Some say twenty. Some say fifty. Nobody says it was comfortable.",
+        "spoken": "A craftsman named Epeius built it, with Athena's help. The story does not agree on how many men fit inside. Some say twenty. Some say fifty. Nobody says it was comfortable.",
+        "words": 31
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "In the morning, the Trojans walked out to find the Greek camp gone and an enormous horse standing in the sand. They argued.",
+        "spoken": "In the morning, the Trojans walked out to find the Greek camp gone and an enormous horse standing in the sand. They argued.",
+        "words": 23
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "TROJAN: \"Burn it.\"",
+        "spoken": "Burn it.",
+        "words": 2
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "ANOTHER TROJAN: \"Break it open.\"",
+        "spoken": "Break it open.",
+        "words": 3
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "THIRD TROJAN: \"Drag it inside. It's a gift to Athena.\"",
+        "spoken": "Drag it inside. It's a gift to Athena.",
+        "words": 8
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "A priest named Laoco\u00f6n had no doubt.",
+        "spoken": "A priest named Laoco\u00f6n had no doubt.",
+        "words": 7
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "LAOCOON: \"I don't trust Greeks, even when they bring gifts.\"",
+        "spoken": "I don't trust Greeks, even when they bring gifts.",
+        "words": 9
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "He threw a spear into its side, and the horse rang hollow. But that night, two sea serpents rose from the water and killed him and his sons. The Trojans took it as a sign.",
+        "spoken": "He threw a spear into its side, and the horse rang hollow. But that night, two sea serpents rose from the water and killed him and his sons. The Trojans took it as a sign.",
+        "words": 35
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "A Greek prisoner named Sinon helped them decide.",
+        "spoken": "A Greek prisoner named Sinon helped them decide.",
+        "words": 8
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "SINON: \"They left me to die. I'm telling you the truth. Keep the horse, and Athena protects you.\"",
+        "spoken": "They left me to die. I'm telling you the truth. Keep the horse, and Athena protects you.",
+        "words": 17
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "Cassandra, a daughter of Priam, told them the truth. Apollo had given her the gift of prophecy and the curse of never being believed.",
+        "spoken": "Cassandra, a daughter of Priam, told them the truth. Apollo had given her the gift of prophecy and the curse of never being believed.",
+        "words": 24
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "CASSANDRA: \"There are men inside. Burn it, before it burns you.\"",
+        "spoken": "There are men inside. Burn it, before it burns you.",
+        "words": 10
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "CROWD: \"Quiet, Cassandra. Not tonight.\"",
+        "spoken": "Quiet, Cassandra. Not tonight.",
+        "words": 4
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "And the Odyssey adds a detail that gives me chills. Helen, in the dark, walked around the horse and called out to the men inside, in the voices of their own wives.",
+        "spoken": "And the Odyssey adds a detail that gives me chills. Helen, in the dark, walked around the horse and called out to the men inside, in the voices of their own wives.",
+        "words": 32
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "HELEN: (softly, in a stranger's voice) \"Is that you, my love? Come out. It's me.\"",
+        "spoken": "Is that you, my love? Come out. It's me.",
+        "words": 9
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "The men inside went still. One of them started to answer. Odysseus clamped a hand over his mouth.",
+        "spoken": "The men inside went still. One of them started to answer. Odysseus clamped a hand over his mouth.",
+        "words": 18
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "ODYSSEUS: (barely a whisper) \"Not a sound.\"",
+        "spoken": "Not a sound.",
+        "words": 3
+      },
+      {
+        "chapter": "[CHAPTER 10: THE HORSE]",
+        "raw": "He held it there until she went away. The Trojans pulled the horse inside. They celebrated all night, and then they slept.",
+        "spoken": "He held it there until she went away. The Trojans pulled the horse inside. They celebrated all night, and then they slept.",
+        "words": 22
+      }
+    ],
+    "closing_line": "He held it there until she went away. The Trojans pulled the horse inside. They celebrated all night, and then they slept.",
+    "est_seconds": 360.0,
+    "est_minutes": 6.0,
+    "est_clips": 24
+  },
+  "4": {
+    "part": 4,
+    "title": "Part 4: Ashes, Homecoming & History",
+    "chapters": [
+      "[CHAPTER 11: THE NIGHT TROY BURNED]",
+      "[CHAPTER 12: THE ROAD HOME]",
+      "[CHAPTER 13: SO WHAT ACTUALLY HAPPENED?]"
+    ],
+    "words": 600,
+    "lines": [
+      {
+        "chapter": "[CHAPTER 11: THE NIGHT TROY BURNED]",
+        "raw": "SINON: (quietly, at the horse) \"Now.\"",
+        "spoken": "Now.",
+        "words": 1
+      },
+      {
+        "chapter": "[CHAPTER 11: THE NIGHT TROY BURNED]",
+        "raw": "The warriors slid down, killed the guards, and opened the gates. The fleet, which had only been waiting offshore, came back in the dark.",
+        "spoken": "The warriors slid down, killed the guards, and opened the gates. The fleet, which had only been waiting offshore, came back in the dark.",
+        "words": 24
+      },
+      {
+        "chapter": "[CHAPTER 11: THE NIGHT TROY BURNED]",
+        "raw": "Priam was found at the altar of his own palace, face to face with Neoptolemus, the son of Achilles.",
+        "spoken": "Priam was found at the altar of his own palace, face to face with Neoptolemus, the son of Achilles.",
+        "words": 19
+      },
+      {
+        "chapter": "[CHAPTER 11: THE NIGHT TROY BURNED]",
+        "raw": "PRIAM: \"Your father at least respected an old man.\"",
+        "spoken": "Your father at least respected an old man.",
+        "words": 8
+      },
+      {
+        "chapter": "[CHAPTER 11: THE NIGHT TROY BURNED]",
+        "raw": "NEOPTOLEMUS: \"Then go and tell him how his son behaves.\"",
+        "spoken": "Then go and tell him how his son behaves.",
+        "words": 9
+      },
+      {
+        "chapter": "[CHAPTER 11: THE NIGHT TROY BURNED]",
+        "raw": "Astyanax, the baby who had screamed at his father's helmet, was thrown from the walls so that he would never grow up to take revenge. The Trojan princess Polyxena was sacrificed at Achilles's tomb. The women of Troy, including Hector's widow, Andromache, were carried off as slaves.",
+        "spoken": "Astyanax, the baby who had screamed at his father's helmet, was thrown from the walls so that he would never grow up to take revenge. The Trojan princess Polyxena was sacrificed at Achilles's tomb. The women of Troy, including Hector's widow, Andromache, were carried off as slaves.",
+        "words": 47
+      },
+      {
+        "chapter": "[CHAPTER 11: THE NIGHT TROY BURNED]",
+        "raw": "And Cassandra was dragged from the statue of Athena by Ajax the Lesser, a crime so serious that Athena, who had backed the Greeks for ten years, turned on them completely.",
+        "spoken": "And Cassandra was dragged from the statue of Athena by Ajax the Lesser, a crime so serious that Athena, who had backed the Greeks for ten years, turned on them completely.",
+        "words": 31
+      },
+      {
+        "chapter": "[CHAPTER 11: THE NIGHT TROY BURNED]",
+        "raw": "Troy was gone. But in the Greek story, winning was the easy part.",
+        "spoken": "Troy was gone. But in the Greek story, winning was the easy part.",
+        "words": 13
+      },
+      {
+        "chapter": "[CHAPTER 12: THE ROAD HOME]",
+        "raw": "The goddess sent storms that scattered the fleet. Ajax the Lesser clung to a rock.",
+        "spoken": "The goddess sent storms that scattered the fleet. Ajax the Lesser clung to a rock.",
+        "words": 15
+      },
+      {
+        "chapter": "[CHAPTER 12: THE ROAD HOME]",
+        "raw": "AJAX THE LESSER: \"I survived! The gods couldn't stop me!\"",
+        "spoken": "I survived! The gods couldn't stop me!",
+        "words": 7
+      },
+      {
+        "chapter": "[CHAPTER 12: THE ROAD HOME]",
+        "raw": "POSEIDON: \"Say that again.\"",
+        "spoken": "Say that again.",
+        "words": 3
+      },
+      {
+        "chapter": "[CHAPTER 12: THE ROAD HOME]",
+        "raw": "Poseidon split the rock with his trident.",
+        "spoken": "Poseidon split the rock with his trident.",
+        "words": 7
+      },
+      {
+        "chapter": "[CHAPTER 12: THE ROAD HOME]",
+        "raw": "Agamemnon sailed home to Mycenae in triumph. His wife Clytemnestra was waiting, with her new lover, Aegisthus, and ten years of grief for Iphigenia.",
+        "spoken": "Agamemnon sailed home to Mycenae in triumph. His wife Clytemnestra was waiting, with her new lover, Aegisthus, and ten years of grief for Iphigenia.",
+        "words": 24
+      },
+      {
+        "chapter": "[CHAPTER 12: THE ROAD HOME]",
+        "raw": "CLYTEMNESTRA: \"Ten years, Agamemnon. Did you think I wasn't counting?\"",
+        "spoken": "Ten years, Agamemnon. Did you think I wasn't counting?",
+        "words": 9
+      },
+      {
+        "chapter": "[CHAPTER 12: THE ROAD HOME]",
+        "raw": "AGAMEMNON: \"I won the war. I'm home.\"",
+        "spoken": "I won the war. I'm home.",
+        "words": 6
+      },
+      {
+        "chapter": "[CHAPTER 12: THE ROAD HOME]",
+        "raw": "CLYTEMNESTRA: \"Yes. And now you answer for our daughter.\"",
+        "spoken": "Yes. And now you answer for our daughter.",
+        "words": 8
+      },
+      {
+        "chapter": "[CHAPTER 12: THE ROAD HOME]",
+        "raw": "Some versions say he was murdered at a banquet. Others, in his bath. The man who commanded the largest army of the age did not survive his first night home. His son Orestes, years later, avenged him.",
+        "spoken": "Some versions say he was murdered at a banquet. Others, in his bath. The man who commanded the largest army of the age did not survive his first night home. His son Orestes, years later, avenged him.",
+        "words": 37
+      },
+      {
+        "chapter": "[CHAPTER 12: THE ROAD HOME]",
+        "raw": "Menelaus and Helen wandered for eight years, through Egypt and beyond, before they made it back to Sparta. And Odysseus took another ten years, through monsters and witches and a few angry gods. But that is another story.",
+        "spoken": "Menelaus and Helen wandered for eight years, through Egypt and beyond, before they made it back to Sparta. And Odysseus took another ten years, through monsters and witches and a few angry gods. But that is another story.",
+        "words": 38
+      },
+      {
+        "chapter": "[CHAPTER 12: THE ROAD HOME]",
+        "raw": "On the Trojan side, one man escaped. Aeneas carried his old father out of the burning city on his back. Centuries later, the Roman poet Virgil said that Aeneas reached Italy and became the ancestor of Rome. One of the greatest empires in history traced its roots to a refugee from a burned city.",
+        "spoken": "On the Trojan side, one man escaped. Aeneas carried his old father out of the burning city on his back. Centuries later, the Roman poet Virgil said that Aeneas reached Italy and became the ancestor of Rome. One of the greatest empires in history traced its roots to a refugee from a burned city.",
+        "words": 54
+      },
+      {
+        "chapter": "[CHAPTER 13: SO WHAT ACTUALLY HAPPENED?]",
+        "raw": "Is any of it real? In northwest Turkey there is a mound called Hisarlik. A British diplomat and amateur archaeologist, Frank Calvert, suspected it was Troy. Then a wealthy German businessman, Heinrich Schliemann, dug through it in the 1870s with a trench so aggressive that he cut straight through the layers he was looking for.",
+        "spoken": "Is any of it real? In northwest Turkey there is a mound called Hisarlik. A British diplomat and amateur archaeologist, Frank Calvert, suspected it was Troy. Then a wealthy German businessman, Heinrich Schliemann, dug through it in the 1870s with a trench so aggressive that he cut straight through the layers he was looking for.",
+        "words": 55
+      },
+      {
+        "chapter": "[CHAPTER 13: SO WHAT ACTUALLY HAPPENED?]",
+        "raw": "SCHLIEMANN: (triumphant) \"I have found the treasure of Priam!\"",
+        "spoken": "I have found the treasure of Priam!",
+        "words": 7
+      },
+      {
+        "chapter": "[CHAPTER 13: SO WHAT ACTUALLY HAPPENED?]",
+        "raw": "He had not. It was about a thousand years too early.",
+        "spoken": "He had not. It was about a thousand years too early.",
+        "words": 11
+      },
+      {
+        "chapter": "[CHAPTER 13: SO WHAT ACTUALLY HAPPENED?]",
+        "raw": "But the site is real. Nine main cities were built on top of each other. One of them, called Troy VIIa, was burned around 1180 BC, with human remains and piles of sling stones scattered in the ruins. Something violent did happen there.",
+        "spoken": "But the site is real. Nine main cities were built on top of each other. One of them, called Troy VIIa, was burned around 1180 BC, with human remains and piles of sling stones scattered in the ruins. Something violent did happen there.",
+        "words": 43
+      },
+      {
+        "chapter": "[CHAPTER 13: SO WHAT ACTUALLY HAPPENED?]",
+        "raw": "And the Hittite archives, from the same period, add something remarkable. They mention a western kingdom called Wilusa, which sounds a lot like Ilios, the Greek name for Troy. A treaty names its king, Alaksandu, which sounds a lot like Alexandros, another name for Paris. They also mention a rival power across the sea, called Ahhiyawa, which may be the Achaeans.",
+        "spoken": "And the Hittite archives, from the same period, add something remarkable. They mention a western kingdom called Wilusa, which sounds a lot like Ilios, the Greek name for Troy. A treaty names its king, Alaksandu, which sounds a lot like Alexandros, another name for Paris. They also mention a rival power across the sea, called Ahhiyawa, which may be the Achaeans.",
+        "words": 61
+      },
+      {
+        "chapter": "[CHAPTER 13: SO WHAT ACTUALLY HAPPENED?]",
+        "raw": "MASCOT: \"That's a lot of coincidences.\"",
+        "spoken": "That's a lot of coincidences.",
+        "words": 5
+      },
+      {
+        "chapter": "[CHAPTER 13: SO WHAT ACTUALLY HAPPENED?]",
+        "raw": "The war did not necessarily happen the way Homer told it. It may have been many raids, over many years, folded into one story. But something happened on that hill, bad enough that nobody ever stopped telling it.",
+        "spoken": "The war did not necessarily happen the way Homer told it. It may have been many raids, over many years, folded into one story. But something happened on that hill, bad enough that nobody ever stopped telling it.",
+        "words": 38
+      },
+      {
+        "chapter": "[CHAPTER 13: SO WHAT ACTUALLY HAPPENED?]",
+        "raw": "In the Greek version, it all began with a guest list. A party, and one goddess nobody thought to invite.",
+        "spoken": "In the Greek version, it all began with a guest list. A party, and one goddess nobody thought to invite.",
+        "words": 20
+      }
+    ],
+    "closing_line": "In the Greek version, it all began with a guest list. A party, and one goddess nobody thought to invite.",
+    "est_seconds": 276.9,
+    "est_minutes": 4.62,
+    "est_clips": 19
+  }
+}
