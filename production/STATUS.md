@@ -3,7 +3,7 @@
 **Last updated:** 2026-10-03 UTC
 **Branch:** `arena/01a10301-yt-2`
 **Phase:** Step 3 — character and location asset sheets in progress
-**Production state:** Narrator voice selected; no VO clips, music, rigs, scene images, or video have been generated.
+**Production state:** Complete five-voice cast selected; no VO clips, music, rigs, scene images, or video have been generated.
 
 ## Completed
 
@@ -11,20 +11,17 @@
 |---|---:|---|
 | Workspace audit | Done | No prior production assets, scripts, character sheets, scene plans, VO, music, or tooling existed. |
 | Retention pass and final script | Locked | `production/trojan_war_script_approved.txt` is the verbatim VO source. |
-| Runtime and part structure | Locked | Four parts; 132 wpm average; about 25 minutes assembled. |
+| Runtime and part structure | Locked | Four parts; 132 wpm average; about 25:25 assembled. |
 | Creative direction | Locked | HYBRID, 16:9, Calm Story preset; see `production/creative_direction.md`. |
-| Narrator audition | Selected | User selected `voice-00`; casting metadata is in `production/voice_cast.json`. |
+| Voice cast | 5 / 5 selected | Narrator `voice-00`; mascot `voice-01`; authority/warriors `voice-02`; strategists/younger men `voice-03`; women/divine/prophetic `voice-04`. |
 | Character identity sheets | 3 / 17 accepted | Meno, Achilles, and Hector accepted in batch 01; see `production/qc/asset_qc_batch_01.md`. |
 | First-view location references | 0 / 8 | Not yet generated. |
 | Rig packs and face anchors | 0 | Blocked by complete asset-sheet approval. |
 | VO clips / music / video | 0 | Blocked by the required earlier gates. |
 
-## Current gate
+## Current work
 
-Four character-voice auditions are now required at the user's request: one distinct mascot voice and the three additional character tracks permitted by the master brief. The four-part / 132-wpm / ~25:25 delivery plan is recorded in `production/voice_and_delivery_plan.md`.
+The exact voice assignment and four-part delivery targets are in `production/voice_and_delivery_plan.md` and `production/voice_cast.json`.
 
-## Next actions after voice selections
-
-1. Lock the complete five-voice cast in `production/voice_cast.json`.
-2. Resume the Step 3 character-sheet queue: Odysseus, Paris, and Helen next, then supporting characters and recurring locations.
-3. Present contact sheets for the required Step 3 approval before any rig or scene work.
+- Continue Step 3 with Odysseus, Paris, and Helen, followed by supporting characters and recurring locations.
+- Present complete contact sheets for the required Step 3 approval before any rig or scene work.

@@ -1,6 +1,6 @@
 # Voice and Delivery Plan — Trojan War
 
-**Status:** Narrator selected; four additional master-brief auditions pending user selections.
+**Status:** Complete five-voice cast selected by the user via audition.
 
 ## Locked delivery decision
 
@@ -34,6 +34,6 @@ Each named character still receives a distinct performance profile through line 
 
 No artificial global pitch shifting will be applied. The voices are selected for naturally differentiated registers, which is more believable and avoids digital artifacts. Emotional strength comes from native performance, deliberate silence, music ducking, and image/motion emphasis.
 
-## Current gate
+## Cast lock
 
-The narrator is user-selected. The user will now audition the mascot and the three additional dialogue tracks before character-voice casting is locked.
+The user selected all five voices via audition. The exact `voice_id` assignments are committed in `production/voice_cast.json`. Voiceover generation remains blocked by the master brief's character/location-sheet and rig approval gates.
