@@ -1,6 +1,6 @@
 # Step 3 — Character and Location Asset Manifest
 
-**Status:** Character-sheet batches 01–09 accepted: 17/17 character identities complete; 8/8 first-view location references complete. Location continuity-angle generation is in progress; no scene image may be generated until the complete set is approved.
+**Status:** Character-sheet batches 01–10 accepted: 17/17 character identities complete; 8/8 first-view location references complete. Troy exterior has all four continuity angles accepted; Greek shore camp has 1/4 accepted; remaining location continuity sets are in progress. No scene image may be generated until the complete set is approved.
 
 ## Locked hybrid visual bridge
 
@@ -42,8 +42,8 @@ Each approved location receives a wide reference view plus four later approved c
 
 | Priority | Location | Continuity purpose | Status |
 |---:|---|---|---|
-| 1 | Troy exterior and Scaean Gate | Siege, duels, horse, burning city | Wide reference plus medium and night angles accepted — batches 06/09; 2 continuity angles remaining |
-| 2 | Greek shore camp at Troy | Fleet, ships, Achilles, Greek council | First wide reference accepted — batch 07; 4 continuity angles remaining |
+| 1 | Troy exterior and Scaean Gate | Siege, duels, horse, burning city | Wide reference + medium, night, gate-detail, and high-angle continuity views accepted — batches 06/09/10; continuity set complete |
+| 2 | Greek shore camp at Troy | Fleet, ships, Achilles, Greek council | Wide reference + medium continuity view accepted — batches 07/10; 3 continuity angles remaining |
 | 3 | Troy palace and royal court | Hector, Priam, Cassandra, night fall | First wide reference accepted — batch 07; 4 continuity angles remaining |
 | 4 | Mount Olympus and Ida | Apple judgment and divine setup | First wide reference accepted — batch 07; 4 continuity angles remaining |
 | 5 | Sparta palace and harbor | Helen and Paris's departure | First wide reference accepted — batch 08; 4 continuity angles remaining |
