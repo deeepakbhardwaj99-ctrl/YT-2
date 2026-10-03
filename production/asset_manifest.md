@@ -1,6 +1,6 @@
 # Step 3 — Character and Location Asset Manifest
 
-**Status:** Character-sheet batches 01–05 accepted: 15/17 character identities complete; 0/8 first-view location references complete. No scene image may be generated until the complete set is approved.
+**Status:** Character-sheet batches 01–06 accepted: 17/17 character identities complete; 1/8 first-view location references complete. No scene image may be generated until the complete set is approved.
 
 ## Locked hybrid visual bridge
 
@@ -31,8 +31,8 @@ Each identity sheet is a single 16:9 image: full body, neutral standing pose, fr
 | 13 | Priam | Static cut-out reference | Accepted — batch 05 |
 | 14 | Clytemnestra | Static cut-out reference | Accepted — batch 05 |
 | 15 | Cassandra | Static cut-out reference | Accepted — batch 05 |
-| 16 | Ajax | Static cut-out reference | Queued |
-| 17 | Neoptolemus | Static cut-out reference | Queued |
+| 16 | Ajax | Static cut-out reference | Accepted — batch 06 |
+| 17 | Neoptolemus | Static cut-out reference | Accepted — batch 06 |
 
 The Olympian goddesses, Zeus, Chryses, Calchas, Philoctetes, Laocoön, Sinon, and the remaining one-scene figures will use scene-specific static cut-outs only. They are not recurring enough to justify identity-sheet or rig investment.
 
@@ -42,7 +42,7 @@ Each approved location receives a wide reference view plus four later approved c
 
 | Priority | Location | Continuity purpose | Status |
 |---:|---|---|---|
-| 1 | Troy exterior and Scaean Gate | Siege, duels, horse, burning city | Queued |
+| 1 | Troy exterior and Scaean Gate | Siege, duels, horse, burning city | First wide reference accepted — batch 06; 4 continuity angles remaining |
 | 2 | Greek shore camp at Troy | Fleet, ships, Achilles, Greek council | Queued |
 | 3 | Troy palace and royal court | Hector, Priam, Cassandra, night fall | Queued |
 | 4 | Mount Olympus and Ida | Apple judgment and divine setup | Queued |
