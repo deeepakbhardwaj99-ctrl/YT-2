@@ -1,16 +1,16 @@
 {
-  "clip_id": "p1_clip_19",
+  "clip_id": "p1_clip_21",
   "shot_index": 5,
-  "file_path": "production/part1/backgrounds/p1_clip_19_bg_05.jpg",
+  "file_path": "production/part1/backgrounds/p1_clip_21_bg_05.jpg",
   "status": "not_generated_next_batch",
   "references": [
     "production/assets/locations/loc_aulis_ref.png"
   ],
-  "prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID close background for the Aulis beach, matching the approved harbor reference: pale sand, calm blue-green inlet, Bronze Age ship silhouettes distant, low rocky hills. Show a detail of the plain wooden plow handle and shallow salt furrow ending beside separate donkey-and-ox hoofprints; no animals, people, infant or injury. Keep a clean staging foreground and no text, writing, modern objects, logos, watermark, floor guides or layout circles.",
+  "prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID wide background of the Harbor of Aulis, matching the approved location reference: pale limestone headlands frame a calm blue-green inlet, a small rocky island sits low on the horizon, and a few Bronze Age ships rest quietly at anchor. View from a different stretch of empty sandy shore than the preceding plates, with a shallow curve of beach leading diagonally toward the distant water and broad level ground across the lower foreground for later 2D characters. Soft late-day coastal light, muted ochre and sea-green palette, natural realistic textures. No people, figures, animals, text, letters, writing, modern objects, logos, watermark, floor guides or layout circles.",
   "composition": {
-    "character_visibility": "empty_foreground",
+    "character_visibility": "clear_level_foreground",
     "characters": [
-      "odysseus"
+      "agamemnon"
     ],
     "status": "assembly integration pending"
   }

@@ -2001,6 +2001,216 @@
       "composition": {},
       "protected_objects": [],
       "image_prompt": "Create one distinct 16:9 wide cinematic painterly-realistic HYBRID Aulis shoreline background, consistent with the attached reference. The wooden plow’s shallow furrow curves sharply across pale sand and ends beside separate hoofprints, suggesting a sudden swerve; calm anchored Bronze Age ships and limestone hills sit in the far background. No person, infant, animal, violence or injury is shown. Keep the foreground level and uncluttered for later 2D rigs; soft overcast sea light, muted gray-blue and ochre palette. No text, writing, logos, watermark, modern objects, floor guides or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_19",
+      "shot_index": 5,
+      "path": "production/part1/backgrounds/p1_clip_19_bg_05.jpg",
+      "location": "loc_aulis",
+      "reference": "production/assets/locations/loc_aulis_ref.png",
+      "description": "Medium-close Aulis beach detail with a wooden plow handle, a salt-dusted furrow and separate hoofprint trails.",
+      "shot_type": "medium",
+      "setting_label": "HARBOR OF AULIS — GREECE",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed (source image and labelled batch contact sheet); location continuity, no-people/no-text and composition locks checked.",
+      "qc_note": "Plow handle, salt furrow and separate prints only; no people, animals, infant, injury or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "a40c7c55b68b913c9f833cc1b507465e3b3b06326831d0685ae3f0675b28b0c6",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID close background for the Aulis beach, matching the approved harbor reference: pale sand, calm blue-green inlet, Bronze Age ship silhouettes distant, low rocky hills. Use a distinct medium-close, low shore-level composition: a plain ancient wooden plow handle enters from the upper-right edge, with a shallow salt furrow and small white salt grains crossing the sand; separate, clearly different donkey and ox hoofprint trails diverge beside it but do not meet. Keep the central and lower-middle foreground broad, level and uncluttered for later 2D character staging. No animals, people, infant, child, injury, or violence. Soft overcast coastal light, muted blue-green and ochre palette, natural realistic textures. No text, letters, writing, modern objects, logos, watermark, floor guides or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_20",
+      "shot_index": 1,
+      "path": "production/part1/backgrounds/p1_clip_20_bg_01.jpg",
+      "location": "loc_aulis",
+      "reference": "production/assets/locations/loc_aulis_ref.png",
+      "description": "Wide Aulis shore with anchored ships and slack sails beyond an open sandy staging area.",
+      "shot_type": "wide",
+      "setting_label": "HARBOR OF AULIS — GREECE",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed (source image and labelled batch contact sheet); location continuity, no-people/no-text and composition locks checked.",
+      "qc_note": "Anchored ships, slack sails and broad clear beach; no people, animals or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "50d5ee5ddbf9a10e0f7600c9a0fa68f8d49bec23fb07918cff91e9c8eb14c5a2",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID wide background of the Harbor of Aulis, matching the approved reference: pale sandy beach, calm blue-green inlet, rugged low limestone hills, and a line of Bronze Age Greek ships anchored offshore. Their plain linen sails hang slack in the still air. View from the open shore at eye level, with a broad, level, uncluttered lower foreground reserved for later 2D character staging; ships and coast occupy the middle and far distance. Soft coastal haze, muted ochre and blue-green palette, realistic natural textures. No people, figures, animals, text, letters, writing, modern objects, logos, watermark, floor guides or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_20",
+      "shot_index": 2,
+      "path": "production/part1/backgrounds/p1_clip_20_bg_02.jpg",
+      "location": "loc_aulis",
+      "reference": "production/assets/locations/loc_aulis_ref.png",
+      "description": "Elevated panoramic establishing view of Aulis inlet, rocky headlands and a sandy landing.",
+      "shot_type": "establishing",
+      "setting_label": "HARBOR OF AULIS — GREECE",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed (source image and labelled batch contact sheet); location continuity, no-people/no-text and composition locks checked.",
+      "qc_note": "Distinct elevated panorama with a clean lower-third; no people, animals or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "67a0189dbb1f0ddd7d1f13be75174823687d90db044b1a2d5ec61cfa9eca4dca",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID establishing background of the Harbor of Aulis, faithfully matching the approved harbor reference. A broad panoramic inlet curves between pale limestone headlands, several Bronze Age ships rest at anchor in calm blue-green water, and a quiet sandy landing fills the foreground. Slightly elevated viewpoint from a rocky shore, spacious composition with clear level ground across the lower third for later 2D character staging. Warm late-afternoon haze, restrained ochre stone and blue-green sea. No people, figures, animals, text, letters, writing, modern objects, logos, watermark, floor guides or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_20",
+      "shot_index": 3,
+      "path": "production/part1/backgrounds/p1_clip_20_bg_03.jpg",
+      "location": "loc_aulis",
+      "reference": "production/assets/locations/loc_aulis_ref.png",
+      "description": "Low waterline view of quiet ships and their reflections across a level sandy foreground.",
+      "shot_type": "wide",
+      "setting_label": "HARBOR OF AULIS — GREECE",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed (source image and labelled batch contact sheet); location continuity, no-people/no-text and composition locks checked.",
+      "qc_note": "Shore-level angle and still ship reflections; open sand, no people, animals or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "0dc7d94234d60573b7eb08ad40377d4c47be1c7695bd1fd7e6312d2929818ce3",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID wide background at Aulis, matching the approved Bronze Age harbor reference. Low shore-level view along the waterline: dark wooden Greek ships with simple masts sit quietly offshore, slack sails and still reflections on a blue-green inlet; sun-bleached rocks and scrubby limestone hills frame the far shore. Leave an open, flat sandy foreground across the lower half, with the vessels kept to the middle distance. Soft diffused light, muted stone and sea palette. No people, figures, animals, text, letters, writing, modern objects, logos, watermark, floor guides or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_20",
+      "shot_index": 4,
+      "path": "production/part1/backgrounds/p1_clip_20_bg_04.jpg",
+      "location": "loc_aulis",
+      "reference": "production/assets/locations/loc_aulis_ref.png",
+      "description": "Unadorned bronze helmet and round shield on a harbor ledge, with ships in the distance.",
+      "shot_type": "medium",
+      "setting_label": "HARBOR OF AULIS — GREECE",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed (source image and labelled batch contact sheet); location continuity, no-people/no-text and composition locks checked.",
+      "qc_note": "Bronze gear has no visible symbols or lettering; staging ground remains clear; no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "0b25a61b138bcf41276246071a6dbe9b9f2d820fd79887b11f97712fcbb76ab6",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID medium background at the Aulis harbor, consistent with the approved reference. At one side of a pale limestone landing, an unadorned ancient bronze helmet and round shield rest on a low weathered stone ledge, suggesting an absent warrior; calm blue-green water and a few Bronze Age ships are softly visible behind them. Keep the central and lower foreground level, clean and open for later 2D character staging. Natural bronze patina, warm ochre stone, soft coastal daylight. The helmet and shield have no engravings, symbols or lettering. No people, figures, animals, text, writing, modern objects, logos, watermark, floor guides or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_20",
+      "shot_index": 5,
+      "path": "production/part1/backgrounds/p1_clip_20_bg_05.jpg",
+      "location": "loc_aulis",
+      "reference": "production/assets/locations/loc_aulis_ref.png",
+      "description": "Detail of a plain spearhead, shield edge and ancient mooring rope beside the harbor.",
+      "shot_type": "detail",
+      "setting_label": "HARBOR OF AULIS — GREECE",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed (source image and labelled batch contact sheet); location continuity, no-people/no-text and composition locks checked.",
+      "qc_note": "Equipment has no inscriptions or symbols; open sandy center; no people, animals or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "ef3a4bc2d879535991537835ba19a22575514308feb070d5b83cf8c63657d7a7",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID detail background on the Aulis shore, matching the approved location reference. A plain bronze spearhead and a weathered wooden shield edge rest partly cropped near the far left of a pale sandy landing; a thick ancient ship mooring rope leads toward calm blue-green harbor water, with small Bronze Age ship silhouettes softly blurred in the distance. Keep most of the central and lower frame simple, level sand for later 2D character staging. Subtle bronze and rope texture, gentle atmospheric depth, warm muted coastal light. No lettering or carved symbols, no people, figures, animals, text, writing, modern objects, logos, watermark, floor guides or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_21",
+      "shot_index": 1,
+      "path": "production/part1/backgrounds/p1_clip_21_bg_01.jpg",
+      "location": "loc_aulis",
+      "reference": "production/assets/locations/loc_aulis_ref.png",
+      "description": "Establishing view over a quiet inlet toward a distant rocky headland and anchored ships.",
+      "shot_type": "establishing",
+      "setting_label": "HARBOR OF AULIS — GREECE",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed (source image and labelled batch contact sheet); location continuity, no-people/no-text and composition locks checked.",
+      "qc_note": "Open island-like horizon and empty beach retain Aulis palette; no people, animals or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "1113bdf0f5987b6d2e83c0aaebc8d760d2073a58efa7950ad1ad75135de40896",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID establishing background for the approved Aulis harbor location. A quiet blue-green inlet opens beyond a wide empty beach, with small Bronze Age Greek ships anchored far offshore and layered limestone headlands fading into sea haze. A low rocky island-like headland sits on the distant horizon, hinting at an island across the water while retaining the established Aulis coast palette and architecture. Broad, level, uncluttered foreground for later 2D character staging; warm pale sand, sparse scrub, soft coastal light. No people, figures, animals, text, letters, writing, modern objects, logos, watermark, floor guides or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_21",
+      "shot_index": 2,
+      "path": "production/part1/backgrounds/p1_clip_21_bg_02.jpg",
+      "location": "loc_aulis",
+      "reference": "production/assets/locations/loc_aulis_ref.png",
+      "description": "Diagonal wide cove view toward a remote rocky shore, with a few anchored vessels.",
+      "shot_type": "wide",
+      "setting_label": "HARBOR OF AULIS — GREECE",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed (source image and labelled batch contact sheet); location continuity, no-people/no-text and composition locks checked.",
+      "qc_note": "Cove, boats and rocky shore remain empty; no people, animals or lettering.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "4f6bedb5fc566f01701813d9dcd1420ed425b9cf8df9ca7d032b4cc4a3c98f4a",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID wide background at Aulis, closely matching the approved harbor reference. View diagonally across a sheltered cove toward a remote pale-rock island and its rugged shoreline; a few empty Bronze Age vessels sit at anchor between the beach and island, calm blue-green water, low limestone hills and sparse cypress-like trees. Keep a broad, flat sandy foreground open and uncluttered for 2D character staging. Quiet, contemplative atmosphere, muted ochre stone and sea greens. No people, figures, animals, buildings with writing, text, letters, modern objects, logos, watermark, floor guides or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_21",
+      "shot_index": 3,
+      "path": "production/part1/backgrounds/p1_clip_21_bg_03.jpg",
+      "location": "loc_aulis",
+      "reference": "production/assets/locations/loc_aulis_ref.png",
+      "description": "Single moored vessel and a stone mooring point against a hazy rocky island ridge.",
+      "shot_type": "medium",
+      "setting_label": "HARBOR OF AULIS — GREECE",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed (source image and labelled batch contact sheet); location continuity, no-people/no-text and composition locks checked.",
+      "qc_note": "One empty boat and mooring point; broad central staging ground; no people, animals or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "f5110b220dd884a3eb8915ffd8e33a973a77b1caa947d425fbc2d7b526f9f4f0",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID medium background for the Aulis shoreline, consistent with the approved location reference but with a distinct composition. A weathered stone mooring point and one wooden Bronze Age ship occupy the middle distance at the edge of a calm inlet; beyond it, a steep rocky island ridge rises through sea haze. Pale beach stones and low scrub sit along the frame edges, while the central lower area stays level, broad and clear for later 2D character staging. Soft overcast daylight, subdued blue-green and warm limestone palette. No people, figures, animals, text, letters, writing, modern objects, logos, watermark, floor guides or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_21",
+      "shot_index": 4,
+      "path": "production/part1/backgrounds/p1_clip_21_bg_04.jpg",
+      "location": "loc_aulis",
+      "reference": "production/assets/locations/loc_aulis_ref.png",
+      "description": "Close view of an empty moored ship, furled linen sail and mast beside a stone landing.",
+      "shot_type": "detail",
+      "setting_label": "HARBOR OF AULIS — GREECE",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed (source image and labelled batch contact sheet); location continuity, no-people/no-text and composition locks checked.",
+      "qc_note": "Empty hull and furled sail; no crew, people, animals, symbols or text; dock remains available for staging.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "7315465699322c084ba8ecb822b2bf403bbf4f59ff586d21a3ca4e1ca68f9d71",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID detail background at the Aulis harbor, matched to the approved reference. Close view of a plain wooden Bronze Age ship mast and neatly furled linen sail at the edge of frame, with its empty hull moored in still blue-green water; pale limestone cliffs and a distant island coast are softly blurred behind. Leave the lower middle open, level and uncluttered for later 2D character staging. Atmospheric, quiet coastal light, natural wood grain and canvas, muted ochre and sea-green colors. No crew, people, figures, animals, lettering, symbols, text, modern objects, logos, watermark, floor guides or layout circles."
     }
   ]
 }
