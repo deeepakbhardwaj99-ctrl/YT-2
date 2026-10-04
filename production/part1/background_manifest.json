@@ -577,6 +577,126 @@
         768
       ],
       "sha256": "1f41ac03f195a9d26ddb2a0ea6dba4304bae696bba95f0fa054f61d8ccae1ed0"
+    },
+    {
+      "clip_id": "p1_clip_07",
+      "shot_index": 1,
+      "path": "production/part1/backgrounds/p1_clip_07_bg_01.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Rose-and-ivory wedding terrace with gold apple: Aphrodite claims beauty",
+      "shot_type": "wide",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed: no visible people/text or modern lighting; Olympus style and clear staging checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "4552a8b742ba12c4976ff4d0afd94d241b3532126da05fece419ffce6cc37fc6",
+      "references": [
+        "production/assets/locations/loc_olympus_ref.png",
+        "production/part1/backgrounds/p1_clip_06_bg_01.jpg"
+      ],
+      "protected_objects": [
+        {
+          "name": "golden_apple",
+          "bbox_normalized": [
+            0.465,
+            0.78,
+            0.535,
+            0.92
+          ]
+        }
+      ],
+      "composition": {
+        "character_visibility": "side_slots",
+        "status": "assembly integration pending"
+      },
+      "qc_note": "Apple intentionally text-free; preserve object through camera crop and avoid subtitle overlap. Insert must not place full-body rigs on close-up floor."
+    },
+    {
+      "clip_id": "p1_clip_07",
+      "shot_index": 2,
+      "path": "production/part1/backgrounds/p1_clip_07_bg_02.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "High three-quarter gold apple insert on marble with rose petals",
+      "shot_type": "detail",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed: no visible people/text or modern lighting; Olympus style and clear staging checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "0c56988a61175e27a5ee3afaabdb34efcc842f13819d4c58065fab263663748d",
+      "references": [
+        "production/assets/locations/loc_olympus_ref.png",
+        "production/part1/backgrounds/p1_clip_06_bg_01.jpg"
+      ],
+      "protected_objects": [
+        {
+          "name": "golden_apple",
+          "bbox_normalized": [
+            0.79,
+            0.72,
+            0.9,
+            0.93
+          ]
+        }
+      ],
+      "composition": {
+        "character_visibility": "none",
+        "status": "assembly integration pending"
+      },
+      "qc_note": "Apple intentionally text-free; preserve object through camera crop and avoid subtitle overlap. Insert must not place full-body rigs on close-up floor."
+    },
+    {
+      "clip_id": "p1_clip_07",
+      "shot_index": 3,
+      "path": "production/part1/backgrounds/p1_clip_07_bg_03.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Empty council court facing throne and three vacant seats",
+      "shot_type": "wide",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed: no visible people/text or modern lighting; Olympus style and clear staging checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "c144144d33ceb801f85f21116c2cc86cfe93d0c604866bc904d0a9dfc43fa09c"
+    },
+    {
+      "clip_id": "p1_clip_07",
+      "shot_index": 4,
+      "path": "production/part1/backgrounds/p1_clip_07_bg_04.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Side view of empty throne and open terrace: Zeus reluctant",
+      "shot_type": "medium",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed: no visible people/text or modern lighting; Olympus style and clear staging checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "14813fcaaecb150cd13fd036974895c52a1eec07c93a3ba996cf9863db6c6a3e"
+    },
+    {
+      "clip_id": "p1_clip_07",
+      "shot_index": 5,
+      "path": "production/part1/backgrounds/p1_clip_07_bg_05.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Reverse throne-edge view into clear colonnaded walkway",
+      "shot_type": "wide",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed: no visible people/text or modern lighting; Olympus style and clear staging checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "6732c19d924460a41e0c030fe3dd92dbc0c1b283512692f9c21d0fbcffd527d3"
     }
   ]
 }
