@@ -430,6 +430,153 @@
           ]
         }
       ]
+    },
+    {
+      "clip_id": "p1_clip_06",
+      "shot_index": 2,
+      "path": "production/part1/backgrounds/p1_clip_06_bg_02.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "references": [
+        "production/assets/locations/loc_olympus_ref.png"
+      ],
+      "description": "Overhead detail insert of unmarked golden apple on marble",
+      "shot_type": "detail",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text or modern lights; gold apple and Olympus material continuity checked",
+      "qc_note": "One re-roll: first detail composition too similar to shot 01; replaced with overhead insert. No character rigs on this insert.",
+      "protected_objects": [
+        {
+          "name": "golden_apple",
+          "bbox_normalized": [
+            0.58,
+            0.3,
+            0.89,
+            0.85
+          ]
+        }
+      ],
+      "composition": {
+        "character_visibility": "none",
+        "inscription": "Post-production overlay only; no generated writing",
+        "status": "assembly integration pending"
+      },
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "7d090d1a7347636f28b2de0777f5af99223a7bbb886835b4deb85ddb7d4e2608"
+    },
+    {
+      "clip_id": "p1_clip_06",
+      "shot_index": 3,
+      "path": "production/part1/backgrounds/p1_clip_06_bg_03.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "references": [
+        "production/assets/locations/loc_olympus_ref.png",
+        "production/part1/backgrounds/p1_clip_06_bg_01.jpg"
+      ],
+      "description": "Three distant ceremonial seats beyond golden apple in open wedding court",
+      "shot_type": "wide",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text or modern lights; gold apple and Olympus material continuity checked",
+      "qc_note": "Keep apple unobscured; final screen position must follow camera crop.",
+      "protected_objects": [
+        {
+          "name": "golden_apple",
+          "bbox_normalized": [
+            0.445,
+            0.61,
+            0.555,
+            0.82
+          ]
+        }
+      ],
+      "composition": {
+        "character_visibility": "side_slots",
+        "inscription": "Post-production overlay only; no generated writing",
+        "status": "assembly integration pending"
+      },
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "abb0b053090af2a453b81961989bade0ea3b397b05da81d14e8aad9766deecc3"
+    },
+    {
+      "clip_id": "p1_clip_06",
+      "shot_index": 4,
+      "path": "production/part1/backgrounds/p1_clip_06_bg_04.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "references": [
+        "production/assets/locations/loc_olympus_ref.png",
+        "production/part1/backgrounds/p1_clip_06_bg_01.jpg"
+      ],
+      "description": "Regal chair and long colonnade, golden apple near right column base",
+      "shot_type": "wide",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text or modern lights; gold apple and Olympus material continuity checked",
+      "qc_note": "Keep apple unobscured; final screen position must follow camera crop.",
+      "protected_objects": [
+        {
+          "name": "golden_apple",
+          "bbox_normalized": [
+            0.68,
+            0.59,
+            0.735,
+            0.695
+          ]
+        }
+      ],
+      "composition": {
+        "character_visibility": "side_slots",
+        "inscription": "Post-production overlay only; no generated writing",
+        "status": "assembly integration pending"
+      },
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "fca903cb8e067392c2c7ac851b46a9e777f6dfc3abe30971936ff779f991ec24"
+    },
+    {
+      "clip_id": "p1_clip_06",
+      "shot_index": 5,
+      "path": "production/part1/backgrounds/p1_clip_06_bg_05.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "references": [
+        "production/assets/locations/loc_olympus_ref.png",
+        "production/part1/backgrounds/p1_clip_06_bg_01.jpg"
+      ],
+      "description": "Olive-lined reverse-angle colonnade with centered golden apple",
+      "shot_type": "wide",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text or modern lights; gold apple and Olympus material continuity checked",
+      "qc_note": "Keep apple unobscured; final screen position must follow camera crop.",
+      "protected_objects": [
+        {
+          "name": "golden_apple",
+          "bbox_normalized": [
+            0.46,
+            0.72,
+            0.54,
+            0.88
+          ]
+        }
+      ],
+      "composition": {
+        "character_visibility": "side_slots",
+        "inscription": "Post-production overlay only; no generated writing",
+        "status": "assembly integration pending"
+      },
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "1f41ac03f195a9d26ddb2a0ea6dba4304bae696bba95f0fa054f61d8ccae1ed0"
     }
   ]
 }

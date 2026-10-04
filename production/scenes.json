@@ -1282,11 +1282,11 @@
           "t_start": 3.664,
           "t_end": 7.328,
           "location": "loc_olympus",
-          "shot_type": "wide",
+          "shot_type": "detail",
           "bg_path": "production/part1/backgrounds/p1_clip_06_bg_02.jpg",
-          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot illustrating FOR THE MOST BEAUTIFUL, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Overhead detail insert of unmarked golden apple on marble; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -1318,11 +1318,11 @@
           "t_start": 7.328,
           "t_end": 10.992,
           "location": "loc_olympus",
-          "shot_type": "medium",
+          "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_06_bg_03.jpg",
-          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, medium shot illustrating FOR THE MOST BEAUTIFUL, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Three distant ceremonial seats beyond golden apple in open wedding court; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -1359,11 +1359,11 @@
           "t_start": 10.992,
           "t_end": 14.656,
           "location": "loc_olympus",
-          "shot_type": "detail",
+          "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_06_bg_04.jpg",
-          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, detail shot illustrating FOR THE MOST BEAUTIFUL, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Regal chair and long colonnade, golden apple near right column base; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "HERA",
@@ -1397,9 +1397,9 @@
           "location": "loc_olympus",
           "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_06_bg_05.jpg",
-          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot illustrating FOR THE MOST BEAUTIFUL, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Olive-lined reverse-angle colonnade with centered golden apple; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "HERA",
