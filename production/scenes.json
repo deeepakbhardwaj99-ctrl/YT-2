@@ -5607,12 +5607,12 @@
           "location": "loc_aulis",
           "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_21_bg_05.jpg",
-          "image_prompt": "HARBOR OF AULIS — GREECE, wide shot illustrating HIDDEN ON SKYROS, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID wide background of the Harbor of Aulis, matching the approved location reference: pale limestone headlands frame a calm blue-green inlet, a small rocky island sits low on the horizon, and a few Bronze Age ships rest quietly at anchor. View from a different stretch of empty sandy shore than the preceding plates, with a shallow curve of beach leading diagonally toward the distant water and broad level ground across the lower foreground for later 2D characters. Soft late-day coastal light, muted ochre and sea-green palette, natural realistic textures. No people, figures, animals, text, letters, writing, modern objects, logos, watermark, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
           "setting_label": "HARBOR OF AULIS — GREECE",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -5697,12 +5697,12 @@
           "location": "loc_aulis",
           "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_22_bg_01.jpg",
-          "image_prompt": "HARBOR OF AULIS — GREECE, wide shot illustrating A SHORT GLORIOUS LIFE, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID wide background of Aulis, matching the approved harbor reference. A pale pebbled beach curves into a sheltered blue-green cove beneath weathered limestone cliffs; several empty Bronze Age ships rest offshore with sails furled and perfectly still. Wide, contemplative shore-level composition, with an uncluttered level foreground for later 2D character staging and ships held in the middle distance. Soft cool coastal light with muted ochre and sea-green tones. No people, figures, animals, text, letters, writing, modern objects, logos, watermark, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
           "setting_label": "HARBOR OF AULIS — GREECE",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "THETIS",
@@ -5740,12 +5740,12 @@
           "location": "loc_aulis",
           "shot_type": "medium",
           "bg_path": "production/part1/backgrounds/p1_clip_22_bg_02.jpg",
-          "image_prompt": "HARBOR OF AULIS — GREECE, medium shot illustrating A SHORT GLORIOUS LIFE, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID medium background on the Aulis shore, consistent with the approved location reference. At the far left edge of a low stone landing, a plain bronze spear rests across a folded undyed wool mantle beside a small round shield; calm blue-green water and one moored Bronze Age ship blur beyond. Keep the central and lower foreground broad, level and clear for later 2D character staging. The objects are unmarked, with no symbols or lettering. Warm muted coastal daylight, natural limestone, bronze and woven-fabric textures. No people, figures, animals, text, writing, modern objects, logos, watermark, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
           "setting_label": "HARBOR OF AULIS — GREECE",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "THETIS",
@@ -5783,12 +5783,12 @@
           "location": "loc_aulis",
           "shot_type": "detail",
           "bg_path": "production/part1/backgrounds/p1_clip_22_bg_03.jpg",
-          "image_prompt": "HARBOR OF AULIS — GREECE, detail shot illustrating A SHORT GLORIOUS LIFE, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID detail background on the Aulis quay, matching the approved harbor reference. Close view of a thick hemp mooring line lying slack across pale limestone beside a single weathered bronze anchor ring; still blue-green water and soft reflections of an empty Bronze Age ship sit beyond. Compose the rope along one edge, leaving the lower middle open and uncluttered for later 2D character staging. Gentle sea haze, muted sand, bronze and teal palette, realistic ancient materials. No people, crew, animals, markings, text, letters, writing, modern objects, logos, watermark, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
           "setting_label": "HARBOR OF AULIS — GREECE",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ACHILLES",
@@ -5826,12 +5826,12 @@
           "location": "loc_aulis",
           "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_22_bg_04.jpg",
-          "image_prompt": "HARBOR OF AULIS — GREECE, wide shot illustrating A SHORT GLORIOUS LIFE, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID wide background at Aulis, faithful to the approved coastal reference. Low oblique view down a long empty beach toward distant Bronze Age ships lying motionless beneath steep limestone hills; their loose sails hang without wind and the water is nearly glass-flat. Warm late-day light touches the shore while the far inlet stays cool blue-green. Keep a broad, level, uncluttered lower foreground for later 2D character staging. No people, figures, animals, text, writing, modern objects, logos, watermark, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
           "setting_label": "HARBOR OF AULIS — GREECE",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ACHILLES",
@@ -5869,12 +5869,12 @@
           "location": "loc_aulis",
           "shot_type": "establishing",
           "bg_path": "production/part1/backgrounds/p1_clip_22_bg_05.jpg",
-          "image_prompt": "HARBOR OF AULIS — GREECE, establishing shot illustrating A SHORT GLORIOUS LIFE, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID establishing view of the approved Aulis harbor location. From a natural rocky point, look across a calm inlet toward pale limestone headlands and a low island on the horizon; several Bronze Age ships sit quietly at anchor with slack sails. Include a broad, level stretch of empty beach along the lower frame for later 2D characters, and use soft golden coastal light with restrained ochre and blue-green color. Natural atmospheric depth, realistic ancient landscape. No people, figures, animals, text, letters, writing, modern objects, logos, watermark, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
           "setting_label": "HARBOR OF AULIS — GREECE",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ACHILLES",
@@ -5973,12 +5973,12 @@
           "location": "loc_aulis",
           "shot_type": "medium",
           "bg_path": "production/part1/backgrounds/p1_clip_23_bg_01.jpg",
-          "image_prompt": "HARBOR OF AULIS — GREECE, medium shot illustrating AULIS: NO WIND, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID medium background at the Harbor of Aulis, matching the approved location reference. The dark wooden hull and mast of one Bronze Age ship occupy the far left; its sail hangs limp above perfectly still blue-green water, while an empty sandy landing and limestone hills recede behind. Leave the central lower shore open, level and uncluttered for later 2D character staging. Flat, windless light, subdued gray-blue water and warm pale stone. No crew, people, figures, animals, text, letters, writing, modern objects, logos, watermark, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
           "setting_label": "HARBOR OF AULIS — GREECE",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -6014,12 +6014,12 @@
           "location": "loc_aulis",
           "shot_type": "detail",
           "bg_path": "production/part1/backgrounds/p1_clip_23_bg_02.jpg",
-          "image_prompt": "HARBOR OF AULIS — GREECE, detail shot illustrating AULIS: NO WIND, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID detail background at Aulis, consistent with the approved harbor sheet. Close-up of plain linen sailcloth draped motionless from an ancient wooden yardarm, with slack ropes hanging straight down and a calm inlet softly blurred behind. Put the sail and rigging along the upper-left edge; keep the lower third open, level and visually simple for later 2D character staging. Muted overcast coastal light, natural wood and canvas texture, still-air mood. No crew, people, figures, animals, symbols, text, letters, writing, modern objects, logos, watermark, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
           "setting_label": "HARBOR OF AULIS — GREECE",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -6055,12 +6055,12 @@
           "location": "loc_aulis",
           "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_23_bg_03.jpg",
-          "image_prompt": "HARBOR OF AULIS — GREECE, wide shot illustrating AULIS: NO WIND, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID wide background of Aulis, following the approved Bronze Age harbor reference. Show a large fleet of simple wooden Greek ships crowded at anchor across a sheltered blue-green bay, all sails hanging slack in the complete stillness; pale limestone slopes and a broad empty beach frame the water. Natural wide-angle view from shore, not distorted, with an unobstructed level lower foreground for later 2D character staging. Soft hazy light, muted stone and sea colors. No people, crew, figures, animals, text, letters, writing, modern objects, logos, watermark, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
           "setting_label": "HARBOR OF AULIS — GREECE",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -6101,12 +6101,12 @@
           "location": "loc_aulis",
           "shot_type": "establishing",
           "bg_path": "production/part1/backgrounds/p1_clip_23_bg_04.jpg",
-          "image_prompt": "HARBOR OF AULIS — GREECE, establishing shot illustrating AULIS: NO WIND, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID establishing background at the Harbor of Aulis, faithfully matching the approved location reference. A high but natural viewpoint reveals the quiet harbor packed with distant Bronze Age ships, their bare masts vertical and sails drooping without wind; the calm inlet is glassy beneath gray-green limestone headlands. An empty strip of pale shore crosses the lower foreground, broad and level for later 2D character staging. Atmospheric overcast daylight, subtle ochre and blue-gray palette. No people, crews, figures, animals, text, letters, writing, modern objects, logos, watermark, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
           "setting_label": "HARBOR OF AULIS — GREECE",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "CALCHAS",

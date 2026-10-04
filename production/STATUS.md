@@ -3,7 +3,7 @@
 **Repo:** `deeepakbhardwaj99-ctrl/YT-2` · **Branch:** `arena/01a1063f-yt-2`
 **Recovered checkpoint:** `origin/arena/01a1032c-yt-2` at `774100f` (2026-10-04); accepted assets and recorded approvals are reused, not regenerated.
 **Locked VO source:** `production/script_approved.txt` is byte-identical to the supplied script. The separate retention draft is not the VO source; no script/VO edits are being introduced.
-**Part 1 background progress:** 104/125 unique plates accepted; 21 remain. Clips 01–20 are complete; clip 21 is 4/5. Next: `p1_clip_21_bg_05.jpg`.
+**Part 1 background progress:** 114/125 unique plates accepted; 11 remain. Clips 01–22 are complete; clip 23 is 4/5. Next: `p1_clip_23_bg_05.jpg`.
 **Format:** 16:9 (1920×1080) · **Target Pace:** ~130 wpm · **Parts:** 4 parts (~23.40 min total, 92 clips)
 **Style Mode:** `HYBRID` (2D cartoon rigged characters + AI-generated painterly-realistic Bronze Age environments, no people/text in backgrounds)
 **Motion:** `FULL ANIMATION` · **Preset:** `A — LIVELY EXPLAINER` (speech bubbles, callout cards, word pops, hops/pose swaps, 2s max static gate)
@@ -163,3 +163,12 @@
 - Prompts, references, dimensions, SHA-256 hashes, and QC notes are saved in `production/scenes.json` and `production/part1/background_manifest.json`.
 - Labelled contact sheet: `production/part1/backgrounds_batch_10_contact.jpg`; per-image review: `production/part1/backgrounds_batch_10_QC.md`. Validation confirms 125 unique paths, 104 accepted, 21 pending, locked script verbatim, and VO unchanged. Full Part 1 render remains blocked while 21 backgrounds are pending.
 - Exact next image: `production/part1/backgrounds/p1_clip_21_bg_05.jpg`, recorded in `production/part1/next_background.json`.
+
+
+## Background batch 11 — complete (2026-10-04)
+- Generated and individually reviewed **10/10** new backgrounds: clip 21 shot 05; all five shots for clip 22; clip 23 shots 01–04. No rerolls.
+- **114/125 accepted, 11 remaining.** Clips 01–22 are complete; clip 23 is 4/5.
+- Retained the approved Aulis harbor reference per the current scene plan. All ten images are 1376×768; no generated people, crews, animals, text, logos, watermarks, or modern props. The clip 23 plates emphasize the windless fleet; open character staging and coast continuity pass visual review.
+- Prompts, references, dimensions, SHA-256 hashes, and QC notes are saved in `production/scenes.json` and `production/part1/background_manifest.json`.
+- Labelled contact sheet: `production/part1/backgrounds_batch_11_contact.jpg`; per-image review: `production/part1/backgrounds_batch_11_QC.md`. Validation confirms 125 unique paths, 114 accepted, 11 pending, locked script verbatim, and VO unchanged. Full Part 1 render remains blocked while 11 backgrounds are pending.
+- Exact next image: `production/part1/backgrounds/p1_clip_23_bg_05.jpg`, recorded in `production/part1/next_background.json`.

@@ -1,15 +1,16 @@
 {
-  "clip_id": "p1_clip_21",
+  "clip_id": "p1_clip_23",
   "shot_index": 5,
-  "file_path": "production/part1/backgrounds/p1_clip_21_bg_05.jpg",
+  "file_path": "production/part1/backgrounds/p1_clip_23_bg_05.jpg",
   "status": "not_generated_next_batch",
   "references": [
     "production/assets/locations/loc_aulis_ref.png"
   ],
-  "prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID wide background of the Harbor of Aulis, matching the approved location reference: pale limestone headlands frame a calm blue-green inlet, a small rocky island sits low on the horizon, and a few Bronze Age ships rest quietly at anchor. View from a different stretch of empty sandy shore than the preceding plates, with a shallow curve of beach leading diagonally toward the distant water and broad level ground across the lower foreground for later 2D characters. Soft late-day coastal light, muted ochre and sea-green palette, natural realistic textures. No people, figures, animals, text, letters, writing, modern objects, logos, watermark, floor guides or layout circles.",
+  "prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID wide background of the Harbor of Aulis, matching the approved location reference. A row of Bronze Age Greek ships rests motionless across the calm blue-green inlet, plain linen sails hanging slack beneath pale limestone hills. View from a different stretch of open beach, with small mooring stones at the far edge and a broad, level, uncluttered foreground for later 2D character staging. Emphasize complete stillness and the waiting fleet under soft overcast coastal light; muted blue-gray water and warm ochre shore. No people, crews, figures, animals, text, letters, writing, modern objects, logos, watermark, floor guides or layout circles.",
   "composition": {
     "character_visibility": "clear_level_foreground",
     "characters": [
+      "priam",
       "agamemnon"
     ],
     "status": "assembly integration pending"
