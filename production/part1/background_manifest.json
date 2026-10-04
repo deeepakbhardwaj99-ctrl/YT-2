@@ -235,6 +235,91 @@
         768
       ],
       "sha256": "8b8b428a9571eec2b4967fb1d50e84f9dfa47c43bc1c488a73fb549fd14204cb"
+    },
+    {
+      "clip_id": "p1_clip_04",
+      "shot_index": 1,
+      "path": "production/part1/backgrounds/p1_clip_04_bg_01.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Vacant tall throne and plain stool beneath columns: symbolic prophecy staging",
+      "shot_type": "wide",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text; mythic Olympus materials and usable foreground checked",
+      "qc_note": "Props are symbolic staging, not additional script facts. Final character grounding and lighting to be checked in assembly.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "729bb78a2a066d92259d36a349cadd36fae72f7d941319a03f5eaea0abf8ac90"
+    },
+    {
+      "clip_id": "p1_clip_04",
+      "shot_index": 2,
+      "path": "production/part1/backgrounds/p1_clip_04_bg_02.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Empty council pavilion with three vacant seats and cloud-lined walkway",
+      "shot_type": "wide",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text; mythic Olympus materials and usable foreground checked",
+      "qc_note": "Props are symbolic staging, not additional script facts. Final character grounding and lighting to be checked in assembly.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "74620d6200b6bc08f4f443d62e96f6f6123ba23fc270eba28883801364ac4be8"
+    },
+    {
+      "clip_id": "p1_clip_04",
+      "shot_index": 3,
+      "path": "production/part1/backgrounds/p1_clip_04_bg_03.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Partly closed bronze doorway beyond the empty bridal terrace",
+      "shot_type": "medium",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text; mythic Olympus materials and usable foreground checked",
+      "qc_note": "Props are symbolic staging, not additional script facts. Final character grounding and lighting to be checked in assembly.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "ff12d0b1bed35930533669cf12c0eef1ce4f3bfa7405616459a31b8bd6877085"
+    },
+    {
+      "clip_id": "p1_clip_04",
+      "shot_index": 4,
+      "path": "production/part1/backgrounds/p1_clip_04_bg_04.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Plain wooden chair, olive wreath and bronze cup for a mortal marriage",
+      "shot_type": "medium",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text; mythic Olympus materials and usable foreground checked",
+      "qc_note": "Props are symbolic staging, not additional script facts. Final character grounding and lighting to be checked in assembly.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "32a07dcf4e28a84594efb54f79421061f74251655dce5add58bf2da80f26e0d1"
+    },
+    {
+      "clip_id": "p1_clip_04",
+      "shot_index": 5,
+      "path": "production/part1/backgrounds/p1_clip_04_bg_05.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Prepared wedding banquet along the colonnade, transitioning into the feast",
+      "shot_type": "wide",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text; mythic Olympus materials and usable foreground checked",
+      "qc_note": "Props are symbolic staging, not additional script facts. Final character grounding and lighting to be checked in assembly.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "c990e248a18a33b7ef6dbb9a1dc0863a10f14c2569b6afe50036571494f2ee54"
     }
   ]
 }

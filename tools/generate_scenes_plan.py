@@ -163,7 +163,7 @@ for c_idx, clip in enumerate(p1_vo["clips"]):
             "t_start": round(s_i * shot_dur, 3),
             "t_end": round((s_i + 1) * shot_dur if s_i < n_shots - 1 else dur, 3),
             "location": shot_loc,
-            "shot_type": stype,
+            "shot_type": plate.get("shot_type", stype) if plate else stype,
             "bg_path": bg_file,
             "image_prompt": shot_prompt,
             "reference_path": f"production/assets/locations/{shot_loc}_ref.png",
