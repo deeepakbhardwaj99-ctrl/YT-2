@@ -107,3 +107,5 @@
 - Generation quota reached: 10 successful generation calls = nine new plates plus one correction. Clip 11 shot 02 was not generated; exact next prompt and references saved in `production/part1/next_background.json`.
 - Total: **54/125** accepted; **71 remaining**. Clips 01–10 complete; clip 11 **4/5**. Script and VO unchanged.
 - Next pending asset is the apple insert, not any of the saved clip 11 palace plates. No full-part MP4 rendered in this batch.
+- Review: `production/part1/backgrounds_batch_05_contact.jpg` (clips 10–11; missing insert explicitly labelled pending). QC: `production/part1/backgrounds_batch_05_QC.md`.
+- Validation passed: 54 accepted hashes/dimensions, script/VO unchanged, deterministic scene regeneration. Full-render readiness correctly rejects 71 missing plates. Contact sheets reject missing slots unless `--allow-pending` is explicitly requested.
