@@ -150,6 +150,91 @@
         768
       ],
       "sha256": "8ab0375fe3d5cb0c52e9ca3914bda86799adf55ca9103160ff1fca49d7ee39c5"
+    },
+    {
+      "clip_id": "p1_clip_03",
+      "shot_index": 1,
+      "path": "production/part1/backgrounds/p1_clip_03_bg_01.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Empty wedding court with ivory canopy and two vacant seats",
+      "shot_type": "establishing",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text; mythic Olympus materials and usable foreground checked",
+      "qc_note": "Props are symbolic staging, not additional script facts.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "c6f49f82d1ede0ea18595d6285efb35c1a1a4da1d4874cebc1b1fe84580a40b7"
+    },
+    {
+      "clip_id": "p1_clip_03",
+      "shot_index": 2,
+      "path": "production/part1/backgrounds/p1_clip_03_bg_02.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Wooden ceremonial chair, red cloak and bronze cup representing the mortal groom",
+      "shot_type": "medium",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text; mythic Olympus materials and usable foreground checked",
+      "qc_note": "Props are symbolic staging, not additional script facts.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "4be1bdb8919fc468379ddc48caea31080991a4ca0cb592c04970bce18fe8da4f"
+    },
+    {
+      "clip_id": "p1_clip_03",
+      "shot_index": 3,
+      "path": "production/part1/backgrounds/p1_clip_03_bg_03.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Sea-blue bridal alcove and seashell bowl evoking Thetis",
+      "shot_type": "medium",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text; mythic Olympus materials and usable foreground checked",
+      "qc_note": "Props are symbolic staging, not additional script facts.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "53ace6e83f9939d1ea0312f467968de71a9e340e47161a94073b4c93e4c344bc"
+    },
+    {
+      "clip_id": "p1_clip_03",
+      "shot_index": 4,
+      "path": "production/part1/backgrounds/p1_clip_03_bg_04.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Vacant gold-and-ivory throne beneath the colonnade representing Zeus",
+      "shot_type": "wide",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text; mythic Olympus materials and usable foreground checked",
+      "qc_note": "Props are symbolic staging, not additional script facts.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "d9206e3c8788426b49a985a6775e15c777876fc5fad707225570fb56020fc9bf"
+    },
+    {
+      "clip_id": "p1_clip_03",
+      "shot_index": 5,
+      "path": "production/part1/backgrounds/p1_clip_03_bg_05.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Cloud-shadowed terrace and luminous break in the sky suggesting a prophecy",
+      "shot_type": "wide",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text; mythic Olympus materials and usable foreground checked",
+      "qc_note": "Plate 05 intentionally shifts to cooler clouds for the prophecy; preserve marble/gold continuity and match character grade at assembly.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "8b8b428a9571eec2b4967fb1d50e84f9dfa47c43bc1c488a73fb549fd14204cb"
     }
   ]
 }
