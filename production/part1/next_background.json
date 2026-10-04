@@ -1,0 +1,16 @@
+{
+  "clip_id": "p1_clip_11",
+  "shot_index": 2,
+  "file_path": "production/part1/backgrounds/p1_clip_11_bg_02.jpg",
+  "status": "not_generated_quota_reached",
+  "references": [
+    "production/assets/locations/loc_troy_ref.png",
+    "production/part1/backgrounds/p1_clip_08_bg_04.jpg",
+    "production/part1/backgrounds/p1_clip_06_bg_01.jpg"
+  ],
+  "prompt": "One cinematic 16:9 painterly semi-realistic HYBRID environment. Use Troy reference for earthy gold palette, Mount Ida hut for pastoral identity, golden apple reference for identical polished rounded gold fruit with short curved gold stem, no leaf or inscription. NEW close insert: one apple on a rough sandstone ledge at x35% y58%, around 12 percent image width. A few rose-pink wildflowers at far lower-left edge, oak grove and shepherd hut softly defocused behind. Eye level with ledge, warm upper-left sunlight. Aphrodite wins the apple: no hands painted, action to be composited later. Right half softly defocused scenery for overlay, NOT a full-body stage. No people, animals, faces, statues, lettering, logos, layout circles or modern objects. One continuous scene.",
+  "composition": {
+    "character_visibility": "none",
+    "status": "assembly integration pending"
+  }
+}
