@@ -75,3 +75,6 @@
 
 - Batch 02: 10/10 accepted, no image re-rolls; prophecy plate 03/05 intentionally cooler, with gold/marble continuity retained.
 - Production total: 20/125 (16%); no full-part render attempted with the remaining 105 backgrounds missing.
+- Batch 02 review: `production/part1/backgrounds_batch_02_contact.jpg`; QC: `production/part1/backgrounds_batch_02_QC.md`. Both the ten individual source images and final contact sheet were viewed.
+- Validation reconfirmed script/VO unchanged, all 20 accepted hashes/dimensions valid, deterministic plan regeneration, and full-render readiness correctly blocked by 105 pending plates.
+- Reusable contact-sheet tool: `.venv/bin/python tools/build_background_contact.py --clips 3 4 --batch 2` (use new clip/batch numbers on subsequent batches).
