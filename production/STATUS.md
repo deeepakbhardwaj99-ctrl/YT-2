@@ -91,3 +91,5 @@
 
 - Batch 04: 10/10 new plates, no re-rolls; Part 1 total 40/125 (32%), 85 remaining.
 - Mount Ida is staged as a pastoral extension of the approved Troy regional palette, not Olympus or verified geographical reconstruction. Per-shot setting labels, Paris staging intent and apple safety regions are saved in scenes.json; renderer integration remains pending.
+- Batch 04 review: `production/part1/backgrounds_batch_04_contact.jpg`; QC: `production/part1/backgrounds_batch_04_QC.md`. All ten sources and the final contact sheet were viewed.
+- Automated checks passed: 40 accepted hashes/dimensions, script and VO unchanged, deterministic plan regeneration, protected-object/composition metadata preserved. Full-render readiness correctly blocked by 85 pending plates.

@@ -35,6 +35,9 @@ def validate(require_complete=False):
             if entry:
                 assert shot['asset_status'] == entry['qc_status'] == 'accepted'
                 assert entry['path'] == path
+                assert shot['reference_path'] == entry['reference']
+                assert shot.get('composition', {}) == entry.get('composition', {})
+                assert shot.get('protected_objects', []) == entry.get('protected_objects', [])
                 data = (ROOT / path).read_bytes()
                 digest = hashlib.sha256(data).hexdigest()
                 assert digest == entry['sha256'] and digest not in digests

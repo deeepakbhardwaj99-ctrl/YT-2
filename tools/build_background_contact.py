@@ -25,7 +25,7 @@ def build_contact(clip_numbers, batch_number):
                 tile = ImageOps.fit(source.convert('RGB'), (width, height), method=Image.Resampling.LANCZOS)
             sheet.paste(tile, (x, y))
             draw.rectangle((x, y, x + width, y + height), outline='#9b3a12', width=2)
-            location = plate['location'].removeprefix('loc_').upper()
+            location = plate.get('setting_label', plate['location'].removeprefix('loc_').upper())
             draw.text((x + 8, y + height + 10), f'CLIP {clip_num:02d}  /  SHOT {row+1:02d}   |   {location}', font=label, fill='#f8f0e1')
     output = ROOT / f'production/part1/backgrounds_batch_{batch_number:02d}_contact.jpg'
     sheet.save(output, quality=90)
