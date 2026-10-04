@@ -1,17 +1,16 @@
 {
-  "clip_id": "p1_clip_13",
+  "clip_id": "p1_clip_15",
   "shot_index": 5,
-  "file_path": "production/part1/backgrounds/p1_clip_13_bg_05.jpg",
+  "file_path": "production/part1/backgrounds/p1_clip_15_bg_05.jpg",
   "status": "not_generated_next_batch",
   "references": [
     "production/assets/locations/loc_palace_ref.png"
   ],
-  "prompt": "One standalone cinematic 16:9 painterly semi-realistic HYBRID Trojan War background. Match approved Sparta palace reference red ochre painted wooden columns, geometric spiral frescoes, timber beams, bronze torch bowls and worn stone. NEW intimate medium-wide view through a rectangular side doorway toward a small quiet palace courtyard: two empty plain wooden chairs and an ivory cloth on a rear bench, olive tree in daylight beyond, no people. Story beat Odysseus asks for help winning Penelope in exchange for his oath proposal; suggest a private bargain without wedding anachronisms or literal characters. Broad level clear foreground center and right for cartoon Odysseus and king, empty upper-right plaster for speech bubble. Warm upper-left light. No people, silhouettes, faces, statues, animals, writing, letters, labels, logos, modern items, electric lights, floor guides or layout circles. One continuous scene.",
+  "prompt": "One standalone cinematic 16:9 painterly semi-realistic HYBRID background for the Royal Palace of Sparta, matching the approved location reference: red ochre spiral columns, timber beams, warm stone and bronze palette. A distinct close-detail view of an empty guest chamber with a plain wooden storage chest slightly open, folded linen and a bronze oil lamp; suggest an emptied private room without showing people or depicting a theft. Keep a clean level lower foreground and clear wall space. No text, letters, people, silhouettes, modern objects, logos, watermark, floor guides, or layout circles.",
   "composition": {
-    "character_visibility": "side_slots",
+    "character_visibility": "empty_foreground",
     "characters": [
-      "odysseus",
-      "priam"
+      "paris"
     ],
     "status": "assembly integration pending"
   }

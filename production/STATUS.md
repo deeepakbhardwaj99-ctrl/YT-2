@@ -3,6 +3,7 @@
 **Repo:** `deeepakbhardwaj99-ctrl/YT-2` · **Branch:** `arena/01a1063f-yt-2`
 **Recovered checkpoint:** `origin/arena/01a1032c-yt-2` at `774100f` (2026-10-04); accepted assets and recorded approvals are reused, not regenerated.
 **Locked VO source:** `production/script_approved.txt` is byte-identical to the supplied script. The separate retention draft is not the VO source; no script/VO edits are being introduced.
+**Part 1 background progress:** 74/125 unique plates accepted; 51 remain. Clips 01–14 are complete; clip 15 is 4/5. Next: `p1_clip_15_bg_05.jpg`.
 **Format:** 16:9 (1920×1080) · **Target Pace:** ~130 wpm · **Parts:** 4 parts (~23.40 min total, 92 clips)
 **Style Mode:** `HYBRID` (2D cartoon rigged characters + AI-generated painterly-realistic Bronze Age environments, no people/text in backgrounds)
 **Motion:** `FULL ANIMATION` · **Preset:** `A — LIVELY EXPLAINER` (speech bubbles, callout cards, word pops, hops/pose swaps, 2s max static gate)
@@ -57,7 +58,7 @@
 - [ ] **STEP 7 & 8 — Part-by-Part Production & QC (Parts 1 → 4 + Master MP4)**
 
 
-## Current batch — 2026-10-04
+## Prior checkpoint — through batch 06 (2026-10-04)
 - User approved Step 3 locations/characters and Step 6B rigs/motion with “continue”.
 - Restored accepted assets from GitHub commit `99259ae`; original script remains unchanged.
 - Part 1 production backgrounds: **64/125 unique scene plates accepted**, 61 remaining. Reference angle crops are NOT counted as unique production plates.
@@ -126,5 +127,13 @@
 ## Session resume checkpoint — 2026-10-04
 - Starting workspace was a clean checkout containing only the two supplied source files. GitHub had prior production work on `arena/01a1032c-yt-2`; its latest checkpoint (`774100f`) was fast-forward recovered onto this required session branch without regenerating accepted media.
 - Recovered assets include the approved character/location sheets, rigs, Part 1 VO/music, animation preview, production tools, and 64 individually QC'd Part 1 backgrounds. Recorded approvals and the original locked script are retained.
-- Next production asset: `production/part1/backgrounds/p1_clip_13_bg_05.jpg` (clip 13, shot 5). Then finish the remaining unique Part 1 plates only; do not start another part before Part 1 is delivered.
+- Resume point was `production/part1/backgrounds/p1_clip_13_bg_05.jpg`; it and the next nine plates were accepted in batch 07. Continue with the remaining unique Part 1 plates only; do not start another part before Part 1 is delivered.
 - This restored sandbox has Python dependencies installed in the ignored `.venv`. `ffmpeg`/`ffprobe` are not installed; install them before video assembly.
+
+
+## Background batch 07 — complete (2026-10-04)
+- Generated and individually viewed **10/10** new HYBRID backgrounds with no re-rolls: clip 13 shot 05; all five shots for clip 14; clip 15 shots 01–04.
+- **74/125 accepted, 51 remaining.** Clips 01–14 are complete; clip 15 is 4/5. No previously accepted art was regenerated.
+- All ten files are 1376×768 (16:9); hashes and prompts are saved in `production/part1/background_manifest.json` and `production/scenes.json`. No visible people, writing, logos, modern props, or watermarks; all match the approved Sparta palace reference and retain clear staging ground.
+- Review contact sheet: `production/part1/backgrounds_batch_07_contact.jpg`; per-image checklist: `production/part1/backgrounds_batch_07_QC.md`. Machine validation: `production/part1/background_validation.json` (74 accepted / 51 pending; full render correctly blocked).
+- Exact next image: `production/part1/backgrounds/p1_clip_15_bg_05.jpg`, recorded in `production/part1/next_background.json`. Full Part 1 assembly remains blocked until all 125 unique plates are accepted; `ffmpeg`/`ffprobe` also need installing before render.

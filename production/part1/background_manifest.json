@@ -745,7 +745,7 @@
         768
       ],
       "sha256": "e777f517f8afa27bf0eb15d0f79af5b91974df92d28c3b10fce565331613a490",
-      "setting_label": "MOUNT IDA \u2014 THE TROAS",
+      "setting_label": "MOUNT IDA — THE TROAS",
       "qc_note": "Pastoral extension of approved Troy regional palette, not a city-wall shot or verified geography. Distant Troy in shot 05 is a symbolic story connection, not a verified sightline.",
       "composition": {
         "character_visibility": "none",
@@ -769,7 +769,7 @@
         768
       ],
       "sha256": "35da0a963dad69c2ef19c9ab02110859955394dcd2a416fceca5db9f01377326",
-      "setting_label": "MOUNT IDA \u2014 THE TROAS",
+      "setting_label": "MOUNT IDA — THE TROAS",
       "qc_note": "Pastoral extension of approved Troy regional palette, not a city-wall shot or verified geography. Distant Troy in shot 05 is a symbolic story connection, not a verified sightline.",
       "composition": {
         "character_visibility": "side_slots",
@@ -795,7 +795,7 @@
         768
       ],
       "sha256": "e62c5cf2bd7f12741918b4ea0c920c52d206673f33f7cdb0e953e647d4905134",
-      "setting_label": "MOUNT IDA \u2014 THE TROAS",
+      "setting_label": "MOUNT IDA — THE TROAS",
       "qc_note": "Pastoral extension of approved Troy regional palette, not a city-wall shot or verified geography. Distant Troy in shot 05 is a symbolic story connection, not a verified sightline.",
       "composition": {
         "character_visibility": "side_slots",
@@ -817,7 +817,7 @@
       ],
       "description": "Dream of smoke and orange glow behind intact Troy walls",
       "shot_type": "wide",
-      "setting_label": "TROY \u2014 A DREAM OF FIRE",
+      "setting_label": "TROY — A DREAM OF FIRE",
       "qc_status": "accepted",
       "qc_method": "Individually viewed with read_file: no visible people/text or modern objects; regional palette and staging checked",
       "dimensions": [
@@ -843,7 +843,7 @@
       ],
       "description": "Empty inner gate passage opening toward the mountains",
       "shot_type": "medium",
-      "setting_label": "TROY \u2014 DEPARTURE",
+      "setting_label": "TROY — DEPARTURE",
       "qc_status": "accepted",
       "qc_method": "Individually viewed with read_file: no visible people/text or modern objects; regional palette and staging checked",
       "dimensions": [
@@ -869,7 +869,7 @@
       ],
       "description": "Sheltered oak clearing on Mount Ida with empty path",
       "shot_type": "wide",
-      "setting_label": "MOUNT IDA \u2014 THE TROAS",
+      "setting_label": "MOUNT IDA — THE TROAS",
       "qc_status": "accepted",
       "qc_method": "Individually viewed with read_file: no visible people/text or modern objects; regional palette and staging checked",
       "dimensions": [
@@ -921,7 +921,7 @@
       ],
       "description": "Reverse three-quarter view of Paris shepherd hut",
       "shot_type": "medium",
-      "setting_label": "MOUNT IDA \u2014 THE TROAS",
+      "setting_label": "MOUNT IDA — THE TROAS",
       "qc_status": "accepted",
       "qc_method": "Individually viewed with read_file: no visible people/text or modern objects; regional palette and staging checked",
       "dimensions": [
@@ -945,7 +945,7 @@
         "production/assets/locations/loc_troy_ref.png",
         "production/part1/backgrounds/p1_clip_08_bg_04.jpg"
       ],
-      "setting_label": "MOUNT IDA \u2014 THE TROAS",
+      "setting_label": "MOUNT IDA — THE TROAS",
       "description": "Three converging paths near oak and hut: the goddesses arrive separately",
       "shot_type": "wide",
       "qc_status": "accepted",
@@ -971,7 +971,7 @@
         "production/assets/locations/loc_troy_ref.png",
         "production/part1/backgrounds/p1_clip_08_bg_04.jpg"
       ],
-      "setting_label": "MOUNT IDA \u2014 THE TROAS",
+      "setting_label": "MOUNT IDA — THE TROAS",
       "description": "Broad sunlit valley: symbolic kingdoms to the sunrise",
       "shot_type": "wide",
       "qc_status": "accepted",
@@ -997,7 +997,7 @@
         "production/assets/locations/loc_troy_ref.png",
         "production/part1/backgrounds/p1_clip_08_bg_04.jpg"
       ],
-      "setting_label": "MOUNT IDA \u2014 THE TROAS",
+      "setting_label": "MOUNT IDA — THE TROAS",
       "description": "Bronze shield and spear at oak: symbolic promise of victory",
       "shot_type": "medium",
       "qc_status": "accepted",
@@ -1023,7 +1023,7 @@
         "production/assets/locations/loc_troy_ref.png",
         "production/part1/backgrounds/p1_clip_08_bg_04.jpg"
       ],
-      "setting_label": "MOUNT IDA \u2014 THE TROAS",
+      "setting_label": "MOUNT IDA — THE TROAS",
       "description": "Softly lit oak grove and wildflowers: symbolic promise of love",
       "shot_type": "wide",
       "qc_status": "accepted",
@@ -1049,7 +1049,7 @@
         "production/assets/locations/loc_troy_ref.png",
         "production/part1/backgrounds/p1_clip_08_bg_04.jpg"
       ],
-      "setting_label": "MOUNT IDA \u2014 THE TROAS",
+      "setting_label": "MOUNT IDA — THE TROAS",
       "description": "Reverse hut view across open clearing: Paris must choose",
       "shot_type": "wide",
       "qc_status": "accepted",
@@ -1071,7 +1071,7 @@
       "path": "production/part1/backgrounds/p1_clip_11_bg_01.jpg",
       "location": "loc_troy",
       "reference": "production/assets/locations/loc_troy_ref.png",
-      "setting_label": "MOUNT IDA \u2014 THE TROAS",
+      "setting_label": "MOUNT IDA — THE TROAS",
       "description": "Two diverging paths by the shepherd hut: Paris rejects Hera and Athena",
       "shot_type": "wide",
       "qc_status": "accepted",
@@ -1116,7 +1116,7 @@
         "production/part1/backgrounds/p1_clip_06_bg_01.jpg"
       ],
       "generation_prompt": "One cinematic 16:9 painterly semi-realistic HYBRID environment. Use Troy reference for earthy gold palette, Mount Ida hut for pastoral identity, golden apple reference for identical polished rounded gold fruit with short curved gold stem, no leaf or inscription. NEW close insert: one apple on a rough sandstone ledge at x35% y58%, around 12 percent image width. A few rose-pink wildflowers at far lower-left edge, oak grove and shepherd hut softly defocused behind. Eye level with ledge, warm upper-left sunlight. Aphrodite wins the apple: no hands painted, action to be composited later. Right half softly defocused scenery for overlay, NOT a full-body stage. No people, animals, faces, statues, lettering, logos, layout circles or modern objects. One continuous scene.",
-      "setting_label": "MOUNT IDA \u2014 THE TROAS",
+      "setting_label": "MOUNT IDA — THE TROAS",
       "protected_objects": [
         {
           "name": "golden_apple",
@@ -1140,7 +1140,7 @@
       "path": "production/part1/backgrounds/p1_clip_11_bg_03.jpg",
       "location": "loc_palace",
       "reference": "production/assets/locations/loc_palace_ref.png",
-      "setting_label": "SPARTA \u2014 ROYAL PALACE",
+      "setting_label": "SPARTA — ROYAL PALACE",
       "description": "Sunlit courtyard doorway into Sparta palace: Helen location reveal",
       "shot_type": "establishing",
       "qc_status": "accepted",
@@ -1164,7 +1164,7 @@
       "path": "production/part1/backgrounds/p1_clip_11_bg_04.jpg",
       "location": "loc_palace",
       "reference": "production/assets/locations/loc_palace_ref.png",
-      "setting_label": "SPARTA \u2014 ROYAL PALACE",
+      "setting_label": "SPARTA — ROYAL PALACE",
       "description": "Quiet royal apartment with bronze mirror and woven curtain",
       "shot_type": "medium",
       "qc_status": "accepted",
@@ -1190,7 +1190,7 @@
       "path": "production/part1/backgrounds/p1_clip_11_bg_05.jpg",
       "location": "loc_palace",
       "reference": "production/assets/locations/loc_palace_ref.png",
-      "setting_label": "SPARTA \u2014 ROYAL PALACE",
+      "setting_label": "SPARTA — ROYAL PALACE",
       "description": "Two empty chairs and paired cups in royal dining alcove: Helen is married",
       "shot_type": "wide",
       "qc_status": "accepted",
@@ -1371,6 +1371,216 @@
         768
       ],
       "sha256": "972b477c448bfe332d2836ed7d3e4722323c20dc53ec3cae25c73afae53897e9"
+    },
+    {
+      "clip_id": "p1_clip_13",
+      "shot_index": 5,
+      "path": "production/part1/backgrounds/p1_clip_13_bg_05.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Intimate palace side doorway opening into a quiet courtyard; two plain chairs, folded ivory linen, olive tree beyond.",
+      "shot_type": "wide",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Side doorway and courtyard read cleanly; clear lower foreground and open wall; no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "9669c9f0a59d10964d4ad269d088bb5f4a58ba466c7c543bbadb65c62f27fa08",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One standalone 16:9 cinematic painterly semi-realistic HYBRID background. Match loc_palace_ref: red ochre spiral-painted columns, timber beams, worn stone, bronze fixtures, warm clay and amber palette. Medium-wide view through a side doorway into a quiet courtyard; two plain wooden chairs, folded ivory linen on a bench, olive tree beyond. Clear level lower third and open upper-right wall. No people, text, logos, modern objects, statues, animals, floor guides, or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_14",
+      "shot_index": 1,
+      "path": "production/part1/backgrounds/p1_clip_14_bg_01.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Detail of an uninscribed bronze horse figurine on a stone plinth with folded linen and a bowl in an empty ceremonial room.",
+      "shot_type": "detail",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Figurine is an uninscribed bronze token only; no sacrifice, blood, people, or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "798a40d12d4b078d77e096b76f2190a0798e8cf4b1629c4d1bd55699e0977dc8",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One standalone 16:9 cinematic painterly semi-realistic HYBRID Bronze Age palace detail. Match loc_palace_ref: ochre plaster, red spiral columns, timber beams, warm stone and bronze. An uninscribed small bronze horse figurine stands on a simple stone plinth; folded cream linen and a bronze bowl nearby, suggesting an oath ritual without depicting sacrifice. No blood or gore. Clear foreground. No people, text, writing, logos, modern objects, floor guides, or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_14",
+      "shot_index": 2,
+      "path": "production/part1/backgrounds/p1_clip_14_bg_02.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Wide empty oath hall with low benches and a modest stone platform under warm palace light.",
+      "shot_type": "wide",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Empty hall, benches and platform are clearly staged; open lower foreground; no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "84def0e45bba902767374a2ae2bfa6968136a10c3170ac4ee7c8a3e6ed0a0b92",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One distinct 16:9 cinematic painterly semi-realistic HYBRID environment plate for a Bronze Age Greek palace. Match loc_palace_ref: red ochre spiral-painted columns, dark timber ceiling, worn stone, warm amber grade. Wide lateral view across a quiet oath hall with empty low benches and a modest unadorned stone platform in the distance; a bronze offering bowl is secondary. Broad level uncluttered lower-third foreground. No people, text, inscriptions, logos, watermarks, modern objects, animals, floor guides, or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_14",
+      "shot_index": 3,
+      "path": "production/part1/backgrounds/p1_clip_14_bg_03.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Establishing view of the palace ceremonial courtyard, steps, empty offering stand, distant tether posts, and olive greenery.",
+      "shot_type": "establishing",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Courtyard perspective and palace materials are consistent; people/text absent; lower ground remains open.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "343c477b0b201ae0c06776f1bf47f8aa3c51f45b1256cc5990b6052622c65c22",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One standalone 16:9 establishing background in cinematic painterly-realistic HYBRID style for the ancient Royal Palace of Sparta. Match loc_palace_ref: red ochre columns, spiral motifs, timber lintels, sun-worn limestone, warm bronze-brown grade. Quiet outer ceremonial courtyard from a new elevated corner angle, broad steps, modest empty offering stand, two plain tether posts far away, olive greenery beyond the gate. Flat open lower third. No people, silhouettes, faces, animals, text, inscriptions, logos, watermarks, modern objects, gore, floor guides, or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_14",
+      "shot_index": 4,
+      "path": "production/part1/backgrounds/p1_clip_14_bg_04.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Empty inner courtyard framed by a shaded colonnade with a low plinth, folded textile, and bronze bowl.",
+      "shot_type": "wide",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Colonnade frames the empty courtyard; warm light and open ground are suitable for later character compositing.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "384d66d56f349396342933cfbd2b4e87f5ceda47993090f199f8679bd63aa2dd",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One distinct 16:9 wide cinematic painterly semi-realistic HYBRID background for an ancient Greek royal palace, matching loc_palace_ref: ochre and umber plaster, painted red columns, timber beams, worn stone, bronze vessels. Empty inner courtyard framed through a shaded colonnade; a low stone plinth holds a clean folded textile and an unlit bronze bowl. Broad clean level foreground and open upper-left wall. Warm sunlight crosses the floor softly. No people, text, logos, watermark, modern objects, gore, floor guides, or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_14",
+      "shot_index": 5,
+      "path": "production/part1/backgrounds/p1_clip_14_bg_05.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Medium-wide view from a side chamber through a painted doorway into the quiet oath hall.",
+      "shot_type": "medium",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Distinct side-chamber angle; clear lower foreground and wall; no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "ec1eea257db397671b03a13020976818f5da84f9d9e7970b7905b5c22427ebad",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One standalone 16:9 medium-wide Bronze Age palace background in cinematic painterly-realistic HYBRID style, matching loc_palace_ref. View from a side chamber toward a painted doorway and quiet ceremonial hall beyond; red ochre spiral columns, dark timber lintels, warm stone floor, small bronze bowl on a bench. Level empty lower foreground and clear upper-right wall for overlays. Golden daylight with gentle torch warmth. No people, text, inscriptions, logos, watermarks, modern objects, gore, floor guides, or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_15",
+      "shot_index": 1,
+      "path": "production/part1/backgrounds/p1_clip_15_bg_01.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Wide empty palace dining hall prepared for a guest, with low table, bronze cups, couches, and daylight.",
+      "shot_type": "wide",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Guest dining space reads clearly; no people or text; uncluttered ground left for character rigs.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "07203128265e689cc5fb6b75ba89a45acf508602342156382351d1674dd7fbb9",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One standalone 16:9 cinematic painterly semi-realistic HYBRID background for the Royal Palace of Sparta. Match loc_palace_ref: ochre plaster, red patterned columns, dark beams, worn stone, warm amber light. Wide empty dining hall prepared for a guest: low wooden table with a few bronze cups and simple bowls, two empty woven couches, oil lamps, open colonnade to daylight. Broad level lower foreground and open upper-left negative space. No people, text, writing, logos, watermarks, modern items, electric lights, floor guides, or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_15",
+      "shot_index": 2,
+      "path": "production/part1/backgrounds/p1_clip_15_bg_02.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Establishing view of the palace entrance from a sunny courtyard, open timber gate framing olive trees and low hills.",
+      "shot_type": "establishing",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Open gate and olive-hill view establish the location; clean ground; no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "d9d74cc5bd4aa2c8440b7a9cc2e8f1ad7abb7f25fe9477ca3c7663b7ee8cb555",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One 16:9 establishing shot in painterly semi-realistic HYBRID style for a Bronze Age Greek palace. Match loc_palace_ref: red ochre spiral columns, dark timber beams, worn stone paving, warm clay-and-bronze grade. Empty palace entrance from a sunny courtyard, open timber gate framing distant olive trees and low hills, shaded portico at the sides, a few bronze bowls on a low ledge. Broad level unobstructed foreground. No people, silhouettes, text, signs, inscriptions, logos, watermark, modern objects, animals, floor guides, or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_15",
+      "shot_index": 3,
+      "path": "production/part1/backgrounds/p1_clip_15_bg_03.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Quiet banquet room after a guest has left, with empty couches, a few cups, folded cloth, and open corridor.",
+      "shot_type": "wide",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Banquet room remains empty; no people/text; warm material palette matches the location reference.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "3367f2e7f1d0f4445a07e3c76ced3d927e4f7c45facc9a607799c237610f437a",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One distinct 16:9 cinematic wide background plate in semi-realistic painterly HYBRID style, matching the ancient Sparta palace reference. Red ochre spiral-painted columns, dark timber roof, worn warm stone, bronze fixtures. Quiet banquet room after a guest has left: empty low couches, wooden table with a few cups and folded cream cloth, one open doorway toward a softly lit corridor. Clear level lower-third foreground. No people, silhouettes, faces, text, writing, logos, watermark, modern props, electric lights, floor guides, or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_15",
+      "shot_index": 4,
+      "path": "production/part1/backgrounds/p1_clip_15_bg_04.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Medium view of an empty guest room doorway, wooden bench, folded linen, bronze lamp, and courtyard glimpse.",
+      "shot_type": "medium",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Empty guest chamber with stable palette and open foreground; no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "29b81cd9940443c9783d86614c52d8c5b963f56812a49b540a769f9c6bad9f98",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One standalone 16:9 medium view of an empty guest room inside the Royal Palace of Sparta, cinematic semi-realistic painterly HYBRID environment art. Match loc_palace_ref: red ochre columns, circular fresco motifs, timber beams, stone floor, warm bronze palette. Quiet doorway, plain wooden bench, folded cream linen, simple bronze oil lamp and a view to the courtyard; suggest a guest chamber, not a specific theft. Clear level lower foreground. No people, silhouettes, faces, text, letters, inscriptions, logos, watermarks, modern objects, electric lights, floor guides, or layout circles."
     }
   ]
 }
