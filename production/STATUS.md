@@ -58,13 +58,13 @@
 ## Current batch — 2026-10-04
 - User approved Step 3 locations/characters and Step 6B rigs/motion with “continue”.
 - Restored accepted assets from GitHub commit `99259ae`; original script remains unchanged.
-- Part 1 production backgrounds: **20/125 unique scene plates accepted**, 105 remaining. Reference angle crops are NOT counted as unique production plates.
-- Clips 01–04: 5/5 plates each individually viewed; no visible people/text; palette and empty foreground checked. These are imagined reconstructions, not exact archaeological reconstructions.
+- Part 1 production backgrounds: **26/125 unique scene plates accepted**, 99 remaining. Reference angle crops are NOT counted as unique production plates.
+- Clips 01–05: 5/5 plates each individually viewed; no visible people/text; palette and empty foreground checked. These are imagined reconstructions, not exact archaeological reconstructions.
 - Density: five distinct generated backgrounds per clip. Full Part 1 assembly is blocked until all 125 plates are accepted. No additional Part 2/3 generation before Part 1 delivery.
-- Next: clips 05–06 (10 plates), then clips 07–25. Replaced recycled card selection with 25 narration-specific cards; script and VO timings verified unchanged.
+- Next: remaining four clip 06 plates, then clips 07–25. Replaced recycled card selection with 25 narration-specific cards; script and VO timings verified unchanged.
 
 - Batch review: `production/part1/backgrounds_batch_01_contact.jpg`; checklist: `backgrounds_batch_01_QC.md`; machine validation: `background_validation.json`.
-- Validation passed: 25 clips, 125 unique planned paths, 20 accepted plates, 105 pending; deliberate full-render readiness check correctly fails while images are missing.
+- Validation passed: 25 clips, 125 unique planned paths, 26 accepted plates, 99 pending; deliberate full-render readiness check correctly fails while images are missing.
 - Approved style preview is preserved, not a final Part 1 deliverable. Final title/tease cards, detailed text/speaker timing, ground placement and audio/motion QC remain open.
 - Encoding cap corrected to 1.4 Mbps video + 192 kbps audio (~81 MB cap estimate for 406.63s, not a measured file size). See batch QC for correction to prior estimate.
 - Python environment restored from `tools/requirements.txt`; system ffmpeg/ffprobe must be installed before rendering in this restored sandbox.
@@ -78,3 +78,7 @@
 - Batch 02 review: `production/part1/backgrounds_batch_02_contact.jpg`; QC: `production/part1/backgrounds_batch_02_QC.md`. Both the ten individual source images and final contact sheet were viewed.
 - Validation reconfirmed script/VO unchanged, all 20 accepted hashes/dimensions valid, deterministic plan regeneration, and full-render readiness correctly blocked by 105 pending plates.
 - Reusable contact-sheet tool: `.venv/bin/python tools/build_background_contact.py --clips 3 4 --batch 2` (use new clip/batch numbers on subsequent batches).
+
+## Background batch 03 — in progress
+- Clip 05: 5/5 accepted. Clip 06: 1/5 accepted. One clip 05 image corrected to remove modern-looking string lights before acceptance.
+- Golden apple introduced without generated lettering. Inscription, rolling motion, and protected-object clearance remain assembly work.

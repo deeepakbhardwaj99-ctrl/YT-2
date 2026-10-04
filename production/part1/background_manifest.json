@@ -320,6 +320,116 @@
         768
       ],
       "sha256": "c990e248a18a33b7ef6dbb9a1dc0863a10f14c2569b6afe50036571494f2ee54"
+    },
+    {
+      "clip_id": "p1_clip_05",
+      "shot_index": 1,
+      "path": "production/part1/backgrounds/p1_clip_05_bg_01.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Empty wedding feast with fruit, bread, wine vessels and unplayed lyre",
+      "shot_type": "wide",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people or text; reference style and usable staging space checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "1a513a692a7666f79586b5fcfb6c0ecfb11c49d819bed705242f121665ff9357",
+      "qc_note": "Banquet table occupies left foreground; use clear right-hand floor for rigs, not default left slot."
+    },
+    {
+      "clip_id": "p1_clip_05",
+      "shot_index": 2,
+      "path": "production/part1/backgrounds/p1_clip_05_bg_02.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Closed bronze side entrance: one missing guest",
+      "shot_type": "medium",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people or text; reference style and usable staging space checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "ca6e1f14efe5948082306faa2671c805c9a44d4b48bc6d752a2ceab57756f01e"
+    },
+    {
+      "clip_id": "p1_clip_05",
+      "shot_index": 3,
+      "path": "production/part1/backgrounds/p1_clip_05_bg_03.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Door ajar, cool threshold shadow and billowing ivory curtain",
+      "shot_type": "wide",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people or text; reference style and usable staging space checked",
+      "dimensions": [
+        1365,
+        768
+      ],
+      "sha256": "b36e7ce9f65efcbd51baae151aae36ba19f2d98e3b3bae9ab37b4de5ce993bed"
+    },
+    {
+      "clip_id": "p1_clip_05",
+      "shot_index": 4,
+      "path": "production/part1/backgrounds/p1_clip_05_bg_04.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Open bronze side entrance and empty walkway for Eris arrival",
+      "shot_type": "wide",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people or text; reference style and usable staging space checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "6718c8920690407d901ddee54cd19f987e61e3dea6879139113d5ae20a58e610"
+    },
+    {
+      "clip_id": "p1_clip_05",
+      "shot_index": 5,
+      "path": "production/part1/backgrounds/p1_clip_05_bg_05.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Clear reception floor beneath olive garlands for gift announcement",
+      "shot_type": "wide",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people or text; reference style and usable staging space checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "d217e689b439a8d80b05b643a6e0685d78623d937c1f9979de34297b5982c465",
+      "qc_note": "Initial image rejected for modern-looking decorative string lights. One corrective generation removed lights and replaced overhead drapes with olive garlands; corrected image individually viewed and accepted."
+    },
+    {
+      "clip_id": "p1_clip_06",
+      "shot_index": 1,
+      "path": "production/part1/backgrounds/p1_clip_06_bg_01.jpg",
+      "location": "loc_olympus",
+      "reference": "production/assets/locations/loc_olympus_ref.png",
+      "description": "Single polished golden apple on marble wedding floor",
+      "shot_type": "medium",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people or text; reference style and usable staging space checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "460991450521fc8e7a3a7197878a1dccf175fdc3bbf1b6319d3265d12a3d438b",
+      "qc_note": "Apple surface deliberately text-free; inscription must be rendered as a post-production overlay. Rolling motion not baked into still.",
+      "protected_objects": [
+        {
+          "name": "golden_apple",
+          "bbox_normalized": [
+            0.445,
+            0.6,
+            0.555,
+            0.82
+          ]
+        }
+      ]
     }
   ]
 }
