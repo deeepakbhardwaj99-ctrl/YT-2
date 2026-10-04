@@ -3,7 +3,7 @@
 **Repo:** `deeepakbhardwaj99-ctrl/YT-2` · **Branch:** `arena/01a1063f-yt-2`
 **Recovered checkpoint:** `origin/arena/01a1032c-yt-2` at `774100f` (2026-10-04); accepted assets and recorded approvals are reused, not regenerated.
 **Locked VO source:** `production/script_approved.txt` is byte-identical to the supplied script. The separate retention draft is not the VO source; no script/VO edits are being introduced.
-**Part 1 background progress:** 123/125 unique plates accepted; 2 remain. Clips 01–23 are complete; clip 24 is 4/5 and clip 25 is 4/5. Next: reroll `p1_clip_24_bg_04.jpg`, then generate `p1_clip_25_bg_05.jpg`.
+**Part 1 background progress:** 125/125 unique plates accepted; all clips 01–25 are complete. Next: Part 1 assembly, animation, render, and QC (install `ffmpeg`/`ffprobe` first).
 **Format:** 16:9 (1920×1080) · **Target Pace:** ~130 wpm · **Parts:** 4 parts (~23.40 min total, 92 clips)
 **Style Mode:** `HYBRID` (2D cartoon rigged characters + AI-generated painterly-realistic Bronze Age environments, no people/text in backgrounds)
 **Motion:** `FULL ANIMATION` · **Preset:** `A — LIVELY EXPLAINER` (speech bubbles, callout cards, word pops, hops/pose swaps, 2s max static gate)
@@ -181,3 +181,11 @@
 - The nine accepted plates are 1376×768, use the approved Aulis reference, and contain no visible people, animals, injury, or text. Accepted prompts, hashes and QC are saved in the manifest and scenes plan.
 - Partial labelled contact sheet and QC: `production/part1/backgrounds_batch_12_contact.jpg` and `production/part1/backgrounds_batch_12_QC.md`. Validation reports 123 accepted / 2 pending; full render remains blocked.
 - Exact next task: reroll `production/part1/backgrounds/p1_clip_24_bg_04.jpg`; after it passes review, generate `p1_clip_25_bg_05.jpg`.
+
+
+## Background batch 13 — complete (2026-10-04)
+- Accepted the final two Part 1 plates after individual visual review: clip 24 shot 04 (successful reroll after a rejected pseudo-text output) and clip 25 shot 05.
+- **125/125 accepted; 0 pending.** All 25 Part 1 clips now have five unique backgrounds each.
+- Both images are 1376×768 and match the approved Aulis reference; neither contains people, animals, injury, text, logos, watermarks, or modern props.
+- Prompts, references, hashes, dimensions, and QC notes are recorded in the scene plan and background manifest. Batch contact sheet: `production/part1/backgrounds_batch_13_contact.jpg`; review: `production/part1/backgrounds_batch_13_QC.md`.
+- Validation confirms 125 unique plates, 125 accepted, 0 pending, locked script verbatim, VO unchanged, and `full_render_ready: true`. Next: install `ffmpeg` and `ffprobe`, then assemble and QC Part 1.

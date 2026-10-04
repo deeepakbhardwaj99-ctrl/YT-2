@@ -1,19 +1,10 @@
 {
-  "clip_id": "p1_clip_24",
-  "shot_index": 4,
-  "file_path": "production/part1/backgrounds/p1_clip_24_bg_04.jpg",
-  "status": "reroll_required_next_batch",
-  "references": [
-    "production/assets/locations/loc_aulis_ref.png"
-  ],
-  "prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID wide background on the Aulis shoreline, matching the approved location reference. View diagonally across an empty pale stone landing toward calm blue-green harbor water, anchored Bronze Age ships and low limestone hills; a short path leads from the shore toward a few plain linen tents set well back in the distance. Leave broad, level, uncluttered foreground for later 2D character staging. Keep the landing and shore completely free of crates, chests, signs, labels, marks, carvings, symbols, letters or numerals. Soft overcast coastal light, muted ochre and blue-green palette. No people, children, animals, injury, text, writing, modern objects, logos, watermark, floor guides or layout circles.",
-  "composition": {
-    "character_visibility": "clear_level_foreground",
-    "characters": [
-      "priam",
-      "helen"
-    ],
-    "status": "assembly integration pending"
-  },
-  "qc_note": "Previous generated output rejected: visible pseudo-lettering/numeral-like marks on a wooden chest. Do not reuse."
+  "status": "part1_backgrounds_complete",
+  "completed_unique_plates": 125,
+  "next_step": "STEP 7 & 8 — Assemble, animate, render Part 1, then run motion and content QC",
+  "notes": [
+    "All 125 unique Part 1 background plates are accepted.",
+    "The former clip 24 shot 04 pseudo-text failure was rerolled and passed visual review.",
+    "Install ffmpeg and ffprobe before rendering."
+  ]
 }

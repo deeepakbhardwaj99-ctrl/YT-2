@@ -2508,6 +2508,27 @@
     },
     {
       "clip_id": "p1_clip_24",
+      "shot_index": 4,
+      "path": "production/part1/backgrounds/p1_clip_24_bg_04.jpg",
+      "location": "loc_aulis",
+      "reference": "production/assets/locations/loc_aulis_ref.png",
+      "description": "Empty Aulis landing, still harbor and distant camp tents with clear staging foreground.",
+      "shot_type": "wide",
+      "setting_label": "HARBOR OF AULIS — GREECE",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with the labelled batch contact sheet; location continuity, no-people/no-text and composition locks checked.",
+      "qc_note": "Corrective generation has no crate or pseudo-text; empty landing, no people/children/animals/injury.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "6ab2519e4209e5074b7729511da5ab3aab0cdaf0c89d4a910ab104b6cd0f7815",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID wide background on the Aulis shoreline, matching the approved location reference. View diagonally across an empty pale stone landing toward calm blue-green harbor water, anchored Bronze Age ships and low limestone hills; a short path leads from the shore toward a few plain linen tents set well back in the distance. Leave broad, level, uncluttered foreground for later 2D character staging. Keep the landing and shore completely free of crates, chests, signs, labels, marks, carvings, symbols, letters or numerals. Soft overcast coastal light, muted ochre and blue-green palette. No people, children, animals, injury, text, writing, modern objects, logos, watermark, floor guides or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_24",
       "shot_index": 5,
       "path": "production/part1/backgrounds/p1_clip_24_bg_05.jpg",
       "location": "loc_aulis",
@@ -2610,6 +2631,27 @@
       "composition": {},
       "protected_objects": [],
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID medium background at the Aulis harbor, consistent with the approved location reference. A plain linen sail catches a soft breeze above an empty wooden Bronze Age ship near the edge of frame; behind it, other vessels leave the calm inlet between pale limestone headlands. Include a broad clear strip of empty shoreline across the lower frame for later 2D character staging. Quiet golden coastal light and natural wood, canvas, sand and sea textures. No people, crew, figures, animals, text, writing, modern objects, logos, watermark, floor guides or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_25",
+      "shot_index": 5,
+      "path": "production/part1/backgrounds/p1_clip_25_bg_05.jpg",
+      "location": "loc_aulis",
+      "reference": "production/assets/locations/loc_aulis_ref.png",
+      "description": "Low waterline detail of a plain ship’s stern and wake as the fleet departs Aulis.",
+      "shot_type": "detail",
+      "setting_label": "HARBOR OF AULIS — GREECE",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with the labelled batch contact sheet; location continuity, no-people/no-text and composition locks checked.",
+      "qc_note": "Unmarked stern and gentle wake; no people, crew or text; clear coast in background.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "7b02d302aea79318fef85e480c395cfea53282deeeec0450e2e0cb5388b2c88c",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID detail background at the Harbor of Aulis, matching the approved location reference. Low waterline view of a plain, unmarked Bronze Age ship’s stern moving toward the open inlet; a gentle wake trails across blue-green water, while pale limestone hills and the rest of the departing fleet soften into the distance beneath a brightening horizon. Keep the frame calm and natural, with a small clear stretch of shore along the lower edge for later 2D character staging. Ancient wood and sea textures, muted ochre and blue-green palette. No people, crew, figures, animals, painted symbols, text, letters, writing, modern objects, logos, watermark, floor guides or layout circles."
     }
   ]
 }
