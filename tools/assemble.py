@@ -458,6 +458,11 @@ def mix_audio_for_clips(clip_plans, stem_mp3, out_wav):
     wavfile.write(out_wav, SR, (mix * 32767).astype(np.int16))
 
 def render_sequence_to_mp4(clip_plans, stem_mp3, out_mp4, report_path):
+    missing = [sh["bg_path"] for cp in clip_plans for sh in cp["shots"]
+               if sh.get("asset_status") != "accepted" or not os.path.isfile(sh["bg_path"])]
+    if missing:
+        raise ValueError(f"Render blocked: {len(missing)} unaccepted/missing production backgrounds. "
+                         "Generate and QC the plates; do not substitute reference crops.")
     t0 = time.time()
     cache = AssetCache()
     tmp_wav = out_mp4 + ".audio.wav"
@@ -475,9 +480,9 @@ def render_sequence_to_mp4(clip_plans, stem_mp3, out_mp4, report_path):
         "-s", f"{W}x{H}", "-pix_fmt", "rgb24", "-r", str(FPS),
         "-i", "-",
         "-i", tmp_wav,
-        "-c:v", "libx264", "-preset", "ultrafast", "-crf", "21", "-pix_fmt", "yuv420p",
+        "-c:v", "libx264", "-preset", "medium", "-crf", "25", "-maxrate", "1400k", "-bufsize", "2800k", "-pix_fmt", "yuv420p",
         "-c:a", "aac", "-b:a", "192k",
-        "-shortest", out_mp4
+        "-movflags", "+faststart", "-shortest", out_mp4
     ]
     proc = subprocess.Popen(cmd, stdin=subprocess.PIPE, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
@@ -496,7 +501,9 @@ def render_sequence_to_mp4(clip_plans, stem_mp3, out_mp4, report_path):
         t_offset += cp["duration_s"]
 
     proc.stdin.close()
-    proc.wait()
+    returncode = proc.wait()
+    if returncode:
+        raise RuntimeError(f"ffmpeg failed with exit code {returncode}; output not accepted")
     os.remove(tmp_wav)
 
     frozen_run = 0
@@ -516,7 +523,7 @@ def render_sequence_to_mp4(clip_plans, stem_mp3, out_mp4, report_path):
     with open(report_path, "w") as f:
         f.write(f"MOTION QC REPORT — {os.path.basename(out_mp4)}\n")
         f.write(f"Total Frames: {len(frame_diffs) + 1} ({t_offset:.2f}s @ {FPS} fps) | Render Time: {elapsed:.1f}s ({t_offset/max(0.1,elapsed):.1f}x realtime)\n")
-        f.write(f"Mean Frame-to-Frame Diff: {mean_diff:.3f} luma/px (Min: {min_diff:.3f}, Max: {max_diff:.3f})\n")
+        f.write(f"Mean Frame-to-Frame Diff: {mean_diff:.3f} RGB levels/channel (Min: {min_diff:.3f}, Max: {max_diff:.3f})\n")
         f.write(f"Max Near-Zero Motion Stretch (<0.25 diff): {max_frozen_s:.2f}s (Hard Gate: <= 2.00s) -> {'PASS' if max_frozen_s <= 2.0 else 'FAIL'}\n\n")
         f.write("Sampled 1-Second Frame-Diff Curve:\n")
         for idx in range(0, len(frame_diffs), FPS):
@@ -524,7 +531,7 @@ def render_sequence_to_mp4(clip_plans, stem_mp3, out_mp4, report_path):
             bar = "#" * min(40, int(d_v * 6))
             f.write(f"  t={t_s:6.2f}s | diff={d_v:6.3f} | {bar}\n")
 
-    print(f"Rendered {out_mp4} ({t_offset:.2f}s in {elapsed:.1f}s = {t_offset/max(0.1,elapsed):.1f}x realtime) | Mean diff={mean_diff:.3f} | Max frozen={max_frozen_s:.2f}s (PASS)")
+    print(f"Rendered {out_mp4} ({t_offset:.2f}s in {elapsed:.1f}s = {t_offset/max(0.1,elapsed):.1f}x realtime) | Mean diff={mean_diff:.3f} | Max frozen={max_frozen_s:.2f}s ({'PASS' if max_frozen_s <= 2.0 else 'FAIL'})")
 
 if __name__ == "__main__":
     with open("production/scenes.json") as f:

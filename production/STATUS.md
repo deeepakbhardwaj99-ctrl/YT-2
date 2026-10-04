@@ -61,4 +61,10 @@
 - Part 1 production backgrounds: **10/125 unique scene plates accepted**, 115 remaining. Reference angle crops are NOT counted as unique production plates.
 - Clips 01–02: 5/5 plates each individually viewed; no visible people/text; palette and empty foreground checked. These are imagined reconstructions, not exact archaeological reconstructions.
 - Density: five distinct generated backgrounds per clip. Full Part 1 assembly is blocked until all 125 plates are accepted. No additional Part 2/3 generation before Part 1 delivery.
-- Next: clips 03–04 (10 plates), then clips 05–25. Correcting recycled clip cards before assembly.
+- Next: clips 03–04 (10 plates), then clips 05–25. Replaced recycled card selection with 25 narration-specific cards; script and VO timings verified unchanged.
+
+- Batch review: `production/part1/backgrounds_batch_01_contact.jpg`; checklist: `backgrounds_batch_01_QC.md`; machine validation: `background_validation.json`.
+- Validation passed: 25 clips, 125 unique planned paths, 10 accepted plates, 115 pending; deliberate full-render readiness check correctly fails while images are missing.
+- Approved style preview is preserved, not a final Part 1 deliverable. Final title/tease cards, detailed text/speaker timing, ground placement and audio/motion QC remain open.
+- Encoding cap corrected to 1.4 Mbps video + 192 kbps audio (~81 MB cap estimate for 406.63s, not a measured file size). See batch QC for correction to prior estimate.
+- Python environment restored from `tools/requirements.txt`; system ffmpeg/ffprobe must be installed before rendering in this restored sandbox.

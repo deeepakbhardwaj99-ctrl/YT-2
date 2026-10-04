@@ -1,8 +1,15 @@
 import json
 import os
+from pathlib import Path
 
 with open("production/part1/part1_vo_manifest.json") as f:
     p1_vo = json.load(f)
+
+with open("production/part1/clip_beats.json") as f:
+    clip_beats = json.load(f)
+manifest_path = Path("production/part1/background_manifest.json")
+plates = json.loads(manifest_path.read_text())["plates"] if manifest_path.exists() else []
+accepted = {(p["clip_id"], p["shot_index"]): p for p in plates if p["qc_status"] == "accepted"}
 
 # Map chapters to primary location & character ensembles
 chapter_meta = {
@@ -120,7 +127,7 @@ for c_idx, clip in enumerate(p1_vo["clips"]):
             active_chars.append(dchars[(c_idx + 1) % len(dchars)])
 
     card_list = meta["overlay_cards"]
-    card = card_list[c_idx % len(card_list)]
+    card = clip_beats[clip["clip_id"]]
 
     # Check if any segment is dialogue to extract 2-5 word bubble_text
     dialogue_bubbles = []
@@ -143,18 +150,28 @@ for c_idx, clip in enumerate(p1_vo["clips"]):
             stype = "establishing"
             angle_suffix = "wide"
             cam = "dolly-in"
-        bg_file = f"production/assets/locations/{loc}_{angle_suffix}.jpg"
+        plate = accepted.get((clip["clip_id"], s_i + 1))
+        bg_file = f"production/part1/backgrounds/{clip['clip_id']}_bg_{s_i+1:02d}.jpg"
+        shot_loc = plate["location"] if plate else loc
+        shot_prompt = (plate["description"] if plate else
+                       f"{meta['place_label']}, {stype} shot illustrating {card['headline']}, "
+                       f"angle {s_i+1} of 5, distinct composition with clear level foreground")
+        shot_prompt += "; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9"
+        overlapping = [s for s in segs if s["t_start"] < (s_i+1)*shot_dur and s["t_end"] > s_i*shot_dur]
         shots.append({
             "shot_index": s_i + 1,
             "t_start": round(s_i * shot_dur, 3),
             "t_end": round((s_i + 1) * shot_dur if s_i < n_shots - 1 else dur, 3),
-            "location": loc,
+            "location": shot_loc,
             "shot_type": stype,
             "bg_path": bg_file,
-            "image_prompt": f"{meta['place_label']}, {stype} shot, Bronze Age architecture, warm golden-hour color grade, open foreground ground, no people, no text, 16:9",
+            "image_prompt": shot_prompt,
+            "reference_path": f"production/assets/locations/{shot_loc}_ref.png",
+            "asset_status": "accepted" if plate else "pending_generation",
+            "speaker_events": [{"speaker": s["speaker"], "t_start": s["t_start"], "t_end": s["t_end"]} for s in overlapping],
             "camera": cam,
             "characters": [] if (s_i == 0 and is_new_loc) else active_chars,
-            "speaker": dialogue_bubbles[0]["speaker"] if dialogue_bubbles else "narrator",
+            "speaker": overlapping[0]["speaker"] if overlapping else "narrator",
             "bubble_text": dialogue_bubbles[0]["bubble_text"] if dialogue_bubbles else "",
             "overlay_text": meta["place_label"] if (s_i == 0 and is_new_loc) else card["headline"],
             "emphasis_word": card["emphasis"],
