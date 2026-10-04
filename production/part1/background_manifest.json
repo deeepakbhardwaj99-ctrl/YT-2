@@ -1299,6 +1299,78 @@
       "sha256": "88991e49848148a0d1bf77943fc7487c68f69c9555265c517038b52b6764e166",
       "setting_label": "ROYAL PALACE OF SPARTA",
       "qc_note": "Match character lighting to amber interior; avoid hearth and columns when placing rigs. Geometric wall motifs are ornament, not text."
+    },
+    {
+      "clip_id": "p1_clip_13",
+      "shot_index": 1,
+      "path": "production/part1/backgrounds/p1_clip_13_bg_01.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Side aisle of suitor hall: Odysseus arrives as clever outsider",
+      "shot_type": "wide",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text or modern lights; clear foreground and palace material continuity checked",
+      "qc_note": "Foreground columns/steps require per-shot rig placement; shield rack is symbolic staging, not an added narrated event.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "10519ff9320fba38b9522a3fb660292cb0450b2c4e1e38117f6ea58e09f16b01"
+    },
+    {
+      "clip_id": "p1_clip_13",
+      "shot_index": 2,
+      "path": "production/part1/backgrounds/p1_clip_13_bg_02.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Quiet consultation alcove with stools and bronze cup: a bargain forms",
+      "shot_type": "medium",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text or modern lights; clear foreground and palace material continuity checked",
+      "qc_note": "Foreground columns/steps require per-shot rig placement; shield rack is symbolic staging, not an added narrated event.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "3464ab46b183559c41c79e411a28a618fd3cbf199c8a93298a334e355de47ac9"
+    },
+    {
+      "clip_id": "p1_clip_13",
+      "shot_index": 3,
+      "path": "production/part1/backgrounds/p1_clip_13_bg_03.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "View from royal dais toward empty suitor benches: swear first",
+      "shot_type": "wide",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text or modern lights; clear foreground and palace material continuity checked",
+      "qc_note": "Foreground columns/steps require per-shot rig placement; shield rack is symbolic staging, not an added narrated event.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "c5831e7bffa561ef9d535966168153a7fe90bea01c2c9599317a43e35781124f"
+    },
+    {
+      "clip_id": "p1_clip_13",
+      "shot_index": 4,
+      "path": "production/part1/backgrounds/p1_clip_13_bg_04.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Shield rack and empty council floor: defend the winning marriage",
+      "shot_type": "medium",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text or modern lights; clear foreground and palace material continuity checked",
+      "qc_note": "Foreground columns/steps require per-shot rig placement; shield rack is symbolic staging, not an added narrated event.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "972b477c448bfe332d2836ed7d3e4722323c20dc53ec3cae25c73afae53897e9"
     }
   ]
 }

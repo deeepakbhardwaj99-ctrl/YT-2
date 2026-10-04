@@ -1,17 +1,18 @@
 {
-  "clip_id": "p1_clip_11",
-  "shot_index": 2,
-  "file_path": "production/part1/backgrounds/p1_clip_11_bg_02.jpg",
-  "status": "accepted",
+  "clip_id": "p1_clip_13",
+  "shot_index": 5,
+  "file_path": "production/part1/backgrounds/p1_clip_13_bg_05.jpg",
+  "status": "not_generated_next_batch",
   "references": [
-    "production/assets/locations/loc_troy_ref.png",
-    "production/part1/backgrounds/p1_clip_08_bg_04.jpg",
-    "production/part1/backgrounds/p1_clip_06_bg_01.jpg"
+    "production/assets/locations/loc_palace_ref.png"
   ],
-  "prompt": "One cinematic 16:9 painterly semi-realistic HYBRID environment. Use Troy reference for earthy gold palette, Mount Ida hut for pastoral identity, golden apple reference for identical polished rounded gold fruit with short curved gold stem, no leaf or inscription. NEW close insert: one apple on a rough sandstone ledge at x35% y58%, around 12 percent image width. A few rose-pink wildflowers at far lower-left edge, oak grove and shepherd hut softly defocused behind. Eye level with ledge, warm upper-left sunlight. Aphrodite wins the apple: no hands painted, action to be composited later. Right half softly defocused scenery for overlay, NOT a full-body stage. No people, animals, faces, statues, lettering, logos, layout circles or modern objects. One continuous scene.",
+  "prompt": "One standalone cinematic 16:9 painterly semi-realistic HYBRID Trojan War background. Match approved Sparta palace reference red ochre painted wooden columns, geometric spiral frescoes, timber beams, bronze torch bowls and worn stone. NEW intimate medium-wide view through a rectangular side doorway toward a small quiet palace courtyard: two empty plain wooden chairs and an ivory cloth on a rear bench, olive tree in daylight beyond, no people. Story beat Odysseus asks for help winning Penelope in exchange for his oath proposal; suggest a private bargain without wedding anachronisms or literal characters. Broad level clear foreground center and right for cartoon Odysseus and king, empty upper-right plaster for speech bubble. Warm upper-left light. No people, silhouettes, faces, statues, animals, writing, letters, labels, logos, modern items, electric lights, floor guides or layout circles. One continuous scene.",
   "composition": {
-    "character_visibility": "none",
+    "character_visibility": "side_slots",
+    "characters": [
+      "odysseus",
+      "priam"
+    ],
     "status": "assembly integration pending"
-  },
-  "resolved_date": "2026-10-04"
+  }
 }

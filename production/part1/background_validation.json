@@ -2,7 +2,7 @@
   "script_verbatim": true,
   "vo_segments_unchanged": true,
   "planned_unique_plates": 125,
-  "accepted_plates": 60,
-  "pending_plates": 65,
+  "accepted_plates": 64,
+  "pending_plates": 61,
   "full_render_ready": false
 }
