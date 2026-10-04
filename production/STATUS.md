@@ -3,7 +3,7 @@
 **Repo:** `deeepakbhardwaj99-ctrl/YT-2` · **Branch:** `arena/01a1063f-yt-2`
 **Recovered checkpoint:** `origin/arena/01a1032c-yt-2` at `774100f` (2026-10-04); accepted assets and recorded approvals are reused, not regenerated.
 **Locked VO source:** `production/script_approved.txt` is byte-identical to the supplied script. The separate retention draft is not the VO source; no script/VO edits are being introduced.
-**Part 1 background progress:** 114/125 unique plates accepted; 11 remain. Clips 01–22 are complete; clip 23 is 4/5. Next: `p1_clip_23_bg_05.jpg`.
+**Part 1 background progress:** 123/125 unique plates accepted; 2 remain. Clips 01–23 are complete; clip 24 is 4/5 and clip 25 is 4/5. Next: reroll `p1_clip_24_bg_04.jpg`, then generate `p1_clip_25_bg_05.jpg`.
 **Format:** 16:9 (1920×1080) · **Target Pace:** ~130 wpm · **Parts:** 4 parts (~23.40 min total, 92 clips)
 **Style Mode:** `HYBRID` (2D cartoon rigged characters + AI-generated painterly-realistic Bronze Age environments, no people/text in backgrounds)
 **Motion:** `FULL ANIMATION` · **Preset:** `A — LIVELY EXPLAINER` (speech bubbles, callout cards, word pops, hops/pose swaps, 2s max static gate)
@@ -172,3 +172,12 @@
 - Prompts, references, dimensions, SHA-256 hashes, and QC notes are saved in `production/scenes.json` and `production/part1/background_manifest.json`.
 - Labelled contact sheet: `production/part1/backgrounds_batch_11_contact.jpg`; per-image review: `production/part1/backgrounds_batch_11_QC.md`. Validation confirms 125 unique paths, 114 accepted, 11 pending, locked script verbatim, and VO unchanged. Full Part 1 render remains blocked while 11 backgrounds are pending.
 - Exact next image: `production/part1/backgrounds/p1_clip_23_bg_05.jpg`, recorded in `production/part1/next_background.json`.
+
+
+## Background batch 12 — in progress (2026-10-04)
+- Reached the 10-call generation cap. Of the ten new outputs, **9 passed review**: clip 23 shot 05; clip 24 shots 01–03 and 05; clip 25 shots 01–04.
+- Clip 24 shot 04 was rejected: the chest in the generated image carried pseudo-lettering/numeral-like marks, violating the no-text lock. It is excluded from the manifest and will be rerolled next batch. Clip 25 shot 05 has not yet been generated.
+- **123/125 accepted, 2 remain.** Clips 01–23 complete; clips 24 and 25 are each 4/5. No script or VO changes.
+- The nine accepted plates are 1376×768, use the approved Aulis reference, and contain no visible people, animals, injury, or text. Accepted prompts, hashes and QC are saved in the manifest and scenes plan.
+- Partial labelled contact sheet and QC: `production/part1/backgrounds_batch_12_contact.jpg` and `production/part1/backgrounds_batch_12_QC.md`. Validation reports 123 accepted / 2 pending; full render remains blocked.
+- Exact next task: reroll `production/part1/backgrounds/p1_clip_24_bg_04.jpg`; after it passes review, generate `p1_clip_25_bg_05.jpg`.
