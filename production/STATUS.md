@@ -58,7 +58,7 @@
 ## Current batch — 2026-10-04
 - User approved Step 3 locations/characters and Step 6B rigs/motion with “continue”.
 - Restored accepted assets from GitHub commit `99259ae`; original script remains unchanged.
-- Part 1 production backgrounds: **5/125 unique scene plates accepted**, 120 remaining. Reference angle crops are NOT counted as unique production plates.
-- Clips 01: 5/5 plates individually viewed; no visible people/text; palette and empty foreground checked. These are imagined reconstructions, not exact archaeological reconstructions.
+- Part 1 production backgrounds: **10/125 unique scene plates accepted**, 115 remaining. Reference angle crops are NOT counted as unique production plates.
+- Clips 01–02: 5/5 plates each individually viewed; no visible people/text; palette and empty foreground checked. These are imagined reconstructions, not exact archaeological reconstructions.
 - Density: five distinct generated backgrounds per clip. Full Part 1 assembly is blocked until all 125 plates are accepted. No additional Part 2/3 generation before Part 1 delivery.
-- Next: clip 02 five plates, then clips 03–25; correct recycled clip cards to match actual spoken beats before assembly.
+- Next: clips 03–04 (10 plates), then clips 05–25. Correcting recycled clip cards before assembly.
