@@ -4577,12 +4577,12 @@
           "location": "loc_palace",
           "shot_type": "establishing",
           "bg_path": "production/part1/backgrounds/p1_clip_17_bg_05.jpg",
-          "image_prompt": "ROYAL PALACE OF SPARTA, establishing shot illustrating CALL IN THE OATH, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "One standalone 16:9 establishing background in cinematic painterly semi-realistic HYBRID style for the ancient Royal Palace of Sparta. Match the approved palace reference: red ochre spiral columns, timber beams, warm stone and bronze palette. A quiet colonnaded gate hall opens into a sunlit courtyard; vacant benches at the sides, broad empty level foreground for 2D character placement, balanced eye-level composition and soft atmospheric depth. No figures, silhouettes, writing, text, logos, modern items, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
           "setting_label": "ROYAL PALACE OF SPARTA",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -4661,12 +4661,12 @@
           "location": "loc_aulis",
           "shot_type": "establishing",
           "bg_path": "production/part1/backgrounds/p1_clip_18_bg_01.jpg",
-          "image_prompt": "HARBOR OF AULIS — GREECE, establishing shot illustrating ODYSSEUS PLOWS SALT, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Create one standalone 16:9 wide establishing environment in cinematic painterly-realistic HYBRID style, matching the attached approved Aulis harbor reference: sheltered blue-green Aegean inlet, steep pale limestone hills, sparse cypress and scrub, ancient timber ships with simple Bronze Age rigging moored offshore, low stone quay. Show a broad empty sandy beach in the lower third for cartoon character staging; no people or crews anywhere. Calm daylight, muted sea-blue, sandy ochre and soft gray palette, atmospheric depth. No text, writing, modern boats, logos, watermark, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
           "setting_label": "HARBOR OF AULIS — GREECE",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -4698,12 +4698,12 @@
           "location": "loc_aulis",
           "shot_type": "detail",
           "bg_path": "production/part1/backgrounds/p1_clip_18_bg_02.jpg",
-          "image_prompt": "HARBOR OF AULIS — GREECE, detail shot illustrating ODYSSEUS PLOWS SALT, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "One standalone 16:9 ground-level detail background for an ancient Aulis shoreline, painterly semi-realistic HYBRID style matching the attached harbor reference. Close view of pale beach sand with a narrow rough wooden plowshare entering the frame and fine white salt crystals scattered along a shallow furrow; soft harbor water and anchored Bronze Age ship hulls blur in the distance. Keep the lower foreground natural and uncluttered. No people, animals, text, writing, modern equipment, logos, watermark, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
           "setting_label": "HARBOR OF AULIS — GREECE",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -4738,12 +4738,12 @@
           "location": "loc_aulis",
           "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_18_bg_03.jpg",
-          "image_prompt": "HARBOR OF AULIS — GREECE, wide shot illustrating ODYSSEUS PLOWS SALT, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Create one distinct 16:9 wide cinematic painterly-realistic HYBRID Aulis beach environment, matching the approved location sheet: calm Aegean cove, rugged pale limestone slopes, distant Bronze Age ships and a low weathered quay. Broad sandy foreground shows several shallow parallel furrows dusted with white salt and an unattended plain wooden plow at the edge, with ample clear level ground for later 2D characters. Soft late-morning light, no people or animals. No text, signs, modern objects, logos, watermark, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
           "setting_label": "HARBOR OF AULIS — GREECE",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -4778,12 +4778,12 @@
           "location": "loc_aulis",
           "shot_type": "establishing",
           "bg_path": "production/part1/backgrounds/p1_clip_18_bg_04.jpg",
-          "image_prompt": "HARBOR OF AULIS — GREECE, establishing shot illustrating ODYSSEUS PLOWS SALT, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "One standalone 16:9 cinematic establishing-style background for the ancient Aulis harbor, painterly semi-realistic HYBRID environment art using the attached reference for palette and landscape continuity. New oblique view from beside a low stone dock across a quiet sheltered inlet; two or three simple Bronze Age wooden ships sit at anchor in middle distance, rocky green-gray hills behind, broad empty beach and flat staging area in the foreground. Warm neutral daylight, subtle atmospheric haze. No people, crews, animals, writing, text, modern vessels, logos, watermark, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
           "setting_label": "HARBOR OF AULIS — GREECE",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -4818,12 +4818,12 @@
           "location": "loc_aulis",
           "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_18_bg_05.jpg",
-          "image_prompt": "HARBOR OF AULIS — GREECE, wide shot illustrating ODYSSEUS PLOWS SALT, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Create one distinct 16:9 wide cinematic painterly-realistic HYBRID background of Aulis, closely matching the approved harbor reference: sheltered Aegean shoreline, distant ancient timber vessels, rocky slopes and muted blue-gray water. View along a curving sandy beach from low eye level; faint salt-white furrows lead toward the water, and an unoccupied wooden plow rests near the edge of frame. Keep wide level lower-third foreground for 2D cartoon characters; no people or animals. No text, writing, modern objects, logos, watermark, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
           "setting_label": "HARBOR OF AULIS — GREECE",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -4907,12 +4907,12 @@
           "location": "loc_aulis",
           "shot_type": "detail",
           "bg_path": "production/part1/backgrounds/p1_clip_19_bg_01.jpg",
-          "image_prompt": "HARBOR OF AULIS — GREECE, detail shot illustrating PALAMEDES CALLS HIS BLUFF, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "One standalone 16:9 detail background in painterly semi-realistic HYBRID Bronze Age shore style, matching the attached Aulis location sheet. Close angle on a wooden plow furrow crossing pale sand beside several fresh donkey-and-ox hoofprints; a small scatter of white salt crystals catches the light, harbor water softly blurred beyond. Show only the tracks and equipment, not animals or people. Clean composition, no injuries or child. No text, letters, writing, modern objects, logos, watermark, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
           "setting_label": "HARBOR OF AULIS — GREECE",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -4949,12 +4949,12 @@
           "location": "loc_aulis",
           "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_19_bg_02.jpg",
-          "image_prompt": "HARBOR OF AULIS — GREECE, wide shot illustrating PALAMEDES CALLS HIS BLUFF, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Create one distinct 16:9 wide cinematic painterly-realistic HYBRID Aulis beach background, matching the approved harbor reference in limestone coast, gray-green hills and calm blue water. A broad empty shore with a long wooden-plow furrow and a second trail of donkey-and-ox hoofprints crossing nearby; the two tracks approach but do not intersect in a dramatic or harmful way. Distant anchored Bronze Age ships, flat clear foreground for later 2D characters. No animals or people visible, no child, no injury. No text, writing, modern objects, logos, watermark, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
           "setting_label": "HARBOR OF AULIS — GREECE",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -4991,12 +4991,12 @@
           "location": "loc_aulis",
           "shot_type": "establishing",
           "bg_path": "production/part1/backgrounds/p1_clip_19_bg_03.jpg",
-          "image_prompt": "HARBOR OF AULIS — GREECE, establishing shot illustrating PALAMEDES CALLS HIS BLUFF, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "One standalone 16:9 establishing-like view from the Aulis beach looking inland toward low scrub and stony ground, painterly semi-realistic HYBRID style matched to the approved harbor reference. A plain wooden plow sits abandoned beside salt-dusted furrows; hoofprints trail across the sand toward the edge of frame, hinting at a sudden change of direction without showing the event. Quiet harbor and ancient ships remain distant at the edge of view. Open level lower foreground. No people, animals, child, injuries, text, writing, modern items, logos, watermark, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
           "setting_label": "HARBOR OF AULIS — GREECE",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -5038,12 +5038,12 @@
           "location": "loc_aulis",
           "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_19_bg_04.jpg",
-          "image_prompt": "HARBOR OF AULIS — GREECE, wide shot illustrating PALAMEDES CALLS HIS BLUFF, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Create one distinct 16:9 wide cinematic painterly-realistic HYBRID Aulis shoreline background, consistent with the attached reference. The wooden plow’s shallow furrow curves sharply across pale sand and ends beside separate hoofprints, suggesting a sudden swerve; calm anchored Bronze Age ships and limestone hills sit in the far background. No person, infant, animal, violence or injury is shown. Keep the foreground level and uncluttered for later 2D rigs; soft overcast sea light, muted gray-blue and ochre palette. No text, writing, logos, watermark, modern objects, floor guides or layout circles.",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
           "setting_label": "HARBOR OF AULIS — GREECE",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "PALAMEDES",

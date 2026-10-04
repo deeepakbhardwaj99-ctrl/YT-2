@@ -1,16 +1,16 @@
 {
-  "clip_id": "p1_clip_17",
+  "clip_id": "p1_clip_19",
   "shot_index": 5,
-  "file_path": "production/part1/backgrounds/p1_clip_17_bg_05.jpg",
+  "file_path": "production/part1/backgrounds/p1_clip_19_bg_05.jpg",
   "status": "not_generated_next_batch",
   "references": [
-    "production/assets/locations/loc_palace_ref.png"
+    "production/assets/locations/loc_aulis_ref.png"
   ],
-  "prompt": "One standalone 16:9 establishing background in cinematic painterly semi-realistic HYBRID style for the ancient Royal Palace of Sparta, matching the approved reference: red ochre spiral columns, timber beams, warm stone and bronze palette. Show a quiet colonnaded palace gate hall opening into a sunlit courtyard, with vacant benches at the sides and a broad empty level foreground for later 2D character placement. No figures, silhouettes, writing, text, logos, modern items, floor guides, or layout circles.",
+  "prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID close background for the Aulis beach, matching the approved harbor reference: pale sand, calm blue-green inlet, Bronze Age ship silhouettes distant, low rocky hills. Show a detail of the plain wooden plow handle and shallow salt furrow ending beside separate donkey-and-ox hoofprints; no animals, people, infant or injury. Keep a clean staging foreground and no text, writing, modern objects, logos, watermark, floor guides or layout circles.",
   "composition": {
     "character_visibility": "empty_foreground",
     "characters": [
-      "agamemnon"
+      "odysseus"
     ],
     "status": "assembly integration pending"
   }

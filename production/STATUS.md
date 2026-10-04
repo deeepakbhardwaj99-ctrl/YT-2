@@ -3,7 +3,7 @@
 **Repo:** `deeepakbhardwaj99-ctrl/YT-2` · **Branch:** `arena/01a1063f-yt-2`
 **Recovered checkpoint:** `origin/arena/01a1032c-yt-2` at `774100f` (2026-10-04); accepted assets and recorded approvals are reused, not regenerated.
 **Locked VO source:** `production/script_approved.txt` is byte-identical to the supplied script. The separate retention draft is not the VO source; no script/VO edits are being introduced.
-**Part 1 background progress:** 84/125 unique plates accepted; 41 remain. Clips 01–16 are complete; clip 17 is 4/5. Next: `p1_clip_17_bg_05.jpg`.
+**Part 1 background progress:** 94/125 unique plates accepted; 31 remain. Clips 01–18 are complete; clip 19 is 4/5. Next: `p1_clip_19_bg_05.jpg`.
 **Format:** 16:9 (1920×1080) · **Target Pace:** ~130 wpm · **Parts:** 4 parts (~23.40 min total, 92 clips)
 **Style Mode:** `HYBRID` (2D cartoon rigged characters + AI-generated painterly-realistic Bronze Age environments, no people/text in backgrounds)
 **Motion:** `FULL ANIMATION` · **Preset:** `A — LIVELY EXPLAINER` (speech bubbles, callout cards, word pops, hops/pose swaps, 2s max static gate)
@@ -145,3 +145,12 @@
 - All backgrounds match the approved Sparta palace reference, preserve the empty lower staging area, and show no people, readable text, logos, modern objects or watermarks. Nine are 1376×768; `p1_clip_15_bg_05.jpg` is 1365×768, still within the approved 16:9 tolerance. Exact dimensions and hashes are recorded in the manifest.
 - Contact sheet: `production/part1/backgrounds_batch_08_contact.jpg`; per-image QC: `production/part1/backgrounds_batch_08_QC.md`. Validation: 125 unique planned paths, 84 accepted, 41 pending, script and VO unchanged.
 - Next exact asset: `production/part1/backgrounds/p1_clip_17_bg_05.jpg`, saved in `production/part1/next_background.json`. Full Part 1 render remains blocked until the remaining 41 backgrounds are accepted.
+
+
+## Background batch 09 — complete (2026-10-04)
+- Generated and individually reviewed **10/10** new backgrounds with no re-rolls: clip 17 shot 05; all five shots for clip 18; clip 19 shots 01–04.
+- **94/125 accepted, 31 remaining.** Clips 01–18 are complete; clip 19 is 4/5.
+- Used the approved Sparta palace reference for clip 17 shot 05 and the Aulis harbor reference for all new-location plates. The establishing image introduces Aulis; no generated people, text, infant, or injury appear. Palette, Bronze Age ships, shoreline, and open character-staging ground pass visual review.
+- All ten images are 1376×768 and within the project’s accepted 16:9 tolerance. Prompts, SHA-256 hashes, references, and QC notes are recorded in `production/scenes.json` and `production/part1/background_manifest.json`.
+- Contact sheet: `production/part1/backgrounds_batch_09_contact.jpg`; per-image checklist: `production/part1/backgrounds_batch_09_QC.md`. Validation confirms 125 unique planned paths, 94 accepted, 31 pending, script verbatim, and VO unchanged.
+- Exact next image: `production/part1/backgrounds/p1_clip_19_bg_05.jpg`, recorded in `production/part1/next_background.json`. Full Part 1 render remains blocked while 31 backgrounds are pending.
