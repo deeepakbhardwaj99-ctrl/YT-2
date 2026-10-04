@@ -59,9 +59,9 @@
 - User approved Step 3 locations/characters and Step 6B rigs/motion with “continue”.
 - Restored accepted assets from GitHub commit `99259ae`; original script remains unchanged.
 - Part 1 production backgrounds: **64/125 unique scene plates accepted**, 61 remaining. Reference angle crops are NOT counted as unique production plates.
-- Clips 01–10: 5/5 plates each individually viewed; no visible people/text; palette and empty foreground checked. These are imagined reconstructions, not exact archaeological reconstructions.
+- Clips 01–12: 5/5 plates each individually viewed; no visible people/text; palette and empty foreground checked. These are imagined reconstructions, not exact archaeological reconstructions.
 - Density: five distinct generated backgrounds per clip. Full Part 1 assembly is blocked until all 125 plates are accepted. No additional Part 2/3 generation before Part 1 delivery.
-- Next: clip 11 shot 02 (golden apple insert), then clips 12–25. Replaced recycled card selection with 25 narration-specific cards; script and VO timings verified unchanged.
+- Next: clip 13 shot 05, then clips 14–25. Replaced recycled card selection with 25 narration-specific cards; script and VO timings verified unchanged.
 
 - Batch review: `production/part1/backgrounds_batch_01_contact.jpg`; checklist: `backgrounds_batch_01_QC.md`; machine validation: `background_validation.json`.
 - Validation passed: 25 clips, 125 unique planned paths, 64 accepted plates, 61 pending; deliberate full-render readiness check correctly fails while images are missing.
@@ -117,3 +117,6 @@
 
 - Added four clip 13 oath-proposal backgrounds, individually viewed and accepted. **64/125 total, 61 remaining**; clips 01–12 complete, clip 13 shots 01–04 accepted.
 - Ten generation calls this batch produced ten accepted new images, no re-rolls. Next exact asset is clip 13 shot 05 (Penelope bargain), saved in `production/part1/next_background.json`; then clips 14–25.
+
+- Batch 06 review: `production/part1/backgrounds_batch_06_contact.jpg` (clips 11–13, pending slot explicitly labelled); QC: `production/part1/backgrounds_batch_06_QC.md`.
+- Final checks passed: 64 accepted hashes/dimensions, script and all VO timings unchanged, deterministic plan generation. Full render correctly blocked by 61 pending backgrounds; no new full-part MP4 delivered.
