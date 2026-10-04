@@ -1,6 +1,8 @@
 # Production Status — THE TROJAN WAR: THE FULL STORY (Hybrid v3)
 
-**Repo:** `deeepakbhardwaj99-ctrl/YT-2` · **Branch:** `arena/01a1032c-yt-2`
+**Repo:** `deeepakbhardwaj99-ctrl/YT-2` · **Branch:** `arena/01a1063f-yt-2`
+**Recovered checkpoint:** `origin/arena/01a1032c-yt-2` at `774100f` (2026-10-04); accepted assets and recorded approvals are reused, not regenerated.
+**Locked VO source:** `production/script_approved.txt` is byte-identical to the supplied script. The separate retention draft is not the VO source; no script/VO edits are being introduced.
 **Format:** 16:9 (1920×1080) · **Target Pace:** ~130 wpm · **Parts:** 4 parts (~23.40 min total, 92 clips)
 **Style Mode:** `HYBRID` (2D cartoon rigged characters + AI-generated painterly-realistic Bronze Age environments, no people/text in backgrounds)
 **Motion:** `FULL ANIMATION` · **Preset:** `A — LIVELY EXPLAINER` (speech bubbles, callout cards, word pops, hops/pose swaps, 2s max static gate)
@@ -120,3 +122,9 @@
 
 - Batch 06 review: `production/part1/backgrounds_batch_06_contact.jpg` (clips 11–13, pending slot explicitly labelled); QC: `production/part1/backgrounds_batch_06_QC.md`.
 - Final checks passed: 64 accepted hashes/dimensions, script and all VO timings unchanged, deterministic plan generation. Full render correctly blocked by 61 pending backgrounds; no new full-part MP4 delivered.
+
+## Session resume checkpoint — 2026-10-04
+- Starting workspace was a clean checkout containing only the two supplied source files. GitHub had prior production work on `arena/01a1032c-yt-2`; its latest checkpoint (`774100f`) was fast-forward recovered onto this required session branch without regenerating accepted media.
+- Recovered assets include the approved character/location sheets, rigs, Part 1 VO/music, animation preview, production tools, and 64 individually QC'd Part 1 backgrounds. Recorded approvals and the original locked script are retained.
+- Next production asset: `production/part1/backgrounds/p1_clip_13_bg_05.jpg` (clip 13, shot 5). Then finish the remaining unique Part 1 plates only; do not start another part before Part 1 is delivered.
+- This restored sandbox has Python dependencies installed in the ignored `.venv`. `ffmpeg`/`ffprobe` are not installed; install them before video assembly.
