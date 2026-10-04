@@ -58,13 +58,13 @@
 ## Current batch — 2026-10-04
 - User approved Step 3 locations/characters and Step 6B rigs/motion with “continue”.
 - Restored accepted assets from GitHub commit `99259ae`; original script remains unchanged.
-- Part 1 production backgrounds: **40/125 unique scene plates accepted**, 85 remaining. Reference angle crops are NOT counted as unique production plates.
-- Clips 01–08: 5/5 plates each individually viewed; no visible people/text; palette and empty foreground checked. These are imagined reconstructions, not exact archaeological reconstructions.
+- Part 1 production backgrounds: **45/125 unique scene plates accepted**, 80 remaining. Reference angle crops are NOT counted as unique production plates.
+- Clips 01–09: 5/5 plates each individually viewed; no visible people/text; palette and empty foreground checked. These are imagined reconstructions, not exact archaeological reconstructions.
 - Density: five distinct generated backgrounds per clip. Full Part 1 assembly is blocked until all 125 plates are accepted. No additional Part 2/3 generation before Part 1 delivery.
-- Next: clips 09–10 (10 plates), then clips 11–25. Replaced recycled card selection with 25 narration-specific cards; script and VO timings verified unchanged.
+- Next: clip 10 (five plates), then clips 11–25. Replaced recycled card selection with 25 narration-specific cards; script and VO timings verified unchanged.
 
 - Batch review: `production/part1/backgrounds_batch_01_contact.jpg`; checklist: `backgrounds_batch_01_QC.md`; machine validation: `background_validation.json`.
-- Validation passed: 25 clips, 125 unique planned paths, 40 accepted plates, 85 pending; deliberate full-render readiness check correctly fails while images are missing.
+- Validation passed: 25 clips, 125 unique planned paths, 45 accepted plates, 80 pending; deliberate full-render readiness check correctly fails while images are missing.
 - Approved style preview is preserved, not a final Part 1 deliverable. Final title/tease cards, detailed text/speaker timing, ground placement and audio/motion QC remain open.
 - Encoding cap corrected to 1.4 Mbps video + 192 kbps audio (~81 MB cap estimate for 406.63s, not a measured file size). See batch QC for correction to prior estimate.
 - Python environment restored from `tools/requirements.txt`; system ffmpeg/ffprobe must be installed before rendering in this restored sandbox.
@@ -93,3 +93,7 @@
 - Mount Ida is staged as a pastoral extension of the approved Troy regional palette, not Olympus or verified geographical reconstruction. Per-shot setting labels, Paris staging intent and apple safety regions are saved in scenes.json; renderer integration remains pending.
 - Batch 04 review: `production/part1/backgrounds_batch_04_contact.jpg`; QC: `production/part1/backgrounds_batch_04_QC.md`. All ten sources and the final contact sheet were viewed.
 - Automated checks passed: 40 accepted hashes/dimensions, script and VO unchanged, deterministic plan regeneration, protected-object/composition metadata preserved. Full-render readiness correctly blocked by 85 pending plates.
+
+## Background batch 05 — in progress
+- Clip 09: 5/5 individually viewed and accepted, using approved Troy reference and accepted Mount Ida continuity plates. Clip 10 next.
+- Dream-of-fire plate is symbolic: DREAM label required in assembly; no literal infant or injury shown.

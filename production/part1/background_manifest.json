@@ -805,6 +805,135 @@
         "new_setting_establishing": false,
         "status": "assembly integration pending"
       }
+    },
+    {
+      "clip_id": "p1_clip_09",
+      "shot_index": 1,
+      "path": "production/part1/backgrounds/p1_clip_09_bg_01.jpg",
+      "location": "loc_troy",
+      "reference": "production/assets/locations/loc_troy_ref.png",
+      "references": [
+        "production/assets/locations/loc_troy_ref.png"
+      ],
+      "description": "Dream of smoke and orange glow behind intact Troy walls",
+      "shot_type": "wide",
+      "setting_label": "TROY \u2014 A DREAM OF FIRE",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text or modern objects; regional palette and staging checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "d0b74071072c274102c069cd3ab5cb9a637016e66ef7036f565c4d5852bf7422",
+      "composition": {
+        "character_visibility": "none",
+        "status": "assembly integration pending"
+      },
+      "qc_note": "Symbolic dream only: add DREAM label and do not imply Troy burned at Paris birth."
+    },
+    {
+      "clip_id": "p1_clip_09",
+      "shot_index": 2,
+      "path": "production/part1/backgrounds/p1_clip_09_bg_02.jpg",
+      "location": "loc_troy",
+      "reference": "production/assets/locations/loc_troy_ref.png",
+      "references": [
+        "production/assets/locations/loc_troy_ref.png",
+        "production/part1/backgrounds/p1_clip_08_bg_03.jpg"
+      ],
+      "description": "Empty inner gate passage opening toward the mountains",
+      "shot_type": "medium",
+      "setting_label": "TROY \u2014 DEPARTURE",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text or modern objects; regional palette and staging checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "4c9aa4159abddaae60b92f192ba77c0a5e7ef344d731a0fcc90af0d94eeb10b2",
+      "composition": {
+        "character_visibility": "side_slots",
+        "status": "assembly integration pending"
+      },
+      "qc_note": "Artistic landscape and narrative staging; no claim of exact geography. No infant depiction."
+    },
+    {
+      "clip_id": "p1_clip_09",
+      "shot_index": 3,
+      "path": "production/part1/backgrounds/p1_clip_09_bg_03.jpg",
+      "location": "loc_troy",
+      "reference": "production/assets/locations/loc_troy_ref.png",
+      "references": [
+        "production/assets/locations/loc_troy_ref.png",
+        "production/part1/backgrounds/p1_clip_08_bg_03.jpg"
+      ],
+      "description": "Sheltered oak clearing on Mount Ida with empty path",
+      "shot_type": "wide",
+      "setting_label": "MOUNT IDA \u2014 THE TROAS",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text or modern objects; regional palette and staging checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "ed6d6b71d76af52d20fb3a541694e7e20e0cef0676197ae051a9c98b6796a590",
+      "composition": {
+        "character_visibility": "side_slots",
+        "status": "assembly integration pending"
+      },
+      "qc_note": "Artistic landscape and narrative staging; no claim of exact geography. No infant depiction."
+    },
+    {
+      "clip_id": "p1_clip_09",
+      "shot_index": 4,
+      "path": "production/part1/backgrounds/p1_clip_09_bg_04.jpg",
+      "location": "loc_troy",
+      "reference": "production/assets/locations/loc_troy_ref.png",
+      "references": [
+        "production/assets/locations/loc_troy_ref.png",
+        "production/part1/backgrounds/p1_clip_08_bg_04.jpg"
+      ],
+      "description": "Hilltop pastoral path and distant Troy: an unsuccessful escape from fate",
+      "shot_type": "wide",
+      "setting_label": "THE TROAS",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text or modern objects; regional palette and staging checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "14bd7e3e39add9897ab7b570c5c506408cfa171a3b2be1e133277fab4936f7f8",
+      "composition": {
+        "character_visibility": "side_slots",
+        "status": "assembly integration pending"
+      },
+      "qc_note": "Artistic landscape and narrative staging; no claim of exact geography. No infant depiction."
+    },
+    {
+      "clip_id": "p1_clip_09",
+      "shot_index": 5,
+      "path": "production/part1/backgrounds/p1_clip_09_bg_05.jpg",
+      "location": "loc_troy",
+      "reference": "production/assets/locations/loc_troy_ref.png",
+      "references": [
+        "production/assets/locations/loc_troy_ref.png",
+        "production/part1/backgrounds/p1_clip_08_bg_04.jpg"
+      ],
+      "description": "Reverse three-quarter view of Paris shepherd hut",
+      "shot_type": "medium",
+      "setting_label": "MOUNT IDA \u2014 THE TROAS",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text or modern objects; regional palette and staging checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "17e53dee08ed7cf9936d97369efa70a7dee4763378e58b1dcb3779b018c848ce",
+      "composition": {
+        "character_visibility": "side_slots",
+        "status": "assembly integration pending"
+      },
+      "qc_note": "Artistic landscape and narrative staging; no claim of exact geography. No infant depiction."
     }
   ]
 }

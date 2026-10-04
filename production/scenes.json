@@ -2226,15 +2226,18 @@
           "shot_index": 1,
           "t_start": 0.0,
           "t_end": 3.759,
-          "location": "loc_olympus",
-          "shot_type": "detail",
+          "location": "loc_troy",
+          "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_09_bg_01.jpg",
-          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, detail shot illustrating A PROPHECY OF FIRE, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
-          "reference_path": "production/assets/locations/loc_olympus_ref.png",
-          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
-          "composition": {},
+          "image_prompt": "Dream of smoke and orange glow behind intact Troy walls; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "reference_path": "production/assets/locations/loc_troy_ref.png",
+          "setting_label": "TROY \u2014 A DREAM OF FIRE",
+          "composition": {
+            "character_visibility": "none",
+            "status": "assembly integration pending"
+          },
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -2266,15 +2269,18 @@
           "shot_index": 2,
           "t_start": 3.759,
           "t_end": 7.518,
-          "location": "loc_olympus",
-          "shot_type": "wide",
+          "location": "loc_troy",
+          "shot_type": "medium",
           "bg_path": "production/part1/backgrounds/p1_clip_09_bg_02.jpg",
-          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot illustrating A PROPHECY OF FIRE, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
-          "reference_path": "production/assets/locations/loc_olympus_ref.png",
-          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
-          "composition": {},
+          "image_prompt": "Empty inner gate passage opening toward the mountains; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "reference_path": "production/assets/locations/loc_troy_ref.png",
+          "setting_label": "TROY \u2014 DEPARTURE",
+          "composition": {
+            "character_visibility": "side_slots",
+            "status": "assembly integration pending"
+          },
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -2306,15 +2312,18 @@
           "shot_index": 3,
           "t_start": 7.518,
           "t_end": 11.277,
-          "location": "loc_olympus",
-          "shot_type": "establishing",
+          "location": "loc_troy",
+          "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_09_bg_03.jpg",
-          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, establishing shot illustrating A PROPHECY OF FIRE, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
-          "reference_path": "production/assets/locations/loc_olympus_ref.png",
-          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
-          "composition": {},
+          "image_prompt": "Sheltered oak clearing on Mount Ida with empty path; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "reference_path": "production/assets/locations/loc_troy_ref.png",
+          "setting_label": "MOUNT IDA \u2014 THE TROAS",
+          "composition": {
+            "character_visibility": "side_slots",
+            "status": "assembly integration pending"
+          },
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -2346,15 +2355,18 @@
           "shot_index": 4,
           "t_start": 11.277,
           "t_end": 15.036,
-          "location": "loc_olympus",
+          "location": "loc_troy",
           "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_09_bg_04.jpg",
-          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot illustrating A PROPHECY OF FIRE, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
-          "reference_path": "production/assets/locations/loc_olympus_ref.png",
-          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
-          "composition": {},
+          "image_prompt": "Hilltop pastoral path and distant Troy: an unsuccessful escape from fate; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "reference_path": "production/assets/locations/loc_troy_ref.png",
+          "setting_label": "THE TROAS",
+          "composition": {
+            "character_visibility": "side_slots",
+            "status": "assembly integration pending"
+          },
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -2386,15 +2398,18 @@
           "shot_index": 5,
           "t_start": 15.036,
           "t_end": 18.795,
-          "location": "loc_olympus",
+          "location": "loc_troy",
           "shot_type": "medium",
           "bg_path": "production/part1/backgrounds/p1_clip_09_bg_05.jpg",
-          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, medium shot illustrating A PROPHECY OF FIRE, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
-          "reference_path": "production/assets/locations/loc_olympus_ref.png",
-          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
-          "composition": {},
+          "image_prompt": "Reverse three-quarter view of Paris shepherd hut; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "reference_path": "production/assets/locations/loc_troy_ref.png",
+          "setting_label": "MOUNT IDA \u2014 THE TROAS",
+          "composition": {
+            "character_visibility": "side_slots",
+            "status": "assembly integration pending"
+          },
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
