@@ -3,7 +3,7 @@
 **Repo:** `deeepakbhardwaj99-ctrl/YT-2` · **Branch:** `arena/01a1063f-yt-2`
 **Recovered checkpoint:** `origin/arena/01a1032c-yt-2` at `774100f` (2026-10-04); accepted assets and recorded approvals are reused, not regenerated.
 **Locked VO source:** `production/script_approved.txt` is byte-identical to the supplied script. The separate retention draft is not the VO source; no script/VO edits are being introduced.
-**Part 1 background progress:** 74/125 unique plates accepted; 51 remain. Clips 01–14 are complete; clip 15 is 4/5. Next: `p1_clip_15_bg_05.jpg`.
+**Part 1 background progress:** 84/125 unique plates accepted; 41 remain. Clips 01–16 are complete; clip 17 is 4/5. Next: `p1_clip_17_bg_05.jpg`.
 **Format:** 16:9 (1920×1080) · **Target Pace:** ~130 wpm · **Parts:** 4 parts (~23.40 min total, 92 clips)
 **Style Mode:** `HYBRID` (2D cartoon rigged characters + AI-generated painterly-realistic Bronze Age environments, no people/text in backgrounds)
 **Motion:** `FULL ANIMATION` · **Preset:** `A — LIVELY EXPLAINER` (speech bubbles, callout cards, word pops, hops/pose swaps, 2s max static gate)
@@ -137,3 +137,11 @@
 - All ten files are 1376×768 (16:9); hashes and prompts are saved in `production/part1/background_manifest.json` and `production/scenes.json`. No visible people, writing, logos, modern props, or watermarks; all match the approved Sparta palace reference and retain clear staging ground.
 - Review contact sheet: `production/part1/backgrounds_batch_07_contact.jpg`; per-image checklist: `production/part1/backgrounds_batch_07_QC.md`. Machine validation: `production/part1/background_validation.json` (74 accepted / 51 pending; full render correctly blocked).
 - Exact next image: `production/part1/backgrounds/p1_clip_15_bg_05.jpg`, recorded in `production/part1/next_background.json`. Full Part 1 assembly remains blocked until all 125 unique plates are accepted; `ffmpeg`/`ffprobe` also need installing before render.
+
+
+## Background batch 08 — complete (2026-10-04)
+- Generated and individually viewed **10/10** new HYBRID backgrounds with no re-rolls: clip 15 shot 05; all five shots for clip 16; clip 17 shots 01–04.
+- **84/125 accepted, 41 remaining.** Clips 01–16 are complete; clip 17 is 4/5.
+- All backgrounds match the approved Sparta palace reference, preserve the empty lower staging area, and show no people, readable text, logos, modern objects or watermarks. Nine are 1376×768; `p1_clip_15_bg_05.jpg` is 1365×768, still within the approved 16:9 tolerance. Exact dimensions and hashes are recorded in the manifest.
+- Contact sheet: `production/part1/backgrounds_batch_08_contact.jpg`; per-image QC: `production/part1/backgrounds_batch_08_QC.md`. Validation: 125 unique planned paths, 84 accepted, 41 pending, script and VO unchanged.
+- Next exact asset: `production/part1/backgrounds/p1_clip_17_bg_05.jpg`, saved in `production/part1/next_background.json`. Full Part 1 render remains blocked until the remaining 41 backgrounds are accepted.

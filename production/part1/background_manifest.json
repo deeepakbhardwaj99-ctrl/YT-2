@@ -1581,6 +1581,216 @@
       "composition": {},
       "protected_objects": [],
       "image_prompt": "One standalone 16:9 medium view of an empty guest room inside the Royal Palace of Sparta, cinematic semi-realistic painterly HYBRID environment art. Match loc_palace_ref: red ochre columns, circular fresco motifs, timber beams, stone floor, warm bronze palette. Quiet doorway, plain wooden bench, folded cream linen, simple bronze oil lamp and a view to the courtyard; suggest a guest chamber, not a specific theft. Clear level lower foreground. No people, silhouettes, faces, text, letters, inscriptions, logos, watermarks, modern objects, electric lights, floor guides, or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_15",
+      "shot_index": 5,
+      "path": "production/part1/backgrounds/p1_clip_15_bg_05.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Close detail of an empty guest chamber with a slightly open wooden chest, folded linen and bronze lamp.",
+      "shot_type": "detail",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Empty chest and guest-room props read clearly; no people, text, modern objects or evidence of violence.",
+      "dimensions": [
+        1365,
+        768
+      ],
+      "sha256": "a267bfbf4a6e2fa15eeb20acc3af88c9f2094bfef55f23a0d4c6257c0c2d8fa9",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "One standalone 16:9 cinematic painterly semi-realistic HYBRID background for the Royal Palace of Sparta. Match the approved location reference: red ochre spiral columns, timber beams, warm worn stone and bronze palette. Close-detail view inside an empty guest chamber: a plain wooden storage chest slightly open, compartments mostly empty, folded linen and simple bronze oil lamp nearby; suggest an emptied room without showing people or depicting theft. Clear level lower foreground and uncluttered wall. No people, text, writing, modern objects, logos, watermarks, floor guides, or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_16",
+      "shot_index": 1,
+      "path": "production/part1/backgrounds/p1_clip_16_bg_01.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Establishing view of an empty central hall with two doorways toward a courtyard and shaded corridor.",
+      "shot_type": "establishing",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Two open routes retain ambiguity; palace continuity and clear staging floor; no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "f4f2eed9b3eb5e276b05dee9aa70634d1b2b0a74c8f23baa6d6ccd8252db5492",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "Create a 16:9 establishing shot, cinematic painterly semi-realistic HYBRID environment art for the ancient Royal Palace of Sparta, matching the reference: red ochre patterned columns, spiral fresco bands, dark timber beams, worn stone, warm bronze-brown grade. Empty central hall with two open doorways leading in different directions, a quiet courtyard through one and shaded corridor through the other; keep the question of Helen’s choice ambiguous. Broad level foreground. No people, text, writing, signs, logos, watermark, modern objects, floor guides, or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_16",
+      "shot_index": 2,
+      "path": "production/part1/backgrounds/p1_clip_16_bg_02.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Empty private chamber with half-open door, courtyard beyond, plain bench and folded cloth.",
+      "shot_type": "wide",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Open doorway and bench fit the ambiguous beat; no signs of struggle, people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "5f98f8c33ee8167f8e7daee2697aad15211026ff5e2c494cbd2638d1255ae562",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "Create a distinct 16:9 wide cinematic painterly-realistic HYBRID background for the Royal Palace of Sparta. Match the reference: red ochre spiral columns, timber lintels, warm plaster and worn stone. View across an empty private chamber toward a half-open doorway and sunlit courtyard; plain bench and folded traveling cloth near the wall, with no clue whether departure was willing or forced. Clean level lower-third foreground, gentle daylight. No people, silhouettes, faces, text, letters, logos, watermark, modern objects, floor guides, or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_16",
+      "shot_index": 3,
+      "path": "production/part1/backgrounds/p1_clip_16_bg_03.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Dressing alcove with an unmarked bronze mirror turned away, folded veil on bench and open doorway.",
+      "shot_type": "medium",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Mirror is turned away with no reflected figure; alcove empty; no text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "a2682467838a672aee56c0b8f6641251430bacd38a58d7d6f924629b8fada962",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "Create a 16:9 medium-wide cinematic semi-realistic painterly HYBRID environment inside the ancient Sparta palace, matching the reference: ochre walls, red spiral columns, dark beams, worn stone, amber lighting. Quiet dressing alcove: unmarked bronze mirror turned toward the wall, simple folded veil on a bench, open doorway to the side. Keep lower foreground clear and show no reflection of a person. No people, silhouettes, faces, text, writing, logos, watermark, modern objects, floor guides, or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_16",
+      "shot_index": 4,
+      "path": "production/part1/backgrounds/p1_clip_16_bg_04.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Close view of worn stone threshold between inner room and corridor, with untouched bronze cup.",
+      "shot_type": "detail",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Quiet threshold still life; no human-shaped shadows, people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "8874515f17340fcedca45ef45439652147dec9358a3fd96605ba3128aff884d7",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "Create a standalone 16:9 detail background in painterly semi-realistic HYBRID cinematic style for the Bronze Age Royal Palace of Sparta, matching the reference. Close view of a stone threshold between an empty inner room and corridor; bronze drinking cup rests untouched on a low ledge, warm light across worn floor tiles, red-and-ochre spiral bands recede softly. Keep lower edge clear for character placement. Neutral, unresolved mood. No people, human-shaped shadows, text, inscriptions, logos, watermark, modern objects, floor guides, or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_16",
+      "shot_index": 5,
+      "path": "production/part1/backgrounds/p1_clip_16_bg_05.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Empty palace balcony and courtyard framed by cream curtains and two open passages, olive trees beyond.",
+      "shot_type": "wide",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Balanced open passages preserve ambiguity; clear foreground and palace palette; no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "b957e59f71b84a001e8ad3d4fcb6f9a4ccc52201bb65f1c7bbbee6e0b2f0d45e",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "Create a distinct 16:9 wide shot of a quiet palace balcony and courtyard in the Royal Palace of Sparta, cinematic semi-realistic painterly HYBRID art matching the reference: red ochre columns, spiral frescoes, timber lintels and warm weathered stone. Cream curtains frame two equally open passages; olive trees beyond, empty low bench at the side, no signs of struggle or clear departure. Broad level foreground, neutral ambiguous mood. No people, silhouettes, faces, text, writing, logos, watermark, modern objects, floor guides, or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_17",
+      "shot_index": 1,
+      "path": "production/part1/backgrounds/p1_clip_17_bg_01.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Empty royal council hall with low table, stools and unmarked bronze helmets set aside.",
+      "shot_type": "wide",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Vacant council table and helmets; no people, inscriptions or text; open staging space.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "22b4f2bb660b7f81fc9c703d30eadf9133125c6d60dabc8af2fc16806771dd7c",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "Create a 16:9 wide cinematic painterly-realistic HYBRID background for an empty Bronze Age Greek royal council hall, matching the Sparta palace reference: red ochre spiral columns, dark timber beams, worn stone, bronze-and-amber palette. Long low council table with simple stools, unmarked bronze helmets set aside, open hall beyond; no maps or writing. Level unobstructed lower third for character rigs, wall space for overlay, restrained torchlight. No people, silhouettes, faces, text, inscriptions, logos, watermark, modern objects, floor guides, or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_17",
+      "shot_index": 2,
+      "path": "production/part1/backgrounds/p1_clip_17_bg_02.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Table-height view across an empty council table with a small wooden ship model and bronze bowl.",
+      "shot_type": "medium",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Small wooden ship model and bowl are clear; no map or writing; palace style consistent.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "a0eb6f7a5a991f40be4420eb3f60e2865924d7ed69b641446f0677acbcb6c173",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "Create a distinct 16:9 medium-wide cinematic semi-realistic painterly HYBRID environment in the ancient Sparta palace style. View from table height across a bare wooden council table toward red ochre columns and an open courtyard; small unpainted wooden ship model and bronze bowl on the table, no maps or inscriptions. Warm side light, clean lower foreground. No people, silhouettes, faces, text, writing, logos, watermark, modern objects, floor guides, or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_17",
+      "shot_index": 3,
+      "path": "production/part1/backgrounds/p1_clip_17_bg_03.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Folded deep-red cloak and an unmarked bronze vessel on a vacant bench by a painted column.",
+      "shot_type": "detail",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Red cloak and unmarked bronze item on vacant bench; no people, lettering or logos.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "4df35d7e8f89c8db32f3a0d3291ea43c1f3cd82c921efaee9441ea5a3da64da3",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "Create a 16:9 detail shot, cinematic painterly semi-realistic HYBRID background within the approved Royal Palace of Sparta design: red ochre and umber plaster, spiral-painted column edge, dark timber, worn stone. Folded deep-red cloak and plain bronze circlet lie on a low wooden bench beside an empty council seat, suggesting kings being summoned; warm lamp glow, uncluttered foreground. No people, silhouettes, faces, text, lettering, insignia, logos, watermark, modern objects, floor guides, or layout circles."
+    },
+    {
+      "clip_id": "p1_clip_17",
+      "shot_index": 4,
+      "path": "production/part1/backgrounds/p1_clip_17_bg_04.jpg",
+      "location": "loc_palace",
+      "reference": "production/assets/locations/loc_palace_ref.png",
+      "description": "Empty colonnaded passage from council hall toward sunlit courtyard gates, vacant benches along the wall.",
+      "shot_type": "wide",
+      "setting_label": "ROYAL PALACE OF SPARTA",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file after generation; style, continuity, composition, no-people/no-text locks checked.",
+      "qc_note": "Strong corridor perspective and empty benches; no harbor, people or text; open lower foreground.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "f12e60d8db27e7437eb95677ad3076de63e830099b3f3984a97e23e0ae88ed05",
+      "composition": {},
+      "protected_objects": [],
+      "image_prompt": "Create a distinct 16:9 wide cinematic painterly-realistic HYBRID palace background for the oath being invoked. Match the ancient Sparta palace reference: red ochre spiral columns, timber roof, warm worn stone and bronze details. Long empty colonnaded passage leading from council chamber toward sunlit courtyard gates, vacant benches at the sides, strong perspective toward exit; no harbor or ships. Broad level foreground and atmospheric amber light. No people, silhouettes, faces, text, writing, signs, logos, watermark, modern objects, floor guides, or layout circles."
     }
   ]
 }

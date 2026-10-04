@@ -4067,12 +4067,12 @@
           "location": "loc_palace",
           "shot_type": "detail",
           "bg_path": "production/part1/backgrounds/p1_clip_15_bg_05.jpg",
-          "image_prompt": "ROYAL PALACE OF SPARTA, detail shot illustrating THE GUEST FROM TROY, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "One standalone 16:9 cinematic painterly semi-realistic HYBRID background for the Royal Palace of Sparta. Match the approved location reference: red ochre spiral columns, timber beams, warm worn stone and bronze palette. Close-detail view inside an empty guest chamber: a plain wooden storage chest slightly open, compartments mostly empty, folded linen and simple bronze oil lamp nearby; suggest an emptied room without showing people or depicting theft. Clear level lower foreground and uncluttered wall. No people, text, writing, modern objects, logos, watermarks, floor guides, or layout circles.",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
           "setting_label": "ROYAL PALACE OF SPARTA",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -4149,12 +4149,12 @@
           "location": "loc_palace",
           "shot_type": "establishing",
           "bg_path": "production/part1/backgrounds/p1_clip_16_bg_01.jpg",
-          "image_prompt": "ROYAL PALACE OF SPARTA, establishing shot illustrating DID HELEN CHOOSE?, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Create a 16:9 establishing shot, cinematic painterly semi-realistic HYBRID environment art for the ancient Royal Palace of Sparta, matching the reference: red ochre patterned columns, spiral fresco bands, dark timber beams, worn stone, warm bronze-brown grade. Empty central hall with two open doorways leading in different directions, a quiet courtyard through one and shaded corridor through the other; keep the question of Helen’s choice ambiguous. Broad level foreground. No people, text, writing, signs, logos, watermark, modern objects, floor guides, or layout circles.",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
           "setting_label": "ROYAL PALACE OF SPARTA",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -4191,12 +4191,12 @@
           "location": "loc_palace",
           "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_16_bg_02.jpg",
-          "image_prompt": "ROYAL PALACE OF SPARTA, wide shot illustrating DID HELEN CHOOSE?, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Create a distinct 16:9 wide cinematic painterly-realistic HYBRID background for the Royal Palace of Sparta. Match the reference: red ochre spiral columns, timber lintels, warm plaster and worn stone. View across an empty private chamber toward a half-open doorway and sunlit courtyard; plain bench and folded traveling cloth near the wall, with no clue whether departure was willing or forced. Clean level lower-third foreground, gentle daylight. No people, silhouettes, faces, text, letters, logos, watermark, modern objects, floor guides, or layout circles.",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
           "setting_label": "ROYAL PALACE OF SPARTA",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -4233,12 +4233,12 @@
           "location": "loc_palace",
           "shot_type": "medium",
           "bg_path": "production/part1/backgrounds/p1_clip_16_bg_03.jpg",
-          "image_prompt": "ROYAL PALACE OF SPARTA, medium shot illustrating DID HELEN CHOOSE?, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Create a 16:9 medium-wide cinematic semi-realistic painterly HYBRID environment inside the ancient Sparta palace, matching the reference: ochre walls, red spiral columns, dark beams, worn stone, amber lighting. Quiet dressing alcove: unmarked bronze mirror turned toward the wall, simple folded veil on a bench, open doorway to the side. Keep lower foreground clear and show no reflection of a person. No people, silhouettes, faces, text, writing, logos, watermark, modern objects, floor guides, or layout circles.",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
           "setting_label": "ROYAL PALACE OF SPARTA",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -4275,12 +4275,12 @@
           "location": "loc_palace",
           "shot_type": "detail",
           "bg_path": "production/part1/backgrounds/p1_clip_16_bg_04.jpg",
-          "image_prompt": "ROYAL PALACE OF SPARTA, detail shot illustrating DID HELEN CHOOSE?, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Create a standalone 16:9 detail background in painterly semi-realistic HYBRID cinematic style for the Bronze Age Royal Palace of Sparta, matching the reference. Close view of a stone threshold between an empty inner room and corridor; bronze drinking cup rests untouched on a low ledge, warm light across worn floor tiles, red-and-ochre spiral bands recede softly. Keep lower edge clear for character placement. Neutral, unresolved mood. No people, human-shaped shadows, text, inscriptions, logos, watermark, modern objects, floor guides, or layout circles.",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
           "setting_label": "ROYAL PALACE OF SPARTA",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -4322,12 +4322,12 @@
           "location": "loc_palace",
           "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_16_bg_05.jpg",
-          "image_prompt": "ROYAL PALACE OF SPARTA, wide shot illustrating DID HELEN CHOOSE?, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Create a distinct 16:9 wide shot of a quiet palace balcony and courtyard in the Royal Palace of Sparta, cinematic semi-realistic painterly HYBRID art matching the reference: red ochre columns, spiral frescoes, timber lintels and warm weathered stone. Cream curtains frame two equally open passages; olive trees beyond, empty low bench at the side, no signs of struggle or clear departure. Broad level foreground, neutral ambiguous mood. No people, silhouettes, faces, text, writing, logos, watermark, modern objects, floor guides, or layout circles.",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
           "setting_label": "ROYAL PALACE OF SPARTA",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "MENELAUS",
@@ -4416,12 +4416,12 @@
           "location": "loc_palace",
           "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_17_bg_01.jpg",
-          "image_prompt": "ROYAL PALACE OF SPARTA, wide shot illustrating CALL IN THE OATH, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Create a 16:9 wide cinematic painterly-realistic HYBRID background for an empty Bronze Age Greek royal council hall, matching the Sparta palace reference: red ochre spiral columns, dark timber beams, worn stone, bronze-and-amber palette. Long low council table with simple stools, unmarked bronze helmets set aside, open hall beyond; no maps or writing. Level unobstructed lower third for character rigs, wall space for overlay, restrained torchlight. No people, silhouettes, faces, text, inscriptions, logos, watermark, modern objects, floor guides, or layout circles.",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
           "setting_label": "ROYAL PALACE OF SPARTA",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "AGAMEMNON",
@@ -4455,12 +4455,12 @@
           "location": "loc_palace",
           "shot_type": "medium",
           "bg_path": "production/part1/backgrounds/p1_clip_17_bg_02.jpg",
-          "image_prompt": "ROYAL PALACE OF SPARTA, medium shot illustrating CALL IN THE OATH, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Create a distinct 16:9 medium-wide cinematic semi-realistic painterly HYBRID environment in the ancient Sparta palace style. View from table height across a bare wooden council table toward red ochre columns and an open courtyard; small unpainted wooden ship model and bronze bowl on the table, no maps or inscriptions. Warm side light, clean lower foreground. No people, silhouettes, faces, text, writing, logos, watermark, modern objects, floor guides, or layout circles.",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
           "setting_label": "ROYAL PALACE OF SPARTA",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "AGAMEMNON",
@@ -4494,12 +4494,12 @@
           "location": "loc_palace",
           "shot_type": "detail",
           "bg_path": "production/part1/backgrounds/p1_clip_17_bg_03.jpg",
-          "image_prompt": "ROYAL PALACE OF SPARTA, detail shot illustrating CALL IN THE OATH, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Create a 16:9 detail shot, cinematic painterly semi-realistic HYBRID background within the approved Royal Palace of Sparta design: red ochre and umber plaster, spiral-painted column edge, dark timber, worn stone. Folded deep-red cloak and plain bronze circlet lie on a low wooden bench beside an empty council seat, suggesting kings being summoned; warm lamp glow, uncluttered foreground. No people, silhouettes, faces, text, lettering, insignia, logos, watermark, modern objects, floor guides, or layout circles.",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
           "setting_label": "ROYAL PALACE OF SPARTA",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "AGAMEMNON",
@@ -4533,12 +4533,12 @@
           "location": "loc_palace",
           "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_17_bg_04.jpg",
-          "image_prompt": "ROYAL PALACE OF SPARTA, wide shot illustrating CALL IN THE OATH, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Create a distinct 16:9 wide cinematic painterly-realistic HYBRID palace background for the oath being invoked. Match the ancient Sparta palace reference: red ochre spiral columns, timber roof, warm worn stone and bronze details. Long empty colonnaded passage leading from council chamber toward sunlit courtyard gates, vacant benches at the sides, strong perspective toward exit; no harbor or ships. Broad level foreground and atmospheric amber light. No people, silhouettes, faces, text, writing, signs, logos, watermark, modern objects, floor guides, or layout circles.",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
           "setting_label": "ROYAL PALACE OF SPARTA",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "AGAMEMNON",

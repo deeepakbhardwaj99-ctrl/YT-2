@@ -1,16 +1,16 @@
 {
-  "clip_id": "p1_clip_15",
+  "clip_id": "p1_clip_17",
   "shot_index": 5,
-  "file_path": "production/part1/backgrounds/p1_clip_15_bg_05.jpg",
+  "file_path": "production/part1/backgrounds/p1_clip_17_bg_05.jpg",
   "status": "not_generated_next_batch",
   "references": [
     "production/assets/locations/loc_palace_ref.png"
   ],
-  "prompt": "One standalone cinematic 16:9 painterly semi-realistic HYBRID background for the Royal Palace of Sparta, matching the approved location reference: red ochre spiral columns, timber beams, warm stone and bronze palette. A distinct close-detail view of an empty guest chamber with a plain wooden storage chest slightly open, folded linen and a bronze oil lamp; suggest an emptied private room without showing people or depicting a theft. Keep a clean level lower foreground and clear wall space. No text, letters, people, silhouettes, modern objects, logos, watermark, floor guides, or layout circles.",
+  "prompt": "One standalone 16:9 establishing background in cinematic painterly semi-realistic HYBRID style for the ancient Royal Palace of Sparta, matching the approved reference: red ochre spiral columns, timber beams, warm stone and bronze palette. Show a quiet colonnaded palace gate hall opening into a sunlit courtyard, with vacant benches at the sides and a broad empty level foreground for later 2D character placement. No figures, silhouettes, writing, text, logos, modern items, floor guides, or layout circles.",
   "composition": {
     "character_visibility": "empty_foreground",
     "characters": [
-      "paris"
+      "agamemnon"
     ],
     "status": "assembly integration pending"
   }
