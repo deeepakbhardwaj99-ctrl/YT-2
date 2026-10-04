@@ -934,6 +934,136 @@
         "status": "assembly integration pending"
       },
       "qc_note": "Artistic landscape and narrative staging; no claim of exact geography. No infant depiction."
+    },
+    {
+      "clip_id": "p1_clip_10",
+      "shot_index": 1,
+      "path": "production/part1/backgrounds/p1_clip_10_bg_01.jpg",
+      "location": "loc_troy",
+      "reference": "production/assets/locations/loc_troy_ref.png",
+      "references": [
+        "production/assets/locations/loc_troy_ref.png",
+        "production/part1/backgrounds/p1_clip_08_bg_04.jpg"
+      ],
+      "setting_label": "MOUNT IDA \u2014 THE TROAS",
+      "description": "Three converging paths near oak and hut: the goddesses arrive separately",
+      "shot_type": "wide",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text; pastoral continuity and usable ground checked",
+      "qc_note": "Symbolic staging only; no additions to spoken script.",
+      "composition": {
+        "character_visibility": "side_slots",
+        "status": "assembly integration pending"
+      },
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "9050e753b28c804dc8d14a2a5f321a52da7bd66d113bae7513d399a41dc1720c"
+    },
+    {
+      "clip_id": "p1_clip_10",
+      "shot_index": 2,
+      "path": "production/part1/backgrounds/p1_clip_10_bg_02.jpg",
+      "location": "loc_troy",
+      "reference": "production/assets/locations/loc_troy_ref.png",
+      "references": [
+        "production/assets/locations/loc_troy_ref.png",
+        "production/part1/backgrounds/p1_clip_08_bg_04.jpg"
+      ],
+      "setting_label": "MOUNT IDA \u2014 THE TROAS",
+      "description": "Broad sunlit valley: symbolic kingdoms to the sunrise",
+      "shot_type": "wide",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text; pastoral continuity and usable ground checked",
+      "qc_note": "Symbolic staging only; no additions to spoken script.",
+      "composition": {
+        "character_visibility": "side_slots",
+        "status": "assembly integration pending"
+      },
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "3d264cd3b27794f35240f8970e83e33e7bac31c01b8001bb9c30597f2ee64887"
+    },
+    {
+      "clip_id": "p1_clip_10",
+      "shot_index": 3,
+      "path": "production/part1/backgrounds/p1_clip_10_bg_03.jpg",
+      "location": "loc_troy",
+      "reference": "production/assets/locations/loc_troy_ref.png",
+      "references": [
+        "production/assets/locations/loc_troy_ref.png",
+        "production/part1/backgrounds/p1_clip_08_bg_04.jpg"
+      ],
+      "setting_label": "MOUNT IDA \u2014 THE TROAS",
+      "description": "Bronze shield and spear at oak: symbolic promise of victory",
+      "shot_type": "medium",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text; pastoral continuity and usable ground checked",
+      "qc_note": "Symbolic staging only; no additions to spoken script.",
+      "composition": {
+        "character_visibility": "side_slots",
+        "status": "assembly integration pending"
+      },
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "d126fdc5e90001017239c5aa94db3cf4f21d1ee1e659bc1eb1f31e9d3fcfffdd"
+    },
+    {
+      "clip_id": "p1_clip_10",
+      "shot_index": 4,
+      "path": "production/part1/backgrounds/p1_clip_10_bg_04.jpg",
+      "location": "loc_troy",
+      "reference": "production/assets/locations/loc_troy_ref.png",
+      "references": [
+        "production/assets/locations/loc_troy_ref.png",
+        "production/part1/backgrounds/p1_clip_08_bg_04.jpg"
+      ],
+      "setting_label": "MOUNT IDA \u2014 THE TROAS",
+      "description": "Softly lit oak grove and wildflowers: symbolic promise of love",
+      "shot_type": "wide",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text; pastoral continuity and usable ground checked",
+      "qc_note": "Initial generated ground rings rejected as unwanted layout guides. One corrective generation removed both rings; corrected image individually viewed and accepted.",
+      "composition": {
+        "character_visibility": "side_slots",
+        "status": "assembly integration pending"
+      },
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "e1509828a0e584b0a70be16afb89b7c5a337fe22e6ee27bf8e76692a8540ac36"
+    },
+    {
+      "clip_id": "p1_clip_10",
+      "shot_index": 5,
+      "path": "production/part1/backgrounds/p1_clip_10_bg_05.jpg",
+      "location": "loc_troy",
+      "reference": "production/assets/locations/loc_troy_ref.png",
+      "references": [
+        "production/assets/locations/loc_troy_ref.png",
+        "production/part1/backgrounds/p1_clip_08_bg_04.jpg"
+      ],
+      "setting_label": "MOUNT IDA \u2014 THE TROAS",
+      "description": "Reverse hut view across open clearing: Paris must choose",
+      "shot_type": "wide",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people/text; pastoral continuity and usable ground checked",
+      "qc_note": "Symbolic staging only; no additions to spoken script.",
+      "composition": {
+        "character_visibility": "side_slots",
+        "status": "assembly integration pending"
+      },
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "0e4d7d20be22685e896a5c7fe46515b7c7757a9588b6ca04c02a93548c5ffd66"
     }
   ]
 }
