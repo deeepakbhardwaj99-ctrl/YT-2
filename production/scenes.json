@@ -35,6 +35,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_01_bg_01.jpg",
           "image_prompt": "Very wide citadel on windy hill, empty approach road and Anatolian plain; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_troy_ref.png",
+          "setting_label": "TROY (HISARLIK) \u2014 1180 BC",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -73,6 +76,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_01_bg_02.jpg",
           "image_prompt": "Opposite-side oblique gate approach, dust and receding towers; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_troy_ref.png",
+          "setting_label": "TROY (HISARLIK) \u2014 1180 BC",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -113,6 +119,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_01_bg_03.jpg",
           "image_prompt": "Non-graphic burned courtyard, charred beams and smoke; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_troy_ref.png",
+          "setting_label": "TROY (HISARLIK) \u2014 1180 BC",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -153,6 +162,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_01_bg_04.jpg",
           "image_prompt": "Excavation strata, ash and pottery fragments on the hill; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_troy_ref.png",
+          "setting_label": "TROY (HISARLIK) \u2014 1180 BC",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -193,6 +205,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_01_bg_05.jpg",
           "image_prompt": "Inside open timber gate toward the distant plain and sea; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_troy_ref.png",
+          "setting_label": "TROY (HISARLIK) \u2014 1180 BC",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -269,6 +284,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_02_bg_01.jpg",
           "image_prompt": "Empty Olympus council terrace with three vacant chairs; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "TROY (HISARLIK) \u2014 1180 BC",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -307,6 +325,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_02_bg_02.jpg",
           "image_prompt": "Troy excavation with ash stratum and archaeological tools; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_troy_ref.png",
+          "setting_label": "TROY (HISARLIK) \u2014 1180 BC",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -345,6 +366,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_02_bg_03.jpg",
           "image_prompt": "Ruined passage toward distant gate: myth versus evidence; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_troy_ref.png",
+          "setting_label": "TROY (HISARLIK) \u2014 1180 BC",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -383,6 +407,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_02_bg_04.jpg",
           "image_prompt": "Empty Olympus wedding banquet terrace; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "TROY (HISARLIK) \u2014 1180 BC",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -421,6 +448,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_02_bg_05.jpg",
           "image_prompt": "Open bronze doorway and vacant stool: excluded wedding guest; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "TROY (HISARLIK) \u2014 1180 BC",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -493,6 +523,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_03_bg_01.jpg",
           "image_prompt": "Empty wedding court with ivory canopy and two vacant seats; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -527,6 +560,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_03_bg_02.jpg",
           "image_prompt": "Wooden ceremonial chair, red cloak and bronze cup representing the mortal groom; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -563,6 +599,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_03_bg_03.jpg",
           "image_prompt": "Sea-blue bridal alcove and seashell bowl evoking Thetis; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -599,6 +638,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_03_bg_04.jpg",
           "image_prompt": "Vacant gold-and-ivory throne beneath the colonnade representing Zeus; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -635,6 +677,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_03_bg_05.jpg",
           "image_prompt": "Cloud-shadowed terrace and luminous break in the sky suggesting a prophecy; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -706,6 +751,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_04_bg_01.jpg",
           "image_prompt": "Vacant tall throne and plain stool beneath columns: symbolic prophecy staging; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -746,6 +794,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_04_bg_02.jpg",
           "image_prompt": "Empty council pavilion with three vacant seats and cloud-lined walkway; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -786,6 +837,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_04_bg_03.jpg",
           "image_prompt": "Partly closed bronze doorway beyond the empty bridal terrace; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -826,6 +880,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_04_bg_04.jpg",
           "image_prompt": "Plain wooden chair, olive wreath and bronze cup for a mortal marriage; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -866,6 +923,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_04_bg_05.jpg",
           "image_prompt": "Prepared wedding banquet along the colonnade, transitioning into the feast; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -956,6 +1016,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_05_bg_01.jpg",
           "image_prompt": "Empty wedding feast with fruit, bread, wine vessels and unplayed lyre; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -996,6 +1059,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_05_bg_02.jpg",
           "image_prompt": "Closed bronze side entrance: one missing guest; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -1036,6 +1102,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_05_bg_03.jpg",
           "image_prompt": "Door ajar, cool threshold shadow and billowing ivory curtain; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -1081,6 +1150,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_05_bg_04.jpg",
           "image_prompt": "Open bronze side entrance and empty walkway for Eris arrival; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -1131,6 +1203,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_05_bg_05.jpg",
           "image_prompt": "Clear reception floor beneath olive garlands for gift announcement; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -1250,6 +1325,19 @@
           "bg_path": "production/part1/backgrounds/p1_clip_06_bg_01.jpg",
           "image_prompt": "Single polished golden apple on marble wedding floor; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [
+            {
+              "name": "golden_apple",
+              "bbox_normalized": [
+                0.445,
+                0.6,
+                0.555,
+                0.82
+              ]
+            }
+          ],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -1286,6 +1374,23 @@
           "bg_path": "production/part1/backgrounds/p1_clip_06_bg_02.jpg",
           "image_prompt": "Overhead detail insert of unmarked golden apple on marble; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {
+            "character_visibility": "none",
+            "inscription": "Post-production overlay only; no generated writing",
+            "status": "assembly integration pending"
+          },
+          "protected_objects": [
+            {
+              "name": "golden_apple",
+              "bbox_normalized": [
+                0.58,
+                0.3,
+                0.89,
+                0.85
+              ]
+            }
+          ],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -1322,6 +1427,23 @@
           "bg_path": "production/part1/backgrounds/p1_clip_06_bg_03.jpg",
           "image_prompt": "Three distant ceremonial seats beyond golden apple in open wedding court; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {
+            "character_visibility": "side_slots",
+            "inscription": "Post-production overlay only; no generated writing",
+            "status": "assembly integration pending"
+          },
+          "protected_objects": [
+            {
+              "name": "golden_apple",
+              "bbox_normalized": [
+                0.445,
+                0.61,
+                0.555,
+                0.82
+              ]
+            }
+          ],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -1363,6 +1485,23 @@
           "bg_path": "production/part1/backgrounds/p1_clip_06_bg_04.jpg",
           "image_prompt": "Regal chair and long colonnade, golden apple near right column base; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {
+            "character_visibility": "side_slots",
+            "inscription": "Post-production overlay only; no generated writing",
+            "status": "assembly integration pending"
+          },
+          "protected_objects": [
+            {
+              "name": "golden_apple",
+              "bbox_normalized": [
+                0.68,
+                0.59,
+                0.735,
+                0.695
+              ]
+            }
+          ],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -1399,6 +1538,23 @@
           "bg_path": "production/part1/backgrounds/p1_clip_06_bg_05.jpg",
           "image_prompt": "Olive-lined reverse-angle colonnade with centered golden apple; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {
+            "character_visibility": "side_slots",
+            "inscription": "Post-production overlay only; no generated writing",
+            "status": "assembly integration pending"
+          },
+          "protected_objects": [
+            {
+              "name": "golden_apple",
+              "bbox_normalized": [
+                0.46,
+                0.72,
+                0.54,
+                0.88
+              ]
+            }
+          ],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -1512,6 +1668,22 @@
           "bg_path": "production/part1/backgrounds/p1_clip_07_bg_01.jpg",
           "image_prompt": "Rose-and-ivory wedding terrace with gold apple: Aphrodite claims beauty; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {
+            "character_visibility": "side_slots",
+            "status": "assembly integration pending"
+          },
+          "protected_objects": [
+            {
+              "name": "golden_apple",
+              "bbox_normalized": [
+                0.465,
+                0.78,
+                0.535,
+                0.92
+              ]
+            }
+          ],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -1551,6 +1723,22 @@
           "bg_path": "production/part1/backgrounds/p1_clip_07_bg_02.jpg",
           "image_prompt": "High three-quarter gold apple insert on marble with rose petals; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {
+            "character_visibility": "none",
+            "status": "assembly integration pending"
+          },
+          "protected_objects": [
+            {
+              "name": "golden_apple",
+              "bbox_normalized": [
+                0.79,
+                0.72,
+                0.9,
+                0.93
+              ]
+            }
+          ],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -1590,6 +1778,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_07_bg_03.jpg",
           "image_prompt": "Empty council court facing throne and three vacant seats; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -1634,6 +1825,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_07_bg_04.jpg",
           "image_prompt": "Side view of empty throne and open terrace: Zeus reluctant; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -1673,6 +1867,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_07_bg_05.jpg",
           "image_prompt": "Reverse throne-edge view into clear colonnaded walkway; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "accepted",
           "speaker_events": [
             {
@@ -1761,11 +1958,14 @@
           "t_start": 0.0,
           "t_end": 3.288,
           "location": "loc_olympus",
-          "shot_type": "medium",
+          "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_08_bg_01.jpg",
-          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, medium shot illustrating FIND A MORTAL, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Council terrace with empty throne and three audience chairs: Zeus refuses; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
-          "asset_status": "pending_generation",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ZEUS",
@@ -1798,11 +1998,14 @@
           "t_start": 3.288,
           "t_end": 6.576,
           "location": "loc_olympus",
-          "shot_type": "detail",
+          "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_08_bg_02.jpg",
-          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, detail shot illustrating FIND A MORTAL, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Open Olympus arch toward earthly valley: find a mortal; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
-          "asset_status": "pending_generation",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ZEUS",
@@ -1839,12 +2042,20 @@
           "shot_index": 3,
           "t_start": 6.576,
           "t_end": 9.864,
-          "location": "loc_olympus",
-          "shot_type": "wide",
+          "location": "loc_troy",
+          "shot_type": "establishing",
           "bg_path": "production/part1/backgrounds/p1_clip_08_bg_03.jpg",
-          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot illustrating FIND A MORTAL, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
-          "reference_path": "production/assets/locations/loc_olympus_ref.png",
-          "asset_status": "pending_generation",
+          "image_prompt": "Mount Ida establishing panorama: wooded ridges and empty shepherd path; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "reference_path": "production/assets/locations/loc_troy_ref.png",
+          "setting_label": "MOUNT IDA \u2014 THE TROAS",
+          "composition": {
+            "character_visibility": "none",
+            "characters": [],
+            "new_setting_establishing": true,
+            "status": "assembly integration pending"
+          },
+          "protected_objects": [],
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -1876,12 +2087,22 @@
           "shot_index": 4,
           "t_start": 9.864,
           "t_end": 13.152,
-          "location": "loc_olympus",
-          "shot_type": "establishing",
+          "location": "loc_troy",
+          "shot_type": "medium",
           "bg_path": "production/part1/backgrounds/p1_clip_08_bg_04.jpg",
-          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, establishing shot illustrating FIND A MORTAL, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
-          "reference_path": "production/assets/locations/loc_olympus_ref.png",
-          "asset_status": "pending_generation",
+          "image_prompt": "Rustic Mount Ida shepherd clearing with hut, basket and crook; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "reference_path": "production/assets/locations/loc_troy_ref.png",
+          "setting_label": "MOUNT IDA \u2014 THE TROAS",
+          "composition": {
+            "character_visibility": "side_slots",
+            "characters": [
+              "paris"
+            ],
+            "new_setting_establishing": false,
+            "status": "assembly integration pending"
+          },
+          "protected_objects": [],
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -1913,12 +2134,22 @@
           "shot_index": 5,
           "t_start": 13.152,
           "t_end": 16.44,
-          "location": "loc_olympus",
+          "location": "loc_troy",
           "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_08_bg_05.jpg",
-          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot illustrating FIND A MORTAL, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
-          "reference_path": "production/assets/locations/loc_olympus_ref.png",
-          "asset_status": "pending_generation",
+          "image_prompt": "Pastoral foreground with distant Troy citadel: Paris is a secret prince; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "reference_path": "production/assets/locations/loc_troy_ref.png",
+          "setting_label": "MOUNT IDA \u2014 THE TROAS",
+          "composition": {
+            "character_visibility": "side_slots",
+            "characters": [
+              "paris"
+            ],
+            "new_setting_establishing": false,
+            "status": "assembly integration pending"
+          },
+          "protected_objects": [],
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -2000,6 +2231,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_09_bg_01.jpg",
           "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, detail shot illustrating A PROPHECY OF FIRE, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -2037,6 +2271,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_09_bg_02.jpg",
           "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot illustrating A PROPHECY OF FIRE, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -2074,6 +2311,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_09_bg_03.jpg",
           "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, establishing shot illustrating A PROPHECY OF FIRE, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -2111,6 +2351,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_09_bg_04.jpg",
           "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot illustrating A PROPHECY OF FIRE, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -2148,6 +2391,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_09_bg_05.jpg",
           "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, medium shot illustrating A PROPHECY OF FIRE, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -2242,6 +2488,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_10_bg_01.jpg",
           "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot illustrating THREE OFFERS, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -2282,6 +2531,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_10_bg_02.jpg",
           "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, establishing shot illustrating THREE OFFERS, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -2327,6 +2579,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_10_bg_03.jpg",
           "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot illustrating THREE OFFERS, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -2372,6 +2627,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_10_bg_04.jpg",
           "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, medium shot illustrating THREE OFFERS, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -2417,6 +2675,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_10_bg_05.jpg",
           "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, detail shot illustrating THREE OFFERS, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -2529,6 +2790,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_11_bg_01.jpg",
           "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, establishing shot illustrating HELEN IS ALREADY MARRIED, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -2565,6 +2829,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_11_bg_02.jpg",
           "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot illustrating HELEN IS ALREADY MARRIED, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -2606,6 +2873,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_11_bg_03.jpg",
           "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, medium shot illustrating HELEN IS ALREADY MARRIED, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -2642,6 +2912,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_11_bg_04.jpg",
           "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, detail shot illustrating HELEN IS ALREADY MARRIED, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -2678,6 +2951,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_11_bg_05.jpg",
           "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot illustrating HELEN IS ALREADY MARRIED, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
+          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -2766,6 +3042,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_12_bg_01.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, establishing shot illustrating THE SUITORS OF HELEN, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -2800,6 +3079,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_12_bg_02.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, medium shot illustrating THE SUITORS OF HELEN, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -2836,6 +3118,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_12_bg_03.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, detail shot illustrating THE SUITORS OF HELEN, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -2872,6 +3157,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_12_bg_04.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, wide shot illustrating THE SUITORS OF HELEN, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -2913,6 +3201,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_12_bg_05.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, establishing shot illustrating THE SUITORS OF HELEN, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3001,6 +3292,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_13_bg_01.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, medium shot illustrating SWEAR AN OATH, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3040,6 +3334,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_13_bg_02.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, detail shot illustrating SWEAR AN OATH, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3079,6 +3376,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_13_bg_03.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, wide shot illustrating SWEAR AN OATH, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3123,6 +3423,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_13_bg_04.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, establishing shot illustrating SWEAR AN OATH, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3162,6 +3465,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_13_bg_05.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, wide shot illustrating SWEAR AN OATH, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3254,6 +3560,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_14_bg_01.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, detail shot illustrating REMEMBER THE HORSE, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3294,6 +3603,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_14_bg_02.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, wide shot illustrating REMEMBER THE HORSE, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3339,6 +3651,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_14_bg_03.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, establishing shot illustrating REMEMBER THE HORSE, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3384,6 +3699,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_14_bg_04.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, wide shot illustrating REMEMBER THE HORSE, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3424,6 +3742,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_14_bg_05.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, medium shot illustrating REMEMBER THE HORSE, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3519,6 +3840,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_15_bg_01.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, wide shot illustrating THE GUEST FROM TROY, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3556,6 +3880,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_15_bg_02.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, establishing shot illustrating THE GUEST FROM TROY, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3593,6 +3920,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_15_bg_03.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, wide shot illustrating THE GUEST FROM TROY, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3630,6 +3960,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_15_bg_04.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, medium shot illustrating THE GUEST FROM TROY, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3667,6 +4000,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_15_bg_05.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, detail shot illustrating THE GUEST FROM TROY, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3746,6 +4082,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_16_bg_01.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, establishing shot illustrating DID HELEN CHOOSE?, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3785,6 +4124,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_16_bg_02.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, wide shot illustrating DID HELEN CHOOSE?, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3824,6 +4166,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_16_bg_03.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, medium shot illustrating DID HELEN CHOOSE?, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3863,6 +4208,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_16_bg_04.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, detail shot illustrating DID HELEN CHOOSE?, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3907,6 +4255,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_16_bg_05.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, wide shot illustrating DID HELEN CHOOSE?, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -3998,6 +4349,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_17_bg_01.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, wide shot illustrating CALL IN THE OATH, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4034,6 +4388,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_17_bg_02.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, medium shot illustrating CALL IN THE OATH, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4070,6 +4427,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_17_bg_03.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, detail shot illustrating CALL IN THE OATH, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4106,6 +4466,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_17_bg_04.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, wide shot illustrating CALL IN THE OATH, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4147,6 +4510,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_17_bg_05.jpg",
           "image_prompt": "ROYAL PALACE OF SPARTA, establishing shot illustrating CALL IN THE OATH, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
+          "setting_label": "ROYAL PALACE OF SPARTA",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4228,6 +4594,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_18_bg_01.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, establishing shot illustrating ODYSSEUS PLOWS SALT, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4262,6 +4631,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_18_bg_02.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, detail shot illustrating ODYSSEUS PLOWS SALT, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4299,6 +4671,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_18_bg_03.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot illustrating ODYSSEUS PLOWS SALT, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4336,6 +4711,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_18_bg_04.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, establishing shot illustrating ODYSSEUS PLOWS SALT, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4373,6 +4751,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_18_bg_05.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot illustrating ODYSSEUS PLOWS SALT, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4459,6 +4840,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_19_bg_01.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, detail shot illustrating PALAMEDES CALLS HIS BLUFF, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4498,6 +4882,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_19_bg_02.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot illustrating PALAMEDES CALLS HIS BLUFF, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4537,6 +4924,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_19_bg_03.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, establishing shot illustrating PALAMEDES CALLS HIS BLUFF, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4581,6 +4971,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_19_bg_04.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot illustrating PALAMEDES CALLS HIS BLUFF, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4630,6 +5023,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_19_bg_05.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, medium shot illustrating PALAMEDES CALLS HIS BLUFF, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4734,6 +5130,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_20_bg_01.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot illustrating THE GREEKS NEED ACHILLES, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4771,6 +5170,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_20_bg_02.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, establishing shot illustrating THE GREEKS NEED ACHILLES, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4808,6 +5210,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_20_bg_03.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot illustrating THE GREEKS NEED ACHILLES, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4850,6 +5255,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_20_bg_04.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, medium shot illustrating THE GREEKS NEED ACHILLES, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4887,6 +5295,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_20_bg_05.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, detail shot illustrating THE GREEKS NEED ACHILLES, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -4969,6 +5380,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_21_bg_01.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, establishing shot illustrating HIDDEN ON SKYROS, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5006,6 +5420,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_21_bg_02.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot illustrating HIDDEN ON SKYROS, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5043,6 +5460,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_21_bg_03.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, medium shot illustrating HIDDEN ON SKYROS, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5080,6 +5500,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_21_bg_04.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, detail shot illustrating HIDDEN ON SKYROS, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5117,6 +5540,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_21_bg_05.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot illustrating HIDDEN ON SKYROS, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5204,6 +5630,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_22_bg_01.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot illustrating A SHORT GLORIOUS LIFE, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5244,6 +5673,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_22_bg_02.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, medium shot illustrating A SHORT GLORIOUS LIFE, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5284,6 +5716,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_22_bg_03.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, detail shot illustrating A SHORT GLORIOUS LIFE, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5324,6 +5759,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_22_bg_04.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot illustrating A SHORT GLORIOUS LIFE, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5364,6 +5802,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_22_bg_05.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, establishing shot illustrating A SHORT GLORIOUS LIFE, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5465,6 +5906,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_23_bg_01.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, medium shot illustrating AULIS: NO WIND, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5503,6 +5947,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_23_bg_02.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, detail shot illustrating AULIS: NO WIND, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5541,6 +5988,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_23_bg_03.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot illustrating AULIS: NO WIND, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5584,6 +6034,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_23_bg_04.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, establishing shot illustrating AULIS: NO WIND, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5622,6 +6075,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_23_bg_05.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot illustrating AULIS: NO WIND, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5735,6 +6191,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_24_bg_01.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, detail shot illustrating WHERE IS THE GROOM?, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5772,6 +6231,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_24_bg_02.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot illustrating WHERE IS THE GROOM?, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5809,6 +6271,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_24_bg_03.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, establishing shot illustrating WHERE IS THE GROOM?, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5846,6 +6311,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_24_bg_04.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot illustrating WHERE IS THE GROOM?, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5888,6 +6356,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_24_bg_05.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, medium shot illustrating WHERE IS THE GROOM?, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -5979,6 +6450,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_25_bg_01.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot illustrating THE FLEET SAILS, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -6018,6 +6492,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_25_bg_02.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, establishing shot illustrating THE FLEET SAILS, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -6057,6 +6534,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_25_bg_03.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, wide shot illustrating THE FLEET SAILS, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -6096,6 +6576,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_25_bg_04.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, medium shot illustrating THE FLEET SAILS, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
@@ -6140,6 +6623,9 @@
           "bg_path": "production/part1/backgrounds/p1_clip_25_bg_05.jpg",
           "image_prompt": "HARBOR OF AULIS \u2014 GREECE, detail shot illustrating THE FLEET SAILS, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_aulis_ref.png",
+          "setting_label": "HARBOR OF AULIS \u2014 GREECE",
+          "composition": {},
+          "protected_objects": [],
           "asset_status": "pending_generation",
           "speaker_events": [
             {
