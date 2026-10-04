@@ -2,7 +2,7 @@
   "clip_id": "p1_clip_11",
   "shot_index": 2,
   "file_path": "production/part1/backgrounds/p1_clip_11_bg_02.jpg",
-  "status": "not_generated_quota_reached",
+  "status": "accepted",
   "references": [
     "production/assets/locations/loc_troy_ref.png",
     "production/part1/backgrounds/p1_clip_08_bg_04.jpg",
@@ -12,5 +12,6 @@
   "composition": {
     "character_visibility": "none",
     "status": "assembly integration pending"
-  }
+  },
+  "resolved_date": "2026-10-04"
 }

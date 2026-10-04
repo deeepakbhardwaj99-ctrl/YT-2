@@ -58,13 +58,13 @@
 ## Current batch — 2026-10-04
 - User approved Step 3 locations/characters and Step 6B rigs/motion with “continue”.
 - Restored accepted assets from GitHub commit `99259ae`; original script remains unchanged.
-- Part 1 production backgrounds: **54/125 unique scene plates accepted**, 71 remaining. Reference angle crops are NOT counted as unique production plates.
+- Part 1 production backgrounds: **60/125 unique scene plates accepted**, 65 remaining. Reference angle crops are NOT counted as unique production plates.
 - Clips 01–10: 5/5 plates each individually viewed; no visible people/text; palette and empty foreground checked. These are imagined reconstructions, not exact archaeological reconstructions.
 - Density: five distinct generated backgrounds per clip. Full Part 1 assembly is blocked until all 125 plates are accepted. No additional Part 2/3 generation before Part 1 delivery.
 - Next: clip 11 shot 02 (golden apple insert), then clips 12–25. Replaced recycled card selection with 25 narration-specific cards; script and VO timings verified unchanged.
 
 - Batch review: `production/part1/backgrounds_batch_01_contact.jpg`; checklist: `backgrounds_batch_01_QC.md`; machine validation: `background_validation.json`.
-- Validation passed: 25 clips, 125 unique planned paths, 54 accepted plates, 71 pending; deliberate full-render readiness check correctly fails while images are missing.
+- Validation passed: 25 clips, 125 unique planned paths, 60 accepted plates, 65 pending; deliberate full-render readiness check correctly fails while images are missing.
 - Approved style preview is preserved, not a final Part 1 deliverable. Final title/tease cards, detailed text/speaker timing, ground placement and audio/motion QC remain open.
 - Encoding cap corrected to 1.4 Mbps video + 192 kbps audio (~81 MB cap estimate for 406.63s, not a measured file size). See batch QC for correction to prior estimate.
 - Python environment restored from `tools/requirements.txt`; system ffmpeg/ffprobe must be installed before rendering in this restored sandbox.
@@ -109,3 +109,8 @@
 - Next pending asset is the apple insert, not any of the saved clip 11 palace plates. No full-part MP4 rendered in this batch.
 - Review: `production/part1/backgrounds_batch_05_contact.jpg` (clips 10–11; missing insert explicitly labelled pending). QC: `production/part1/backgrounds_batch_05_QC.md`.
 - Validation passed: 54 accepted hashes/dimensions, script/VO unchanged, deterministic scene regeneration. Full-render readiness correctly rejects 71 missing plates. Contact sheets reject missing slots unless `--allow-pending` is explicitly requested.
+
+## Current batch 06 — in progress (2026-10-04)
+- Resumed authoritative GitHub checkpoint `1ee30b1` (54 accepted); clips 09–10 and four clip 11 plates already saved, not regenerated.
+- Completed missing clip 11 apple insert and all five clip 12 palace backgrounds. Individually viewed and accepted: **60/125**, 65 remaining; clips 01–12 complete.
+- Clip 13 next. No script, VO or approved rig changes; assembly and full-part QC remain pending.

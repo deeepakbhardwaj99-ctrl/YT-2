@@ -2861,15 +2861,28 @@
           "shot_index": 2,
           "t_start": 2.133,
           "t_end": 4.266,
-          "location": "loc_olympus",
-          "shot_type": "wide",
+          "location": "loc_troy",
+          "shot_type": "detail",
           "bg_path": "production/part1/backgrounds/p1_clip_11_bg_02.jpg",
-          "image_prompt": "MOUNT OLYMPUS & MOUNT IDA, wide shot illustrating HELEN IS ALREADY MARRIED, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
-          "reference_path": "production/assets/locations/loc_olympus_ref.png",
-          "setting_label": "MOUNT OLYMPUS & MOUNT IDA",
-          "composition": {},
-          "protected_objects": [],
-          "asset_status": "pending_generation",
+          "image_prompt": "Golden apple on sandstone ledge before Mount Ida hut: Aphrodite wins; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "reference_path": "production/assets/locations/loc_troy_ref.png",
+          "setting_label": "MOUNT IDA \u2014 THE TROAS",
+          "composition": {
+            "character_visibility": "none",
+            "status": "assembly integration pending"
+          },
+          "protected_objects": [
+            {
+              "name": "golden_apple",
+              "bbox_normalized": [
+                0.285,
+                0.5,
+                0.425,
+                0.79
+              ]
+            }
+          ],
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "PARIS",
@@ -3096,12 +3109,12 @@
           "location": "loc_palace",
           "shot_type": "establishing",
           "bg_path": "production/part1/backgrounds/p1_clip_12_bg_01.jpg",
-          "image_prompt": "ROYAL PALACE OF SPARTA, establishing shot illustrating THE SUITORS OF HELEN, angle 1 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Sparta throne-hall entrance with empty royal dais; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
           "setting_label": "ROYAL PALACE OF SPARTA",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -3133,12 +3146,12 @@
           "location": "loc_palace",
           "shot_type": "medium",
           "bg_path": "production/part1/backgrounds/p1_clip_12_bg_02.jpg",
-          "image_prompt": "ROYAL PALACE OF SPARTA, medium shot illustrating THE SUITORS OF HELEN, angle 2 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Quiet royal alcove with folded linen and empty seat: Helen daughter of Tyndareus; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
           "setting_label": "ROYAL PALACE OF SPARTA",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -3170,14 +3183,14 @@
           "t_start": 6.876,
           "t_end": 10.314,
           "location": "loc_palace",
-          "shot_type": "detail",
+          "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_12_bg_03.jpg",
-          "image_prompt": "ROYAL PALACE OF SPARTA, detail shot illustrating THE SUITORS OF HELEN, angle 3 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Empty reception court and travel chests for gathering suitors; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
           "setting_label": "ROYAL PALACE OF SPARTA",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -3211,12 +3224,12 @@
           "location": "loc_palace",
           "shot_type": "wide",
           "bg_path": "production/part1/backgrounds/p1_clip_12_bg_04.jpg",
-          "image_prompt": "ROYAL PALACE OF SPARTA, wide shot illustrating THE SUITORS OF HELEN, angle 4 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Throne hall with benches and distant hearth: pressure on Tyndareus; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
           "setting_label": "ROYAL PALACE OF SPARTA",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -3253,14 +3266,14 @@
           "t_start": 13.752,
           "t_end": 17.188,
           "location": "loc_palace",
-          "shot_type": "establishing",
+          "shot_type": "medium",
           "bg_path": "production/part1/backgrounds/p1_clip_12_bg_05.jpg",
-          "image_prompt": "ROYAL PALACE OF SPARTA, establishing shot illustrating THE SUITORS OF HELEN, angle 5 of 5, distinct composition with clear level foreground; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
+          "image_prompt": "Side view of royal dais and cool doorway: Tyndareus fears conflict; HYBRID painterly semi-realistic environment, warm Bronze Age palette, no people, no text, 16:9",
           "reference_path": "production/assets/locations/loc_palace_ref.png",
           "setting_label": "ROYAL PALACE OF SPARTA",
           "composition": {},
           "protected_objects": [],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "TYNDAREUS",
