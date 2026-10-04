@@ -25,7 +25,7 @@
 - [x] **STEP 0 — Workspace Audit:** Completed.
 - [x] **STEP 1 — Script Lock 🔒:** Approved by user. Locked verbatim in `production/script_approved.txt`.
 - [x] **STEP 2 — Part Structure:** Computed and saved in `production/parts_breakdown.json`.
-- [x] **STEP 3 — Character & Hybrid Location Sheets 🔒 (COMPLETE — READY FOR APPROVAL):**
+- [x] **STEP 3 — Character & Hybrid Location Sheets 🔒 (APPROVED — user “continue”, 2026-10-04):**
   - **Character Sheets (9/9 complete & QC'd):** `production/assets/characters/character_contact_grid.png`
   - **Hybrid Location Sheets (5/5 primary refs + 2×2 angle grids complete & QC'd):**
     - `production/assets/locations/locations_contact_grid.jpg` (Master Contact Grid)
@@ -41,7 +41,7 @@
   - **Part 3 VO:** 1/5 raw voice batches generated (`p3_narr_c8`).
 - [x] **STEP 6 — Procedural Music Bed & Stems:**
   - `part1_stem.mp3`–`part4_stem.mp3` + `pop.wav`, `whoosh.wav`, `arrow.wav` complete.
-- [x] **STEP 6B — Rig Packs + Face Calibration Sheet 🔒 & First Animated Scene Preview 🔒 (READY FOR APPROVAL):**
+- [x] **STEP 6B — Rig Packs + Face Calibration Sheet 🔒 & First Animated Scene Preview 🔒 (APPROVED — user “continue”, 2026-10-04):**
   - **Rig Packs & Alignment IoU (`production/assets/rigs/rig_calibration_sheet.jpg`):**
     - `mascot`: IoU = **0.89** (`PASS >= 0.80`)
     - `achilles`: IoU = **0.84** (`PASS >= 0.80`)
@@ -53,3 +53,12 @@
     - Duration: `38.13s` @ 24 fps · Mean frame diff: `5.395` · Max frozen stretch: `0.00s` (`PASS <= 2.00s`).
     - Motion report: `production/part1/scene_01_motion_report.txt` · Spot frames: `production/part1/scene_01_spot_frames.jpg`.
 - [ ] **STEP 7 & 8 — Part-by-Part Production & QC (Parts 1 → 4 + Master MP4)**
+
+
+## Current batch — 2026-10-04
+- User approved Step 3 locations/characters and Step 6B rigs/motion with “continue”.
+- Restored accepted assets from GitHub commit `99259ae`; original script remains unchanged.
+- Part 1 production backgrounds: **5/125 unique scene plates accepted**, 120 remaining. Reference angle crops are NOT counted as unique production plates.
+- Clips 01: 5/5 plates individually viewed; no visible people/text; palette and empty foreground checked. These are imagined reconstructions, not exact archaeological reconstructions.
+- Density: five distinct generated backgrounds per clip. Full Part 1 assembly is blocked until all 125 plates are accepted. No additional Part 2/3 generation before Part 1 delivery.
+- Next: clip 02 five plates, then clips 03–25; correct recycled clip cards to match actual spoken beats before assembly.

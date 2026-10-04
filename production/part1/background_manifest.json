@@ -1,0 +1,80 @@
+{
+  "required_unique_plates": 125,
+  "plates": [
+    {
+      "clip_id": "p1_clip_01",
+      "shot_index": 1,
+      "path": "production/part1/backgrounds/p1_clip_01_bg_01.jpg",
+      "location": "loc_troy",
+      "reference": "production/assets/locations/loc_troy_ref.png",
+      "description": "Very wide citadel on windy hill, empty approach road and Anatolian plain",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people or text; palette/ground clearance checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "f9ffc7133f54d1cf5f63125019681c1346f0090c6dd77494c590b9f5bdd1a2d9"
+    },
+    {
+      "clip_id": "p1_clip_01",
+      "shot_index": 2,
+      "path": "production/part1/backgrounds/p1_clip_01_bg_02.jpg",
+      "location": "loc_troy",
+      "reference": "production/assets/locations/loc_troy_ref.png",
+      "description": "Opposite-side oblique gate approach, dust and receding towers",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people or text; palette/ground clearance checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "257dd0ab0e63f17700ad18d15a2344efc2f8f56bf74d84cb3d8fc716147362ad"
+    },
+    {
+      "clip_id": "p1_clip_01",
+      "shot_index": 3,
+      "path": "production/part1/backgrounds/p1_clip_01_bg_03.jpg",
+      "location": "loc_troy",
+      "reference": "production/assets/locations/loc_troy_ref.png",
+      "description": "Non-graphic burned courtyard, charred beams and smoke",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people or text; palette/ground clearance checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "791c5270c76cb972fc5d16b486a38d666a0db8d2eb0098d3039207581cea8c09"
+    },
+    {
+      "clip_id": "p1_clip_01",
+      "shot_index": 4,
+      "path": "production/part1/backgrounds/p1_clip_01_bg_04.jpg",
+      "location": "loc_troy",
+      "reference": "production/assets/locations/loc_troy_ref.png",
+      "description": "Excavation strata, ash and pottery fragments on the hill",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people or text; palette/ground clearance checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "1169b4cd6a69af7bc29f700e6ceb05ae98930a9a95b7857c935e96054ac3cc4c"
+    },
+    {
+      "clip_id": "p1_clip_01",
+      "shot_index": 5,
+      "path": "production/part1/backgrounds/p1_clip_01_bg_05.jpg",
+      "location": "loc_troy",
+      "reference": "production/assets/locations/loc_troy_ref.png",
+      "description": "Inside open timber gate toward the distant plain and sea",
+      "qc_status": "accepted",
+      "qc_method": "Individually viewed with read_file: no visible people or text; palette/ground clearance checked",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "91721e0826321f4788e5cc89411007eab3e1c9d32f15c5bd65c2edd57d138950"
+    }
+  ]
+}
