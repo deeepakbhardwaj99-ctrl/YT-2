@@ -1929,10 +1929,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Sunlit Trojan doorway and courtyard, a small bronze helmet resting safely on the stone floor, calm family interior. Wide composition: reverse wide angle at a different time of day, atmospheric depth and open staging space; keep the major geography visible with generous negative space; add a raised spatial layer without introducing structures absent from the location reference. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "f469492377f9719a46de00fc0a3a76380081f7695422a5a364ce3fc0cde9f023",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: reverse wide of the sunlit Trojan household courtyard with a raised timber bridge walkway, shaded awning, plain loom, ladder, clay jars and olive tree; open lower staging ground; no people or text.",
       "composition": {
         "view": "reverse wide angle at a different time of day, atmospheric depth and open staging space",
         "open_lower_third": true
@@ -1950,10 +1953,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Sunlit Trojan doorway and courtyard, a small bronze helmet resting safely on the stone floor, calm family interior. Medium composition: raised three-quarter view that reveals a new spatial layer and an unobstructed foreground; layer the environment around one restrained focal area; place the setting's main environmental feature in a distinct part of the composition. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "a4653bcb060d680228e3bea4dc63608d3c89a6d746c263cb9745fd38509711e6",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed after corrective reroll: raised three-quarter view of the worn flagstone floor and a plain undecorated Trojan timber doorway with open board doors, ring pulls and a blue vessel, clear empty foreground. The first candidate was rejected and excluded for carved glyph-like pseudo-lettering on the threshold beam and door frame; the replacement carries no carvings or lettering, verified at 3x zoom. No people.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -1971,10 +1977,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Sunlit Trojan doorway and courtyard, a small bronze helmet resting safely on the stone floor, calm family interior. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; use atmospheric depth and late light while preserving location continuity. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "e0795ed24eb751bc3d71b94f9132e145d0aa89fc05481cb885c678c4039beec2",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: raised three-quarter view revealing a new spatial layer \u2014 stone benches, planted troughs, clay jars, a plain loom and an arched timber door opening to the flat roofscape and sea beyond, with an unobstructed foreground; no people or text.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -2827,7 +2836,7 @@
   ],
   "schema_version": 1,
   "total_planned": 123,
-  "accepted": 80,
-  "pending": 43,
-  "note": "Background batches 01-08 complete. 80/123 plates individually reviewed and accepted, 43 pending (batch 08 covers clips 15-16: 10 plates accepted, 0 rerolls). Each generated plate requires individual visual review before acceptance; 16:9 tolerance ~1376x768."
+  "accepted": 83,
+  "pending": 40,
+  "note": "Background batches 01-08 complete. 83/123 plates individually reviewed and accepted, 40 pending. Batch 08 covers clips 15-16 (all 13 planned plates: 12 accepted first pass, one corrective reroll for clip 16 shot 07 pseudo-lettering on carved timber). Each generated plate requires individual visual review before acceptance; 16:9 tolerance ~1376x768."
 }

@@ -11603,7 +11603,7 @@
             "small helmet",
             "clear floor"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "HECTOR",
@@ -11656,7 +11656,7 @@
             "small helmet",
             "clear floor"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "HECTOR",
@@ -11709,7 +11709,7 @@
             "small helmet",
             "clear floor"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",

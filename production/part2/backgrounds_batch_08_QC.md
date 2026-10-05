@@ -1,8 +1,8 @@
 # Part 2 Background Batch 08 — QC
 
-**Scope:** clips 15–16 · private Trojan courtyard for the Hector/Andromache farewell and the sunlit Trojan doorway household · 13 planned plates, 10 reviewed in this batch (the remaining three — `p2_clip_16` shots 06–08 — were deferred by the 10-image turn cap and are labelled PENDING on the review sheet).
+**Scope:** clips 15–16 · private Trojan courtyard for the Hector/Andromache farewell and the sunlit Trojan doorway household · all **13 planned plates** reviewed and accepted.
 **Checks:** approved `loc_troy` reference and HYBRID look; varied shot compositions; no people, faces, silhouettes, bodies, readable text, logos, watermarks or modern objects in accepted plates; clear character staging and open lower-third ground; full image decode and accepted 16:9 tolerance; dimensions and SHA-256 recorded in `background_manifest.json` and `scenes.json`.
-**Result:** PASS — 10/10 reviewed plates accepted with **0 rerolls**. Part 2 total: **80/123 accepted, 43 pending**. No script, VO or measured scene timing was changed.
+**Result:** PASS — **13/13 accepted after one corrective reroll**. Part 2 total: **83/123 accepted, 40 pending**. Clips 01–16 are complete. No script, VO or measured scene timing was changed.
 
 | Clip / shot | Setting / view | Dimensions | QC result |
 |---|---|---:|---|
@@ -16,7 +16,8 @@
 | `p2_clip_16` / 03 | Trojan courtyard gate / oblique wide | 1376×768 | PASS — painted geometric doorframe ornament and timber balcony with the crested helmet on open flagstones; the ornament is non-textual geometry and no lettering appears; no people. |
 | `p2_clip_16` / 04 | Trojan doorway & courtyard / medium | 1376×768 | PASS — small bronze helmet on open flagstones before sunlit houses; clear lower staging ground, no people or text. |
 | `p2_clip_16` / 05 | Trojan doorway / low ground-level detail | 1376×768 | PASS — helmet resting on a woven mat inside the open timber doorway with plain jars beyond; no people or text. |
-
-**Held for batch 09:** `p2_clip_16` shots 06–08 (reverse wide, raised three-quarter medium, low side-angle threshold detail). Their prompts are unchanged and already saved in `scenes.json`; the exact resume handoff is recorded in `production/part2/next_background.json`.
+| `p2_clip_16` / 06 | Trojan household courtyard / reverse wide | 1376×768 | PASS — raised timber bridge walkway, shaded awning, plain loom, ladder, clay jars and olive tree around an open sunlit yard; no people or text. |
+| `p2_clip_16` / 07 | Trojan doorway / raised three-quarter medium | 1376×768 | **PASS after corrective reroll** — the first candidate was rejected and excluded for carved glyph-like pseudo-lettering on the threshold beam and door frame; the replacement shows a plain undecorated doorway with ring pulls over worn flagstones, confirmed clean at 3× zoom. No people or text. |
+| `p2_clip_16` / 08 | Trojan household / raised three-quarter detail | 1376×768 | PASS — stone benches, planted troughs, clay jars, plain loom and an arched timber door opening to the roofscape and sea, with an unobstructed foreground; no people or text. |
 
 Review contact sheet: `production/part2/backgrounds_batch_08_contact.jpg`.
