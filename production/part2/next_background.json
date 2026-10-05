@@ -1,0 +1,32 @@
+{
+  "status": "part2_batch_08_complete_more_pending",
+  "accepted": 80,
+  "total_planned": 123,
+  "pending": 43,
+  "next_plates": [
+    {
+      "path": "production/part2/backgrounds/p2_clip_16_bg_06.jpg",
+      "shot_type": "wide",
+      "reference": "production/assets/locations/loc_troy_ref.png",
+      "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Sunlit Trojan doorway and courtyard, a small bronze helmet resting safely on the stone floor, calm family interior. Wide composition: reverse wide angle at a different time of day, atmospheric depth and open staging space; keep the major geography visible with generous negative space; add a raised spatial layer without introducing structures absent from the location reference. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
+    },
+    {
+      "path": "production/part2/backgrounds/p2_clip_16_bg_07.jpg",
+      "shot_type": "medium",
+      "reference": "production/assets/locations/loc_troy_ref.png",
+      "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Sunlit Trojan doorway and courtyard, a small bronze helmet resting safely on the stone floor, calm family interior. Medium composition: raised three-quarter view that reveals a new spatial layer and an unobstructed foreground; layer the environment around one restrained focal area; place the setting's main environmental feature in a distinct part of the composition. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
+    },
+    {
+      "path": "production/part2/backgrounds/p2_clip_16_bg_08.jpg",
+      "shot_type": "detail",
+      "reference": "production/assets/locations/loc_troy_ref.png",
+      "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Sunlit Trojan doorway and courtyard, a small bronze helmet resting safely on the stone floor, calm family interior. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; use atmospheric depth and late light while preserving location continuity. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
+    }
+  ],
+  "then": "clips 17-24 remain (batches 09-12); five plates per clip except p2_clip_16 which has eight shots total.",
+  "notes": [
+    "The next three plates share the same clip-16 setting; generate them with loc_troy_ref.png as reference.",
+    "Each plate must be individually viewed before being marked accepted in background_manifest.json and scenes.json.",
+    "Track the 10-image per-turn generation cap; label any not-yet-generated slots as PENDING on the batch contact sheet."
+  ]
+}

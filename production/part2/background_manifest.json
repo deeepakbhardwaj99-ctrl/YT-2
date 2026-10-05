@@ -447,7 +447,7 @@
       ],
       "sha256": "680e2e7075c2f273ed11591d0e475e9666b31d565c214da80094b100b5825d21",
       "qc_status": "accepted",
-      "qc_note": "Full-resolution visual review passed: low lateral angle along Troy’s outer wall and open path; no people, bodies or text.",
+      "qc_note": "Full-resolution visual review passed: low lateral angle along Troy\u2019s outer wall and open path; no people, bodies or text.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -1689,10 +1689,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Private Trojan courtyard with a low stone bench, warm lamp and the city gate visible beyond. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "2e335026c7c439be076a985ac2ffe4fe7d2aa31f9c7edd697c5c08b4179dd9a6",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: low side-angle courtyard corner with the low stone bench and lit bronze oil lamp, open flagstones and the gate beyond; clear staging ground; no people or text.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -1710,10 +1713,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Private Trojan courtyard with a low stone bench, warm lamp and the city gate visible beyond. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "57f77d566f744dba967414931ef95437aab04ffb9aca019d95023565eef64ccf",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: distant reverse view across the quiet courtyard to the crenellated Trojan gate in hazy evening light, generous open staging ground; no people or text.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -1731,10 +1737,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Private Trojan courtyard with a low stone bench, warm lamp and the city gate visible beyond. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "693a83d6deb4c9336fe665cef5377d7e2a01790a1af1a3ca1d4d31b5d3f3ba51",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: panoramic establishing view from the courtyard parapet over the Trojan battlements and distant plain, low horizon and clear empty foreground; no people or text.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -1752,10 +1761,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Private Trojan courtyard with a low stone bench, warm lamp and the city gate visible beyond. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "9726e80eb17691f7e7fdc54398fb615a4a9a7c3c94072ba421a22258c23d70e7",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: oblique wide view along the courtyard parapet toward the timber gate and Trojan towers, layered terrain and generous negative space; no people or text.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -1773,10 +1785,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Private Trojan courtyard with a low stone bench, warm lamp and the city gate visible beyond. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; shift to softer evening light and a reverse-axis composition. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "f4d8e9ba8b5672103d0518fc9ffca27f6947a531ac6b0afe158ca2f6f718af89",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: raised medium view of the low stone bench and lit lamp on the parapet beside the gate in softer evening light, unobstructed foreground; no people or text.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -1794,10 +1809,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Sunlit Trojan doorway and courtyard, a small bronze helmet resting safely on the stone floor, calm family interior. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "e10d32a01cc9077cb6ad75aa302c804861e0b4e914384b80a09d308c24c6930e",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: sunlit wide street inside the Trojan gate with the small bronze helmet resting on a flat stone in the open foreground, crenellated walls either side; no people or text.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -1815,10 +1833,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Sunlit Trojan doorway and courtyard, a small bronze helmet resting safely on the stone floor, calm family interior. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "7539275dba36d0d417331a720a4f9ffa8037399fffef60d105f8cbb1bf60e838",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: sunlit Trojan housefront with olive tree, plain jars and hanging textile, the bronze helmet resting on the flagstones, city wall and sea beyond; no people or text.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -1836,10 +1857,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Sunlit Trojan doorway and courtyard, a small bronze helmet resting safely on the stone floor, calm family interior. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "d7603bcfaa1e23cfe4ba5d4511c6e61b917e071946585a8a2d6165a1011556a0",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: oblique courtyard gate with painted geometric doorframe ornament, timber balcony and the crested helmet on open flagstones; ornament is non-textual geometry and no lettering appears; no people.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -1857,10 +1881,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Sunlit Trojan doorway and courtyard, a small bronze helmet resting safely on the stone floor, calm family interior. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "0b6f0736dcadd67cbcdf3de996dd800d9e6cbf4693b6fd6a2c5a2c69d16a0113",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: medium view of the small bronze helmet resting on open flagstones before sunlit Trojan houses, clear lower staging ground; no people or text.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -1878,10 +1905,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Sunlit Trojan doorway and courtyard, a small bronze helmet resting safely on the stone floor, calm family interior. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; shift to softer evening light and a reverse-axis composition. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "5399fc2bf0082525e0bddcefb7dc713c1c20f77650cbfd3fdec2a797e86b1b61",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: low ground-level doorway insert with the bronze helmet resting on a woven mat, open timber door and plain jars beyond; no people or text.",
       "composition": {
         "view": "close environmental detail at ground level, no figures, visually distinct composition",
         "open_lower_third": true
@@ -2797,7 +2827,7 @@
   ],
   "schema_version": 1,
   "total_planned": 123,
-  "accepted": 70,
-  "pending": 53,
-  "note": "Part 2 background plates are planned from measured VO; accept only after individual visual review."
+  "accepted": 80,
+  "pending": 43,
+  "note": "Background batches 01-08 complete. 80/123 plates individually reviewed and accepted, 43 pending (batch 08 covers clips 15-16: 10 plates accepted, 0 rerolls). Each generated plate requires individual visual review before acceptance; 16:9 tolerance ~1376x768."
 }
