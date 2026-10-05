@@ -1137,10 +1137,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_olympus_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Mythic Mount Olympus above cloud and sea, restrained gold light over ancient marble terraces, no figures. Detail composition: low close view along a weathered pale-marble terrace edge and an undecorated carved stone column base; simple stone joints and restrained geometric marble inlay only; the cloud sea and distant storm-lit horizon are softly visible beyond the balustrade. Keep an uncluttered lower foreground. Match the approved loc_olympus location-sheet palette and Bronze Age materials. No metal grates, drains, drainage channels, modern fixtures or hardware; no glyphs, letters, numbers, symbols, inscriptions, text, logos, watermarks or layout guides; no people, faces, silhouettes or bodies.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Candidate rejected during full-resolution visual review: the terrace detail introduced a modern-looking metal drainage grate and text-like ornament. Candidate withheld and removed; reroll remains pending. Revised text-free, grate-free prompt saved for the next generation pass.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "f88b9b43c5a42afeddcf36d1e50bcb8760a0bc3346dda30e529a65b8ac7fa113",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed after a corrective reroll: weathered marble column base and simple geometric floor inlay frame the cloud sea and storm-lit horizon; no people, text-like marks, modern fixtures or hardware.",
       "composition": {
         "view": "close environmental detail at ground level, no figures, visually distinct composition",
         "open_lower_third": true
@@ -2734,7 +2737,7 @@
   ],
   "schema_version": 1,
   "total_planned": 123,
-  "accepted": 49,
-  "pending": 74,
+  "accepted": 50,
+  "pending": 73,
   "note": "Part 2 background plates are planned from measured VO; accept only after individual visual review."
 }
