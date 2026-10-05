@@ -4,7 +4,7 @@
 **Recovered checkpoint:** `origin/arena/01a1032c-yt-2` at `774100f` (2026-10-04); accepted assets and recorded approvals are reused, not regenerated.
 **Locked script source:** `production/script_approved.txt` remains byte-identical to the supplied script; the separate retention draft is not the VO source. By explicit user approval, three non-graphic wording substitutions are permitted for Part 2 Chapter 7 narrator audio only; they are documented in `production/part2/chapter7_vo_override.json` and do not alter the locked source file.
 **Part 1 status:** Complete — 125/125 accepted plates, all 25 clips assembled, rendered, and QC-passed. The full export and QC reports are saved under `production/part1/`; the approved preview is unchanged.
-**Part 2 VO status:** Complete — 8/8 raw batches processed into 24 measured clips (`776` narrated/dialogue words after the approved Chapter 7 VO-only override; `364.60s`, `127.7 WPM`). The VO-timed motion plan is now complete (24 clips / 123 unique plate slots); no Part 2 backgrounds are generated yet. Step 3 character-sheet approval is next.
+**Part 2 status:** VO and motion plan complete (24 measured clips / 123 unique plate slots). The five new character sheets were approved by the user with “continue” on 2026-10-05. Static cutouts are next; no Part 2 backgrounds have been generated.
 ## Current session — 2026-10-05
 - Added a separate complete-Part-1 renderer at `tools/render_part1.py` (all 25 clips, animated 2.5-second opening title and Part II tease). It writes `production/part1/part1_full.mp4` and does not overwrite the approved clip 01 + 05 preview.
 - Added exact per-clip VO sample trimming/padding against the locked timeline, frame-rounding audio tail compensation, a bounded background cache, and a music fade on the teaser card. Approved script text and VO segment records remain untouched.
@@ -15,7 +15,7 @@
 - Part 2 narrator batch: after exact-text synthesis was blocked, the user approved three non-graphic Chapter 7 narrator-only substitutions; the locked source script remains unchanged. The missing raw narration was generated with selected voice `voice-00`: 222 words, 88.23s decoded, 151 WPM. Raw-audio QC/hash metadata: `production/part2/p2_narr_c7_manifest.json`; override: `production/part2/chapter7_vo_override.json`.
 - Part 2 per-clip VO is complete: 24 clips, 776 words, 364.60s (6.08 min), 127.7 WPM average. All 8 raw batches map to the source lines, the approved VO override is applied, pace gates pass, and audio QC manifests are in `production/part2/part2_vo_manifest.json` and `part2_vo_qc_report.txt`/`.json`.
 - Part 2 motion plan is complete and appended to `production/scenes.json` without changing the approved Part 1 plan. `production/part2/background_manifest.json` records 123 unique pending plates: 23 clips use five shots; `p2_clip_16` (23.678s / 50 words) uses eight (~2.96s per shot) for Preset A density. New dialogue/supporting character assignments, timed events, labels/callouts, camera moves, and text-free HYBRID prompts are included. See `production/part2/part2_scene_plan_notes.md`.
-- Step 3 candidate sheets are prepared for Protesilaus, Philoctetes, Chryses, Patroclus, and Andromache holding Astyanax. Review grid: `production/part2/character_sheets/part2_character_contact_grid.jpg`; each new sheet is marked as awaiting approval. No Part 2 backgrounds or cutouts have been generated. Wait for approval before creating cutouts or scene art.
+- Step 3 character-sheet gate cleared: the user approved all five new static designs (“continue”, 2026-10-05): Protesilaus, Philoctetes, Chryses, Patroclus, and Andromache holding Astyanax. Decision and source paths are recorded in `production/part2/character_sheets/character_sheet_manifest.json`; contact grid: `production/part2/character_sheets/part2_character_contact_grid.jpg`. Next: make transparent static cutouts. No Part 2 backgrounds have been generated.
 
 **Format:** 16:9 (1920×1080) · **Target Pace:** ~130 wpm · **Parts:** 4 parts (~23.40 min total, 92 clips)
 **Style Mode:** `HYBRID` (2D cartoon rigged characters + AI-generated painterly-realistic Bronze Age environments, no people/text in backgrounds)
@@ -42,7 +42,8 @@
 - [x] **STEP 1 — Script Lock 🔒:** Approved by user. Locked verbatim in `production/script_approved.txt`.
 - [x] **STEP 2 — Part Structure:** Computed and saved in `production/parts_breakdown.json`.
 - [x] **STEP 3 — Character & Hybrid Location Sheets 🔒 (APPROVED — user “continue”, 2026-10-04):**
-  - **Character Sheets (9/9 complete & QC'd):** `production/assets/characters/character_contact_grid.png`
+  - **Original Character Sheets (9/9 complete & QC'd):** `production/assets/characters/character_contact_grid.png`
+  - **Part 2 character-sheet extension (5/5 approved by user “continue”, 2026-10-05):** Protesilaus, Philoctetes, Chryses, Patroclus, and combined Andromache/Astyanax. Approval record and contact grid are under `production/part2/character_sheets/`; static cutout extraction is next.
   - **Hybrid Location Sheets (5/5 primary refs + 2×2 angle grids complete & QC'd):**
     - `production/assets/locations/locations_contact_grid.jpg` (Master Contact Grid)
     - `loc_troy_ref.png` + `loc_troy_grid.jpg` (`_wide`, `_med`, `_detail`, `_night`)
@@ -64,7 +65,7 @@
     - `odysseus`: IoU = **0.85** (`PASS >= 0.80`)
     - `agamemnon`: IoU = **0.91** (`PASS >= 0.80`)
     - `hector`: IoU = **0.87** (`PASS >= 0.80`)
-  - **Per-Scene Plan (`production/scenes.json`):** Part 1 remains 25 clips / 125 accepted shot entries; Part 2 now has 24 clips / 123 pending planned plates (`p2_clip_16` uses eight for its longer 23.678s VO clip). Part 2 background generation is blocked at the Step 3 new-character approval gate.
+  - **Per-Scene Plan (`production/scenes.json`):** Part 1 remains 25 clips / 125 accepted shot entries; Part 2 has 24 clips / 123 pending planned plates (`p2_clip_16` uses eight for its longer 23.678s VO clip). Step 3 character approval is cleared; create approved static cutouts before generating the backgrounds.
   - **First Assembled Animated Scene Preview (`production/part1/scene_01_preview.mp4`):**
     - Duration: `38.13s` @ 24 fps · Mean frame diff: `5.395` · Max frozen stretch: `0.00s` (`PASS <= 2.00s`).
     - Motion report: `production/part1/scene_01_motion_report.txt` · Spot frames: `production/part1/scene_01_spot_frames.jpg`.

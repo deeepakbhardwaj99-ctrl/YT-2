@@ -1,52 +1,58 @@
 {
   "part": 2,
   "stage": "step_3_character_sheet_approval",
-  "status": "awaiting_user_approval",
+  "status": "approved",
+  "approval": {
+    "approved_by": "user",
+    "approved_on": "2026-10-05",
+    "approval_message": "continue",
+    "scope": "All five new Part 2 character-sheet candidates shown in the contact grid."
+  },
   "contact_grid": {
     "path": "production/part2/character_sheets/part2_character_contact_grid.jpg",
-    "status": "review_preview"
+    "status": "approved_reference_grid"
   },
   "new_assets": [
     {
       "character": "protesilaus",
       "path": "production/part2/character_sheets/protesilaus_sheet.png",
       "visual_role": "Greek spear-bearer; short orange mantle, bronze armor, spear and plain shield",
-      "status": "candidate_awaiting_user_approval",
+      "status": "approved_source",
       "planned_use": "static cutout"
     },
     {
       "character": "philoctetes",
       "path": "production/part2/character_sheets/philoctetes_sheet.png",
       "visual_role": "Greek archer on Lemnos; bow, walking staff and discreet non-graphic leg wrap",
-      "status": "candidate_awaiting_user_approval",
+      "status": "approved_source",
       "planned_use": "static cutout"
     },
     {
       "character": "chryses",
       "path": "production/part2/character_sheets/chryses_sheet.png",
       "visual_role": "Elder priest of Apollo in cream and ochre robes, with an unmarked gold sun-disc staff",
-      "status": "candidate_awaiting_user_approval",
+      "status": "approved_source",
       "planned_use": "static cutout"
     },
     {
       "character": "patroclus",
       "path": "production/part2/character_sheets/patroclus_sheet.png",
       "visual_role": "Young Greek warrior in teal and bronze, with a blue-crested helmet; distinct from Achilles",
-      "status": "candidate_awaiting_user_approval",
+      "status": "approved_source",
       "planned_use": "static cutout"
     },
     {
       "character": "andromache_astyanax",
       "path": "production/part2/character_sheets/andromache_astyanax_sheet.png",
       "visual_role": "Andromache holding her peacefully swaddled infant Astyanax as one combined composition",
-      "status": "candidate_awaiting_user_approval",
+      "status": "approved_source",
       "planned_use": "combined static cutout",
       "note": "Astyanax has no dialogue and is not a separate cutout or rig."
     }
   ],
   "visual_review": {
     "reviewed": true,
-    "result": "Preliminary visual review passed for style consistency, full-body framing, warm light neutral backdrops, and absence of generated text; user approval remains the gate.",
+    "result": "The contact grid and five candidate sheets passed preliminary visual review; user approval is recorded above.",
     "backgrounds_generated": 0,
     "cutouts_generated": 0
   }

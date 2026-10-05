@@ -12,4 +12,4 @@
 
 ## Approval / production gate
 
-The motion plan and pending-plate ledger are ready. **No Part 2 scene backgrounds or cutouts have been generated or accepted.** Five new static character-sheet candidates and a labelled 14-character review grid are prepared at `production/part2/character_sheets/part2_character_contact_grid.jpg`. Step 3 approval is now the active gate; create cutouts and proceed to background generation only after the new designs are approved. Each generated background will still need individual visual review before it is recorded as accepted.
+The motion plan and pending-plate ledger are ready. **No Part 2 scene backgrounds or cutouts have been generated or accepted yet.** The user approved all five new static character-sheet designs with “continue” on 2026-10-05; the approval record and labelled 14-character review grid are under `production/part2/character_sheets/`. Step 3 is cleared. Create transparent cutouts from the approved sheets, then proceed to background generation. Each generated background still requires individual visual review before it is recorded as accepted.
