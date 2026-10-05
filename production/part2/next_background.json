@@ -1,9 +1,9 @@
 {
-  "status": "part2_batch_11_complete",
-  "accepted": 113,
+  "status": "part2_batch_12_almost_complete",
+  "accepted": 122,
   "total_planned": 123,
-  "pending": 10,
-  "completed_clips": "01-22 complete",
+  "pending": 1,
+  "completed_clips": "clips 01-22 complete; clip 23 complete (5/5); clip 24 accepted 4/5",
   "next_batch": {
     "batch_number": 12,
     "clips": [
@@ -11,62 +11,10 @@
       24
     ],
     "plate_count": 10,
-    "plates": [
+    "accepted_this_batch": 9,
+    "outstanding": [
       {
-        "path": "production/part2/backgrounds/p2_clip_23_bg_01.jpg",
-        "shot_type": "detail",
-        "reference": "production/assets/locations/loc_troy_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Broad circuit outside Troy's high gates with a dusty path curving along the walls, stormy dusk and no figures. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
-      },
-      {
-        "path": "production/part2/backgrounds/p2_clip_23_bg_02.jpg",
-        "shot_type": "wide",
-        "reference": "production/assets/locations/loc_troy_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Broad circuit outside Troy's high gates with a dusty path curving along the walls, stormy dusk and no figures. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
-      },
-      {
-        "path": "production/part2/backgrounds/p2_clip_23_bg_03.jpg",
-        "shot_type": "establishing",
-        "reference": "production/assets/locations/loc_troy_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Broad circuit outside Troy's high gates with a dusty path curving along the walls, stormy dusk and no figures. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
-      },
-      {
-        "path": "production/part2/backgrounds/p2_clip_23_bg_04.jpg",
-        "shot_type": "wide",
-        "reference": "production/assets/locations/loc_troy_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Broad circuit outside Troy's high gates with a dusty path curving along the walls, stormy dusk and no figures. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
-      },
-      {
-        "path": "production/part2/backgrounds/p2_clip_23_bg_05.jpg",
-        "shot_type": "medium",
-        "reference": "production/assets/locations/loc_troy_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Broad circuit outside Troy's high gates with a dusty path curving along the walls, stormy dusk and no figures. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; shift to softer evening light and a reverse-axis composition. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
-      },
-      {
-        "path": "production/part2/backgrounds/p2_clip_24_bg_01.jpg",
-        "shot_type": "establishing",
-        "reference": "production/assets/locations/loc_camp_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for A quiet memorial mound near the Greek camp at dawn, an unmarked chariot track circling the tomb, no person or body. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
-      },
-      {
-        "path": "production/part2/backgrounds/p2_clip_24_bg_02.jpg",
-        "shot_type": "establishing",
-        "reference": "production/assets/locations/loc_camp_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for A quiet memorial mound near the Greek camp at dawn, an unmarked chariot track circling the tomb, no person or body. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
-      },
-      {
-        "path": "production/part2/backgrounds/p2_clip_24_bg_03.jpg",
-        "shot_type": "wide",
-        "reference": "production/assets/locations/loc_camp_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for A quiet memorial mound near the Greek camp at dawn, an unmarked chariot track circling the tomb, no person or body. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
-      },
-      {
-        "path": "production/part2/backgrounds/p2_clip_24_bg_04.jpg",
-        "shot_type": "medium",
-        "reference": "production/assets/locations/loc_camp_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for A quiet memorial mound near the Greek camp at dawn, an unmarked chariot track circling the tomb, no person or body. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
-      },
-      {
+        "action": "generate",
         "path": "production/part2/backgrounds/p2_clip_24_bg_05.jpg",
         "shot_type": "detail",
         "reference": "production/assets/locations/loc_camp_ref.png",
@@ -76,9 +24,10 @@
     "is_final_plate_batch": true
   },
   "notes": [
-    "Batch 12 covers clips 23-24: the final ten plates, taking Part 2 to 123/123.",
-    "View every plate before marking it accepted in background_manifest.json and scenes.json.",
+    "Batch 12 is the final Part 2 plate batch. Nine of ten plates generated and accepted on 2026-10-05 (the turn hit the platform 10-image/turn limit, which also consumed one failed generation call).",
+    "All nine accepted plates were individually viewed; a review-round image mispairing was detected and corrected via filename-labeled re-verification — p2_clip_24_bg_01 is ACCEPTED (its earlier rejection was based on a mispaired return).",
+    "Only p2_clip_24_bg_05 remains; view it before marking accepted in background_manifest.json and scenes.json.",
     "Reject and reroll (max 2) for text-like marks, lettering, glyphs, people, or modern objects.",
-    "After batch 12 the part moves to the Step 7 work order steps: part music stem, then assemble + animate + render, then motion QC and the part QC checklist."
+    "After 123/123 the part moves to the Step 7 work order: part music stem, assemble + animate + render, motion QC, part QC checklist."
   ]
 }

@@ -13608,7 +13608,7 @@
             "curving path",
             "city gate"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -13656,7 +13656,7 @@
             "curving path",
             "city gate"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -13704,7 +13704,7 @@
             "curving path",
             "city gate"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -13752,7 +13752,7 @@
             "curving path",
             "city gate"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -13806,7 +13806,7 @@
             "curving path",
             "city gate"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "HECTOR",
@@ -13916,7 +13916,7 @@
             "memorial mound",
             "chariot track"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ACHILLES",
@@ -13961,7 +13961,7 @@
             "memorial mound",
             "chariot track"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ACHILLES",
@@ -14014,7 +14014,7 @@
             "memorial mound",
             "chariot track"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -14061,7 +14061,7 @@
             "memorial mound",
             "chariot track"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",

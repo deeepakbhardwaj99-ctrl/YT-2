@@ -2721,10 +2721,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Broad circuit outside Troy's high gates with a dusty path curving along the walls, stormy dusk and no figures. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "2c3f0a3c6c7a85a9a0f827bb3072b8f1977ccda902123e473bee21b035baadee",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed (filename-label verified): low side-angle environmental insert along Troy's cyclopean wall with a plain bronze mooring ring set in dressed stone and the cobbled circuit path leading to the gates under stormy dusk. Ring, stone and path checked \u2014 no letterforms anywhere. Clear lower-third path staging. No people or text.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -2742,10 +2745,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Broad circuit outside Troy's high gates with a dusty path curving along the walls, stormy dusk and no figures. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "35cb34b72141f95fe09f2c47cb824ae7407f7e3fc74790586f24e9ca67c42b2b",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed (filename-label verified): distant reverse wide of the full Troy circuit and citadel on its rise under bruised storm clouds, the road winding to the gated towers, torchlight on the ramparts, plain and sea beyond; generous negative space and open foreground staging. No people or text.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -2763,10 +2769,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Broad circuit outside Troy's high gates with a dusty path curving along the walls, stormy dusk and no figures. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "2ff0ddf2b17f9b2cba4cade1a5ca4e7d341dd109e4988016f8fa157fa63a00ab",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: establishing panorama of the walls along the ridge with shafts of light breaking through the storm clouds, the circuit path at the wall base, sea at the horizon and clear empty plain foreground; no invented props. Stones plain, no carvings or inscriptions. No people or text.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -2784,10 +2793,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Broad circuit outside Troy's high gates with a dusty path curving along the walls, stormy dusk and no figures. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "be8c6dc029fd6f30f4d1fd97380105358e1181c7e2a285c1ba9b239a4dafd6fd",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed (filename-label verified): oblique wide from a different axis across the ochre plain to Troy on its rise, circuit road leading the eye to the gates under layered storm light with the sea at the horizon; subject-free landscape with strong leading lines. No people or text.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -2805,10 +2817,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Broad circuit outside Troy's high gates with a dusty path curving along the walls, stormy dusk and no figures. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; shift to softer evening light and a reverse-axis composition. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "fed8d1914cf2d9c71f44b96e9e452fa87d733c8a82d5e4ed67d31066c798f15e",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed (filename-label verified): medium architectural view of wall and gate towers under storm cloud with a single symbolic prop \u2014 a bronze serpent-handled krater on a stone plinth by the road (reverse-axis softer light as planned). The krater's decoration reads as abstract spiral roundels and banded relief with no letterforms discernible at full-frame magnification (vessel ~8% of frame; consistent with the approved abstract-ornament allowance). Wall plain, no inscriptions. No people or text.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -2826,10 +2841,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for A quiet memorial mound near the Greek camp at dawn, an unmarked chariot track circling the tomb, no person or body. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "b8b1ca6b58ab805bea34d0456af8b0ef9d27a96f4ebd04262d03a9b557f3d95d",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed (filename-label verified, corrected after a mispaired image return in the first review round): dawn establishing of the quiet memorial mound with a plain rounded-top stele on its summit and the unmarked chariot track circling its base, sea and low hills at a clear horizon, open empty foreground. The stele was zoomed and is entirely blank \u2014 weathered stone, no inscriptions or letterforms. No people, no bodies, no text.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -2847,10 +2865,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for A quiet memorial mound near the Greek camp at dawn, an unmarked chariot track circling the tomb, no person or body. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "e80ae0daaea9fd006c4178206ea7968bf6c82563401e1219ac725d93b1075a69",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed (filename-label verified): dawn establishing of the memorial mound with the unmarked chariot track circling its base, beached ships and camp tents at right and the citadel on the cliff beyond under pink dawn light; open sand staging ground in the lower third. No people, no bodies, no text.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -2868,10 +2889,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for A quiet memorial mound near the Greek camp at dawn, an unmarked chariot track circling the tomb, no person or body. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "ff0e79ac2eab1fb387723b1fa0b3a10d7fc0bc8affcd3a0bcd5f3af4e38396bc",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: oblique dawn wide of the mound ringed by the chariot track with its stone kerb, layered terrain, the beached fleet and camp at right and citadel headlands in morning haze; clear empty foreground. No people, no bodies, no text.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -2889,10 +2913,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for A quiet memorial mound near the Greek camp at dawn, an unmarked chariot track circling the tomb, no person or body. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "18dbf6a266dee1bc3882c7e5ceee905f26a8a8739493b30d342de56f25195634",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed (filename-label verified): medium on the mound's stone kerb with a single symbolic prop \u2014 an empty bronze helmet resting at the base as a memorial offering \u2014 chariot ruts circling, fleet and citadel beyond in dawn light. The helmet was inspected in delivered detail views: plain bronze with patina and structural cheek/eye opening only, no glyph, lettering or ornament face. No people, no bodies, no text.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -2913,7 +2940,7 @@
       "dimensions": null,
       "sha256": null,
       "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "qc_note": "Not yet generated: the platform's 10-image-per-turn limit was reached after nine plates of batch 12 (2026-10-05). Awaiting generation and individual visual review; backgrounds must contain no people or text.",
       "composition": {
         "view": "close environmental detail at ground level, no figures, visually distinct composition",
         "open_lower_third": true
@@ -2926,7 +2953,7 @@
   ],
   "schema_version": 1,
   "total_planned": 123,
-  "accepted": 113,
-  "pending": 10,
+  "accepted": 122,
+  "pending": 1,
   "note": "Background batches 01-11 complete. 113/123 plates individually reviewed and accepted, 10 pending. Batch 11 covers clips 21-22 in full (10/10 plates accepted, 0 rerolls). Batches 05, 07 and 08 each included one corrective reroll. Each generated plate requires individual visual review before acceptance; 16:9 tolerance ~1376x768."
 }
