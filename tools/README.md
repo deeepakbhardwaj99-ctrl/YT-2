@@ -23,7 +23,8 @@ Python dependencies are pinned in `requirements.txt`. `render_part1.py` uses sys
 - `generate_part2_scene_plan.py` appends a VO-timed Part 2 motion plan to `production/scenes.json` without changing Part 1, and creates the separate pending-plate ledger at `production/part2/background_manifest.json`. It preserves accepted Part 2 plates if rerun; it does not generate backgrounds. `p2_clip_16` uses eight plates due to its 23.678-second duration.
 - `build_part2_character_contact.py` creates the labelled Step 3 contact grid from the existing approved character sheets and the five Part 2 additions. User approval for all five is recorded in `production/part2/character_sheets/character_sheet_manifest.json`; they are static cutouts, not additional rigs.
 - `build_part2_character_cutouts.py` uses border-connected background removal (so cream clothing is preserved), appends measured face/foot anchors, and writes five approved Part 2 static cutouts plus a calibration contact sheet. It does not regenerate any rig packs.
-- `production/part2/part2_scene_plan_notes.md` records the shot-density decision and the Step 3 character-sheet approval gate. Do not generate Part 2 backgrounds before the new character assets are approved.
+- `build_part2_background_contact.py --clips 1 2 --batch 1` builds labelled Part 2 background review sheets from accepted plates; use `--allow-pending` only to label missing slots explicitly. It never accepts images.
+- `production/part2/part2_scene_plan_notes.md` records the shot-density decision and approval gate. Step 3 is cleared; visually review every Part 2 background before marking it accepted.
 
 ```sh
 .venv/bin/python tools/render_part1.py
@@ -32,4 +33,5 @@ Python dependencies are pinned in `requirements.txt`. `render_part1.py` uses sys
 .venv/bin/python tools/process_part2_vo.py
 .venv/bin/python tools/generate_part2_scene_plan.py
 .venv/bin/python tools/build_part2_character_cutouts.py
+.venv/bin/python tools/build_part2_background_contact.py --clips 1 2 --batch 1
 ```

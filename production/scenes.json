@@ -6800,7 +6800,7 @@
             "distant fleet",
             "open shoreline"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -6845,7 +6845,7 @@
             "distant fleet",
             "open shoreline"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -6892,7 +6892,7 @@
             "distant fleet",
             "open shoreline"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -6939,7 +6939,7 @@
             "distant fleet",
             "open shoreline"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -6992,7 +6992,7 @@
             "distant fleet",
             "open shoreline"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "PROTESILAUS",
@@ -7122,7 +7122,7 @@
             "bow",
             "open beach foreground"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -7167,7 +7167,7 @@
             "bow",
             "open beach foreground"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -7214,7 +7214,7 @@
             "bow",
             "open beach foreground"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -7261,7 +7261,7 @@
             "bow",
             "open beach foreground"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -7308,7 +7308,7 @@
             "bow",
             "open beach foreground"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
