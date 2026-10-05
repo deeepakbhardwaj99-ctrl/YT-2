@@ -283,5 +283,155 @@
       11,
       5
     ]
+  },
+  "protesilaus": {
+    "bbox": [
+      393,
+      7,
+      868,
+      764
+    ],
+    "foot_anchor": [
+      697,
+      763
+    ],
+    "head_top_y": 72,
+    "eye_left": [
+      603,
+      160
+    ],
+    "eye_right": [
+      640,
+      159
+    ],
+    "eye_radius": 7,
+    "mouth_center": [
+      622,
+      193
+    ],
+    "mouth_radius": [
+      10,
+      5
+    ]
+  },
+  "philoctetes": {
+    "bbox": [
+      436,
+      27,
+      966,
+      762
+    ],
+    "foot_anchor": [
+      711,
+      761
+    ],
+    "head_top_y": 27,
+    "eye_left": [
+      616,
+      117
+    ],
+    "eye_right": [
+      657,
+      116
+    ],
+    "eye_radius": 6,
+    "mouth_center": [
+      636,
+      153
+    ],
+    "mouth_radius": [
+      10,
+      5
+    ]
+  },
+  "chryses": {
+    "bbox": [
+      399,
+      26,
+      872,
+      757
+    ],
+    "foot_anchor": [
+      728,
+      756
+    ],
+    "head_top_y": 26,
+    "eye_left": [
+      637,
+      113
+    ],
+    "eye_right": [
+      680,
+      112
+    ],
+    "eye_radius": 6,
+    "mouth_center": [
+      658,
+      151
+    ],
+    "mouth_radius": [
+      10,
+      5
+    ]
+  },
+  "patroclus": {
+    "bbox": [
+      525,
+      20,
+      838,
+      765
+    ],
+    "foot_anchor": [
+      708,
+      764
+    ],
+    "head_top_y": 20,
+    "eye_left": [
+      621,
+      116
+    ],
+    "eye_right": [
+      659,
+      115
+    ],
+    "eye_radius": 7,
+    "mouth_center": [
+      640,
+      150
+    ],
+    "mouth_radius": [
+      10,
+      5
+    ]
+  },
+  "andromache_astyanax": {
+    "bbox": [
+      555,
+      21,
+      824,
+      760
+    ],
+    "foot_anchor": [
+      695,
+      759
+    ],
+    "head_top_y": 21,
+    "eye_left": [
+      687,
+      101
+    ],
+    "eye_right": [
+      722,
+      102
+    ],
+    "eye_radius": 6,
+    "mouth_center": [
+      704,
+      134
+    ],
+    "mouth_radius": [
+      10,
+      5
+    ]
   }
 }

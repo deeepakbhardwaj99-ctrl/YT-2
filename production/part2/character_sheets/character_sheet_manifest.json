@@ -18,28 +18,200 @@
       "path": "production/part2/character_sheets/protesilaus_sheet.png",
       "visual_role": "Greek spear-bearer; short orange mantle, bronze armor, spear and plain shield",
       "status": "approved_source",
-      "planned_use": "static cutout"
+      "planned_use": "static cutout",
+      "cutout": {
+        "path": "production/assets/rigs/cutout_protesilaus.png",
+        "dimensions": [
+          1365,
+          768
+        ],
+        "sha256": "c49a9085c02beaf47aff822626187631e3fa7c99587a0029c9c9649205fbe8ff",
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "qc_status": "accepted",
+        "face_anchors": {
+          "eye_left": [
+            603,
+            160
+          ],
+          "eye_right": [
+            640,
+            159
+          ],
+          "eye_radius": 7,
+          "mouth_center": [
+            622,
+            193
+          ],
+          "mouth_radius": [
+            10,
+            5
+          ]
+        },
+        "bbox": [
+          393,
+          7,
+          868,
+          764
+        ],
+        "foot_anchor": [
+          697,
+          763
+        ]
+      }
     },
     {
       "character": "philoctetes",
       "path": "production/part2/character_sheets/philoctetes_sheet.png",
       "visual_role": "Greek archer on Lemnos; bow, walking staff and discreet non-graphic leg wrap",
       "status": "approved_source",
-      "planned_use": "static cutout"
+      "planned_use": "static cutout",
+      "cutout": {
+        "path": "production/assets/rigs/cutout_philoctetes.png",
+        "dimensions": [
+          1365,
+          768
+        ],
+        "sha256": "09f1d10dc872680e6e6abf7a4b4be9e88624432aaa6c7164b0e58ee1cb8264e4",
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "qc_status": "accepted",
+        "face_anchors": {
+          "eye_left": [
+            616,
+            117
+          ],
+          "eye_right": [
+            657,
+            116
+          ],
+          "eye_radius": 6,
+          "mouth_center": [
+            636,
+            153
+          ],
+          "mouth_radius": [
+            10,
+            5
+          ]
+        },
+        "bbox": [
+          436,
+          27,
+          966,
+          762
+        ],
+        "foot_anchor": [
+          711,
+          761
+        ]
+      }
     },
     {
       "character": "chryses",
       "path": "production/part2/character_sheets/chryses_sheet.png",
       "visual_role": "Elder priest of Apollo in cream and ochre robes, with an unmarked gold sun-disc staff",
       "status": "approved_source",
-      "planned_use": "static cutout"
+      "planned_use": "static cutout",
+      "cutout": {
+        "path": "production/assets/rigs/cutout_chryses.png",
+        "dimensions": [
+          1365,
+          768
+        ],
+        "sha256": "2f27c4128295ccf1a163e5ab97fd5cf9cb1399303952e3f8a7faaae5a0aefe06",
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "qc_status": "accepted",
+        "face_anchors": {
+          "eye_left": [
+            637,
+            113
+          ],
+          "eye_right": [
+            680,
+            112
+          ],
+          "eye_radius": 6,
+          "mouth_center": [
+            658,
+            151
+          ],
+          "mouth_radius": [
+            10,
+            5
+          ]
+        },
+        "bbox": [
+          399,
+          26,
+          872,
+          757
+        ],
+        "foot_anchor": [
+          728,
+          756
+        ]
+      }
     },
     {
       "character": "patroclus",
       "path": "production/part2/character_sheets/patroclus_sheet.png",
       "visual_role": "Young Greek warrior in teal and bronze, with a blue-crested helmet; distinct from Achilles",
       "status": "approved_source",
-      "planned_use": "static cutout"
+      "planned_use": "static cutout",
+      "cutout": {
+        "path": "production/assets/rigs/cutout_patroclus.png",
+        "dimensions": [
+          1365,
+          768
+        ],
+        "sha256": "040d85af3eee165cc7689cab9cf2761be511eec927180e4c36b30e09f9f76ea3",
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "qc_status": "accepted",
+        "face_anchors": {
+          "eye_left": [
+            621,
+            116
+          ],
+          "eye_right": [
+            659,
+            115
+          ],
+          "eye_radius": 7,
+          "mouth_center": [
+            640,
+            150
+          ],
+          "mouth_radius": [
+            10,
+            5
+          ]
+        },
+        "bbox": [
+          525,
+          20,
+          838,
+          765
+        ],
+        "foot_anchor": [
+          708,
+          764
+        ]
+      }
     },
     {
       "character": "andromache_astyanax",
@@ -47,13 +219,64 @@
       "visual_role": "Andromache holding her peacefully swaddled infant Astyanax as one combined composition",
       "status": "approved_source",
       "planned_use": "combined static cutout",
-      "note": "Astyanax has no dialogue and is not a separate cutout or rig."
+      "note": "Astyanax has no dialogue and is not a separate cutout or rig.",
+      "cutout": {
+        "path": "production/assets/rigs/cutout_andromache_astyanax.png",
+        "dimensions": [
+          1365,
+          768
+        ],
+        "sha256": "0a3253a7217f1179fdc557b00c54d863bb108a4eee49016ec1990ba6c1213725",
+        "mode": "RGBA",
+        "alpha_extrema": [
+          0,
+          255
+        ],
+        "qc_status": "accepted",
+        "face_anchors": {
+          "eye_left": [
+            687,
+            101
+          ],
+          "eye_right": [
+            722,
+            102
+          ],
+          "eye_radius": 6,
+          "mouth_center": [
+            704,
+            134
+          ],
+          "mouth_radius": [
+            10,
+            5
+          ]
+        },
+        "bbox": [
+          555,
+          21,
+          824,
+          760
+        ],
+        "foot_anchor": [
+          695,
+          759
+        ]
+      }
     }
   ],
   "visual_review": {
     "reviewed": true,
-    "result": "The contact grid and five candidate sheets passed preliminary visual review; user approval is recorded above.",
+    "result": "User approved all five source sheets. The transparent cutouts, character boundaries, eye/mouth markers, and foot anchors were visually checked; all pass.",
     "backgrounds_generated": 0,
-    "cutouts_generated": 0
+    "cutouts_generated": 5
+  },
+  "cutout_processing": {
+    "processor": "tools/build_part2_character_cutouts.py",
+    "anchor_database": "production/assets/rigs/char_anchors.json",
+    "calibration_preview": "production/part2/character_sheets/part2_cutout_calibration.jpg",
+    "method": "Border-connected near-background flood matte with a one-pixel antialiased edge; keeps interior pale costumes opaque.",
+    "status": "accepted_after_visual_qc",
+    "speaker_mapping_updated": "tools/assemble.py"
   }
 }
