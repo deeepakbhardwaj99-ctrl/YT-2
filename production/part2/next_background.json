@@ -1,82 +1,84 @@
 {
-  "status": "part2_batch_08_complete",
-  "accepted": 83,
+  "status": "part2_batch_09_complete",
+  "accepted": 93,
   "total_planned": 123,
-  "pending": 40,
-  "completed_clips": "01-16 complete; clip 16 has eight shots (all accepted)",
+  "pending": 30,
+  "completed_clips": "01-18 complete",
   "next_batch": {
-    "batch_number": 9,
+    "batch_number": 10,
     "clips": [
-      17,
-      18
+      19,
+      20
     ],
+    "plate_count": 10,
     "plates": [
       {
-        "path": "production/part2/backgrounds/p2_clip_17_bg_01.jpg",
-        "shot_type": "establishing",
-        "reference": "production/assets/locations/loc_troy_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Distant Trojan walls at late afternoon, empty parapet and a long shadow reaching across the plain. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
-      },
-      {
-        "path": "production/part2/backgrounds/p2_clip_17_bg_02.jpg",
-        "shot_type": "wide",
-        "reference": "production/assets/locations/loc_troy_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Distant Trojan walls at late afternoon, empty parapet and a long shadow reaching across the plain. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
-      },
-      {
-        "path": "production/part2/backgrounds/p2_clip_17_bg_03.jpg",
-        "shot_type": "medium",
-        "reference": "production/assets/locations/loc_troy_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Distant Trojan walls at late afternoon, empty parapet and a long shadow reaching across the plain. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
-      },
-      {
-        "path": "production/part2/backgrounds/p2_clip_17_bg_04.jpg",
-        "shot_type": "detail",
-        "reference": "production/assets/locations/loc_troy_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Distant Trojan walls at late afternoon, empty parapet and a long shadow reaching across the plain. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
-      },
-      {
-        "path": "production/part2/backgrounds/p2_clip_17_bg_05.jpg",
-        "shot_type": "wide",
-        "reference": "production/assets/locations/loc_troy_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Distant Trojan walls at late afternoon, empty parapet and a long shadow reaching across the plain. Wide composition: reverse wide angle at a different time of day, atmospheric depth and open staging space; keep the major geography visible with generous negative space; shift to softer evening light and a reverse-axis composition. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
-      },
-      {
-        "path": "production/part2/backgrounds/p2_clip_18_bg_01.jpg",
-        "shot_type": "establishing",
-        "reference": "production/assets/locations/loc_camp_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Greek beach camp at first light, one empty ship with a small controlled fire in the distance, no people. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
-      },
-      {
-        "path": "production/part2/backgrounds/p2_clip_18_bg_02.jpg",
+        "path": "production/part2/backgrounds/p2_clip_19_bg_01.jpg",
         "shot_type": "medium",
         "reference": "production/assets/locations/loc_camp_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Greek beach camp at first light, one empty ship with a small controlled fire in the distance, no people. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
+        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Inside Achilles's tent: a neat bronze armor stand, shield, spear and open doorway to the beach, no people. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
       },
       {
-        "path": "production/part2/backgrounds/p2_clip_18_bg_03.jpg",
+        "path": "production/part2/backgrounds/p2_clip_19_bg_02.jpg",
         "shot_type": "detail",
         "reference": "production/assets/locations/loc_camp_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Greek beach camp at first light, one empty ship with a small controlled fire in the distance, no people. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
+        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Inside Achilles's tent: a neat bronze armor stand, shield, spear and open doorway to the beach, no people. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
       },
       {
-        "path": "production/part2/backgrounds/p2_clip_18_bg_04.jpg",
+        "path": "production/part2/backgrounds/p2_clip_19_bg_03.jpg",
         "shot_type": "wide",
         "reference": "production/assets/locations/loc_camp_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Greek beach camp at first light, one empty ship with a small controlled fire in the distance, no people. Wide composition: reverse wide angle at a different time of day, atmospheric depth and open staging space; keep the major geography visible with generous negative space; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
+        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Inside Achilles's tent: a neat bronze armor stand, shield, spear and open doorway to the beach, no people. Wide composition: reverse wide angle at a different time of day, atmospheric depth and open staging space; keep the major geography visible with generous negative space; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
       },
       {
-        "path": "production/part2/backgrounds/p2_clip_18_bg_05.jpg",
+        "path": "production/part2/backgrounds/p2_clip_19_bg_04.jpg",
         "shot_type": "medium",
         "reference": "production/assets/locations/loc_camp_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Greek beach camp at first light, one empty ship with a small controlled fire in the distance, no people. Medium composition: raised three-quarter view that reveals a new spatial layer and an unobstructed foreground; layer the environment around one restrained focal area; shift to softer evening light and a reverse-axis composition. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
+        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Inside Achilles's tent: a neat bronze armor stand, shield, spear and open doorway to the beach, no people. Medium composition: raised three-quarter view that reveals a new spatial layer and an unobstructed foreground; layer the environment around one restrained focal area; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
+      },
+      {
+        "path": "production/part2/backgrounds/p2_clip_19_bg_05.jpg",
+        "shot_type": "detail",
+        "reference": "production/assets/locations/loc_camp_ref.png",
+        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Inside Achilles's tent: a neat bronze armor stand, shield, spear and open doorway to the beach, no people. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; shift to softer evening light and a reverse-axis composition. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
+      },
+      {
+        "path": "production/part2/backgrounds/p2_clip_20_bg_01.jpg",
+        "shot_type": "establishing",
+        "reference": "production/assets/locations/loc_troy_ref.png",
+        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Battle-scarred but empty plain between the Greek ships and Troy's walls, dropped unmarked shield and distant river, no bodies. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
+      },
+      {
+        "path": "production/part2/backgrounds/p2_clip_20_bg_02.jpg",
+        "shot_type": "wide",
+        "reference": "production/assets/locations/loc_troy_ref.png",
+        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Battle-scarred but empty plain between the Greek ships and Troy's walls, dropped unmarked shield and distant river, no bodies. Wide composition: reverse wide angle at a different time of day, atmospheric depth and open staging space; keep the major geography visible with generous negative space; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
+      },
+      {
+        "path": "production/part2/backgrounds/p2_clip_20_bg_03.jpg",
+        "shot_type": "medium",
+        "reference": "production/assets/locations/loc_troy_ref.png",
+        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Battle-scarred but empty plain between the Greek ships and Troy's walls, dropped unmarked shield and distant river, no bodies. Medium composition: raised three-quarter view that reveals a new spatial layer and an unobstructed foreground; layer the environment around one restrained focal area; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
+      },
+      {
+        "path": "production/part2/backgrounds/p2_clip_20_bg_04.jpg",
+        "shot_type": "detail",
+        "reference": "production/assets/locations/loc_troy_ref.png",
+        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Battle-scarred but empty plain between the Greek ships and Troy's walls, dropped unmarked shield and distant river, no bodies. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
+      },
+      {
+        "path": "production/part2/backgrounds/p2_clip_20_bg_05.jpg",
+        "shot_type": "wide",
+        "reference": "production/assets/locations/loc_troy_ref.png",
+        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Battle-scarred but empty plain between the Greek ships and Troy's walls, dropped unmarked shield and distant river, no bodies. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; shift to softer evening light and a reverse-axis composition. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
       }
     ]
   },
   "notes": [
-    "Batch 09 covers clips 17-18: ten plates, within the 10-image per-turn cap.",
-    "Use the recorded reference_path for each plate to hold location continuity.",
+    "Batch 10 covers clips 19-20: ten plates, within the 10-image per-turn cap.",
+    "Clip 19 uses the approved loc_camp reference; clip 20 continues in the same setting - verify against background_manifest.json.",
     "View every plate before marking it accepted in background_manifest.json and scenes.json.",
-    "Reject and reroll (max 2) any plate showing text-like marks, lettering, glyphs, people or modern objects."
+    "Reject and reroll (max 2) any plate showing text-like marks, lettering, glyphs, people or modern objects.",
+    "Remaining after batch 10: batches 11 (clips 21-22) and 12 (clips 23-24)."
   ]
 }
