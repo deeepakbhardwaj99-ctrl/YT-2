@@ -152,6 +152,11 @@ def sample_camera_bg(bg_im, cam_type, progress):
         cw, ch = int(sw * 0.84), int(sh * 0.84)
         x0 = int((sw - cw) * p)
         y0 = (sh - ch) // 2
+    elif cam_type == "pan-up":
+        # Vertical tilt: framing starts low and travels upward over the shot.
+        cw, ch = int(sw * 0.84), int(sh * 0.84)
+        x0 = (sw - cw) // 2
+        y0 = int((sh - ch) * (1.0 - p))
     else:
         cw, ch = int(sw * 0.84), int(sh * 0.84)
         x0 = int((sw - cw) * (1.0 - p))
@@ -535,7 +540,8 @@ def mix_audio_for_clips(clip_plans, stem_mp3, out_wav, pad_start_s=0.0,
 
 def render_sequence_to_mp4(clip_plans, stem_mp3, out_mp4, report_path,
                            title_card=None, end_card=None,
-                           title_duration_s=2.5, end_duration_s=2.5):
+                           title_duration_s=2.5, end_duration_s=2.5,
+                           vo_manifest_path="production/part1/part1_vo_manifest.json"):
     missing = [sh["bg_path"] for cp in clip_plans for sh in cp["shots"]
                if sh.get("asset_status") != "accepted" or not os.path.isfile(sh["bg_path"])]
     for card in (title_card, end_card):
@@ -552,7 +558,7 @@ def render_sequence_to_mp4(clip_plans, stem_mp3, out_mp4, report_path,
     t0 = time.time()
     cache = AssetCache()
     tmp_wav = out_mp4 + ".audio.wav"
-    with open("production/part1/part1_vo_manifest.json") as f:
+    with open(vo_manifest_path) as f:
         vo_man = {c["clip_id"]: c for c in json.load(f)["clips"]}
 
     for cp in clip_plans:

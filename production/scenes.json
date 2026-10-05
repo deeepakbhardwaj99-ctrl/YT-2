@@ -7710,7 +7710,7 @@
       "dialogue_bubbles": [],
       "overlay_card": {
         "headline": "POSEIDON & APOLLO",
-        "emphasis": "GODS",
+        "emphasis": "APOLLO",
         "chips": [
           "TROY'S WALLS",
           "UNPAID DEBT",
@@ -7754,7 +7754,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "POSEIDON & APOLLO",
-          "emphasis_word": "GODS",
+          "emphasis_word": "APOLLO",
           "chips": [
             "TROY'S WALLS",
             "UNPAID DEBT",
@@ -7805,7 +7805,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "POSEIDON & APOLLO",
-          "emphasis_word": "GODS",
+          "emphasis_word": "APOLLO",
           "chips": [
             "TROY'S WALLS",
             "UNPAID DEBT",
@@ -7856,7 +7856,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "POSEIDON & APOLLO",
-          "emphasis_word": "GODS",
+          "emphasis_word": "APOLLO",
           "chips": [
             "TROY'S WALLS",
             "UNPAID DEBT",
@@ -7907,7 +7907,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "POSEIDON & APOLLO",
-          "emphasis_word": "GODS",
+          "emphasis_word": "APOLLO",
           "chips": [
             "TROY'S WALLS",
             "UNPAID DEBT",
@@ -7958,7 +7958,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "POSEIDON & APOLLO",
-          "emphasis_word": "GODS",
+          "emphasis_word": "APOLLO",
           "chips": [
             "TROY'S WALLS",
             "UNPAID DEBT",
@@ -9850,7 +9850,7 @@
       "dialogue_bubbles": [],
       "overlay_card": {
         "headline": "PARIS VS MENELAUS",
-        "emphasis": "DUEL",
+        "emphasis": "MENELAUS",
         "chips": [
           "SINGLE COMBAT",
           "HELEN AT STAKE"
@@ -9890,7 +9890,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "TROY \u2014 THE DUEL",
-          "emphasis_word": "DUEL",
+          "emphasis_word": "MENELAUS",
           "chips": [
             "SINGLE COMBAT",
             "HELEN AT STAKE"
@@ -9937,7 +9937,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "PARIS VS MENELAUS",
-          "emphasis_word": "DUEL",
+          "emphasis_word": "MENELAUS",
           "chips": [
             "SINGLE COMBAT",
             "HELEN AT STAKE"
@@ -9984,7 +9984,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "PARIS VS MENELAUS",
-          "emphasis_word": "DUEL",
+          "emphasis_word": "MENELAUS",
           "chips": [
             "SINGLE COMBAT",
             "HELEN AT STAKE"
@@ -10031,7 +10031,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "PARIS VS MENELAUS",
-          "emphasis_word": "DUEL",
+          "emphasis_word": "MENELAUS",
           "chips": [
             "SINGLE COMBAT",
             "HELEN AT STAKE"
@@ -10078,7 +10078,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "PARIS VS MENELAUS",
-          "emphasis_word": "DUEL",
+          "emphasis_word": "MENELAUS",
           "chips": [
             "SINGLE COMBAT",
             "HELEN AT STAKE"
@@ -10122,7 +10122,7 @@
       "dialogue_bubbles": [],
       "overlay_card": {
         "headline": "APHRODITE INTERVENES",
-        "emphasis": "MIST",
+        "emphasis": "APHRODITE",
         "chips": [
           "PARIS SAVED",
           "THE DUEL INTERRUPTED"
@@ -10165,7 +10165,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "APHRODITE INTERVENES",
-          "emphasis_word": "MIST",
+          "emphasis_word": "APHRODITE",
           "chips": [
             "PARIS SAVED",
             "THE DUEL INTERRUPTED"
@@ -10212,7 +10212,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "APHRODITE INTERVENES",
-          "emphasis_word": "MIST",
+          "emphasis_word": "APHRODITE",
           "chips": [
             "PARIS SAVED",
             "THE DUEL INTERRUPTED"
@@ -10259,7 +10259,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "APHRODITE INTERVENES",
-          "emphasis_word": "MIST",
+          "emphasis_word": "APHRODITE",
           "chips": [
             "PARIS SAVED",
             "THE DUEL INTERRUPTED"
@@ -10306,7 +10306,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "APHRODITE INTERVENES",
-          "emphasis_word": "MIST",
+          "emphasis_word": "APHRODITE",
           "chips": [
             "PARIS SAVED",
             "THE DUEL INTERRUPTED"
@@ -10353,7 +10353,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "APHRODITE INTERVENES",
-          "emphasis_word": "MIST",
+          "emphasis_word": "APHRODITE",
           "chips": [
             "PARIS SAVED",
             "THE DUEL INTERRUPTED"
@@ -10419,7 +10419,7 @@
       ],
       "overlay_card": {
         "headline": "HELEN'S ANGER",
-        "emphasis": "ALIVE",
+        "emphasis": "ANGER",
         "chips": [
           "HELEN",
           "PARIS",
@@ -10463,7 +10463,7 @@
           "speaker": "HELEN",
           "bubble_text": "So you're alive. I...",
           "overlay_text": "HELEN'S ANGER",
-          "emphasis_word": "ALIVE",
+          "emphasis_word": "ANGER",
           "chips": [
             "HELEN",
             "PARIS",
@@ -10511,7 +10511,7 @@
           "speaker": "HELEN",
           "bubble_text": "So you're alive. I...",
           "overlay_text": "HELEN'S ANGER",
-          "emphasis_word": "ALIVE",
+          "emphasis_word": "ANGER",
           "chips": [
             "HELEN",
             "PARIS",
@@ -10565,7 +10565,7 @@
           "speaker": "HELEN",
           "bubble_text": "So you're alive. I...",
           "overlay_text": "HELEN'S ANGER",
-          "emphasis_word": "ALIVE",
+          "emphasis_word": "ANGER",
           "chips": [
             "HELEN",
             "PARIS",
@@ -10613,7 +10613,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "HELEN'S ANGER",
-          "emphasis_word": "ALIVE",
+          "emphasis_word": "ANGER",
           "chips": [
             "HELEN",
             "PARIS",
@@ -10661,7 +10661,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "HELEN'S ANGER",
-          "emphasis_word": "ALIVE",
+          "emphasis_word": "ANGER",
           "chips": [
             "HELEN",
             "PARIS",
@@ -11529,7 +11529,7 @@
         {
           "shot_index": 5,
           "t_start": 11.839,
-          "t_end": 23.678,
+          "t_end": 14.799,
           "location": "loc_troy",
           "shot_type": "detail",
           "bg_path": "production/part2/backgrounds/p2_clip_16_bg_05.jpg",
@@ -11551,18 +11551,6 @@
               "t_start": 0.12,
               "t_end": 14.65,
               "line_index": 27
-            },
-            {
-              "speaker": "HECTOR",
-              "t_start": 14.85,
-              "t_end": 18.933,
-              "line_index": 28
-            },
-            {
-              "speaker": "NARRATOR",
-              "t_start": 19.133,
-              "t_end": 23.478,
-              "line_index": 29
             }
           ],
           "camera": "pan-left",
@@ -11571,24 +11559,24 @@
             "andromache_astyanax"
           ],
           "speaker": "narrator",
-          "bubble_text": "May my son grow...",
+          "bubble_text": "",
           "overlay_text": "A FATHER'S HELMET",
           "emphasis_word": "HELMET",
           "chips": [
             "A CHILD'S FEAR",
             "A QUIET MOMENT"
           ],
-          "text_style": "bubble",
+          "text_style": "card",
           "text_position": "top-right",
           "mascot": "none",
           "arrow_target": "small helmet",
           "dim_background": true,
-          "sfx": "pop"
+          "sfx": "none"
         },
         {
           "shot_index": 6,
           "t_start": 14.799,
-          "t_end": 23.678,
+          "t_end": 17.759,
           "location": "loc_troy",
           "shot_type": "wide",
           "bg_path": "production/part2/backgrounds/p2_clip_16_bg_06.jpg",
@@ -11610,12 +11598,6 @@
               "t_start": 14.85,
               "t_end": 18.933,
               "line_index": 28
-            },
-            {
-              "speaker": "NARRATOR",
-              "t_start": 19.133,
-              "t_end": 23.478,
-              "line_index": 29
             }
           ],
           "camera": "dolly-in",
@@ -11641,7 +11623,7 @@
         {
           "shot_index": 7,
           "t_start": 17.759,
-          "t_end": 23.678,
+          "t_end": 20.718,
           "location": "loc_troy",
           "shot_type": "medium",
           "bg_path": "production/part2/backgrounds/p2_clip_16_bg_07.jpg",
@@ -13285,7 +13267,7 @@
       "dialogue_bubbles": [],
       "overlay_card": {
         "headline": "SCAMANDER RISES",
-        "emphasis": "RIVER",
+        "emphasis": "SCAMANDER",
         "chips": [
           "A GOD'S ANGER",
           "THE TROJANS FLEE"
@@ -13325,7 +13307,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "SCAMANDER \u2014 OUTSIDE TROY",
-          "emphasis_word": "RIVER",
+          "emphasis_word": "SCAMANDER",
           "chips": [
             "A GOD'S ANGER",
             "THE TROJANS FLEE"
@@ -13375,7 +13357,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "SCAMANDER RISES",
-          "emphasis_word": "RIVER",
+          "emphasis_word": "SCAMANDER",
           "chips": [
             "A GOD'S ANGER",
             "THE TROJANS FLEE"
@@ -13425,7 +13407,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "SCAMANDER RISES",
-          "emphasis_word": "RIVER",
+          "emphasis_word": "SCAMANDER",
           "chips": [
             "A GOD'S ANGER",
             "THE TROJANS FLEE"
@@ -13475,7 +13457,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "SCAMANDER RISES",
-          "emphasis_word": "RIVER",
+          "emphasis_word": "SCAMANDER",
           "chips": [
             "A GOD'S ANGER",
             "THE TROJANS FLEE"
@@ -13525,7 +13507,7 @@
           "speaker": "narrator",
           "bubble_text": "",
           "overlay_text": "SCAMANDER RISES",
-          "emphasis_word": "RIVER",
+          "emphasis_word": "SCAMANDER",
           "chips": [
             "A GOD'S ANGER",
             "THE TROJANS FLEE"

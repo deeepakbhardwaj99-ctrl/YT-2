@@ -1,0 +1,24 @@
+PART 2 DELIVERY QC — PASS
+Video: production/part2/part2_full.mp4 (65.78 MiB)
+Duration: video 369.458s | decoded audio 369.451s | expected 369.458s
+Picture: h264 1920x1080 @ 24.000 fps, 8867 frames
+Sound: aac 24000 Hz, 1 channel(s), peak -2.87 dBFS, RMS -20.98 dBFS
+
+Checks:
+  PASS  locked script and vo unchanged
+  PASS  all 123 backgrounds accepted
+  PASS  24 clips in export
+  PASS  vo manifest qc passed
+  PASS  chapter7 override recorded
+  PASS  h264 1080p video
+  PASS  24 fps
+  PASS  expected video frame count
+  PASS  video duration within tolerance
+  PASS  audio present aac mono 24khz
+  PASS  audio duration within tolerance
+  PASS  audio not silent
+  PASS  audio not clipped
+  PASS  full audio video decode
+  PASS  motion gate passed
+  PASS  part1 export unchanged
+  PASS  under 99mb single file push target

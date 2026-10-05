@@ -1,0 +1,58 @@
+{
+  "passed": true,
+  "checks": {
+    "locked_script_and_vo_unchanged": true,
+    "all_123_backgrounds_accepted": true,
+    "24_clips_in_export": true,
+    "vo_manifest_qc_passed": true,
+    "chapter7_override_recorded": true,
+    "h264_1080p_video": true,
+    "24_fps": true,
+    "expected_video_frame_count": true,
+    "video_duration_within_tolerance": true,
+    "audio_present_aac_mono_24khz": true,
+    "audio_duration_within_tolerance": true,
+    "audio_not_silent": true,
+    "audio_not_clipped": true,
+    "full_audio_video_decode": true,
+    "motion_gate_passed": true,
+    "part1_export_unchanged": true,
+    "under_99mb_single_file_push_target": true
+  },
+  "asset_gate": {
+    "script_verbatim": true,
+    "vo_segments_unchanged": true,
+    "planned_unique_plates": 123,
+    "accepted_plates": 123,
+    "pending_plates": 0,
+    "vo_clips": 24,
+    "full_render_ready": true
+  },
+  "expected": {
+    "clip_count": 24,
+    "video_frames": 8867,
+    "frame_rate": 24,
+    "duration_seconds": 369.458333,
+    "vo_sample_count_before_cards": 8750376,
+    "video_frame_rounding_audio_pad_seconds": 0.0
+  },
+  "measured": {
+    "format_duration_seconds": 369.458333,
+    "video_duration_seconds": 369.458333,
+    "audio_stream_duration_seconds": 369.451,
+    "decoded_audio_duration_seconds": 369.450667,
+    "video_frames": 8867,
+    "frame_rate": 24.0,
+    "video_codec": "h264",
+    "resolution": "1920x1080",
+    "audio_codec": "aac",
+    "audio_sample_rate": "24000",
+    "audio_channels": 1,
+    "audio_peak_dbfs": -2.865,
+    "audio_rms_dbfs": -20.977,
+    "first_half_second_rms_dbfs": -43.7,
+    "last_half_second_rms_dbfs": -47.168,
+    "file_size_bytes": 68973134,
+    "file_size_mib": 65.78
+  }
+}
