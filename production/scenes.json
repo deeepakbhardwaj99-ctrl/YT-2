@@ -9286,7 +9286,7 @@
             "tent opening",
             "distant fleet"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -9337,7 +9337,7 @@
             "tent opening",
             "distant fleet"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -9388,7 +9388,7 @@
             "tent opening",
             "distant fleet"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -9439,7 +9439,7 @@
             "tent opening",
             "distant fleet"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -9490,7 +9490,7 @@
             "tent opening",
             "distant fleet"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -9589,7 +9589,7 @@
             "marble terrace",
             "storm-lit horizon"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ACHILLES",
@@ -9633,7 +9633,7 @@
             "marble terrace",
             "storm-lit horizon"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ACHILLES",
@@ -9668,7 +9668,7 @@
           "location": "loc_olympus",
           "shot_type": "detail",
           "bg_path": "production/part2/backgrounds/p2_clip_10_bg_03.jpg",
-          "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Mythic Mount Olympus above cloud and sea, restrained gold light over ancient marble terraces, no figures. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_olympus location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
+          "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Mythic Mount Olympus above cloud and sea, restrained gold light over ancient marble terraces, no figures. Detail composition: low close view along a weathered pale-marble terrace edge and an undecorated carved stone column base; simple stone joints and restrained geometric marble inlay only; the cloud sea and distant storm-lit horizon are softly visible beyond the balustrade. Keep an uncluttered lower foreground. Match the approved loc_olympus location-sheet palette and Bronze Age materials. No metal grates, drains, drainage channels, modern fixtures or hardware; no glyphs, letters, numbers, symbols, inscriptions, text, logos, watermarks or layout guides; no people, faces, silhouettes or bodies.",
           "reference_path": "production/assets/locations/loc_olympus_ref.png",
           "setting_label": "OLYMPUS — THE GODS TURN THE TIDE",
           "composition": {
@@ -9725,7 +9725,7 @@
             "marble terrace",
             "storm-lit horizon"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ACHILLES",
@@ -9777,7 +9777,7 @@
             "marble terrace",
             "storm-lit horizon"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",

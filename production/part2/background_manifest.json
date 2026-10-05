@@ -969,10 +969,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Secluded tent at the edge of the Greek camp, tide-worn shore and quiet ships beyond, reflective dusk. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "f601b0e4487c4edba7021e8fc9e67e8dbd03bb88d91b181c0d4715af725d446f",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: secluded tent on a tide-worn beach at reflective dusk, with the headland and quiet fleet beyond; broad empty sand, no people or text.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -990,10 +993,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Secluded tent at the edge of the Greek camp, tide-worn shore and quiet ships beyond, reflective dusk. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "b755ff414cbe346ccef8d1f67200678403647abd9c681b8b5769ee4eea6aea6c",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: oblique reverse view of the shore tent, tide pools and anchored oared ships; ample clear beach foreground, no people, readable markings or modern objects.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -1011,10 +1017,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Secluded tent at the edge of the Greek camp, tide-worn shore and quiet ships beyond, reflective dusk. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "32a34159644278f4bcc1a78caa1f69cc262fab2b0f821caa1eeb4d10d5bf36df",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: medium view of a weathered tent and unmarked bronze shield against the sunset shoreline; no people or text, with clear lower staging ground.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -1032,10 +1041,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Secluded tent at the edge of the Greek camp, tide-worn shore and quiet ships beyond, reflective dusk. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "0b2384f9537068ba00f858bfeac575816ef31fafa7015666da41b928c07a0e69",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: close environmental detail of tent ropes, plain pottery and a stone-lined beach with ships beyond; no people, lettering or modern objects.",
       "composition": {
         "view": "close environmental detail at ground level, no figures, visually distinct composition",
         "open_lower_third": true
@@ -1053,10 +1065,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Secluded tent at the edge of the Greek camp, tide-worn shore and quiet ships beyond, reflective dusk. Wide composition: reverse wide angle at a different time of day, atmospheric depth and open staging space; keep the major geography visible with generous negative space; shift to softer evening light and a reverse-axis composition. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "422a253e7723d0d5ce382da7c97aa41b96fcdb5b0a004154db26d0b9b67ae862",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: wide reverse view of the quiet beach camp and fleet in soft evening light; broad open shore, no people or text.",
       "composition": {
         "view": "reverse wide angle at a different time of day, atmospheric depth and open staging space",
         "open_lower_third": true
@@ -1074,10 +1089,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_olympus_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Mythic Mount Olympus above cloud and sea, restrained gold light over ancient marble terraces, no figures. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_olympus location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "9308dc49c8154927afa8a2310b5310affd01b6587f1f761a7bc8e59c5b5cb851",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: mythic Olympus terrace above a sea of clouds, mountain and distant marble sanctuaries under warm light; open foreground, no figures or text.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -1095,10 +1113,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_olympus_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Mythic Mount Olympus above cloud and sea, restrained gold light over ancient marble terraces, no figures. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_olympus location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "1559c7d3e171679bea46b0789e310a689806f7c4727195d4e143c25817f84451",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: quiet marble terrace with an unoccupied bronze tripod bowl, olive tree and cloud-wrapped mountain; no figures, text or modern objects.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -1115,11 +1136,11 @@
       "location": "loc_olympus",
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_olympus_ref.png",
-      "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Mythic Mount Olympus above cloud and sea, restrained gold light over ancient marble terraces, no figures. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_olympus location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
+      "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Mythic Mount Olympus above cloud and sea, restrained gold light over ancient marble terraces, no figures. Detail composition: low close view along a weathered pale-marble terrace edge and an undecorated carved stone column base; simple stone joints and restrained geometric marble inlay only; the cloud sea and distant storm-lit horizon are softly visible beyond the balustrade. Keep an uncluttered lower foreground. Match the approved loc_olympus location-sheet palette and Bronze Age materials. No metal grates, drains, drainage channels, modern fixtures or hardware; no glyphs, letters, numbers, symbols, inscriptions, text, logos, watermarks or layout guides; no people, faces, silhouettes or bodies.",
       "dimensions": null,
       "sha256": null,
       "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "qc_note": "Candidate rejected during full-resolution visual review: the terrace detail introduced a modern-looking metal drainage grate and text-like ornament. Candidate withheld and removed; reroll remains pending. Revised text-free, grate-free prompt saved for the next generation pass.",
       "composition": {
         "view": "close environmental detail at ground level, no figures, visually distinct composition",
         "open_lower_third": true
@@ -1137,10 +1158,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_olympus_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Mythic Mount Olympus above cloud and sea, restrained gold light over ancient marble terraces, no figures. Wide composition: reverse wide angle at a different time of day, atmospheric depth and open staging space; keep the major geography visible with generous negative space; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_olympus location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1365,
+        768
+      ],
+      "sha256": "a23d1628636381df1d2b74c9283906cb2cb2e54cdea8982ed6ba00c10b47d7ab",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: reverse terrace angle with ancient stone steps, mountain rising through clouds and open marble foreground; no figures or text.",
       "composition": {
         "view": "reverse wide angle at a different time of day, atmospheric depth and open staging space",
         "open_lower_third": true
@@ -1158,10 +1182,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_olympus_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Mythic Mount Olympus above cloud and sea, restrained gold light over ancient marble terraces, no figures. Medium composition: raised three-quarter view that reveals a new spatial layer and an unobstructed foreground; layer the environment around one restrained focal area; shift to softer evening light and a reverse-axis composition. Match the approved loc_olympus location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "4fd326b66f3909c256bfa09b8d2f830c41b76ba90ee391ef2e89ada38188dc82",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: raised three-quarter terrace view with columns, olive trees and Olympus above clouds in warm evening light; open floor, no figures or text.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -2707,7 +2734,7 @@
   ],
   "schema_version": 1,
   "total_planned": 123,
-  "accepted": 40,
-  "pending": 83,
+  "accepted": 49,
+  "pending": 74,
   "note": "Part 2 background plates are planned from measured VO; accept only after individual visual review."
 }
