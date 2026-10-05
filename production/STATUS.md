@@ -4,7 +4,7 @@
 **Recovered checkpoint:** `origin/arena/01a1032c-yt-2` at `774100f` (2026-10-04); accepted assets and recorded approvals are reused, not regenerated.
 **Locked script source:** `production/script_approved.txt` remains byte-identical to the supplied script; the separate retention draft is not the VO source. By explicit user approval, three non-graphic wording substitutions are permitted for Part 2 Chapter 7 narrator audio only; they are documented in `production/part2/chapter7_vo_override.json` and do not alter the locked source file.
 **Part 1 status:** Complete — 125/125 accepted plates, all 25 clips assembled, rendered, and QC-passed. The full export and QC reports are saved under `production/part1/`; the approved preview is unchanged.
-**Part 2 VO status:** Complete — 8/8 raw batches processed into 24 measured clips (`776` narrated/dialogue words after the approved Chapter 7 VO-only override; `364.60s`, `127.7 WPM`). Scene plan and backgrounds remain next.
+**Part 2 VO status:** Complete — 8/8 raw batches processed into 24 measured clips (`776` narrated/dialogue words after the approved Chapter 7 VO-only override; `364.60s`, `127.7 WPM`). The VO-timed motion plan is now complete (24 clips / 123 unique plate slots); no Part 2 backgrounds are generated yet. Step 3 character-sheet approval is next.
 ## Current session — 2026-10-05
 - Added a separate complete-Part-1 renderer at `tools/render_part1.py` (all 25 clips, animated 2.5-second opening title and Part II tease). It writes `production/part1/part1_full.mp4` and does not overwrite the approved clip 01 + 05 preview.
 - Added exact per-clip VO sample trimming/padding against the locked timeline, frame-rounding audio tail compensation, a bounded background cache, and a music fade on the teaser card. Approved script text and VO segment records remain untouched.
@@ -13,7 +13,9 @@
 - Delivery QC: `production/part1/part1_qc_report.txt` and `.json` — PASS. Full audio/video decode succeeded; 9,881 frames; decoded audio 411.733s vs 411.708s expected; peak −3.02 dBFS; audio RMS −20.99 dBFS; preview unchanged; output remains below GitHub's single-file size limit.
 - Locked script, VO segments, accepted assets and approved preview were preserved. Part 1 is delivered; Step 7–8 remains open for Parts 2–4 and the master MP4.
 - Part 2 narrator batch: after exact-text synthesis was blocked, the user approved three non-graphic Chapter 7 narrator-only substitutions; the locked source script remains unchanged. The missing raw narration was generated with selected voice `voice-00`: 222 words, 88.23s decoded, 151 WPM. Raw-audio QC/hash metadata: `production/part2/p2_narr_c7_manifest.json`; override: `production/part2/chapter7_vo_override.json`.
-- Part 2 per-clip VO is complete: 24 clips, 776 words, 364.60s (6.08 min), 127.7 WPM average. All 8 raw batches map to the source lines, the approved VO override is applied, pace gates pass, and audio QC manifests are in `production/part2/part2_vo_manifest.json` and `part2_vo_qc_report.txt`/`.json`. Next: Part 2 motion plan, then backgrounds.
+- Part 2 per-clip VO is complete: 24 clips, 776 words, 364.60s (6.08 min), 127.7 WPM average. All 8 raw batches map to the source lines, the approved VO override is applied, pace gates pass, and audio QC manifests are in `production/part2/part2_vo_manifest.json` and `part2_vo_qc_report.txt`/`.json`.
+- Part 2 motion plan is complete and appended to `production/scenes.json` without changing the approved Part 1 plan. `production/part2/background_manifest.json` records 123 unique pending plates: 23 clips use five shots; `p2_clip_16` (23.678s / 50 words) uses eight (~2.96s per shot) for Preset A density. New dialogue/supporting character assignments, timed events, labels/callouts, camera moves, and text-free HYBRID prompts are included. See `production/part2/part2_scene_plan_notes.md`.
+- Next is Step 3 character-sheet review for Protesilaus, Philoctetes, Chryses, Patroclus, and Andromache holding Astyanax. No Part 2 backgrounds have been generated; wait for character-sheet approval before scene art.
 
 **Format:** 16:9 (1920×1080) · **Target Pace:** ~130 wpm · **Parts:** 4 parts (~23.40 min total, 92 clips)
 **Style Mode:** `HYBRID` (2D cartoon rigged characters + AI-generated painterly-realistic Bronze Age environments, no people/text in backgrounds)
@@ -62,7 +64,7 @@
     - `odysseus`: IoU = **0.85** (`PASS >= 0.80`)
     - `agamemnon`: IoU = **0.91** (`PASS >= 0.80`)
     - `hector`: IoU = **0.87** (`PASS >= 0.80`)
-  - **Per-Scene Plan (`production/scenes.json`):** 25 clips / 125 shot entries for Part 1.
+  - **Per-Scene Plan (`production/scenes.json`):** Part 1 remains 25 clips / 125 accepted shot entries; Part 2 now has 24 clips / 123 pending planned plates (`p2_clip_16` uses eight for its longer 23.678s VO clip). Part 2 background generation is blocked at the Step 3 new-character approval gate.
   - **First Assembled Animated Scene Preview (`production/part1/scene_01_preview.mp4`):**
     - Duration: `38.13s` @ 24 fps · Mean frame diff: `5.395` · Max frozen stretch: `0.00s` (`PASS <= 2.00s`).
     - Motion report: `production/part1/scene_01_motion_report.txt` · Spot frames: `production/part1/scene_01_spot_frames.jpg`.
