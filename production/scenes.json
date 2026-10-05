@@ -10446,7 +10446,7 @@
             "window opening",
             "bronze lamp"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "HELEN",
@@ -10494,7 +10494,7 @@
             "window opening",
             "bronze lamp"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "HELEN",
@@ -10542,7 +10542,7 @@
             "window opening",
             "bronze lamp"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "HELEN",
@@ -10596,7 +10596,7 @@
             "window opening",
             "bronze lamp"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -10644,7 +10644,7 @@
             "window opening",
             "bronze lamp"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -10746,7 +10746,7 @@
             "courtyard path",
             "open lower ground"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -10783,7 +10783,7 @@
           "location": "loc_troy",
           "shot_type": "detail",
           "bg_path": "production/part2/backgrounds/p2_clip_14_bg_02.jpg",
-          "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for A sheltered inner courtyard near the Trojan gate, warm stone, olive branches and a quiet path from the walls. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
+          "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for A sheltered inner courtyard near the Trojan gate, warm stone, olive branches and a quiet path from the walls. Detail composition: low side-angle along a weathered warm-limestone courtyard wall and irregular flagstone path beneath olive branches; restrained architectural focus and strong leading lines, with uncluttered open ground in the lower third. Keep the courtyard sheltered and quiet; match the approved loc_troy location-sheet palette and Bronze Age materials. Use only ancient stone, wood, clay and olive textures. No taps, faucets, pipes, spigots, drains, plumbing, metallic hardware or modern fixtures; no people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks or layout guides.",
           "reference_path": "production/assets/locations/loc_troy_ref.png",
           "setting_label": "TROY — HECTOR COMES HOME",
           "composition": {
@@ -10842,7 +10842,7 @@
             "courtyard path",
             "open lower ground"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -10890,7 +10890,7 @@
             "courtyard path",
             "open lower ground"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -10938,7 +10938,7 @@
             "courtyard path",
             "open lower ground"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
