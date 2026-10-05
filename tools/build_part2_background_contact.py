@@ -52,20 +52,27 @@ def build_contact(clip_numbers, batch_number, allow_pending=False):
                 continue
             shot_index = row + 1
             plate = plates.get((clip_id, shot_index))
-            if plate is None or plate.get("qc_status") != "accepted" or not (ROOT / plate["path"]).is_file():
-                if not allow_pending:
-                    raise ValueError(f"{clip_id} shot {shot_index:02d} is not accepted; use --allow-pending for a labelled placeholder")
+            accepted_plate = bool(plate and plate.get("qc_status") == "accepted")
+            image_path = ROOT / plate["path"] if plate else None
+            image_exists = bool(image_path and image_path.is_file())
+            if accepted_plate and not image_exists:
+                raise FileNotFoundError(f"Accepted image is missing: {plate['path']}")
+            if not accepted_plate and not allow_pending:
+                raise ValueError(f"{clip_id} shot {shot_index:02d} is not accepted; use --allow-pending to review a pending image or show a labelled placeholder")
+            if not image_exists:
                 draw.rectangle((x, y, x + width, y + height), fill="#28231e", outline="#9b3a12", width=2)
-                draw.text((x + 45, y + 150), "NOT ACCEPTED — PENDING", font=title, fill="#d98b52")
+                draw.text((x + 45, y + 150), "NOT GENERATED — PENDING", font=title, fill="#d98b52")
                 draw.text((x + 45, y + 205), "Not counted as an accepted image", font=label, fill="#f8f0e1")
                 draw.text((x + 8, y + height + 10), f"CLIP {number:02d}  /  SHOT {shot_index:02d}   |   PENDING", font=label, fill="#f8f0e1")
                 continue
-            with Image.open(ROOT / plate["path"]) as source:
+            with Image.open(image_path) as source:
                 tile = ImageOps.fit(source.convert("RGB"), (width, height), method=Image.Resampling.LANCZOS)
             sheet.paste(tile, (x, y))
-            draw.rectangle((x, y, x + width, y + height), outline="#9b3a12", width=2)
+            border = "#4bba83" if accepted_plate else "#d98b52"
+            draw.rectangle((x, y, x + width, y + height), outline=border, width=3)
             location = plate.get("setting_label", plate["location"].removeprefix("loc_").upper())
-            draw.text((x + 8, y + height + 10), f"CLIP {number:02d}  /  SHOT {shot_index:02d}   |   {location}", font=label, fill="#f8f0e1")
+            state = "ACCEPTED" if accepted_plate else "PENDING QC — NOT ACCEPTED"
+            draw.text((x + 8, y + height + 10), f"CLIP {number:02d}  /  SHOT {shot_index:02d}   |   {location}   |   {state}", font=label, fill="#f8f0e1")
 
     output = ROOT / f"production/part2/backgrounds_batch_{batch_number:02d}_contact.jpg"
     output.parent.mkdir(parents=True, exist_ok=True)

@@ -7425,7 +7425,7 @@
             "bow",
             "Troy's walls"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ODYSSEUS",
@@ -7470,7 +7470,7 @@
             "bow",
             "Troy's walls"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ODYSSEUS",
@@ -7517,7 +7517,7 @@
             "bow",
             "Troy's walls"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ODYSSEUS",
@@ -7570,7 +7570,7 @@
             "bow",
             "Troy's walls"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -7617,7 +7617,7 @@
             "bow",
             "Troy's walls"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -7737,7 +7737,7 @@
             "city wall silhouette",
             "open foreground"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -7788,7 +7788,7 @@
             "city wall silhouette",
             "open foreground"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -7839,7 +7839,7 @@
             "city wall silhouette",
             "open foreground"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -7890,7 +7890,7 @@
             "city wall silhouette",
             "open foreground"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -7941,7 +7941,7 @@
             "city wall silhouette",
             "open foreground"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
