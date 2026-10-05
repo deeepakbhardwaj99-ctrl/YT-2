@@ -9876,7 +9876,7 @@
             "open duel ground",
             "distant city gate"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -9920,7 +9920,7 @@
             "open duel ground",
             "distant city gate"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -9967,7 +9967,7 @@
             "open duel ground",
             "distant city gate"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -10014,7 +10014,7 @@
             "open duel ground",
             "distant city gate"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -10061,7 +10061,7 @@
             "open duel ground",
             "distant city gate"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -10148,7 +10148,7 @@
             "parapet",
             "misty horizon"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -10195,7 +10195,7 @@
             "parapet",
             "misty horizon"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -10242,7 +10242,7 @@
             "parapet",
             "misty horizon"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -10289,7 +10289,7 @@
             "parapet",
             "misty horizon"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -10336,7 +10336,7 @@
             "parapet",
             "misty horizon"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",

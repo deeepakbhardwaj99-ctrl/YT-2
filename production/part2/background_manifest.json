@@ -1209,10 +1209,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Open ground before Troy's walls prepared for a single combat, broad empty space between two distant standards. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1365,
+        768
+      ],
+      "sha256": "9c5939802d30dc02b6e1463120a1774cb60840681577332d0d248ec39cddff3b",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: broad empty arena between paired bronze standards, fortified Trojan walls and coast beyond; clear lower staging, no people or text.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -1230,10 +1233,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Open ground before Troy's walls prepared for a single combat, broad empty space between two distant standards. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "a2be961b7ad046e00f040bdd0cc383a3e5eb0fbe67d31cc76393b7eacb6a8359",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: rutted arena approach framed by plain eagle-topped standards and distant walls; open central ground, only inanimate battlefield debris, no people or text.",
       "composition": {
         "view": "close environmental detail at ground level, no figures, visually distinct composition",
         "open_lower_third": true
@@ -1251,10 +1257,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Open ground before Troy's walls prepared for a single combat, broad empty space between two distant standards. Wide composition: reverse wide angle at a different time of day, atmospheric depth and open staging space; keep the major geography visible with generous negative space; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "51cb9b4189e2b2b420173ddbdc503cbbbc01c73f90fd508259c023df55aaa530",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: cool twilight reverse wide with open field, blank standard and unmarked shield before the distant walls; no people, readable markings or modern objects.",
       "composition": {
         "view": "reverse wide angle at a different time of day, atmospheric depth and open staging space",
         "open_lower_third": true
@@ -1272,10 +1281,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Open ground before Troy's walls prepared for a single combat, broad empty space between two distant standards. Medium composition: raised three-quarter view that reveals a new spatial layer and an unobstructed foreground; layer the environment around one restrained focal area; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "86c419e52116924dd08ee19077d48b8d24aec692257255c20e8efee2fef81bc9",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: raised three-quarter view across an empty plain curving toward Troy, with two distant standards; clear character staging, no people or text.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -1293,10 +1305,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Open ground before Troy's walls prepared for a single combat, broad empty space between two distant standards. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; shift to softer evening light and a reverse-axis composition. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "675e2bc8760718384e4555d156524210b9bed4a0f950c781c0bcb9d1b954c547",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: low side-angle along weathered Trojan masonry, patinated bronze ring fitting and open field; no people, lettering or modern objects.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -1314,10 +1329,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for High Trojan ramparts seen from a shaded parapet, pale Aegean mist over the distant plain. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "e3e4cf0a15a2935fb27a9b459c48733005888a43604a3512cc71d8167be3c606",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: worn stone parapet and plain bronze ring fitting frame Troy above the pale Aegean mist; no people or text.",
       "composition": {
         "view": "close environmental detail at ground level, no figures, visually distinct composition",
         "open_lower_third": true
@@ -1335,10 +1353,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for High Trojan ramparts seen from a shaded parapet, pale Aegean mist over the distant plain. Wide composition: reverse wide angle at a different time of day, atmospheric depth and open staging space; keep the major geography visible with generous negative space; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1365,
+        768
+      ],
+      "sha256": "39d64dce5e76a10ca664721181e245c244e6e46debd72c51596d9b2c8853b454",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: shaded rampart and unmarked bronze shield overlook the open plain and distant sea; no people, text or modern objects.",
       "composition": {
         "view": "reverse wide angle at a different time of day, atmospheric depth and open staging space",
         "open_lower_third": true
@@ -1356,10 +1377,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for High Trojan ramparts seen from a shaded parapet, pale Aegean mist over the distant plain. Medium composition: raised three-quarter view that reveals a new spatial layer and an unobstructed foreground; layer the environment around one restrained focal area; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "47bc2558a59df5921c7ef0a10681d0190557e2397597e9f77796df23d9dda596",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: view from a shaded wooden arcade across Trojan battlements and gate in soft haze; clear stone staging area, no figures or text.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -1377,10 +1401,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for High Trojan ramparts seen from a shaded parapet, pale Aegean mist over the distant plain. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "5471f698b02c2f1431840d0695c3d26f9a3bb8dcb10fb1e3cd1b8b20e50c602c",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: close timber-and-stone parapet detail with a patinated bronze wall fitting against the misty plain; no people, lettering or modern objects.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -1398,10 +1425,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for High Trojan ramparts seen from a shaded parapet, pale Aegean mist over the distant plain. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; shift to softer evening light and a reverse-axis composition. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "725dc0893fc326e347bcb95a87a8137ff71150bf775bd4e1319355f7186c67c1",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: reverse view through a shaded rampart opening over the towers and pale sea mist; no people or text, strong depth and empty foreground.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -2737,7 +2767,7 @@
   ],
   "schema_version": 1,
   "total_planned": 123,
-  "accepted": 50,
-  "pending": 73,
+  "accepted": 60,
+  "pending": 63,
   "note": "Part 2 background plates are planned from measured VO; accept only after individual visual review."
 }
