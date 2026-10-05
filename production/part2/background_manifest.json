@@ -2958,5 +2958,5 @@
   "total_planned": 123,
   "accepted": 123,
   "pending": 0,
-  "note": "All 13 background batches complete. 123/123 plates individually reviewed and accepted, 0 pending. Batch 12 covers clips 23-24 in full (10/10 plates accepted; 9 accepted in the prior turn when the platform 10-image/turn limit was hit, the final plate accepted this turn). Batches 05, 07 and 08 each included one corrective reroll. Each generated plate requires individual visual review before acceptance; 16:9 tolerance ~1376x768."
+  "note": "All 12 background batches complete. 123/123 plates individually reviewed and accepted, 0 pending. Batch 12 covers clips 23-24 in full (10/10 plates accepted; 9 accepted in the prior turn when the platform 10-image/turn limit was hit, the final plate accepted this turn). Batches 05, 07 and 08 each included one corrective reroll. Each generated plate requires individual visual review before acceptance; 16:9 tolerance ~1376x768."
 }
