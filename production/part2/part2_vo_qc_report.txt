@@ -1,0 +1,38 @@
+PART 2 VO QC — PASS
+Raw batches: 8/8 | Clips: 24 (estimate 24)
+VO words: 776 | Runtime: 364.60s (6.08 min) | Average pace: 127.7 WPM
+
+Checks:
+  PASS  all 8 raw batches mapped
+  PASS  all source lines covered
+  PASS  voice text matches source plus approved override
+  PASS  clip count matches estimate
+  PASS  all clip paces within 20 percent
+  PASS  all segment paces within 20 percent
+  PASS  average pace within 20 percent
+
+Clip pace summary:
+  p2_clip_01 | [CHAPTER 4: NINE YEARS OF NOTHING] | 35w | 16.64s | 126.2 WPM
+  p2_clip_02 | [CHAPTER 4: NINE YEARS OF NOTHING] | 34w | 15.97s | 127.8 WPM
+  p2_clip_03 | [CHAPTER 4: NINE YEARS OF NOTHING] | 28w | 13.35s | 125.8 WPM
+  p2_clip_04 | [CHAPTER 4: NINE YEARS OF NOTHING] | 42w | 19.41s | 129.8 WPM
+  p2_clip_05 | [CHAPTER 4: NINE YEARS OF NOTHING] | 41w | 19.16s | 128.4 WPM
+  p2_clip_06 | [CHAPTER 5: THE ARGUMENT] | 33w | 15.48s | 127.9 WPM
+  p2_clip_07 | [CHAPTER 5: THE ARGUMENT] | 42w | 19.76s | 127.5 WPM
+  p2_clip_08 | [CHAPTER 5: THE ARGUMENT] | 18w | 8.68s | 124.4 WPM
+  p2_clip_09 | [CHAPTER 5: THE ARGUMENT] | 35w | 16.21s | 129.5 WPM
+  p2_clip_10 | [CHAPTER 5: THE ARGUMENT] | 24w | 11.42s | 126.1 WPM
+  p2_clip_11 | [CHAPTER 6: A DUEL AND A GOODBYE] | 18w | 8.31s | 130.0 WPM
+  p2_clip_12 | [CHAPTER 6: A DUEL AND A GOODBYE] | 38w | 17.78s | 128.2 WPM
+  p2_clip_13 | [CHAPTER 6: A DUEL AND A GOODBYE] | 20w | 9.88s | 121.5 WPM
+  p2_clip_14 | [CHAPTER 6: A DUEL AND A GOODBYE] | 34w | 15.76s | 129.4 WPM
+  p2_clip_15 | [CHAPTER 6: A DUEL AND A GOODBYE] | 27w | 13.02s | 124.5 WPM
+  p2_clip_16 | [CHAPTER 6: A DUEL AND A GOODBYE] | 50w | 23.68s | 126.7 WPM
+  p2_clip_17 | [CHAPTER 7: ARMOR] | 26w | 12.02s | 129.8 WPM
+  p2_clip_18 | [CHAPTER 7: ARMOR] | 30w | 13.96s | 128.9 WPM
+  p2_clip_19 | [CHAPTER 7: ARMOR] | 17w | 8.16s | 124.9 WPM
+  p2_clip_20 | [CHAPTER 7: ARMOR] | 42w | 19.25s | 130.9 WPM
+  p2_clip_21 | [CHAPTER 7: ARMOR] | 33w | 15.31s | 129.3 WPM
+  p2_clip_22 | [CHAPTER 7: ARMOR] | 41w | 19.41s | 126.7 WPM
+  p2_clip_23 | [CHAPTER 7: ARMOR] | 40w | 18.43s | 130.2 WPM
+  p2_clip_24 | [CHAPTER 7: ARMOR] | 28w | 13.57s | 123.8 WPM

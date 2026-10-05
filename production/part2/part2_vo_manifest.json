@@ -1,0 +1,1014 @@
+{
+  "part": 2,
+  "title": "Part 2: The Wrath of Achilles",
+  "source_script": "production/script_approved.txt",
+  "source_script_sha256": "f5dd617da3dfe78ffb70a49a6efdb246a93e1990d352fc8335fe696eb9d72240",
+  "override_path": "production/part2/chapter7_vo_override.json",
+  "clip_count": 24,
+  "word_count": 776,
+  "total_duration_s": 364.599,
+  "total_minutes": 6.077,
+  "average_wpm": 127.7,
+  "target_wpm": 130.0,
+  "batch_diagnostics": {
+    "p2_narr_c4.mp3": {
+      "voice_id": "voice-00",
+      "lines": 6,
+      "words": 144,
+      "raw_batch_decoded_seconds_after_pretime": 56.453,
+      "estimated_preconform_wpm": 153.0
+    },
+    "p2_narr_c5.mp3": {
+      "voice_id": "voice-00",
+      "lines": 4,
+      "words": 93,
+      "raw_batch_decoded_seconds_after_pretime": 37.041,
+      "estimated_preconform_wpm": 150.6
+    },
+    "p2_narr_c6.mp3": {
+      "voice_id": "voice-00",
+      "lines": 6,
+      "words": 140,
+      "raw_batch_decoded_seconds_after_pretime": 57.042,
+      "estimated_preconform_wpm": 147.3
+    },
+    "p2_narr_c7.mp3": {
+      "voice_id": "voice-00",
+      "lines": 7,
+      "words": 222,
+      "raw_batch_decoded_seconds_after_pretime": 103.776,
+      "estimated_preconform_wpm": 128.4
+    },
+    "p2_v02_a.mp3": {
+      "voice_id": "voice-02",
+      "lines": 6,
+      "words": 61,
+      "raw_batch_decoded_seconds_after_pretime": 30.011,
+      "estimated_preconform_wpm": 122.0
+    },
+    "p2_v02_b.mp3": {
+      "voice_id": "voice-02",
+      "lines": 6,
+      "words": 57,
+      "raw_batch_decoded_seconds_after_pretime": 28.195,
+      "estimated_preconform_wpm": 121.3
+    },
+    "p2_v03.mp3": {
+      "voice_id": "voice-03",
+      "lines": 4,
+      "words": 34,
+      "raw_batch_decoded_seconds_after_pretime": 11.911,
+      "estimated_preconform_wpm": 171.3
+    },
+    "p2_v04.mp3": {
+      "voice_id": "voice-04",
+      "lines": 2,
+      "words": 25,
+      "raw_batch_decoded_seconds_after_pretime": 13.193,
+      "estimated_preconform_wpm": 113.7
+    }
+  },
+  "clips": [
+    {
+      "clip_id": "p2_clip_01",
+      "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+      "file_path": "production/part2/vo/p2_clip_01.mp3",
+      "duration_s": 16.636,
+      "words": 35,
+      "wpm": 126.2,
+      "segments": [
+        {
+          "line_index": 0,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "By Homer's count, close to twelve hundred ships crossed the Aegean. According to tradition, the first man to step ashore was destined to die.",
+          "words": 24,
+          "t_start": 0.12,
+          "t_end": 11.019,
+          "duration_s": 10.899,
+          "speech_wpm": 132.1,
+          "raw_batch": "p2_narr_c4.mp3"
+        },
+        {
+          "line_index": 1,
+          "subline_index": 1,
+          "speaker": "PROTESILAUS",
+          "voice_id": "voice-02",
+          "text": "Someone has to be first.",
+          "words": 5,
+          "t_start": 11.219,
+          "t_end": 13.489,
+          "duration_s": 2.27,
+          "speech_wpm": 132.2,
+          "raw_batch": "p2_v02_a.mp3"
+        },
+        {
+          "line_index": 2,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "He was dead within the hour.",
+          "words": 6,
+          "t_start": 13.689,
+          "t_end": 16.436,
+          "duration_s": 2.747,
+          "speech_wpm": 131.0,
+          "raw_batch": "p2_narr_c4.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 16.636,
+      "audio_peak_dbfs": -2.77,
+      "audio_rms_dbfs": -19.06,
+      "file_bytes": 334604,
+      "file_sha256": "beaeb98a32e7e370368403d0115148002f45af4ecfeff7d201b51e4f82bf7b0e"
+    },
+    {
+      "clip_id": "p2_clip_02",
+      "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+      "file_path": "production/part2/vo/p2_clip_02.mp3",
+      "duration_s": 15.967,
+      "words": 34,
+      "wpm": 127.8,
+      "segments": [
+        {
+          "line_index": 3,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Early on, another leader, Philoctetes, was bitten by a snake. The wound smelled so foul that the army abandoned him on the island of Lemnos, along with his bow.",
+          "words": 29,
+          "t_start": 0.12,
+          "t_end": 13.283,
+          "duration_s": 13.163,
+          "speech_wpm": 132.2,
+          "raw_batch": "p2_narr_c4.mp3"
+        },
+        {
+          "line_index": 4,
+          "subline_index": 1,
+          "speaker": "PHILOCTETES",
+          "voice_id": "voice-02",
+          "text": "You can't leave me here!",
+          "words": 5,
+          "t_start": 13.483,
+          "t_end": 15.767,
+          "duration_s": 2.285,
+          "speech_wpm": 131.3,
+          "raw_batch": "p2_v02_a.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 15.967,
+      "audio_peak_dbfs": -2.26,
+      "audio_rms_dbfs": -19.01,
+      "file_bytes": 321164,
+      "file_sha256": "1fe061c84d946ea174b4094337989516198c16939d1676d0977db732595e4eff"
+    },
+    {
+      "clip_id": "p2_clip_03",
+      "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+      "file_path": "production/part2/vo/p2_clip_03.mp3",
+      "duration_s": 13.35,
+      "words": 28,
+      "wpm": 125.8,
+      "segments": [
+        {
+          "line_index": 5,
+          "subline_index": 1,
+          "speaker": "ODYSSEUS",
+          "voice_id": "voice-02",
+          "text": "Your wound is too foul for the camp. We'll send for you.",
+          "words": 12,
+          "t_start": 0.12,
+          "t_end": 5.482,
+          "duration_s": 5.362,
+          "speech_wpm": 134.3,
+          "raw_batch": "p2_v02_a.mp3"
+        },
+        {
+          "line_index": 6,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "That bow had belonged to Heracles. They would regret leaving it.",
+          "words": 11,
+          "t_start": 5.682,
+          "t_end": 10.698,
+          "duration_s": 5.016,
+          "speech_wpm": 131.6,
+          "raw_batch": "p2_narr_c4.mp3"
+        },
+        {
+          "line_index": 7,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Then came the long middle.",
+          "words": 5,
+          "t_start": 10.898,
+          "t_end": 13.15,
+          "duration_s": 2.252,
+          "speech_wpm": 133.2,
+          "raw_batch": "p2_narr_c4.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 13.35,
+      "audio_peak_dbfs": -2.37,
+      "audio_rms_dbfs": -19.1,
+      "file_bytes": 268844,
+      "file_sha256": "229df86cb644aeb9e9aac12963581101a9234e81a4222dcba1a31577bbc8666b"
+    },
+    {
+      "clip_id": "p2_clip_04",
+      "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+      "file_path": "production/part2/vo/p2_clip_04.mp3",
+      "duration_s": 19.409,
+      "words": 42,
+      "wpm": 129.8,
+      "segments": [
+        {
+          "line_index": 7,
+          "subline_index": 2,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Troy's walls were said to have been raised by Poseidon and Apollo, who had been cheated of their payment by an earlier king, so at least two gods had a grudge against the city. The Greeks raided the surrounding land for years.",
+          "words": 42,
+          "t_start": 0.12,
+          "t_end": 19.209,
+          "duration_s": 19.089,
+          "speech_wpm": 132.0,
+          "raw_batch": "p2_narr_c4.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 19.409,
+      "audio_peak_dbfs": -4.17,
+      "audio_rms_dbfs": -18.94,
+      "file_bytes": 389804,
+      "file_sha256": "8230c840e5acfae545b4e154f45ab91fdf69908fbf7dc503c591c3634836e70a"
+    },
+    {
+      "clip_id": "p2_clip_05",
+      "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+      "file_path": "production/part2/vo/p2_clip_05.mp3",
+      "duration_s": 19.155,
+      "words": 41,
+      "wpm": 128.4,
+      "segments": [
+        {
+          "line_index": 8,
+          "subline_index": 1,
+          "speaker": "ACHILLES",
+          "voice_id": "voice-02",
+          "text": "A dozen cities by sea. Eleven more by land. And Troy's walls still stand.",
+          "words": 14,
+          "t_start": 0.12,
+          "t_end": 6.497,
+          "duration_s": 6.377,
+          "speech_wpm": 131.7,
+          "raw_batch": "p2_v02_a.mp3"
+        },
+        {
+          "line_index": 9,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Nine years of this. And then, in the tenth, it all nearly fell apart. Not because of Troy, but because of an argument in the Greek camp.",
+          "words": 27,
+          "t_start": 6.697,
+          "t_end": 18.955,
+          "duration_s": 12.258,
+          "speech_wpm": 132.2,
+          "raw_batch": "p2_narr_c4.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 19.155,
+      "audio_peak_dbfs": -2.97,
+      "audio_rms_dbfs": -18.98,
+      "file_bytes": 385004,
+      "file_sha256": "0e2a228bb910d79c5daedbb9de2f2f409f3afbf210c8002b3b2b24decf351b58"
+    },
+    {
+      "clip_id": "p2_clip_06",
+      "chapter": "[CHAPTER 5: THE ARGUMENT]",
+      "file_path": "production/part2/vo/p2_clip_06.mp3",
+      "duration_s": 15.476,
+      "words": 33,
+      "wpm": 127.9,
+      "segments": [
+        {
+          "line_index": 10,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "The Iliad does not open with a battle. It opens with a plague. Agamemnon had taken a captive girl, Chryseis, whose father served as a priest of Apollo.",
+          "words": 28,
+          "t_start": 0.12,
+          "t_end": 12.841,
+          "duration_s": 12.721,
+          "speech_wpm": 132.1,
+          "raw_batch": "p2_narr_c5.mp3"
+        },
+        {
+          "line_index": 11,
+          "subline_index": 1,
+          "speaker": "CHRYSES",
+          "voice_id": "voice-03",
+          "text": "Give me back my daughter.",
+          "words": 5,
+          "t_start": 13.041,
+          "t_end": 15.276,
+          "duration_s": 2.235,
+          "speech_wpm": 134.3,
+          "raw_batch": "p2_v03.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 15.476,
+      "audio_peak_dbfs": -2.64,
+      "audio_rms_dbfs": -19.01,
+      "file_bytes": 311084,
+      "file_sha256": "c90d44fa8de7dc7894e56092a891b08b1174d1c89b0d117f0f97583a1cea97e1"
+    },
+    {
+      "clip_id": "p2_clip_07",
+      "chapter": "[CHAPTER 5: THE ARGUMENT]",
+      "file_path": "production/part2/vo/p2_clip_07.mp3",
+      "duration_s": 19.76,
+      "words": 42,
+      "wpm": 127.5,
+      "segments": [
+        {
+          "line_index": 12,
+          "subline_index": 1,
+          "speaker": "AGAMEMNON",
+          "voice_id": "voice-03",
+          "text": "Leave my camp, old man, before I lose my patience.",
+          "words": 10,
+          "t_start": 0.12,
+          "t_end": 4.636,
+          "duration_s": 4.516,
+          "speech_wpm": 132.9,
+          "raw_batch": "p2_v03.mp3"
+        },
+        {
+          "line_index": 13,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "The priest prayed to his god, and Apollo's arrows fell on the Greek camp for nine days. Agamemnon finally gave in.",
+          "words": 21,
+          "t_start": 4.836,
+          "t_end": 14.372,
+          "duration_s": 9.536,
+          "speech_wpm": 132.1,
+          "raw_batch": "p2_narr_c5.mp3"
+        },
+        {
+          "line_index": 14,
+          "subline_index": 1,
+          "speaker": "AGAMEMNON",
+          "voice_id": "voice-03",
+          "text": "Fine. She goes home. But I'll take Briseis in her place.",
+          "words": 11,
+          "t_start": 14.572,
+          "t_end": 19.56,
+          "duration_s": 4.988,
+          "speech_wpm": 132.3,
+          "raw_batch": "p2_v03.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 19.76,
+      "audio_peak_dbfs": -2.0,
+      "audio_rms_dbfs": -19.02,
+      "file_bytes": 397004,
+      "file_sha256": "8acd675b385fc609466462aa9c539981f57a72c70b1d987d03c4c5459b39850d"
+    },
+    {
+      "clip_id": "p2_clip_08",
+      "chapter": "[CHAPTER 5: THE ARGUMENT]",
+      "file_path": "production/part2/vo/p2_clip_08.mp3",
+      "duration_s": 8.681,
+      "words": 18,
+      "wpm": 124.4,
+      "segments": [
+        {
+          "line_index": 15,
+          "subline_index": 1,
+          "speaker": "ACHILLES",
+          "voice_id": "voice-02",
+          "text": "After everything I've done for you? You'd take from me?",
+          "words": 10,
+          "t_start": 0.12,
+          "t_end": 4.663,
+          "duration_s": 4.543,
+          "speech_wpm": 132.1,
+          "raw_batch": "p2_v02_a.mp3"
+        },
+        {
+          "line_index": 16,
+          "subline_index": 1,
+          "speaker": "AGAMEMNON",
+          "voice_id": "voice-03",
+          "text": "I'm the king. I take what I choose.",
+          "words": 8,
+          "t_start": 4.863,
+          "t_end": 8.481,
+          "duration_s": 3.618,
+          "speech_wpm": 132.7,
+          "raw_batch": "p2_v03.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 8.681,
+      "audio_peak_dbfs": -1.43,
+      "audio_rms_dbfs": -19.13,
+      "file_bytes": 175244,
+      "file_sha256": "de2afe5c10339f748a31055c82753f88984f3ef65390a4c0bc4012234dc7ddad"
+    },
+    {
+      "clip_id": "p2_clip_09",
+      "chapter": "[CHAPTER 5: THE ARGUMENT]",
+      "file_path": "production/part2/vo/p2_clip_09.mp3",
+      "duration_s": 16.212,
+      "words": 35,
+      "wpm": 129.5,
+      "segments": [
+        {
+          "line_index": 17,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Achilles reached for his sword. Athena herself caught him by the hair, and he held back. But he left the field, and he sat in his tent, and he asked his mother for something terrible.",
+          "words": 35,
+          "t_start": 0.12,
+          "t_end": 16.012,
+          "duration_s": 15.892,
+          "speech_wpm": 132.1,
+          "raw_batch": "p2_narr_c5.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 16.212,
+      "audio_peak_dbfs": -3.42,
+      "audio_rms_dbfs": -18.95,
+      "file_bytes": 325964,
+      "file_sha256": "5ffb457393459cde574f7c222ad676dedd1c5eeb97d507d673d6e398fb26acf7"
+    },
+    {
+      "clip_id": "p2_clip_10",
+      "chapter": "[CHAPTER 5: THE ARGUMENT]",
+      "file_path": "production/part2/vo/p2_clip_10.mp3",
+      "duration_s": 11.418,
+      "words": 24,
+      "wpm": 126.1,
+      "segments": [
+        {
+          "line_index": 18,
+          "subline_index": 1,
+          "speaker": "ACHILLES",
+          "voice_id": "voice-02",
+          "text": "Mother, ask Zeus to let them lose. Let them find out what they owe me.",
+          "words": 15,
+          "t_start": 0.12,
+          "t_end": 6.934,
+          "duration_s": 6.814,
+          "speech_wpm": 132.1,
+          "raw_batch": "p2_v02_a.mp3"
+        },
+        {
+          "line_index": 19,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Zeus agreed. And the tide of the war turned.",
+          "words": 9,
+          "t_start": 7.134,
+          "t_end": 11.218,
+          "duration_s": 4.085,
+          "speech_wpm": 132.2,
+          "raw_batch": "p2_narr_c5.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 11.418,
+      "audio_peak_dbfs": -1.93,
+      "audio_rms_dbfs": -19.07,
+      "file_bytes": 229964,
+      "file_sha256": "9d3c8f5cf352b03714bf5618a388d0be795873e5f3e14f6e7b2a9894942aa34a"
+    },
+    {
+      "clip_id": "p2_clip_11",
+      "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+      "file_path": "production/part2/vo/p2_clip_11.mp3",
+      "duration_s": 8.31,
+      "words": 18,
+      "wpm": 130.0,
+      "segments": [
+        {
+          "line_index": 20,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "First, a pause. With the armies lined up, Paris and Menelaus agreed to settle everything in single combat.",
+          "words": 18,
+          "t_start": 0.12,
+          "t_end": 8.11,
+          "duration_s": 7.99,
+          "speech_wpm": 135.2,
+          "raw_batch": "p2_narr_c6.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 8.31,
+      "audio_peak_dbfs": -3.81,
+      "audio_rms_dbfs": -19.03,
+      "file_bytes": 168044,
+      "file_sha256": "bd060dca7461cbae21ee5bebfc947cfb778b01d65f044d43113b533fcebd38e6"
+    },
+    {
+      "clip_id": "p2_clip_12",
+      "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+      "file_path": "production/part2/vo/p2_clip_12.mp3",
+      "duration_s": 17.779,
+      "words": 38,
+      "wpm": 128.2,
+      "segments": [
+        {
+          "line_index": 20,
+          "subline_index": 2,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Winner takes Helen. Menelaus was winning, with one hand on Paris's helmet, when Aphrodite snapped the strap and swept Paris away in a mist. She set him down in his bedroom.",
+          "words": 31,
+          "t_start": 0.12,
+          "t_end": 14.192,
+          "duration_s": 14.072,
+          "speech_wpm": 132.2,
+          "raw_batch": "p2_narr_c6.mp3"
+        },
+        {
+          "line_index": 21,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Helen watched all this from the walls.",
+          "words": 7,
+          "t_start": 14.392,
+          "t_end": 17.579,
+          "duration_s": 3.186,
+          "speech_wpm": 131.8,
+          "raw_batch": "p2_narr_c6.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 17.779,
+      "audio_peak_dbfs": -1.93,
+      "audio_rms_dbfs": -18.99,
+      "file_bytes": 357164,
+      "file_sha256": "551e9fce2d976f3b470c728cfb64301cf9987387d919311ec137f03b28ed6e3c"
+    },
+    {
+      "clip_id": "p2_clip_13",
+      "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+      "file_path": "production/part2/vo/p2_clip_13.mp3",
+      "duration_s": 9.876,
+      "words": 20,
+      "wpm": 121.5,
+      "segments": [
+        {
+          "line_index": 22,
+          "subline_index": 1,
+          "speaker": "HELEN",
+          "voice_id": "voice-04",
+          "text": "So you're alive. I almost hoped the battle would end this.",
+          "words": 11,
+          "t_start": 0.12,
+          "t_end": 5.368,
+          "duration_s": 5.248,
+          "speech_wpm": 125.8,
+          "raw_batch": "p2_v04.mp3"
+        },
+        {
+          "line_index": 23,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "The truce collapsed anyway, and the fighting began again.",
+          "words": 9,
+          "t_start": 5.568,
+          "t_end": 9.676,
+          "duration_s": 4.108,
+          "speech_wpm": 131.5,
+          "raw_batch": "p2_narr_c6.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 9.876,
+      "audio_peak_dbfs": -1.98,
+      "audio_rms_dbfs": -19.1,
+      "file_bytes": 199244,
+      "file_sha256": "e537c483dba7f068df70251144921cb3a8107844bbb021fbf366ed588620c425"
+    },
+    {
+      "clip_id": "p2_clip_14",
+      "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+      "file_path": "production/part2/vo/p2_clip_14.mp3",
+      "duration_s": 15.76,
+      "words": 34,
+      "wpm": 129.4,
+      "segments": [
+        {
+          "line_index": 24,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Then comes the quietest scene in the whole poem. Hector, prince of Troy and its best fighter, walks back into the city to say goodbye to his wife, Andromache, and their baby son, Astyanax.",
+          "words": 34,
+          "t_start": 0.12,
+          "t_end": 15.56,
+          "duration_s": 15.44,
+          "speech_wpm": 132.1,
+          "raw_batch": "p2_narr_c6.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 15.76,
+      "audio_peak_dbfs": -1.78,
+      "audio_rms_dbfs": -18.95,
+      "file_bytes": 316844,
+      "file_sha256": "9c0148c1c1ed449c2b48301b3a9b2add6d71c8527a68920fd854e4b8c134cfd2"
+    },
+    {
+      "clip_id": "p2_clip_15",
+      "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+      "file_path": "production/part2/vo/p2_clip_15.mp3",
+      "duration_s": 13.017,
+      "words": 27,
+      "wpm": 124.5,
+      "segments": [
+        {
+          "line_index": 25,
+          "subline_index": 1,
+          "speaker": "ANDROMACHE",
+          "voice_id": "voice-04",
+          "text": "You are my husband, my father, my brothers. Please don't go back out there.",
+          "words": 14,
+          "t_start": 0.12,
+          "t_end": 6.703,
+          "duration_s": 6.583,
+          "speech_wpm": 127.6,
+          "raw_batch": "p2_v04.mp3"
+        },
+        {
+          "line_index": 26,
+          "subline_index": 1,
+          "speaker": "HECTOR",
+          "voice_id": "voice-02",
+          "text": "If I hide behind these walls, I could never face my own people.",
+          "words": 13,
+          "t_start": 6.903,
+          "t_end": 12.817,
+          "duration_s": 5.914,
+          "speech_wpm": 131.9,
+          "raw_batch": "p2_v02_b.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 13.017,
+      "audio_peak_dbfs": -1.46,
+      "audio_rms_dbfs": -19.04,
+      "file_bytes": 262124,
+      "file_sha256": "85a4f6106691e5ce58dfdd9ac68a3a826df673917201254853295fe7012e0116"
+    },
+    {
+      "clip_id": "p2_clip_16",
+      "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+      "file_path": "production/part2/vo/p2_clip_16.mp3",
+      "duration_s": 23.678,
+      "words": 50,
+      "wpm": 126.7,
+      "segments": [
+        {
+          "line_index": 27,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "He reaches for his boy, and the child screams. His father's helmet has a plume that looks like a monster. Hector laughs, lifts the helmet off, and sets it on the ground.",
+          "words": 32,
+          "t_start": 0.12,
+          "t_end": 14.65,
+          "duration_s": 14.53,
+          "speech_wpm": 132.1,
+          "raw_batch": "p2_narr_c6.mp3"
+        },
+        {
+          "line_index": 28,
+          "subline_index": 1,
+          "speaker": "HECTOR",
+          "voice_id": "voice-02",
+          "text": "May my son grow up better than his father.",
+          "words": 9,
+          "t_start": 14.85,
+          "t_end": 18.933,
+          "duration_s": 4.082,
+          "speech_wpm": 132.3,
+          "raw_batch": "p2_v02_b.mp3"
+        },
+        {
+          "line_index": 29,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Everyone listening knew how this was going to end.",
+          "words": 9,
+          "t_start": 19.133,
+          "t_end": 23.478,
+          "duration_s": 4.345,
+          "speech_wpm": 124.3,
+          "raw_batch": "p2_narr_c6.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 23.678,
+      "audio_peak_dbfs": -1.83,
+      "audio_rms_dbfs": -19.0,
+      "file_bytes": 475244,
+      "file_sha256": "9d979281fd48ec957601ccf910a770d002672fecd3b2d7ea60c75d0b3bced821"
+    },
+    {
+      "clip_id": "p2_clip_17",
+      "chapter": "[CHAPTER 7: ARMOR]",
+      "file_path": "production/part2/vo/p2_clip_17.mp3",
+      "duration_s": 12.019,
+      "words": 26,
+      "wpm": 129.8,
+      "segments": [
+        {
+          "line_index": 30,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Without Achilles, the Greeks were crushed. Agamemnon sent three envoys to beg him, with gifts, and Achilles refused. He said he was thinking of sailing home.",
+          "words": 26,
+          "t_start": 0.12,
+          "t_end": 11.819,
+          "duration_s": 11.699,
+          "speech_wpm": 133.3,
+          "raw_batch": "p2_narr_c7.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 12.019,
+      "audio_peak_dbfs": -1.16,
+      "audio_rms_dbfs": -18.99,
+      "file_bytes": 241964,
+      "file_sha256": "556cff382ba6d28b28148bbc31a7301b93d0c035cdda906e32f0ca14ede15c41"
+    },
+    {
+      "clip_id": "p2_clip_18",
+      "chapter": "[CHAPTER 7: ARMOR]",
+      "file_path": "production/part2/vo/p2_clip_18.mp3",
+      "duration_s": 13.963,
+      "words": 30,
+      "wpm": 128.9,
+      "segments": [
+        {
+          "line_index": 31,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Hector reached the beach. The first Greek ship caught fire. And Achilles's closest friend, Patroclus, could not watch any longer. He asked to wear Achilles's armor and lead his men.",
+          "words": 30,
+          "t_start": 0.12,
+          "t_end": 13.763,
+          "duration_s": 13.643,
+          "speech_wpm": 131.9,
+          "raw_batch": "p2_narr_c7.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 13.963,
+      "audio_peak_dbfs": -1.23,
+      "audio_rms_dbfs": -18.98,
+      "file_bytes": 280844,
+      "file_sha256": "0de6041a7f800965ce2c8825e5d5cf54638dc7e164fdd29fedcd0b9b3c5fade0"
+    },
+    {
+      "clip_id": "p2_clip_19",
+      "chapter": "[CHAPTER 7: ARMOR]",
+      "file_path": "production/part2/vo/p2_clip_19.mp3",
+      "duration_s": 8.164,
+      "words": 17,
+      "wpm": 124.9,
+      "segments": [
+        {
+          "line_index": 32,
+          "subline_index": 1,
+          "speaker": "ACHILLES",
+          "voice_id": "voice-02",
+          "text": "Drive them from the ships. Then come back. Do not chase them to the city.",
+          "words": 15,
+          "t_start": 0.12,
+          "t_end": 6.854,
+          "duration_s": 6.734,
+          "speech_wpm": 133.6,
+          "raw_batch": "p2_v02_b.mp3"
+        },
+        {
+          "line_index": 33,
+          "subline_index": 1,
+          "speaker": "PATROCLUS",
+          "voice_id": "voice-02",
+          "text": "I understand.",
+          "words": 2,
+          "t_start": 7.054,
+          "t_end": 7.964,
+          "duration_s": 0.909,
+          "speech_wpm": 132.0,
+          "raw_batch": "p2_v02_b.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 8.164,
+      "audio_peak_dbfs": -2.02,
+      "audio_rms_dbfs": -19.15,
+      "file_bytes": 165164,
+      "file_sha256": "fb8fce5b988aaf9dc498ab70861c548b5a369874b9416a3b51436bf62db619bc"
+    },
+    {
+      "clip_id": "p2_clip_20",
+      "chapter": "[CHAPTER 7: ARMOR]",
+      "file_path": "production/part2/vo/p2_clip_20.mp3",
+      "duration_s": 19.25,
+      "words": 42,
+      "wpm": 130.9,
+      "segments": [
+        {
+          "line_index": 34,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "He did not. Patroclus drove the Trojans to their own walls, and there Apollo knocked the helmet from his head. Patroclus fell in the battle, and Hector prevailed.",
+          "words": 28,
+          "t_start": 0.202,
+          "t_end": 12.209,
+          "duration_s": 12.007,
+          "speech_wpm": 139.9,
+          "raw_batch": "p2_narr_c7.mp3"
+        },
+        {
+          "line_index": 35,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "When Achilles heard, he lay on the ground and poured dust over his head.",
+          "words": 14,
+          "t_start": 12.545,
+          "t_end": 18.913,
+          "duration_s": 6.368,
+          "speech_wpm": 131.9,
+          "raw_batch": "p2_narr_c7.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 19.25,
+      "audio_peak_dbfs": -1.28,
+      "audio_rms_dbfs": -19.08,
+      "file_bytes": 386924,
+      "file_sha256": "a1112e91d205fd37f8ff263072aeb7dc4849f091f9c350ea04f8a4fc04fd66f7"
+    },
+    {
+      "clip_id": "p2_clip_21",
+      "chapter": "[CHAPTER 7: ARMOR]",
+      "file_path": "production/part2/vo/p2_clip_21.mp3",
+      "duration_s": 15.309,
+      "words": 33,
+      "wpm": 129.3,
+      "segments": [
+        {
+          "line_index": 35,
+          "subline_index": 2,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "His mother brought a new set of armor, made by the god Hephaestus, with a shield that showed the whole world on it. Achilles made peace with Agamemnon, and went to find Hector.",
+          "words": 33,
+          "t_start": 0.12,
+          "t_end": 15.109,
+          "duration_s": 14.989,
+          "speech_wpm": 132.1,
+          "raw_batch": "p2_narr_c7.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 15.309,
+      "audio_peak_dbfs": -1.28,
+      "audio_rms_dbfs": -18.96,
+      "file_bytes": 307724,
+      "file_sha256": "960d22156b2babf1e37d405795577b72d7cdbdd31573cbba16a45dbaf555ec3b"
+    },
+    {
+      "clip_id": "p2_clip_22",
+      "chapter": "[CHAPTER 7: ARMOR]",
+      "file_path": "production/part2/vo/p2_clip_22.mp3",
+      "duration_s": 19.41,
+      "words": 41,
+      "wpm": 126.7,
+      "segments": [
+        {
+          "line_index": 36,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "He drove the Trojans back in force. The river god Scamander, overwhelmed by the fighting, rose against him. Only fire from the gods turned him back. The Trojans fled into the city. All except Hector, who stood alone outside the gate.",
+          "words": 41,
+          "t_start": 0.12,
+          "t_end": 19.21,
+          "duration_s": 19.09,
+          "speech_wpm": 128.9,
+          "raw_batch": "p2_narr_c7.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 19.41,
+      "audio_peak_dbfs": -1.37,
+      "audio_rms_dbfs": -18.94,
+      "file_bytes": 389804,
+      "file_sha256": "774be9aca7f6b8ee0594cca25783ae8d6644b6ae4654a1c8fd606f9b587ad7d3"
+    },
+    {
+      "clip_id": "p2_clip_23",
+      "chapter": "[CHAPTER 7: ARMOR]",
+      "file_path": "production/part2/vo/p2_clip_23.mp3",
+      "duration_s": 18.429,
+      "words": 40,
+      "wpm": 130.2,
+      "segments": [
+        {
+          "line_index": 37,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Then his nerve broke. He ran. Achilles chased him around the walls again and again, until Athena, disguised as Hector's own brother, convinced him to turn and fight.",
+          "words": 28,
+          "t_start": 0.12,
+          "t_end": 12.585,
+          "duration_s": 12.465,
+          "speech_wpm": 134.8,
+          "raw_batch": "p2_narr_c7.mp3"
+        },
+        {
+          "line_index": 38,
+          "subline_index": 1,
+          "speaker": "HECTOR",
+          "voice_id": "voice-02",
+          "text": "If I lose, swear you'll give my body back to my family.",
+          "words": 12,
+          "t_start": 12.785,
+          "t_end": 18.229,
+          "duration_s": 5.444,
+          "speech_wpm": 132.3,
+          "raw_batch": "p2_v02_b.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 18.429,
+      "audio_peak_dbfs": -1.59,
+      "audio_rms_dbfs": -18.99,
+      "file_bytes": 370124,
+      "file_sha256": "43dc6ce046e7e6790cc652756debdae4605837d18efec6070afe147c8c0410b7"
+    },
+    {
+      "clip_id": "p2_clip_24",
+      "chapter": "[CHAPTER 7: ARMOR]",
+      "file_path": "production/part2/vo/p2_clip_24.mp3",
+      "duration_s": 13.571,
+      "words": 28,
+      "wpm": 123.8,
+      "segments": [
+        {
+          "line_index": 39,
+          "subline_index": 1,
+          "speaker": "ACHILLES",
+          "voice_id": "voice-02",
+          "text": "Lions don't make bargains with men.",
+          "words": 6,
+          "t_start": 0.12,
+          "t_end": 2.85,
+          "duration_s": 2.73,
+          "speech_wpm": 131.9,
+          "raw_batch": "p2_v02_b.mp3"
+        },
+        {
+          "line_index": 40,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Hector fell. In grief and fury, Achilles dragged the fallen hero behind his chariot around Patroclus's tomb every morning for twelve days.",
+          "words": 22,
+          "t_start": 3.05,
+          "t_end": 13.371,
+          "duration_s": 10.321,
+          "speech_wpm": 127.9,
+          "raw_batch": "p2_narr_c7.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 13.571,
+      "audio_peak_dbfs": -1.23,
+      "audio_rms_dbfs": -19.05,
+      "file_bytes": 273164,
+      "file_sha256": "ba5335138b8999180cbdce9d26dd1dd92470f53959a1ab892be99ad3c47aeb51"
+    }
+  ],
+  "qc_checks": {
+    "all_8_raw_batches_mapped": true,
+    "all_source_lines_covered": true,
+    "voice_text_matches_source_plus_approved_override": true,
+    "clip_count_matches_estimate": true,
+    "all_clip_paces_within_20_percent": true,
+    "all_segment_paces_within_20_percent": true,
+    "average_pace_within_20_percent": true
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "passed": true,
+  "checks": {
+    "all_8_raw_batches_mapped": true,
+    "all_source_lines_covered": true,
+    "voice_text_matches_source_plus_approved_override": true,
+    "clip_count_matches_estimate": true,
+    "all_clip_paces_within_20_percent": true,
+    "all_segment_paces_within_20_percent": true,
+    "average_pace_within_20_percent": true
+  },
+  "clip_count": 24,
+  "expected_clips": 24,
+  "word_count": 776,
+  "duration_seconds": 364.599,
+  "average_wpm": 127.7,
+  "batch_diagnostics": {
+    "p2_narr_c4.mp3": {
+      "voice_id": "voice-00",
+      "lines": 6,
+      "words": 144,
+      "raw_batch_decoded_seconds_after_pretime": 56.453,
+      "estimated_preconform_wpm": 153.0
+    },
+    "p2_narr_c5.mp3": {
+      "voice_id": "voice-00",
+      "lines": 4,
+      "words": 93,
+      "raw_batch_decoded_seconds_after_pretime": 37.041,
+      "estimated_preconform_wpm": 150.6
+    },
+    "p2_narr_c6.mp3": {
+      "voice_id": "voice-00",
+      "lines": 6,
+      "words": 140,
+      "raw_batch_decoded_seconds_after_pretime": 57.042,
+      "estimated_preconform_wpm": 147.3
+    },
+    "p2_narr_c7.mp3": {
+      "voice_id": "voice-00",
+      "lines": 7,
+      "words": 222,
+      "raw_batch_decoded_seconds_after_pretime": 103.776,
+      "estimated_preconform_wpm": 128.4
+    },
+    "p2_v02_a.mp3": {
+      "voice_id": "voice-02",
+      "lines": 6,
+      "words": 61,
+      "raw_batch_decoded_seconds_after_pretime": 30.011,
+      "estimated_preconform_wpm": 122.0
+    },
+    "p2_v02_b.mp3": {
+      "voice_id": "voice-02",
+      "lines": 6,
+      "words": 57,
+      "raw_batch_decoded_seconds_after_pretime": 28.195,
+      "estimated_preconform_wpm": 121.3
+    },
+    "p2_v03.mp3": {
+      "voice_id": "voice-03",
+      "lines": 4,
+      "words": 34,
+      "raw_batch_decoded_seconds_after_pretime": 11.911,
+      "estimated_preconform_wpm": 171.3
+    },
+    "p2_v04.mp3": {
+      "voice_id": "voice-04",
+      "lines": 2,
+      "words": 25,
+      "raw_batch_decoded_seconds_after_pretime": 13.193,
+      "estimated_preconform_wpm": 113.7
+    }
+  },
+  "clip_summary": [
+    {
+      "clip_id": "p2_clip_01",
+      "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+      "words": 35,
+      "duration_s": 16.636,
+      "wpm": 126.2
+    },
+    {
+      "clip_id": "p2_clip_02",
+      "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+      "words": 34,
+      "duration_s": 15.967,
+      "wpm": 127.8
+    },
+    {
+      "clip_id": "p2_clip_03",
+      "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+      "words": 28,
+      "duration_s": 13.35,
+      "wpm": 125.8
+    },
+    {
+      "clip_id": "p2_clip_04",
+      "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+      "words": 42,
+      "duration_s": 19.409,
+      "wpm": 129.8
+    },
+    {
+      "clip_id": "p2_clip_05",
+      "chapter": "[CHAPTER 4: NINE YEARS OF NOTHING]",
+      "words": 41,
+      "duration_s": 19.155,
+      "wpm": 128.4
+    },
+    {
+      "clip_id": "p2_clip_06",
+      "chapter": "[CHAPTER 5: THE ARGUMENT]",
+      "words": 33,
+      "duration_s": 15.476,
+      "wpm": 127.9
+    },
+    {
+      "clip_id": "p2_clip_07",
+      "chapter": "[CHAPTER 5: THE ARGUMENT]",
+      "words": 42,
+      "duration_s": 19.76,
+      "wpm": 127.5
+    },
+    {
+      "clip_id": "p2_clip_08",
+      "chapter": "[CHAPTER 5: THE ARGUMENT]",
+      "words": 18,
+      "duration_s": 8.681,
+      "wpm": 124.4
+    },
+    {
+      "clip_id": "p2_clip_09",
+      "chapter": "[CHAPTER 5: THE ARGUMENT]",
+      "words": 35,
+      "duration_s": 16.212,
+      "wpm": 129.5
+    },
+    {
+      "clip_id": "p2_clip_10",
+      "chapter": "[CHAPTER 5: THE ARGUMENT]",
+      "words": 24,
+      "duration_s": 11.418,
+      "wpm": 126.1
+    },
+    {
+      "clip_id": "p2_clip_11",
+      "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+      "words": 18,
+      "duration_s": 8.31,
+      "wpm": 130.0
+    },
+    {
+      "clip_id": "p2_clip_12",
+      "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+      "words": 38,
+      "duration_s": 17.779,
+      "wpm": 128.2
+    },
+    {
+      "clip_id": "p2_clip_13",
+      "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+      "words": 20,
+      "duration_s": 9.876,
+      "wpm": 121.5
+    },
+    {
+      "clip_id": "p2_clip_14",
+      "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+      "words": 34,
+      "duration_s": 15.76,
+      "wpm": 129.4
+    },
+    {
+      "clip_id": "p2_clip_15",
+      "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+      "words": 27,
+      "duration_s": 13.017,
+      "wpm": 124.5
+    },
+    {
+      "clip_id": "p2_clip_16",
+      "chapter": "[CHAPTER 6: A DUEL AND A GOODBYE]",
+      "words": 50,
+      "duration_s": 23.678,
+      "wpm": 126.7
+    },
+    {
+      "clip_id": "p2_clip_17",
+      "chapter": "[CHAPTER 7: ARMOR]",
+      "words": 26,
+      "duration_s": 12.019,
+      "wpm": 129.8
+    },
+    {
+      "clip_id": "p2_clip_18",
+      "chapter": "[CHAPTER 7: ARMOR]",
+      "words": 30,
+      "duration_s": 13.963,
+      "wpm": 128.9
+    },
+    {
+      "clip_id": "p2_clip_19",
+      "chapter": "[CHAPTER 7: ARMOR]",
+      "words": 17,
+      "duration_s": 8.164,
+      "wpm": 124.9
+    },
+    {
+      "clip_id": "p2_clip_20",
+      "chapter": "[CHAPTER 7: ARMOR]",
+      "words": 42,
+      "duration_s": 19.25,
+      "wpm": 130.9
+    },
+    {
+      "clip_id": "p2_clip_21",
+      "chapter": "[CHAPTER 7: ARMOR]",
+      "words": 33,
+      "duration_s": 15.309,
+      "wpm": 129.3
+    },
+    {
+      "clip_id": "p2_clip_22",
+      "chapter": "[CHAPTER 7: ARMOR]",
+      "words": 41,
+      "duration_s": 19.41,
+      "wpm": 126.7
+    },
+    {
+      "clip_id": "p2_clip_23",
+      "chapter": "[CHAPTER 7: ARMOR]",
+      "words": 40,
+      "duration_s": 18.429,
+      "wpm": 130.2
+    },
+    {
+      "clip_id": "p2_clip_24",
+      "chapter": "[CHAPTER 7: ARMOR]",
+      "words": 28,
+      "duration_s": 13.571,
+      "wpm": 123.8
+    }
+  ]
+}
