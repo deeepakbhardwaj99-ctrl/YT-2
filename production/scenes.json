@@ -8661,7 +8661,7 @@
             "empty command tent",
             "bronze helmet"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "AGAMEMNON",
@@ -8708,7 +8708,7 @@
             "empty command tent",
             "bronze helmet"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "AGAMEMNON",
@@ -8761,7 +8761,7 @@
             "empty command tent",
             "bronze helmet"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -8808,7 +8808,7 @@
             "empty command tent",
             "bronze helmet"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -8861,7 +8861,7 @@
             "empty command tent",
             "bronze helmet"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "AGAMEMNON",
@@ -8991,7 +8991,7 @@
             "sheathed sword",
             "tent entrance"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ACHILLES",
@@ -9038,7 +9038,7 @@
             "sheathed sword",
             "tent entrance"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ACHILLES",
@@ -9085,7 +9085,7 @@
             "sheathed sword",
             "tent entrance"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ACHILLES",
@@ -9138,7 +9138,7 @@
             "sheathed sword",
             "tent entrance"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "AGAMEMNON",
@@ -9185,7 +9185,7 @@
             "sheathed sword",
             "tent entrance"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "AGAMEMNON",

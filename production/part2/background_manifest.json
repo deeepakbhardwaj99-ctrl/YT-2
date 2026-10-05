@@ -729,10 +729,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Bronze Age command tent in the Greek camp, simple war standards, bronze weapons kept low and unobtrusive, tense torchlight. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "e96e8e8c39f196d7507a42f46fb76390697b6742ebc84bf75d9b9f00087680e6",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: torchlit interior of the Bronze Age command tent with a clear rug-and-earth staging area and camp visible through the openings; no people, readable markings or modern objects.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -750,10 +753,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Bronze Age command tent in the Greek camp, simple war standards, bronze weapons kept low and unobtrusive, tense torchlight. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "3e71eb179721ca67a1504748033afa0186c8293c02ec3cde402e4867b4959d99",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: wide dusk view across the Greek beach camp, command tent, standards and anchored ships; broad empty sand foreground, no people, text or modern objects.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -771,10 +777,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Bronze Age command tent in the Greek camp, simple war standards, bronze weapons kept low and unobtrusive, tense torchlight. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "8e17d10a97d02aff648e5af88a47831339476af18034c07068295b07a81dd5a6",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: establishing view from inside a tent toward the torchlit camp and Aegean ships; strong depth and open central ground, no people or text.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -792,10 +801,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Bronze Age command tent in the Greek camp, simple war standards, bronze weapons kept low and unobtrusive, tense torchlight. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "1d81c183ce9dff183920fd25c57e5f6a5c09d2f7011593e09909416d724089eb",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: oblique evening view along the camp tents, standards and shore; clear beach staging area, no people, readable markings or modern objects.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -813,10 +825,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Bronze Age command tent in the Greek camp, simple war standards, bronze weapons kept low and unobtrusive, tense torchlight. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; shift to softer evening light and a reverse-axis composition. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "79cc6952a321dbf62c5d4b0bc98495de738ca1475631a04215d4b0cda86936a8",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: frontal command-tent entrance with period-consistent table, supplies and bronze gear; open foreground, no people, text or modern objects.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -834,10 +849,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Interior of a large Greek command tent opening onto the Aegean camp, dramatic shafts of amber light, no figures. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "2ac2dfa199a7414bc4b2981ca592c46bb8c67b850039d8714c780b6c08cadea5",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: large tent interior frames a bright camp-and-coast vista with amber light; clear central sand staging, no figures, readable text or modern objects.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -855,10 +873,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Interior of a large Greek command tent opening onto the Aegean camp, dramatic shafts of amber light, no figures. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "d36b5b6c05f22b29f01cc3a20521656b4c5ce6f01b06d8213d82b5fff823c066",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: tent interior opens onto the Aegean camp and ships, with layered foreground gear and a broad clear beach; no figures or text.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -876,10 +897,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Interior of a large Greek command tent opening onto the Aegean camp, dramatic shafts of amber light, no figures. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "93c0785708ed775a7be699a928f879435859f97c21912a5f081d80e444713794",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: cross-axis tent interior with dramatic amber shafts, geometric trim and an empty carved chair; no figures, readable text or modern objects.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -897,10 +921,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Interior of a large Greek command tent opening onto the Aegean camp, dramatic shafts of amber light, no figures. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "5cc97c86f5714bc4c508eb39e571e4e43d333c672553566ea1197506ea1c7f66",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: empty carved chair and tent framing against the bright sea, with a clear open floor; period-styled geometric decoration only, no figures or text.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -918,10 +945,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Interior of a large Greek command tent opening onto the Aegean camp, dramatic shafts of amber light, no figures. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; shift to softer evening light and a reverse-axis composition. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "8b47167f29d6bfb48e398ec6b154e593c558098670fe4a6adfc902897164f652",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: low environmental view from the tent across the beach and ships in late amber light; clear foreground, no figures, text or modern objects.",
       "composition": {
         "view": "close environmental detail at ground level, no figures, visually distinct composition",
         "open_lower_third": true
@@ -2677,7 +2707,7 @@
   ],
   "schema_version": 1,
   "total_planned": 123,
-  "accepted": 30,
-  "pending": 93,
+  "accepted": 40,
+  "pending": 83,
   "note": "Part 2 background plates are planned from measured VO; accept only after individual visual review."
 }
