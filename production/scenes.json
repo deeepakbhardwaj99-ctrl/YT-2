@@ -10794,7 +10794,7 @@
             "courtyard path",
             "open lower ground"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",

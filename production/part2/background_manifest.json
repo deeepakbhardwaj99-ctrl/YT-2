@@ -1593,10 +1593,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for A sheltered inner courtyard near the Trojan gate, warm stone, olive branches and a quiet path from the walls. Detail composition: low side-angle along a weathered warm-limestone courtyard wall and irregular flagstone path beneath olive branches; restrained architectural focus and strong leading lines, with uncluttered open ground in the lower third. Keep the courtyard sheltered and quiet; match the approved loc_troy location-sheet palette and Bronze Age materials. Use only ancient stone, wood, clay and olive textures. No taps, faucets, pipes, spigots, drains, plumbing, metallic hardware or modern fixtures; no people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Candidate rejected during full-resolution visual review: a bronze-colored wall spout above a basin read as a modern faucet/pipe fixture. Candidate removed; slot remains pending. A stone-and-olive detail prompt excluding plumbing and fixtures is saved for reroll.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "3e75af1ccb101b03799b494df24b1a5c1083a7cea474e70d76f1452e4a0f1202",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed after corrective reroll: quiet flagstone path beneath olive branches beside warm stone walls, plain amphorae and timber shelter; no faucets, plumbing, modern fixtures, people or text.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -2794,7 +2797,7 @@
   ],
   "schema_version": 1,
   "total_planned": 123,
-  "accepted": 69,
-  "pending": 54,
+  "accepted": 70,
+  "pending": 53,
   "note": "Part 2 background plates are planned from measured VO; accept only after individual visual review."
 }
