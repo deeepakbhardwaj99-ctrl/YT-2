@@ -74,14 +74,14 @@ CHARACTER_ASSET_REQUIREMENTS = {
 
 def build_prompt(design: dict, shot_index: int, shot_type: str, view: str) -> str:
     unique_detail = [
-        "show a long uninterrupted shoreline and a distant fleet",
-        "frame the main architecture from an offset angle with clear negative space",
-        "focus on an unmarked symbolic prop integrated naturally into the setting",
-        "use foreground stone or scrub for depth without cluttering the lower third",
-        "shift to softer evening light and a distinct reverse composition",
-        "reveal the site from a raised oblique angle without duplicating earlier framing",
-        "use a restrained close environmental insert with a new focal object",
-        "finish on a distant reverse view with late-light depth and open ground",
+        "keep the shoreline clear and place only the setting's distant landmarks along the horizon",
+        "frame dominant architecture or landforms from an offset axis with open negative space",
+        "focus on surface texture and a small unmarked material detail belonging to this setting",
+        "use close ground-level geology or architecture for depth without cluttering the lower third",
+        "shift to softer evening light and a reverse composition without adding new props",
+        "reveal a raised oblique spatial layer distinct from prior frames; keep open staging ground",
+        "use a restrained environmental insert; do not invent objects that contradict the location",
+        "finish on a distant reverse view with atmospheric depth, changed light, and location continuity",
     ][(shot_index - 1) % len(SHOT_CYCLE)]
     return (
         f"One standalone 16:9 cinematic painterly-realistic HYBRID background for {design['theme']}. "
@@ -206,7 +206,7 @@ def main():
                 "sfx": "pop" if any(s["speaker"] != "NARRATOR" for s in overlapping) else ("whoosh" if shot_index == 2 else "arrow" if shot_index == 4 else "none"),
             }
             shots.append(shot)
-            if not plate_record:
+            if not plate_record or plate_record.get("qc_status") not in accepted_statuses:
                 planned_plates.append({
                     "clip_id": clip_id,
                     "shot_index": shot_index,
@@ -250,10 +250,13 @@ def main():
     global_scenes["part2_character_asset_requirements"] = CHARACTER_ASSET_REQUIREMENTS
     SCENES_PATH.write_text(json.dumps(global_scenes, indent=2, ensure_ascii=False) + "\n")
 
-    # Preserve already accepted records. Never reset or overwrite an accepted plate on regeneration.
+    # Refresh pending prompt metadata when the plan changes, but never reset or overwrite an accepted plate.
     by_key = {(p["clip_id"], p["shot_index"]): p for p in background_manifest.get("plates", [])}
     for record in planned_plates:
-        by_key.setdefault((record["clip_id"], record["shot_index"]), record)
+        key = (record["clip_id"], record["shot_index"])
+        if by_key.get(key, {}).get("qc_status") == "accepted":
+            continue
+        by_key[key] = record
     background_manifest.update({
         "part": 2,
         "schema_version": 1,
