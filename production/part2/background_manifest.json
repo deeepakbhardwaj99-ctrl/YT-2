@@ -489,10 +489,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Greek camp on the windy Aegean beach, orderly tents, beached ships and a long view toward distant Troy. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "f104708819f3720c033b728bdfa040a34ba39e339a88d1e32787d1e3d486778c",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: Greek beach camp, beached oared ships and distant Troy establish the location; clear foreground; no people or text.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -510,10 +513,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Greek camp on the windy Aegean beach, orderly tents, beached ships and a long view toward distant Troy. Medium composition: raised three-quarter view that reveals a new spatial layer and an unobstructed foreground; layer the environment around one restrained focal area; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1365,
+        768
+      ],
+      "sha256": "d7a578eeb2def0ed82aa956497cd422eef3aad8476f1f1b7308b3612db712331",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: raised, distinct view across the orderly tent-and-ship line; open central beach for character staging; no people or text.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -531,10 +537,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Greek camp on the windy Aegean beach, orderly tents, beached ships and a long view toward distant Troy. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "c90383b78f292abd4dc93c7877eba8624b94b473c1087f57c76b06be3365c26f",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: close environmental detail of unmarked shields, spears and camp-side gear; clear aisle, period-consistent and no people or lettering.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -552,10 +561,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Greek camp on the windy Aegean beach, orderly tents, beached ships and a long view toward distant Troy. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "fb53b238efb3288b34d22441739f24f32313b664e67aeae67271e055805ba90d",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: distant reverse view of coast, approach road and Troy; broad unobstructed plain; no people or text.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -573,10 +585,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Greek camp on the windy Aegean beach, orderly tents, beached ships and a long view toward distant Troy. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; shift to softer evening light and a reverse-axis composition. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "7ce4d6d120e8fcc12e7e64ebecb1e35e7c5f851ca1da5907101c1f263042ecbf",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: warm evening reverse angle of camp, ships and Troy; clear sandy foreground; no people or text.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -594,10 +609,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Greek camp under ominous skies, empty tents and extinguished braziers suggesting a plague; no people or bodies. Medium composition: raised three-quarter view that reveals a new spatial layer and an unobstructed foreground; layer the environment around one restrained focal area; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "25dda176bc95e3533cb2ab3ae031e9bb04f19f816c70f9b28b7e77b9cdccb637",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: empty Greek camp under ominous clouds, tents, ships and cold braziers evoke the plague without showing people or bodies.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -615,10 +633,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Greek camp under ominous skies, empty tents and extinguished braziers suggesting a plague; no people or bodies. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "940ace685fc1745a719f85e581a2a7896391c9d514247117a563703c79b32800",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: isolated tent and cold brazier with unmarked shield; moody light and open sand, no people, bodies or text.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -636,10 +657,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Greek camp under ominous skies, empty tents and extinguished braziers suggesting a plague; no people or bodies. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "b170848bb071ad9fd3f4b29b185975f12237c1b2bbd8e3e2422ac4fbec7007b9",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: broad storm-darkened reverse view of the empty coast camp; no people, bodies, writing or modern objects.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -657,10 +681,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Greek camp under ominous skies, empty tents and extinguished braziers suggesting a plague; no people or bodies. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "22a4775b8831cc3de0927bbeed28ed3ace227cc958950e70171f215e2b634c53",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: distinct late-light camp-and-ships view with stored equipment at the edge; no people, bodies or text.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -678,10 +705,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Greek camp under ominous skies, empty tents and extinguished braziers suggesting a plague; no people or bodies. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; shift to softer evening light and a reverse-axis composition. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "7383b3866a879c38aa1e9af69973a21843f7a13dd11a9fd3954601e56f30870d",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: panoramic tent line under dramatic storm clouds, with cold hearths and unmarked gear; no people, bodies or text.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -2647,7 +2677,7 @@
   ],
   "schema_version": 1,
   "total_planned": 123,
-  "accepted": 20,
-  "pending": 103,
+  "accepted": 30,
+  "pending": 93,
   "note": "Part 2 background plates are planned from measured VO; accept only after individual visual review."
 }

@@ -8041,7 +8041,7 @@
             "Greek ships",
             "camp tent line"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ACHILLES",
@@ -8086,7 +8086,7 @@
             "Greek ships",
             "camp tent line"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ACHILLES",
@@ -8139,7 +8139,7 @@
             "Greek ships",
             "camp tent line"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -8186,7 +8186,7 @@
             "Greek ships",
             "camp tent line"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -8233,7 +8233,7 @@
             "Greek ships",
             "camp tent line"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -8343,7 +8343,7 @@
             "camp tents",
             "unmarked altar"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -8391,7 +8391,7 @@
             "camp tents",
             "unmarked altar"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -8439,7 +8439,7 @@
             "camp tents",
             "unmarked altar"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -8487,7 +8487,7 @@
             "camp tents",
             "unmarked altar"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -8535,7 +8535,7 @@
             "camp tents",
             "unmarked altar"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
