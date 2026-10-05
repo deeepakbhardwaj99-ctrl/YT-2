@@ -21,6 +21,7 @@ Python dependencies are pinned in `requirements.txt`. `render_part1.py` uses sys
 - `qc_part1.py` checks the locked script/VO gate, stream format, frame count, duration/sync, full media decode, audio levels, motion gate, preview preservation, and GitHub single-file size target. It writes text and JSON reports alongside the export.
 - `process_part2_vo.py` reuses the eight saved raw Part 2 voice batches, applies only the approved Chapter 7 VO override, and writes 24 measured clip MP3s plus manifests/QC. Use `--dry-run` to inspect timing first; `--overwrite` is required to replace already-created clips.
 - `generate_part2_scene_plan.py` appends a VO-timed Part 2 motion plan to `production/scenes.json` without changing Part 1, and creates the separate pending-plate ledger at `production/part2/background_manifest.json`. It preserves accepted Part 2 plates if rerun; it does not generate backgrounds. `p2_clip_16` uses eight plates due to its 23.678-second duration.
+- `build_part2_character_contact.py` creates the labelled Step 3 contact grid from the existing approved character sheets and the five new Part 2 candidates. Check `production/part2/character_sheets/character_sheet_manifest.json`; do not use candidate sheets in scenes until approved.
 - `production/part2/part2_scene_plan_notes.md` records the shot-density decision and the Step 3 character-sheet approval gate. Do not generate Part 2 backgrounds before the new character assets are approved.
 
 ```sh
