@@ -4,3 +4,6 @@ __pycache__/
 *.audio.wav
 
 .venv/
+
+# scratch review copies (filename-banner verification artifacts)
+production/**/_review/

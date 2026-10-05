@@ -1,33 +1,25 @@
 {
-  "status": "part2_batch_12_almost_complete",
-  "accepted": 122,
+  "status": "part2_backgrounds_complete",
+  "accepted": 123,
   "total_planned": 123,
-  "pending": 1,
-  "completed_clips": "clips 01-22 complete; clip 23 complete (5/5); clip 24 accepted 4/5",
-  "next_batch": {
-    "batch_number": 12,
-    "clips": [
-      23,
-      24
-    ],
-    "plate_count": 10,
-    "accepted_this_batch": 9,
-    "outstanding": [
-      {
-        "action": "generate",
-        "path": "production/part2/backgrounds/p2_clip_24_bg_05.jpg",
-        "shot_type": "detail",
-        "reference": "production/assets/locations/loc_camp_ref.png",
-        "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for A quiet memorial mound near the Greek camp at dawn, an unmarked chariot track circling the tomb, no person or body. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; shift to softer evening light and a reverse-axis composition. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides."
-      }
-    ],
-    "is_final_plate_batch": true
-  },
+  "pending": 0,
+  "completed_clips": "clips 01-24 complete (p2_clip_16 8/8; all others 5/5)",
+  "next_batch": null,
   "notes": [
-    "Batch 12 is the final Part 2 plate batch. Nine of ten plates generated and accepted on 2026-10-05 (the turn hit the platform 10-image/turn limit, which also consumed one failed generation call).",
-    "All nine accepted plates were individually viewed; a review-round image mispairing was detected and corrected via filename-labeled re-verification — p2_clip_24_bg_01 is ACCEPTED (its earlier rejection was based on a mispaired return).",
-    "Only p2_clip_24_bg_05 remains; view it before marking accepted in background_manifest.json and scenes.json.",
-    "Reject and reroll (max 2) for text-like marks, lettering, glyphs, people, or modern objects.",
-    "After 123/123 the part moves to the Step 7 work order: part music stem, assemble + animate + render, motion QC, part QC checklist."
-  ]
+    "Batch 12 complete: 10/10 plates accepted (9 in the prior turn + p2_clip_24_bg_05 this turn).",
+    "All 123 unique Part 2 plates are accepted; backgrounds are full-render ready.",
+    "The final plate was viewed against a filename-banner copy with sky-band cross-checks; review-round image mispairing was detected and every verdict is label-verified.",
+    "Next: the Step 7 work order - part music stem, assemble + animate + render, motion QC, part QC checklist."
+  ],
+  "final_plate": {
+    "path": "production/part2/backgrounds/p2_clip_24_bg_05.jpg",
+    "shot_type": "detail",
+    "accepted": true,
+    "sha256": "0214f6f418a2329e4e2d0e4f5255f0e260b59744d80bc22fe2e0b3a4c356ba90",
+    "dimensions": [
+      1376,
+      768
+    ],
+    "accepted_on": "2026-10-05"
+  }
 }

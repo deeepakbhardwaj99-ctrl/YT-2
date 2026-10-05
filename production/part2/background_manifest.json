@@ -2937,10 +2937,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for A quiet memorial mound near the Greek camp at dawn, an unmarked chariot track circling the tomb, no person or body. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; shift to softer evening light and a reverse-axis composition. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Not yet generated: the platform's 10-image-per-turn limit was reached after nine plates of batch 12 (2026-10-05). Awaiting generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "0214f6f418a2329e4e2d0e4f5255f0e260b59744d80bc22fe2e0b3a4c356ba90",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed (filename-label verified): ground-level detail of the memorial mound's stone kerb with the unmarked chariot track curving through the sand under softer evening light, reverse-axis framing per plan; camp tents and citadel headland at left, beached ship masts at right. Foreground dark fragments inspected at 3x: abstract curved weathered scraps with no letterforms; kerb boulders inspected: plain, uncarved; mast and horizon area clear of figures. No people, bodies, text, logos, watermarks or modern objects. Batch 12 review-round image mispairing detected via banner labels; all verdicts label-verified. SHA-256 0214f6f418a2329e4e2d0e4f5255f0e260b59744d80bc22fe2e0b3a4c356ba90.",
       "composition": {
         "view": "close environmental detail at ground level, no figures, visually distinct composition",
         "open_lower_third": true
@@ -2953,7 +2956,7 @@
   ],
   "schema_version": 1,
   "total_planned": 123,
-  "accepted": 122,
-  "pending": 1,
-  "note": "Background batches 01-11 complete. 113/123 plates individually reviewed and accepted, 10 pending. Batch 11 covers clips 21-22 in full (10/10 plates accepted, 0 rerolls). Batches 05, 07 and 08 each included one corrective reroll. Each generated plate requires individual visual review before acceptance; 16:9 tolerance ~1376x768."
+  "accepted": 123,
+  "pending": 0,
+  "note": "All 13 background batches complete. 123/123 plates individually reviewed and accepted, 0 pending. Batch 12 covers clips 23-24 in full (10/10 plates accepted; 9 accepted in the prior turn when the platform 10-image/turn limit was hit, the final plate accepted this turn). Batches 05, 07 and 08 each included one corrective reroll. Each generated plate requires individual visual review before acceptance; 16:9 tolerance ~1376x768."
 }
