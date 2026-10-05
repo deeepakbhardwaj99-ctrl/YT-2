@@ -3,6 +3,7 @@ import math
 import os
 import subprocess
 import time
+from collections import OrderedDict
 import numpy as np
 from scipy.io import wavfile
 from PIL import Image, ImageDraw, ImageFont
@@ -58,7 +59,8 @@ class AssetCache:
     def __init__(self):
         with open("production/assets/rigs/char_anchors.json") as f:
             self.anchors = json.load(f)
-        self.bg_cache = {}
+        self.bg_cache = OrderedDict()
+        self.bg_cache_limit = 12
         self.base_pose_cache = {}
         self.sprite_cache = {}
         self.shadow_cache = {}
@@ -71,13 +73,17 @@ class AssetCache:
 
     def get_bg(self, path, dimmed=False):
         key = (path, dimmed)
-        if key not in self.bg_cache:
-            im = Image.open(path).convert("RGB").resize((2304, 1296), Image.Resampling.BILINEAR)
-            if dimmed:
-                arr = (np.asarray(im, dtype=np.uint16) * 56 // 100).astype(np.uint8)
-                im = Image.fromarray(arr, "RGB")
-            self.bg_cache[key] = im
-        return self.bg_cache[key]
+        if key in self.bg_cache:
+            self.bg_cache.move_to_end(key)
+            return self.bg_cache[key]
+        im = Image.open(path).convert("RGB").resize((2304, 1296), Image.Resampling.BILINEAR)
+        if dimmed:
+            arr = (np.asarray(im, dtype=np.uint16) * 56 // 100).astype(np.uint8)
+            im = Image.fromarray(arr, "RGB")
+        self.bg_cache[key] = im
+        while len(self.bg_cache) > self.bg_cache_limit:
+            self.bg_cache.popitem(last=False)
+        return im
 
     def _get_base_pose(self, char_name, pose="a"):
         key = (char_name, pose)
@@ -282,6 +288,57 @@ def draw_subtitle_bar(draw, text, seg_progress=0.0):
     draw.rounded_rectangle([bx0, by0 - 10, bx0 + tw + 48, by0 + th + 14], radius=10, fill=(14, 12, 10), outline=ACCENT_RGB, width=2)
     draw.multiline_text(((W - tw) // 2, by0), sub_txt, fill=(252, 246, 235), font=FONTS["sub"], align="center", spacing=6)
 
+def render_part_card_frames(cache, card_spec, duration_s, global_t_offset=0.0):
+    """Yield animated, standalone title or next-part card frames."""
+    n_frames = max(1, int(round(duration_s * FPS)))
+    bg_source = cache.get_bg(card_spec["bg_path"], dimmed=True)
+    title_font = get_font(FONT_SERIF, 62)
+    eyebrow_font = get_font(FONT_SANS, 25)
+    subtitle_font = get_font(FONT_SANS, 23)
+    dark = Image.new("RGB", (W, H), DARK_RGB)
+
+    for f_idx in range(n_frames):
+        progress = f_idx / max(1, n_frames - 1)
+        bg = sample_camera_bg(bg_source, card_spec.get("camera", "dolly-in"), progress)
+        fade_in = ease_out_cubic(progress / 0.12)
+        fade_out = ease_in_cubic((progress - 0.88) / 0.12)
+        opacity = max(0.0, min(1.0, fade_in * (1.0 - fade_out)))
+
+        layer = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+        draw = ImageDraw.Draw(layer)
+        border_alpha = int(235 * opacity)
+        panel_alpha = int(205 * opacity)
+        draw.rounded_rectangle(
+            [238, 305, 1682, 775], radius=18,
+            fill=(18, 15, 13, panel_alpha),
+            outline=(*ACCENT_RGB, border_alpha), width=4
+        )
+        center_x = W // 2
+        draw.text(
+            (center_x, 407), card_spec.get("eyebrow", "THE TROJAN WAR"),
+            anchor="mm", font=eyebrow_font, fill=(*ACCENT_RGB, int(255 * opacity))
+        )
+        draw.text(
+            (center_x, 525), card_spec["title"], anchor="mm", font=title_font,
+            fill=(*CREAM_RGB, int(255 * opacity))
+        )
+        line_half = int(115 * ease_out_cubic(progress))
+        draw.line(
+            (center_x - line_half, 588, center_x + line_half, 588),
+            fill=(*ACCENT_RGB, int(255 * opacity)), width=3
+        )
+        subtitle = card_spec.get("subtitle", "")
+        if subtitle:
+            draw.text(
+                (center_x, 664), subtitle, anchor="mm", font=subtitle_font,
+                fill=(*CREAM_RGB, int(230 * opacity))
+            )
+
+        frame = Image.alpha_composite(bg.convert("RGBA"), layer).convert("RGB")
+        if fade_out > 0.0:
+            frame = Image.blend(frame, dark, fade_out)
+        yield np.asarray(frame, dtype=np.uint8), global_t_offset + f_idx / float(FPS)
+
 def render_clip_frames(clip_plan, cache, global_t_offset=0.0):
     dur = clip_plan["duration_s"]
     n_frames = max(1, int(round(dur * FPS)))
@@ -398,16 +455,29 @@ def render_clip_frames(clip_plan, cache, global_t_offset=0.0):
         rgb_out = np.asarray(bg_im, dtype=np.uint8)
         yield rgb_out, t_global
 
-def mix_audio_for_clips(clip_plans, stem_mp3, out_wav):
+def mix_audio_for_clips(clip_plans, stem_mp3, out_wav, pad_start_s=0.0,
+                        pad_end_s=0.0, music_fade_out_s=0.0):
     vo_pieces = []
+    clip_sample_counts = []
     for cp in clip_plans:
         tmp = cp["file_path"] + ".tmp.wav"
         subprocess.run(["ffmpeg", "-y", "-i", cp["file_path"], "-ac", "1", "-ar", str(SR), tmp],
                        check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         _, data = wavfile.read(tmp)
         os.remove(tmp)
-        vo_pieces.append(data.astype(np.float32) / 32768.0)
+        target_samples = max(1, int(round(cp["duration_s"] * SR)))
+        data = data.astype(np.float32) / 32768.0
+        if len(data) > target_samples:
+            data = data[:target_samples]
+        elif len(data) < target_samples:
+            data = np.pad(data, (0, target_samples - len(data)))
+        vo_pieces.append(data)
+        clip_sample_counts.append(target_samples)
+
     vo_full = np.concatenate(vo_pieces)
+    pad_start_samples = max(0, int(round(pad_start_s * SR)))
+    pad_end_samples = max(0, int(round(pad_end_s * SR)))
+    vo_full = np.pad(vo_full, (pad_start_samples, pad_end_samples))
     total_samples = len(vo_full)
 
     tmp_m = stem_mp3 + ".tmp.wav"
@@ -416,17 +486,21 @@ def mix_audio_for_clips(clip_plans, stem_mp3, out_wav):
     _, m_data = wavfile.read(tmp_m)
     os.remove(tmp_m)
     m_flt = m_data.astype(np.float32) / 32768.0
+    if len(m_flt) == 0:
+        raise ValueError(f"Music stem contains no decoded samples: {stem_mp3}")
     if len(m_flt) < total_samples:
         reps = (total_samples // len(m_flt)) + 2
         m_flt = np.tile(m_flt, reps)
     m_flt = m_flt[:total_samples]
+    fade_samples = min(total_samples, max(0, int(round(music_fade_out_s * SR))))
+    if fade_samples > 1:
+        m_flt[-fade_samples:] *= np.linspace(1.0, 0.0, fade_samples, dtype=np.float32)
 
-    win = int(0.05 * SR)
-    vo_abs = np.abs(vo_full)
-    kernel = np.ones(win, dtype=np.float32) / win
-    vo_env = np.convolve(vo_abs, kernel, mode="same")
+    # Linear-time moving averages avoid the quadratic cost of np.convolve on a full-length feature.
+    from scipy.ndimage import uniform_filter1d
+    vo_env = uniform_filter1d(np.abs(vo_full), size=int(0.05 * SR), mode="nearest")
     duck_gain = np.where(vo_env > 0.015, 0.12, 0.24).astype(np.float32)
-    duck_smooth = np.convolve(duck_gain, np.ones(int(0.15 * SR)) / int(0.15 * SR), mode="same")
+    duck_smooth = uniform_filter1d(duck_gain, size=int(0.15 * SR), mode="nearest")
 
     sfx_track = np.zeros(total_samples, dtype=np.float32)
     sfx_map = {}
@@ -434,35 +508,45 @@ def mix_audio_for_clips(clip_plans, stem_mp3, out_wav):
         _, s_d = wavfile.read(f"production/sfx/{sname}.wav")
         sfx_map[sname] = s_d.astype(np.float32) / 32768.0
 
-    t_cursor = 0.0
-    for cp in clip_plans:
-        w_s = int((t_cursor + 0.55) * SR)
+    clip_cursor = pad_start_samples
+    for cp, clip_samples in zip(clip_plans, clip_sample_counts):
+        w_s = clip_cursor + int(0.55 * SR)
         w_a = sfx_map["whoosh"]
-        if w_s + len(w_a) < total_samples:
-            sfx_track[w_s:w_s+len(w_a)] += w_a * 0.35
-        a_s = int((t_cursor + 1.25) * SR)
+        if w_s + len(w_a) <= total_samples:
+            sfx_track[w_s:w_s + len(w_a)] += w_a * 0.35
+        a_s = clip_cursor + int(1.25 * SR)
         a_a = sfx_map["arrow"]
-        if a_s + len(a_a) < total_samples:
-            sfx_track[a_s:a_s+len(a_a)] += a_a * 0.30
+        if a_s + len(a_a) <= total_samples:
+            sfx_track[a_s:a_s + len(a_a)] += a_a * 0.30
         for seg in cp["vo_segments"]:
             if seg["speaker"] != "NARRATOR":
-                p_s = int((t_cursor + seg["t_start"]) * SR)
+                p_s = clip_cursor + int(round(seg["t_start"] * SR))
                 p_a = sfx_map["pop"]
-                if p_s + len(p_a) < total_samples:
-                    sfx_track[p_s:p_s+len(p_a)] += p_a * 0.45
-        t_cursor += cp["duration_s"]
+                if p_s + len(p_a) <= total_samples:
+                    sfx_track[p_s:p_s + len(p_a)] += p_a * 0.45
+        clip_cursor += clip_samples
 
     mix = vo_full + m_flt * duck_smooth + sfx_track
     peak = np.max(np.abs(mix)) + 1e-9
     mix = mix * min(1.0, 0.707 / peak)
     wavfile.write(out_wav, SR, (mix * 32767).astype(np.int16))
 
-def render_sequence_to_mp4(clip_plans, stem_mp3, out_mp4, report_path):
+def render_sequence_to_mp4(clip_plans, stem_mp3, out_mp4, report_path,
+                           title_card=None, end_card=None,
+                           title_duration_s=2.5, end_duration_s=2.5):
     missing = [sh["bg_path"] for cp in clip_plans for sh in cp["shots"]
                if sh.get("asset_status") != "accepted" or not os.path.isfile(sh["bg_path"])]
+    for card in (title_card, end_card):
+        if card and not os.path.isfile(card["bg_path"]):
+            missing.append(card["bg_path"])
     if missing:
         raise ValueError(f"Render blocked: {len(missing)} unaccepted/missing production backgrounds. "
                          "Generate and QC the plates; do not substitute reference crops.")
+    if not clip_plans:
+        raise ValueError("Render blocked: the clip sequence is empty.")
+
+    os.makedirs(os.path.dirname(out_mp4) or ".", exist_ok=True)
+    os.makedirs(os.path.dirname(report_path) or ".", exist_ok=True)
     t0 = time.time()
     cache = AssetCache()
     tmp_wav = out_mp4 + ".audio.wav"
@@ -472,7 +556,22 @@ def render_sequence_to_mp4(clip_plans, stem_mp3, out_mp4, report_path):
     for cp in clip_plans:
         cp["file_path"] = vo_man[cp["clip_id"]]["file_path"]
 
-    mix_audio_for_clips(clip_plans, stem_mp3, tmp_wav)
+    title_frames = int(round(title_duration_s * FPS)) if title_card else 0
+    end_frames = int(round(end_duration_s * FPS)) if end_card else 0
+    title_duration = title_frames / float(FPS)
+    end_duration = end_frames / float(FPS)
+    samples_per_frame = SR // FPS
+    voice_samples = sum(max(1, int(round(cp["duration_s"] * SR))) for cp in clip_plans)
+    clip_video_frames = sum(max(1, int(round(cp["duration_s"] * FPS))) for cp in clip_plans)
+    clip_video_samples = clip_video_frames * samples_per_frame
+    frame_rounding_tail_samples = max(0, clip_video_samples - voice_samples)
+    end_audio_samples = end_frames * samples_per_frame + frame_rounding_tail_samples
+    mix_audio_for_clips(
+        clip_plans, stem_mp3, tmp_wav,
+        pad_start_s=title_duration,
+        pad_end_s=end_audio_samples / float(SR),
+        music_fade_out_s=min(1.25, end_duration) if end_card else 0.0
+    )
 
     cmd = [
         "ffmpeg", "-y",
@@ -488,17 +587,37 @@ def render_sequence_to_mp4(clip_plans, stem_mp3, out_mp4, report_path):
 
     prev_small = None
     frame_diffs = []
-    t_offset = 0.0
-    for cp in clip_plans:
-        for frame, t_glob in render_clip_frames(cp, cache, t_offset):
-            proc.stdin.write(frame.tobytes())
-            # Downsampled 8x grid for super-fast frame-to-frame motion diff computation
-            cur_small = frame[::8, ::8, :].astype(np.int16)
-            if prev_small is not None:
-                diff = float(np.mean(np.abs(cur_small - prev_small)))
-                frame_diffs.append((round(t_glob, 3), round(diff, 3)))
-            prev_small = cur_small
-        t_offset += cp["duration_s"]
+
+    def emit_frame(frame, t_global):
+        nonlocal prev_small
+        proc.stdin.write(frame.tobytes())
+        # Downsampled 8x grid for quick frame-to-frame motion-diff measurement.
+        cur_small = frame[::8, ::8, :].astype(np.int16)
+        if prev_small is not None:
+            diff = float(np.mean(np.abs(cur_small - prev_small)))
+            frame_diffs.append((round(t_global, 3), round(diff, 3)))
+        prev_small = cur_small
+
+    video_frames = 0
+    if title_card:
+        print(f"Rendering opening title card ({title_duration:.2f}s)...", flush=True)
+        for frame, t_global in render_part_card_frames(cache, title_card, title_duration, 0.0):
+            emit_frame(frame, t_global)
+            video_frames += 1
+
+    for clip_index, cp in enumerate(clip_plans, start=1):
+        print(f"Rendering clip {clip_index:02d}/{len(clip_plans):02d}: {cp['clip_id']}...", flush=True)
+        t_offset = video_frames / float(FPS)
+        for frame, t_global in render_clip_frames(cp, cache, t_offset):
+            emit_frame(frame, t_global)
+            video_frames += 1
+
+    if end_card:
+        print(f"Rendering Part II tease card ({end_duration:.2f}s)...", flush=True)
+        t_offset = video_frames / float(FPS)
+        for frame, t_global in render_part_card_frames(cache, end_card, end_duration, t_offset):
+            emit_frame(frame, t_global)
+            video_frames += 1
 
     proc.stdin.close()
     returncode = proc.wait()
@@ -506,6 +625,7 @@ def render_sequence_to_mp4(clip_plans, stem_mp3, out_mp4, report_path):
         raise RuntimeError(f"ffmpeg failed with exit code {returncode}; output not accepted")
     os.remove(tmp_wav)
 
+    total_duration = video_frames / float(FPS)
     frozen_run = 0
     max_frozen_run = 0
     for _, d in frame_diffs:
@@ -522,7 +642,9 @@ def render_sequence_to_mp4(clip_plans, stem_mp3, out_mp4, report_path):
 
     with open(report_path, "w") as f:
         f.write(f"MOTION QC REPORT — {os.path.basename(out_mp4)}\n")
-        f.write(f"Total Frames: {len(frame_diffs) + 1} ({t_offset:.2f}s @ {FPS} fps) | Render Time: {elapsed:.1f}s ({t_offset/max(0.1,elapsed):.1f}x realtime)\n")
+        f.write(f"Title card: {title_duration:.2f}s | Main sequence: {clip_video_frames / float(FPS):.2f}s | Tease card: {end_duration:.2f}s\n")
+        f.write(f"VO audio: {voice_samples / float(SR):.3f}s; frame-rounding tail pad: {frame_rounding_tail_samples / float(SR):.3f}s\n")
+        f.write(f"Total Frames: {video_frames} ({total_duration:.2f}s @ {FPS} fps) | Render Time: {elapsed:.1f}s ({total_duration/max(0.1,elapsed):.1f}x realtime)\n")
         f.write(f"Mean Frame-to-Frame Diff: {mean_diff:.3f} RGB levels/channel (Min: {min_diff:.3f}, Max: {max_diff:.3f})\n")
         f.write(f"Max Near-Zero Motion Stretch (<0.25 diff): {max_frozen_s:.2f}s (Hard Gate: <= 2.00s) -> {'PASS' if max_frozen_s <= 2.0 else 'FAIL'}\n\n")
         f.write("Sampled 1-Second Frame-Diff Curve:\n")
@@ -531,16 +653,10 @@ def render_sequence_to_mp4(clip_plans, stem_mp3, out_mp4, report_path):
             bar = "#" * min(40, int(d_v * 6))
             f.write(f"  t={t_s:6.2f}s | diff={d_v:6.3f} | {bar}\n")
 
-    print(f"Rendered {out_mp4} ({t_offset:.2f}s in {elapsed:.1f}s = {t_offset/max(0.1,elapsed):.1f}x realtime) | Mean diff={mean_diff:.3f} | Max frozen={max_frozen_s:.2f}s ({'PASS' if max_frozen_s <= 2.0 else 'FAIL'})")
+    print(f"Rendered {out_mp4} ({total_duration:.2f}s in {elapsed:.1f}s = {total_duration/max(0.1,elapsed):.1f}x realtime) | Mean diff={mean_diff:.3f} | Max frozen={max_frozen_s:.2f}s ({'PASS' if max_frozen_s <= 2.0 else 'FAIL'})")
 
 if __name__ == "__main__":
-    with open("production/scenes.json") as f:
-        scenes = json.load(f)
-    # Render Step 6B.7 First Assembled Animated Scene Preview (~38s: Clip 1 + Clip 5 so user sees Cold Open + Mascot/Eris dialogue bubbles!)
-    preview_clips = [scenes["part1_clips"][0], scenes["part1_clips"][4]]
-    render_sequence_to_mp4(
-        preview_clips,
-        "production/music/part1_stem.mp3",
-        "production/part1/scene_01_preview.mp4",
-        "production/part1/scene_01_motion_report.txt"
+    raise SystemExit(
+        "assemble.py is the renderer module, not a standalone preview command. "
+        "Use tools/render_part1.py for the complete Part 1 export; the approved preview is preserved."
     )

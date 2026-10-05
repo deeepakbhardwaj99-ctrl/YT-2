@@ -1,0 +1,22 @@
+PART 1 DELIVERY QC — PASS
+Video: production/part1/part1_full.mp4 (73.21 MiB)
+Duration: video 411.709s | decoded audio 411.733s | expected 411.708s
+Picture: h264 1920x1080 @ 24.000 fps, 9881 frames
+Sound: aac 24000 Hz, 1 channel(s), peak -3.02 dBFS, RMS -20.99 dBFS
+
+Checks:
+  PASS  locked script and vo unchanged
+  PASS  all 125 backgrounds accepted
+  PASS  25 clips in export
+  PASS  h264 1080p video
+  PASS  24 fps
+  PASS  expected video frame count
+  PASS  video duration within tolerance
+  PASS  audio present aac mono 24khz
+  PASS  audio duration within tolerance
+  PASS  audio not silent
+  PASS  audio not clipped
+  PASS  full audio video decode
+  PASS  motion gate passed
+  PASS  approved preview unchanged
+  PASS  under 99mb single file push target

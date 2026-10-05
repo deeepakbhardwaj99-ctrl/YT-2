@@ -3,7 +3,15 @@
 **Repo:** `deeepakbhardwaj99-ctrl/YT-2` · **Branch:** `arena/01a1063f-yt-2`
 **Recovered checkpoint:** `origin/arena/01a1032c-yt-2` at `774100f` (2026-10-04); accepted assets and recorded approvals are reused, not regenerated.
 **Locked VO source:** `production/script_approved.txt` is byte-identical to the supplied script. The separate retention draft is not the VO source; no script/VO edits are being introduced.
-**Part 1 background progress:** 125/125 unique plates accepted; all clips 01–25 are complete. Next: Part 1 assembly, animation, render, and QC (install `ffmpeg`/`ffprobe` first).
+**Part 1 status:** Complete — 125/125 accepted plates, all 25 clips assembled, rendered, and QC-passed. The full export and QC reports are saved under `production/part1/`. The approved preview and locked script/VO are unchanged.
+## Current session — 2026-10-05
+- Added a separate complete-Part-1 renderer at `tools/render_part1.py` (all 25 clips, animated 2.5-second opening title and Part II tease). It writes `production/part1/part1_full.mp4` and does not overwrite the approved clip 01 + 05 preview.
+- Added exact per-clip VO sample trimming/padding against the locked timeline, frame-rounding audio tail compensation, a bounded background cache, and a music fade on the teaser card. Approved script text and VO segment records remain untouched.
+- Added full-export QC tooling at `tools/qc_part1.py` and refreshed setup/assembly notes. FFmpeg 7.0.2 and FFprobe 4.0.2 are available locally in the ignored `.venv`.
+- Full Part 1 export: `production/part1/part1_full.mp4` (25 clips + opening title/Part II tease, 1920×1080, 24 fps H.264/AAC, 411.71s, 73.21 MiB). Motion report: `production/part1/part1_motion_report.txt` (mean frame diff 4.560; max near-zero-motion stretch 0.00s — PASS).
+- Delivery QC: `production/part1/part1_qc_report.txt` and `.json` — PASS. Full audio/video decode succeeded; 9,881 frames; decoded audio 411.733s vs 411.708s expected; peak −3.02 dBFS; audio RMS −20.99 dBFS; preview unchanged; output remains below GitHub's single-file size limit.
+- Locked script, VO segments, accepted assets and approved preview were preserved. Part 1 is delivered; Step 7–8 remains open for Parts 2–4 and the master MP4.
+
 **Format:** 16:9 (1920×1080) · **Target Pace:** ~130 wpm · **Parts:** 4 parts (~23.40 min total, 92 clips)
 **Style Mode:** `HYBRID` (2D cartoon rigged characters + AI-generated painterly-realistic Bronze Age environments, no people/text in backgrounds)
 **Motion:** `FULL ANIMATION` · **Preset:** `A — LIVELY EXPLAINER` (speech bubbles, callout cards, word pops, hops/pose swaps, 2s max static gate)
