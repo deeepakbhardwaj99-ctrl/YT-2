@@ -74,18 +74,24 @@ CHARACTER_ASSET_REQUIREMENTS = {
 
 def build_prompt(design: dict, shot_index: int, shot_type: str, view: str) -> str:
     unique_detail = [
-        "keep the shoreline clear and place only the setting's distant landmarks along the horizon",
-        "frame dominant architecture or landforms from an offset axis with open negative space",
-        "focus on surface texture and a small unmarked material detail belonging to this setting",
-        "use close ground-level geology or architecture for depth without cluttering the lower third",
-        "shift to softer evening light and a reverse composition without adding new props",
-        "reveal a raised oblique spatial layer distinct from prior frames; keep open staging ground",
-        "use a restrained environmental insert; do not invent objects that contradict the location",
-        "finish on a distant reverse view with atmospheric depth, changed light, and location continuity",
+        "keep the horizon clear and place only landmarks from the named setting in the distance",
+        "use strong foreground-to-background separation and generous open staging ground",
+        "emphasize weathering and materials already appropriate to this environment; invent no props",
+        "use natural leading lines to guide the eye through a clear, subject-free landscape",
+        "shift to softer evening light and a reverse-axis composition",
+        "add a raised spatial layer without introducing structures absent from the location reference",
+        "place the setting's main environmental feature in a distinct part of the composition",
+        "use atmospheric depth and late light while preserving location continuity",
     ][(shot_index - 1) % len(SHOT_CYCLE)]
+    focus = {
+        "establishing": "show a broad, readable vista and an open lower-third foreground",
+        "wide": "keep the major geography visible with generous negative space",
+        "medium": "layer the environment around one restrained focal area",
+        "detail": "frame an environmental surface or architectural detail without clutter",
+    }[shot_type]
     return (
         f"One standalone 16:9 cinematic painterly-realistic HYBRID background for {design['theme']}. "
-        f"{shot_type.capitalize()} composition: {view}; {unique_detail}. Match the approved "
+        f"{shot_type.capitalize()} composition: {view}; {focus}; {unique_detail}. Match the approved "
         f"{design.get('reference', design['location'])} location-sheet palette and Bronze Age materials. "
         "Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground "
         "in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, "
