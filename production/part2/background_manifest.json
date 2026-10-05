@@ -2481,10 +2481,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Quiet Greek camp after battle, new bronze armor and an ornate round shield resting under warm lamplight. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "15c8ae7a3cb07d51788e662b0a4c734e933bfba419728861bdac38ac82065975",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: dusk establishing of the quiet camp with the newly forged bronze armour and panoply raised on a timber stand under a warm lamp, tents, palisade, grounded ships and the citadel on the cliff; open sand staging ground; no people or text. The round shield face was cropped and enlarged to 5x: it is a sunburst of beaded relief lines and geometric wedge segments with no letterforms or numerals, so it satisfies the no-text lock as abstract ornament.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -2502,10 +2505,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Quiet Greek camp after battle, new bronze armor and an ornate round shield resting under warm lamplight. Medium composition: raised three-quarter view that reveals a new spatial layer and an unobstructed foreground; layer the environment around one restrained focal area; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "5e1b74aa2d45d6561feb054f40c51176c2bd13621e237abdcf5151af502910c8",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: raised three-quarter view centred on the bronze shield and suspended armour on their timber frame, with a bronze cup and lamp on the sand; the shield is plain concentric ribs and rivets with no engraving or lettering; strong foreground-to-background separation; no people or text.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -2523,10 +2529,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Quiet Greek camp after battle, new bronze armor and an ornate round shield resting under warm lamplight. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "95684f9f649b5177b46d8e84f6c2d0cd2cdf34f18eb3c7b3948aed9253ed1c9c",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: ground-level detail of the shield rim and boss with rivets beside the armour stand's legs and strapping on packed sand; metal plain and unadorned; no people or text.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -2544,10 +2553,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Quiet Greek camp after battle, new bronze armor and an ornate round shield resting under warm lamplight. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "1914df559e9a1593a5f56fb5c71e09c5c9b4bdd79d4df680346d993dc0264ed8",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: distant reverse wide of the sleeping camp \u2014 tent rows, palisade, grounded ships and the citadel under a violet dusk sky with the armour stand small in the middle distance; atmospheric haze and generous negative space; no people or text.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -2565,10 +2577,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Quiet Greek camp after battle, new bronze armor and an ornate round shield resting under warm lamplight. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; shift to softer evening light and a reverse-axis composition. Match the approved loc_camp location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "0f3aad2dd3db81eae95a79907736d34fb909dd2f355bfea2be054273802c3f1f",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: panoramic reverse-axis establishing of the camp shoreline in softer evening light, with the armoured stand lit on the dune above the curved bay and the citadel's tower at the frame edge; low horizon and clear empty foreground; no people or text.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -2586,10 +2601,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Ancient river Scamander beside the Trojan plain, high water and foaming currents, firelit cloud reflections, no bodies or figures. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "1dd984771ec782509700a6f12ca370efba222237d9ac0c54a8d67dcca163df55",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: establishing panorama of the swollen Scamander in spate \u2014 foaming currents over submerged rocks, firelit cloud reflections glowing on the water and smoke hanging over the plain, with the Trojan wall and a distant blaze at the right; no bodies, no figures; no people or text.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -2607,10 +2625,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Ancient river Scamander beside the Trojan plain, high water and foaming currents, firelit cloud reflections, no bodies or figures. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "17b79e41bade1ee9fd24b862304f276191142f4d37f5a704a18cf4a63b611fa2",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: distant reverse wide of the river winding across the Trojan plain with drifting smoke and the walls on their rise. Two ambiguous dark shapes were cropped and enlarged to 5x \u2014 one resolves as water ripples and glare on the channel, the other as a submerged driftwood branch in the current; neither is a figure, body or lettering; no people or text.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -2628,10 +2649,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Ancient river Scamander beside the Trojan plain, high water and foaming currents, firelit cloud reflections, no bodies or figures. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "bc5da26701b47ff254d2f6b28f45b169a0bde042ac99bf99f10d851652794cd1",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: ground-level insert of whitewater breaking over smooth river stones with a driftwood branch sweeping through the current below sunset cloud reflections, walls faint beyond; strong foreground-to-background separation; no people or text.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -2649,10 +2673,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Ancient river Scamander beside the Trojan plain, high water and foaming currents, firelit cloud reflections, no bodies or figures. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and an open lower-third foreground; use natural leading lines to guide the eye through a clear, subject-free landscape. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "22a9dc5620783e7fc43ce9dc2a707be4ce76840d18c3fd46f30ff3a378d204ee",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: panoramic dusk view of the pale plain to the river with low scrub, scattered stones and a band of fire-glow along the horizon clouds; natural leading lines and clear empty foreground; no people or text.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -2670,10 +2697,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 cinematic painterly-realistic HYBRID background for Ancient river Scamander beside the Trojan plain, high water and foaming currents, firelit cloud reflections, no bodies or figures. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; shift to softer evening light and a reverse-axis composition. Match the approved loc_troy location-sheet palette and Bronze Age materials. Warm ochre, weathered stone, bronze and deep sea blues; soft atmospheric depth; level open ground in the lower third for later 2D character cutouts. No people, faces, silhouettes, bodies, text, letters, numbers, inscriptions, logos, watermarks, modern objects, or layout guides.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review; backgrounds must contain no people or text.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "7b1701a6c38f9c31db4d9ecc828c6cfd4110c99d22c86f6a9af52f13269e8fb2",
+      "qc_status": "accepted",
+      "qc_note": "Full-resolution visual review passed: oblique wide of the river bend across layered ochre banks with the walls and rising smoke beyond, in softer evening light; generous negative space and open staging ground; no people or text.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -2896,7 +2926,7 @@
   ],
   "schema_version": 1,
   "total_planned": 123,
-  "accepted": 103,
-  "pending": 20,
-  "note": "Background batches 01-10 complete. 103/123 plates individually reviewed and accepted, 20 pending. Batch 10 covers clips 19-20 in full (10/10 plates accepted, 0 rerolls). Batches 05, 07 and 08 each included one corrective reroll. Each generated plate requires individual visual review before acceptance; 16:9 tolerance ~1376x768."
+  "accepted": 113,
+  "pending": 10,
+  "note": "Background batches 01-11 complete. 113/123 plates individually reviewed and accepted, 10 pending. Batch 11 covers clips 21-22 in full (10/10 plates accepted, 0 rerolls). Batches 05, 07 and 08 each included one corrective reroll. Each generated plate requires individual visual review before acceptance; 16:9 tolerance ~1376x768."
 }

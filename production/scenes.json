@@ -13024,7 +13024,7 @@
             "round shield",
             "armor stand"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -13071,7 +13071,7 @@
             "round shield",
             "armor stand"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -13121,7 +13121,7 @@
             "round shield",
             "armor stand"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -13171,7 +13171,7 @@
             "round shield",
             "armor stand"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -13221,7 +13221,7 @@
             "round shield",
             "armor stand"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -13311,7 +13311,7 @@
             "river channel",
             "stone bank"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -13358,7 +13358,7 @@
             "river channel",
             "stone bank"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -13408,7 +13408,7 @@
             "river channel",
             "stone bank"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -13458,7 +13458,7 @@
             "river channel",
             "stone bank"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -13508,7 +13508,7 @@
             "river channel",
             "stone bank"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
