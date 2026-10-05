@@ -2,7 +2,7 @@
 
 **Repo:** `deeepakbhardwaj99-ctrl/YT-2` · **Branch:** `arena/01a1063f-yt-2`
 **Recovered checkpoint:** `origin/arena/01a1032c-yt-2` at `774100f` (2026-10-04); accepted assets and recorded approvals are reused, not regenerated.
-**Locked VO source:** `production/script_approved.txt` is byte-identical to the supplied script. The separate retention draft is not the VO source; no script/VO edits are being introduced.
+**Locked script source:** `production/script_approved.txt` remains byte-identical to the supplied script; the separate retention draft is not the VO source. By explicit user approval, three non-graphic wording substitutions are permitted for Part 2 Chapter 7 narrator audio only; they are documented in `production/part2/chapter7_vo_override.json` and do not alter the locked source file.
 **Part 1 status:** Complete — 125/125 accepted plates, all 25 clips assembled, rendered, and QC-passed. The full export and QC reports are saved under `production/part1/`. The approved preview and locked script/VO are unchanged.
 ## Current session — 2026-10-05
 - Added a separate complete-Part-1 renderer at `tools/render_part1.py` (all 25 clips, animated 2.5-second opening title and Part II tease). It writes `production/part1/part1_full.mp4` and does not overwrite the approved clip 01 + 05 preview.
@@ -11,7 +11,7 @@
 - Full Part 1 export: `production/part1/part1_full.mp4` (25 clips + opening title/Part II tease, 1920×1080, 24 fps H.264/AAC, 411.71s, 73.21 MiB). Motion report: `production/part1/part1_motion_report.txt` (mean frame diff 4.560; max near-zero-motion stretch 0.00s — PASS).
 - Delivery QC: `production/part1/part1_qc_report.txt` and `.json` — PASS. Full audio/video decode succeeded; 9,881 frames; decoded audio 411.733s vs 411.708s expected; peak −3.02 dBFS; audio RMS −20.99 dBFS; preview unchanged; output remains below GitHub's single-file size limit.
 - Locked script, VO segments, accepted assets and approved preview were preserved. Part 1 is delivered; Step 7–8 remains open for Parts 2–4 and the master MP4.
-- Part 2 continuation: the narrator voice was auditioned and selected as `voice-00`; synthesis of the exact Chapter 7 narration was blocked by the speech service's content moderation. No `p2_narr_c7.mp3` was created and the approved script remains unchanged. Awaiting user direction: supply a recording of the locked text or authorize a non-graphic revision proposal.
+- Part 2 continuation: after exact-text synthesis was blocked, the user approved three non-graphic Chapter 7 narrator-only substitutions; the locked source script remains unchanged. The missing raw narration was generated with selected voice `voice-00`: 222 words, 88.23s decoded, 151 WPM (within the ±20% gate). Audio QC/hash metadata: `production/part2/p2_narr_c7_manifest.json`; approved override: `production/part2/chapter7_vo_override.json`. All 8 raw Part 2 VO batches are now present; per-clip segmentation, pace conform, and final VO QC remain.
 
 **Format:** 16:9 (1920×1080) · **Target Pace:** ~130 wpm · **Parts:** 4 parts (~23.40 min total, 92 clips)
 **Style Mode:** `HYBRID` (2D cartoon rigged characters + AI-generated painterly-realistic Bronze Age environments, no people/text in backgrounds)
@@ -49,7 +49,7 @@
 - [x] **STEP 5 — Voiceover Auditions 🔒 & VO Progress:**
   - All 5 voices selected and mapped in `production/voices.json`.
   - **Part 1 VO:** 25/25 clips complete & QC'd (`406.63s` / `6.78 min` @ `130.6 wpm`).
-  - **Part 2 VO:** 7/8 raw voice batches generated (`p2_narr_c4`, `p2_narr_c5`, `p2_narr_c6`, `p2_v02_a`, `p2_v02_b`, `p2_v03`, `p2_v04`); Ch 7 narrator remains pending after exact-text synthesis was blocked by content moderation.
+  - **Part 2 VO:** 8/8 raw voice batches present (`p2_narr_c4`–`p2_narr_c7`, `p2_v02_a`, `p2_v02_b`, `p2_v03`, `p2_v04`). Chapter 7 narrator is 222 words / 88.23s decoded / 151 WPM raw; the user-approved voice-only override is documented. Per-clip segmentation and pacing QC remain.
   - **Part 3 VO:** 1/5 raw voice batches generated (`p3_narr_c8`).
 - [x] **STEP 6 — Procedural Music Bed & Stems:**
   - `part1_stem.mp3`–`part4_stem.mp3` + `pop.wav`, `whoosh.wav`, `arrow.wav` complete.

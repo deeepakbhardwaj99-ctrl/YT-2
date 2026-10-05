@@ -1,0 +1,40 @@
+{
+  "part": 2,
+  "chapter": "[CHAPTER 7: ARMOR]",
+  "asset_type": "raw_narration_batch",
+  "path": "production/part2/vo_raw/p2_narr_c7.mp3",
+  "voice_id": "voice-00",
+  "source_lines": [
+    30,
+    31,
+    34,
+    35,
+    36,
+    37,
+    40
+  ],
+  "word_count": 222,
+  "text_characters": 1291,
+  "text_sha256": "87bc0a15725f1443996a8240731c486773b63867a48a1087ff886f37be2992a3",
+  "override_path": "production/part2/chapter7_vo_override.json",
+  "measurements": {
+    "container_duration_seconds": 88.267755,
+    "decoded_duration_seconds": 88.23,
+    "decoded_wpm": 151.0,
+    "target_wpm": 130,
+    "within_plus_minus_20_percent": true,
+    "codec": "mp3",
+    "sample_rate_hz": 44100,
+    "channels": 1,
+    "decoded_peak_dbfs": -1.12,
+    "decoded_rms_dbfs": -20.31,
+    "file_bytes": 706369,
+    "file_sha256": "543554cf43325b27a588d939cb312c3d87effccedf28b3918451be9476f6c48b"
+  },
+  "qc": {
+    "mp3_decodes_cleanly": true,
+    "audible_signal": true,
+    "source_script_file_unchanged": true,
+    "note": "Raw chapter narration; it still needs splitting into measured per-clip VO and final pace/conform QC."
+  }
+}

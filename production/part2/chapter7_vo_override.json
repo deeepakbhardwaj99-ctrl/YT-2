@@ -1,0 +1,27 @@
+{
+  "part": 2,
+  "chapter": "[CHAPTER 7: ARMOR]",
+  "status": "user-approved override for Chapter 7 narrator VO only",
+  "approved_on": "2026-10-05",
+  "voice_id": "voice-00",
+  "source_script": "production/script_approved.txt",
+  "source_script_modified": false,
+  "note": "The approved source script remains unchanged. These exact substitutions were approved for the Chapter 7 narrator audio after speech moderation blocked synthesis of the original wording. All other narration and dialogue remain verbatim.",
+  "replacements": [
+    {
+      "line_index": 34,
+      "before": "A Trojan spear wounded him, and Hector finished the job.",
+      "after": "Patroclus fell in the battle, and Hector prevailed."
+    },
+    {
+      "line_index": 36,
+      "before": "He killed a river's worth of Trojans. The river god Scamander, choked with bodies, rose against him, and only fire from the gods turned it back.",
+      "after": "He drove the Trojans back in force. The river god Scamander, overwhelmed by the fighting, rose against him. Only fire from the gods turned him back."
+    },
+    {
+      "line_index": 40,
+      "before": "The spear went through his neck. Achilles tied the body behind his chariot and dragged it around Patroclus's tomb every morning, for twelve days.",
+      "after": "Hector fell. In grief and fury, Achilles dragged the fallen hero behind his chariot around Patroclus's tomb every morning for twelve days."
+    }
+  ]
+}
