@@ -57,23 +57,23 @@ SPEAKER_VISUAL_MAPPING = {
 # Background plates remain environment-only; character cutouts are composited later.
 CLIP_DESIGNS = [
     {"location": "loc_camp", "label": "GREEK CAMP — THE NIGHT APPROACH", "theme": "A quiet Bronze Age Greek beach camp at night, a moonlit sandy path between low canvas command tents and dark braziers, the Aegean barely visible beyond; completely empty", "headline": "PRIAM CROSSES THE PLAIN", "emphasis": "PRIAM", "chips": ["AN OLD KING", "A RANSOM", "ONE LAST NIGHT"], "defaults": ["priam", "mascot"], "protected": ["moonlit path", "command tent entrance"]},
-    {"location": "loc_camp", "label": "GREEK CAMP — ACHILLES'S TENT", "theme": "The interior of a plain Bronze Age Greek command tent beside the sea, open tent entrance, a low stool, folded undyed linen and a small bronze oil lamp; no occupants", "headline": "A FATHER'S PLEA", "emphasis": "FATHER'S", "chips": ["PRIAM", "ACHILLES", "PITY FOR AN ENEMY"], "defaults": ["priam", "achilles"], "supporting_characters": ["achilles"], "protected": ["open tent entrance", "low stool"]},
-    {"location": "loc_camp", "label": "GREEK CAMP — A SHARED MEAL", "theme": "A spare Bronze Age tent interior with a low wooden table, two simple bowls, folded linen and a warm bronze lamp, quiet and unoccupied", "headline": "SHARED GRIEF", "emphasis": "GRIEF", "chips": ["TWO FATHERS", "A SHARED MEAL", "MOURNING"], "defaults": ["achilles", "priam"], "supporting_characters": ["priam"], "protected": ["low wooden table", "bronze lamp"]},
+    {"location": "loc_camp", "label": "GREEK CAMP — ACHILLES'S TENT", "interior": True, "theme": "The interior of a plain Bronze Age Greek command tent beside the sea, open tent entrance, a low stool, folded undyed linen and a small bronze oil lamp; no occupants", "headline": "A FATHER'S PLEA", "emphasis": "FATHER'S", "chips": ["PRIAM", "ACHILLES", "PITY FOR AN ENEMY"], "defaults": ["priam", "achilles"], "supporting_characters": ["achilles"], "protected": ["open tent entrance", "low stool"]},
+    {"location": "loc_camp", "label": "GREEK CAMP — A SHARED MEAL", "interior": True, "theme": "A spare Bronze Age tent interior with a low wooden table, two simple bowls, folded linen and a warm bronze lamp, quiet and unoccupied", "headline": "SHARED GRIEF", "emphasis": "GRIEF", "chips": ["TWO FATHERS", "A SHARED MEAL", "MOURNING"], "defaults": ["achilles", "priam"], "supporting_characters": ["priam"], "protected": ["low wooden table", "bronze lamp"]},
     {"location": "loc_camp", "label": "GREEK CAMP — HECTOR'S FUNERAL TRUCE", "theme": "A quiet beach camp at first light, an extinguished ceremonial firepit beside open ground, canvas tents and a calm grey sea beyond; no people, remains or bodies", "headline": "THE ILIAD'S END", "emphasis": "ILIAD'S", "chips": ["HECTOR BURIED", "A TRUCE", "THE WAR CONTINUES"], "defaults": ["achilles", "mascot"], "protected": ["empty firepit", "open beach"]},
     {"location": "loc_troy", "label": "TROJAN PLAIN — NEW ALLIES", "theme": "The broad empty plain below Troy's ancient walls, dry grasses, distant ridges and a muted dawn sky suggesting new forces arriving from far away; no figures", "headline": "LOST POEMS, LAST ALLIES", "emphasis": "ALLIES", "chips": ["PENTHESILEA", "MEMNON", "THE STORY CONTINUES"], "defaults": ["mascot"], "protected": ["open plain", "distant city walls"]},
     {"location": "loc_troy", "label": "TROJAN PLAIN — PENTHESILEA AND MEMNON", "theme": "A windswept Bronze Age plain outside Troy, two distant empty standards and a long track through ochre grass, atmospheric eastern dawn light; no people or silhouettes", "headline": "PENTHESILEA & MEMNON", "emphasis": "MEMNON", "chips": ["AMAZON QUEEN", "KING FROM THE EAST", "TWO LAST ALLIES"], "defaults": ["mascot"], "protected": ["empty standards", "open track"]},
     {"location": "loc_troy", "label": "TROY'S GATES — ACHILLES'S LAST BATTLE", "theme": "The wide approach to Troy's monumental Bronze Age gate, empty dusty ground, one unmarked bow and arrow lying in the foreground and storm-soft light on the walls; no people", "headline": "THE FALL OF ACHILLES", "emphasis": "ACHILLES", "chips": ["PARIS", "APOLLO", "AN ARROW"], "defaults": ["paris", "achilles"], "supporting_characters": ["achilles"], "protected": ["unmarked bow", "distant city gate"]},
-    {"location": "loc_palace", "label": "A LATER STORYTELLER'S ROOM", "theme": "A quiet ancient palace writing room with a blank, unmarked clay tablet, a bronze stylus and a simple bronze greave on a low table; no writing, inscriptions or people", "headline": "THE FAMOUS HEEL CAME LATER", "emphasis": "HEEL", "chips": ["NOT IN THE ILIAD", "A LATER ADDITION", "A ROMAN POET"], "defaults": ["mascot"], "protected": ["blank tablet", "bronze greave"]},
-    {"location": "loc_camp", "label": "GREEK CAMP — THE ARMOR DISPUTE", "theme": "An empty Greek command pavilion after battle, ornate bronze armor and a large round shield displayed on a low stand between two vacant places, no people", "headline": "WHO GETS ACHILLES'S ARMOR?", "emphasis": "ARMOR", "chips": ["AJAX", "ODYSSEUS", "THE JUDGES"], "defaults": ["agamemnon", "achilles"], "supporting_characters": ["achilles"], "protected": ["bronze armor", "round shield"]},
-    {"location": "loc_camp", "label": "GREEK CAMP — THE JUDGMENT", "theme": "A bare Greek war-council tent with an empty judging bench and bronze armor resting in warm lamplight, open canvas sides reveal the silent camp; no figures", "headline": "LET THE JUDGES DECIDE", "emphasis": "JUDGES", "chips": ["A CLAIM", "A VERDICT", "A WARRIOR'S PRIDE"], "defaults": ["odysseus", "agamemnon"], "protected": ["empty judging bench", "bronze armor"]},
+    {"location": "loc_palace", "label": "A LATER STORYTELLER'S ROOM", "interior": True, "theme": "A quiet ancient palace writing room with a blank, unmarked clay tablet, a bronze stylus and a simple bronze greave on a low table; no writing, inscriptions or people", "headline": "THE FAMOUS HEEL CAME LATER", "emphasis": "HEEL", "chips": ["NOT IN THE ILIAD", "A LATER ADDITION", "A ROMAN POET"], "defaults": ["mascot"], "protected": ["blank tablet", "bronze greave"]},
+    {"location": "loc_camp", "label": "GREEK CAMP — THE ARMOR DISPUTE", "interior": True, "theme": "An empty Greek command pavilion after battle, ornate bronze armor and a large round shield displayed on a low stand between two vacant places, no people", "headline": "WHO GETS ACHILLES'S ARMOR?", "emphasis": "ARMOR", "chips": ["AJAX", "ODYSSEUS", "THE JUDGES"], "defaults": ["agamemnon", "achilles"], "supporting_characters": ["achilles"], "protected": ["bronze armor", "round shield"]},
+    {"location": "loc_camp", "label": "GREEK CAMP — THE JUDGMENT", "interior": True, "theme": "A bare Greek war-council tent with an empty judging bench and bronze armor resting in warm lamplight, open canvas sides reveal the silent camp; no figures", "headline": "LET THE JUDGES DECIDE", "emphasis": "JUDGES", "chips": ["A CLAIM", "A VERDICT", "A WARRIOR'S PRIDE"], "defaults": ["odysseus", "agamemnon"], "protected": ["empty judging bench", "bronze armor"]},
     {"location": "loc_camp", "label": "GREEK CAMP — AFTER THE AWARD", "theme": "A deserted animal pen at cold dawn, a tipped wooden trough, scattered straw and an empty fenced corner near the tents, quiet and non-graphic; no animals or people", "headline": "AJAX'S GRIEF", "emphasis": "GRIEF", "chips": ["THE ARMOR IS GONE", "A TRAGIC MISTAKE", "MORNING AFTER"], "defaults": ["mascot"], "protected": ["tipped trough", "empty pen"]},
-    {"location": "loc_camp", "label": "GREEK CAMP — THE SEER'S WARNING", "theme": "An empty command tent used for a prophecy, a plain bow on a low table and an empty wall niche with lamplight falling across the canvas; no writing or people", "headline": "THREE THINGS THE GREEKS NEED", "emphasis": "THREE", "chips": ["ACHILLES'S SON", "ATHENA'S STATUE", "HERACLES'S BOW"], "defaults": ["priam", "odysseus"], "supporting_characters": ["odysseus"], "protected": ["plain bow", "empty niche"]},
+    {"location": "loc_camp", "label": "GREEK CAMP — THE SEER'S WARNING", "interior": True, "theme": "An empty command tent used for a prophecy, a plain bow on a low table and an empty wall niche with lamplight falling across the canvas; no writing or people", "headline": "THREE THINGS THE GREEKS NEED", "emphasis": "THREE", "chips": ["ACHILLES'S SON", "ATHENA'S STATUE", "HERACLES'S BOW"], "defaults": ["priam", "odysseus"], "supporting_characters": ["odysseus"], "protected": ["plain bow", "empty niche"]},
     {"location": "loc_troy", "label": "TROJAN PLAIN — PHILOCTETES RETURNS", "theme": "A broad empty field before Troy's weathered walls, an unmarked bow and a single arrow on a low stone ledge, clear ochre earth and distant gates; no people", "headline": "PHILOCTETES RETURNS", "emphasis": "RETURNS", "chips": ["HERACLES'S BOW", "PARIS", "A FINAL REQUEST"], "defaults": ["philoctetes", "paris"], "supporting_characters": ["paris"], "protected": ["unmarked bow", "open field"]},
     {"location": "loc_troy", "label": "MOUNT IDA — OENONE'S GROVE", "theme": "A secluded grove on the slopes near Troy at dusk, olive branches, a small stone hearth with a low funeral flame and an empty path through the trees; no people, remains or bodies", "headline": "OENONE'S REFUSAL", "emphasis": "REFUSAL", "chips": ["A PAST BETRAYAL", "A PLEA", "TOO LATE"], "defaults": ["helen", "paris"], "supporting_characters": ["paris"], "protected": ["stone hearth", "empty grove path"]},
-    {"location": "loc_palace", "label": "TROY — THE TEMPLE OF ATHENA", "theme": "A quiet Bronze Age Trojan temple chamber at night, an empty stone plinth and open alcove beneath woven fabric, soft moonlight and no statue, people, writing or inscriptions", "headline": "THE ATHENA STATUE", "emphasis": "STATUE", "chips": ["ODYSSEUS", "DIOMEDES", "THE FINAL PROPHECY"], "defaults": ["odysseus", "mascot"], "protected": ["empty stone plinth", "open alcove"]},
+    {"location": "loc_palace", "label": "TROY — THE TEMPLE OF ATHENA", "interior": True, "theme": "A quiet Bronze Age Trojan temple chamber at night, an empty stone plinth and open alcove beneath woven fabric, soft moonlight and no statue, people, writing or inscriptions", "headline": "THE ATHENA STATUE", "emphasis": "STATUE", "chips": ["ODYSSEUS", "DIOMEDES", "THE FINAL PROPHECY"], "defaults": ["odysseus", "mascot"], "protected": ["empty stone plinth", "open alcove"]},
     {"location": "loc_camp", "label": "GREEK CAMP — THE WOODEN HORSE PLAN", "theme": "An empty stretch of the Bronze Age Greek beach camp with a colossal horse-shaped timber framework under construction, neat ropes and cut beams, distant ships and open sand; no people", "headline": "A PLAN TO OPEN THE GATES", "emphasis": "GATES", "chips": ["THE WOODEN HORSE", "A GIFT TO ATHENA", "A WAY INSIDE"], "defaults": ["odysseus", "mascot"], "supporting_characters": ["mascot"], "protected": ["timber horse frame", "open beach"]},
     {"location": "loc_camp", "label": "GREEK CAMP — EPEIUS'S WORKSHOP", "theme": "A temporary Bronze Age carpentry yard beside the Greek camp, pine beams, wooden pegs and an unfinished hollow timber horse frame on clear ground; no people, writing or markings", "headline": "EPEIUS BUILDS A HORSE", "emphasis": "EPEIUS", "chips": ["PINE FROM IDA", "THREE DAYS", "A HOLLOW FRAME"], "defaults": ["agamemnon", "mascot"], "protected": ["pine beams", "horse frame"]},
-    {"location": "loc_camp", "label": "GREEK CAMP — INSIDE THE HORSE", "theme": "A close environmental view through the open ribs of a huge hollow wooden horse, curved timbers, pegs and dark empty interior space, no people, letters or marks", "headline": "HOW MANY MEN FIT?", "emphasis": "MEN", "chips": ["TWENTY?", "FIFTY?", "NOBODY SAYS"], "defaults": ["mascot"], "protected": ["hollow timber ribs", "open interior"]},
+    {"location": "loc_camp", "label": "GREEK CAMP — INSIDE THE HORSE", "interior": True, "theme": "A close environmental view through the open ribs of a huge hollow wooden horse, curved timbers, pegs and dark empty interior space, no people, letters or marks", "headline": "HOW MANY MEN FIT?", "emphasis": "MEN", "chips": ["TWENTY?", "FIFTY?", "NOBODY SAYS"], "defaults": ["mascot"], "protected": ["hollow timber ribs", "open interior"]},
     {"location": "loc_troy", "label": "TROY'S GATE — THE HORSE APPEARS", "theme": "At pale dawn outside Troy, the empty Greek beach camp has been struck and a huge wooden horse stands alone in the sand before the distant city gate; no people, figures or text", "headline": "THE TROJANS FIND THE HORSE", "emphasis": "HORSE", "chips": ["GREEK CAMP GONE", "A STRANGE GIFT", "DIVIDED OPINIONS"], "defaults": ["hector", "priam"], "protected": ["wooden horse", "distant city gate"]},
     {"location": "loc_troy", "label": "TROY'S GATE — LAOCOON'S WARNING", "theme": "The immense wooden horse outside Troy at night, one plain spear resting against its hollow timber side and moonlit water beyond the wall, no people or bodies", "headline": "LAOCOON'S WARNING", "emphasis": "WARNING", "chips": ["A HOLLOW SOUND", "SEA SERPENTS", "A FALSE SIGN"], "defaults": ["priam", "hector"], "supporting_characters": ["hector"], "protected": ["horse timber side", "plain spear"]},
     {"location": "loc_troy", "label": "TROY'S GATE — SINON'S STORY", "theme": "A shadowed gate courtyard with the wooden horse visible through the open entrance, an empty stone step and a dropped unmarked cloak in cool morning light; no people", "headline": "SINON'S STORY", "emphasis": "SINON", "chips": ["A CAPTURED GREEK", "A CAREFUL LIE", "KEEP THE HORSE"], "defaults": ["agamemnon", "hector"], "protected": ["open gate", "unmarked cloak"]},
@@ -95,22 +95,46 @@ SHOT_CYCLE = [
 
 
 def build_prompt(design: dict, shot_index: int, shot_type: str, view: str) -> str:
-    unique_detail = [
-        "keep the horizon clear and place only landmarks from the named setting in the distance",
-        "use strong foreground-to-background separation and generous open staging ground",
-        "emphasize weathering and materials already appropriate to this environment; invent no props",
-        "use natural leading lines to guide the eye through a clear, subject-free environment",
-        "shift to softer evening or dawn light and a reverse-axis composition",
-        "add a raised spatial layer without introducing structures absent from the location reference",
-        "place the setting's main environmental feature in a distinct part of the composition",
-        "use atmospheric depth and late light while preserving location continuity",
-    ][(shot_index - 1) % len(SHOT_CYCLE)]
-    focus = {
-        "establishing": "show a broad, readable vista and a clear open lower-third foreground",
-        "wide": "keep the major geography visible with generous negative space",
-        "medium": "layer the environment around one restrained focal area",
-        "detail": "frame an environmental surface or architectural detail without clutter",
-    }[shot_type]
+    if design.get("interior"):
+        view = {
+            "establishing": "wide view from the open doorway, showing the empty room and clear lower-third floor",
+            "wide": "oblique view from a different interior corner, with the entrance and open floor visible",
+            "medium": "medium interior view of a restrained period prop with clear foreground floor",
+            "detail": "ground-level environmental detail with architecture receding into an empty room",
+        }[shot_type]
+        unique_detail = [
+            "keep the doorway and clear floor visible; add no occupants or extra furniture",
+            "use foreground-to-background depth through canvas, stone or timber without clutter",
+            "emphasize period materials already appropriate to the reference; invent no props",
+            "use natural leading lines across the bare floor toward the empty entrance",
+            "shift to warm lamp or dawn light while preserving the approved room palette",
+            "show one restrained architectural layer and an unobstructed lower third",
+            "place the focal prop to one side and leave clear ground for later character cutouts",
+            "preserve the room's layout and avoid marks, writing or decorative emblems",
+        ][(shot_index - 1) % len(SHOT_CYCLE)]
+        focus = {
+            "establishing": "show the room's broad layout and a clear open lower-third floor",
+            "wide": "keep the interior architecture readable with generous negative space",
+            "medium": "layer the room around one restrained focal area",
+            "detail": "frame a period surface or architectural detail without clutter",
+        }[shot_type]
+    else:
+        unique_detail = [
+            "keep the horizon clear and place only landmarks from the named setting in the distance",
+            "use strong foreground-to-background separation and generous open staging ground",
+            "emphasize weathering and materials already appropriate to this environment; invent no props",
+            "use natural leading lines to guide the eye through a clear, subject-free environment",
+            "shift to softer evening or dawn light and a reverse-axis composition",
+            "add a raised spatial layer without introducing structures absent from the location reference",
+            "place the setting's main environmental feature in a distinct part of the composition",
+            "use atmospheric depth and late light while preserving location continuity",
+        ][(shot_index - 1) % len(SHOT_CYCLE)]
+        focus = {
+            "establishing": "show a broad, readable vista and a clear open lower-third foreground",
+            "wide": "keep the major geography visible with generous negative space",
+            "medium": "layer the environment around one restrained focal area",
+            "detail": "frame an environmental surface or architectural detail without clutter",
+        }[shot_type]
     return (
         f"One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for {design['theme']}. "
         f"{shot_type.capitalize()} composition: {view}; {focus}; {unique_detail}. Match the approved "
