@@ -978,10 +978,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The broad empty plain below Troy's ancient walls, dry grasses, distant ridges and a muted dawn sky suggesting new forces arriving from far away; no figures. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and a clear open lower-third foreground; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "6ca1ac88e7bb9bd8db8f8e47148fc1be0bd739b748f4775d74fafa2cf44af4a8",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: broad empty plain beneath Troy's Bronze Age walls, dry grasses, dawn sky and clear lower-third staging; no people or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -989,6 +992,25 @@
       "protected_objects": [
         "open plain",
         "distant city walls"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "6ca1ac88e7bb9bd8db8f8e47148fc1be0bd739b748f4775d74fafa2cf44af4a8",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            195,
+            191,
+            205
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: broad empty plain beneath Troy's Bronze Age walls, dry grasses, dawn sky and clear lower-third staging; no people or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -999,10 +1021,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The broad empty plain below Troy's ancient walls, dry grasses, distant ridges and a muted dawn sky suggesting new forces arriving from far away; no figures. Medium composition: raised three-quarter view that reveals a new spatial layer and an unobstructed foreground; layer the environment around one restrained focal area; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "993512f612e135381aa54839a3a39d5c13307336e60515cd32b43f16b522d83e",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: raised layered view of the empty Trojan plain and distant walls, open lower third, no people or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -1010,6 +1035,25 @@
       "protected_objects": [
         "open plain",
         "distant city walls"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "993512f612e135381aa54839a3a39d5c13307336e60515cd32b43f16b522d83e",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            97,
+            97,
+            124
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: raised layered view of the empty Trojan plain and distant walls, open lower third, no people or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1020,10 +1064,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A windswept Bronze Age plain outside Troy, two distant empty standards and a long track through ochre grass, atmospheric eastern dawn light; no people or silhouettes. Medium composition: raised three-quarter view that reveals a new spatial layer and an unobstructed foreground; layer the environment around one restrained focal area; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "202494fc12e49ffcfb6e2aa6832f6fd962eb6e585c62fe94aca0975cf8460cae",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: raised eastern-dawn plain with a clear track and two distant blank standards; open foreground, no figures/text/symbols. Filename banner/signature verified.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -1031,6 +1078,25 @@
       "protected_objects": [
         "empty standards",
         "open track"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "202494fc12e49ffcfb6e2aa6832f6fd962eb6e585c62fe94aca0975cf8460cae",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            223,
+            189,
+            163
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: raised eastern-dawn plain with a clear track and two distant blank standards; open foreground, no figures/text/symbols. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1041,10 +1107,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A windswept Bronze Age plain outside Troy, two distant empty standards and a long track through ochre grass, atmospheric eastern dawn light; no people or silhouettes. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "91b67465d12289484fe8b0594d49c285fc59f81becc30641706e4d470f6b44b2",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: low side-angle track through ochre grasses, blank standard in the distance and open lower-third ground; no prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -1052,6 +1121,25 @@
       "protected_objects": [
         "empty standards",
         "open track"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "91b67465d12289484fe8b0594d49c285fc59f81becc30641706e4d470f6b44b2",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            221,
+            181,
+            137
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: low side-angle track through ochre grasses, blank standard in the distance and open lower-third ground; no prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1062,10 +1150,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A windswept Bronze Age plain outside Troy, two distant empty standards and a long track through ochre grass, atmospheric eastern dawn light; no people or silhouettes. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "a742c03026e10de173926530531f835a3a8f60ca1fbe0d9b406a645736d3863c",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: distant reverse dawn landscape with track, ridges and tiny blank standards; broad empty staging foreground, no army or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -1073,6 +1164,25 @@
       "protected_objects": [
         "empty standards",
         "open track"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "a742c03026e10de173926530531f835a3a8f60ca1fbe0d9b406a645736d3863c",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            203,
+            179,
+            185
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: distant reverse dawn landscape with track, ridges and tiny blank standards; broad empty staging foreground, no army or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1083,10 +1193,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A windswept Bronze Age plain outside Troy, two distant empty standards and a long track through ochre grass, atmospheric eastern dawn light; no people or silhouettes. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and a clear open lower-third foreground; use natural leading lines to guide the eye through a clear, subject-free environment. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "fd83ac264c84747bbedede027ee08140c68c5a9fdadf1a45fe5d250f275c37a9",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: establishing view of the open plain and distant Troy, track and blank standards set back from the clear lower third. No prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -1094,6 +1207,25 @@
       "protected_objects": [
         "empty standards",
         "open track"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "fd83ac264c84747bbedede027ee08140c68c5a9fdadf1a45fe5d250f275c37a9",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            220,
+            188,
+            139
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: establishing view of the open plain and distant Troy, track and blank standards set back from the clear lower third. No prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1104,10 +1236,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A windswept Bronze Age plain outside Troy, two distant empty standards and a long track through ochre grass, atmospheric eastern dawn light; no people or silhouettes. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; shift to softer evening or dawn light and a reverse-axis composition. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "df4c7bf4d028f79caaed6819bcc5bd278cdc3412b331c4adc903b3d63fdd45ed",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: changed-axis dawn view with atmospheric ridges and distant standards; clear foreground and no prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -1115,6 +1250,25 @@
       "protected_objects": [
         "empty standards",
         "open track"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "df4c7bf4d028f79caaed6819bcc5bd278cdc3412b331c4adc903b3d63fdd45ed",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            230,
+            213,
+            214
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: changed-axis dawn view with atmospheric ridges and distant standards; clear foreground and no prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1125,10 +1279,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The wide approach to Troy's monumental Bronze Age gate, empty dusty ground, one unmarked bow and arrow lying in the foreground and storm-soft light on the walls; no people. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "8f5d4767796e0100ff6dbea3b920121ccedc2ad6689fc0591c7d19726f882635",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: storm-lit Trojan gate approach, unmarked bow/arrow kept at the edge, clear staging ground, no people/text/modern objects. Filename banner/signature verified.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -1136,6 +1293,25 @@
       "protected_objects": [
         "unmarked bow",
         "distant city gate"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "8f5d4767796e0100ff6dbea3b920121ccedc2ad6689fc0591c7d19726f882635",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            151,
+            144,
+            160
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: storm-lit Trojan gate approach, unmarked bow/arrow kept at the edge, clear staging ground, no people/text/modern objects. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1146,10 +1322,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The wide approach to Troy's monumental Bronze Age gate, empty dusty ground, one unmarked bow and arrow lying in the foreground and storm-soft light on the walls; no people. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "9c7508976e817be2d6fd8ad0e97fe816058f3164228db3ffc162724e227995e6",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: distant reverse approach to Troy's gate with broad empty ground; bow/arrow remains a small midground detail outside the central staging area. No prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -1157,6 +1336,25 @@
       "protected_objects": [
         "unmarked bow",
         "distant city gate"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "9c7508976e817be2d6fd8ad0e97fe816058f3164228db3ffc162724e227995e6",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            116,
+            136,
+            152
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: distant reverse approach to Troy's gate with broad empty ground; bow/arrow remains a small midground detail outside the central staging area. No prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1167,10 +1365,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The wide approach to Troy's monumental Bronze Age gate, empty dusty ground, one unmarked bow and arrow lying in the foreground and storm-soft light on the walls; no people. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and a clear open lower-third foreground; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "8e10cd0f61405a7c679db39357f04b4cd968f356fb55b1a7c43e597e28c44b77",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: wide establishing gate view, storm-soft light, bow/arrow at the far edge and open lower-third ground; no prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -1178,6 +1379,25 @@
       "protected_objects": [
         "unmarked bow",
         "distant city gate"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "8e10cd0f61405a7c679db39357f04b4cd968f356fb55b1a7c43e597e28c44b77",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            166,
+            148,
+            122
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: wide establishing gate view, storm-soft light, bow/arrow at the far edge and open lower-third ground; no prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -3094,8 +3314,8 @@
   ],
   "schema_version": 1,
   "total_planned": 121,
-  "accepted": 20,
-  "pending": 101,
+  "accepted": 30,
+  "pending": 91,
   "note": "Part 3 background plates are generated in batches of 10 and accepted only after individual visual review; every plate must have open lower-third staging and contain no people, faces, bodies, text or modern objects.",
   "shot_cadence_seconds_target": 3.0,
   "character_proxy_note": "Only existing approved cutouts/rigs are used; one-off Chapter 9-10 speakers retain their exact names in dialogue and subtitles, while the proxy map is recorded in scenes.json and part3_scene_plan_notes.md.",
@@ -3115,6 +3335,13 @@
     "rejected_pending_reroll": 0,
     "rerolls_used": 5,
     "remaining_rerolls_by_plate": {},
+    "status": "complete"
+  },
+  "batch_03_review": {
+    "initial_candidates_reviewed": 10,
+    "accepted": 10,
+    "rejected_pending_reroll": 0,
+    "rerolls_used": 0,
     "status": "complete"
   }
 }
