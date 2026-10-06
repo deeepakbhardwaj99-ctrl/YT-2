@@ -9,10 +9,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A quiet Bronze Age Greek beach camp at night, a moonlit sandy path between low canvas command tents and dark braziers, the Aegean barely visible beyond; completely empty. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and a clear open lower-third foreground; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "ee142812cef68cdba23fdb4384ddf461ac98d899ded74a98c4122b36773fd840",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: moonlit Greek-camp establishing view with distant coast, Bronze Age tents/ships, a clear sandy lower-center staging area, no people/faces/bodies, text/inscriptions, logos/watermarks, modern objects or guides. Filename banner, dimensions and top-band signature matched the source file.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -20,7 +23,9 @@
       "protected_objects": [
         "moonlit path",
         "command tent entrance"
-      ]
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_01",
@@ -30,10 +35,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A quiet Bronze Age Greek beach camp at night, a moonlit sandy path between low canvas command tents and dark braziers, the Aegean barely visible beyond; completely empty. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "bb816d8afafd362e04f612f1c892ff3486a670387280aafe32a6b04ed1b6f32d",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: distinct oblique moonlit camp view with a clear central sand path, Bronze Age materials and no prohibited content. Filename banner, dimensions and top-band signature matched the source file.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -41,7 +49,9 @@
       "protected_objects": [
         "moonlit path",
         "command tent entrance"
-      ]
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_01",
@@ -50,11 +60,11 @@
       "location": "loc_camp",
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
-      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A quiet Bronze Age Greek beach camp at night, a moonlit sandy path between low canvas command tents and dark braziers, the Aegean barely visible beyond; completely empty. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A quiet Bronze Age Greek beach camp at night, a moonlit sandy path between low canvas command tents and dark braziers, the Aegean barely visible beyond; completely empty. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Night lighting only: cool moonlight and warm bronze oil-lamp glow; deep blue-black outside; absolutely no sun, dawn, daylight or bright daytime sky. Additional composition constraints: No carts, chariots, wagons, wheeled vehicles, or extra furniture; keep the lower third as open sand.",
       "dimensions": null,
       "sha256": null,
       "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "qc_note": "Rejected after individual QC: an unprompted large wheeled cart/chariot and clustered props intrude into the lower-third character-staging zone. No people or text detected; reroll for a clean open sandy foreground and explicitly exclude carts/chariots/wheeled vehicles.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -62,7 +72,21 @@
       "protected_objects": [
         "moonlit path",
         "command tent entrance"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "1ca6a849997b0eb095eb64011043de2ec05263ca879a4c1634eac88b8bd97017",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "result": "rejected",
+          "reason": "Rejected after individual QC: an unprompted large wheeled cart/chariot and clustered props intrude into the lower-third character-staging zone. No people or text detected; reroll for a clean open sandy foreground and explicitly exclude carts/chariots/wheeled vehicles."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_01",
@@ -72,10 +96,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A quiet Bronze Age Greek beach camp at night, a moonlit sandy path between low canvas command tents and dark braziers, the Aegean barely visible beyond; completely empty. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; use natural leading lines to guide the eye through a clear, subject-free environment. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "8edc5ba600953f029091035e7d674eb75acffd3f37ac913abece8ad402a1960a",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: reverse camp/coast angle, open sandy lower-center staging and period materials; no people/faces/bodies, writing, logos/watermarks, modern objects or guides. Filename banner, dimensions and top-band signature matched the source file.",
       "composition": {
         "view": "close environmental detail at ground level, no figures, visually distinct composition",
         "open_lower_third": true
@@ -83,7 +110,9 @@
       "protected_objects": [
         "moonlit path",
         "command tent entrance"
-      ]
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_02",
@@ -92,11 +121,11 @@
       "location": "loc_camp",
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
-      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The interior of a plain Bronze Age Greek command tent beside the sea, open tent entrance, a low stool, folded undyed linen and a small bronze oil lamp; no occupants. Wide composition: oblique view from a different interior corner, with the entrance and open floor visible; keep the interior architecture readable with generous negative space; keep the doorway and clear floor visible; add no occupants or extra furniture. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A deep-night interior of a plain Bronze Age Greek command tent beside the sea, warm bronze oil-lamp glow, open tent entrance onto a dark moonlit Aegean, a low stool and folded undyed linen; no occupants or daylight. Wide composition: oblique view from a different interior corner, with the entrance and open floor visible; keep the interior architecture readable with generous negative space; keep the doorway and clear floor visible; add no occupants or extra furniture. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Night lighting only: cool moonlight and warm bronze oil-lamp glow; deep blue-black outside; absolutely no sun, dawn, daylight or bright daytime sky.",
       "dimensions": null,
       "sha256": null,
       "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "qc_note": "Rejected after individual QC: clean empty tent interior and open floor, but bright daytime seascape contradicts the established moonlit-night sequence. Reroll with moonlight/oil-lamp lighting and explicitly no sun/daylight/dawn.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -104,7 +133,21 @@
       "protected_objects": [
         "open tent entrance",
         "low stool"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "046bcbd1a22d42de4457cc483981051813eeeccbdac1d2a1f817869208a7726d",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "result": "rejected",
+          "reason": "Rejected after individual QC: clean empty tent interior and open floor, but bright daytime seascape contradicts the established moonlit-night sequence. Reroll with moonlight/oil-lamp lighting and explicitly no sun/daylight/dawn."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_02",
@@ -113,11 +156,11 @@
       "location": "loc_camp",
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
-      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The interior of a plain Bronze Age Greek command tent beside the sea, open tent entrance, a low stool, folded undyed linen and a small bronze oil lamp; no occupants. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; use foreground-to-background depth through canvas, stone or timber without clutter. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A deep-night interior of a plain Bronze Age Greek command tent beside the sea, warm bronze oil-lamp glow, open tent entrance onto a dark moonlit Aegean, a low stool and folded undyed linen; no occupants or daylight. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; use foreground-to-background depth through canvas, stone or timber without clutter. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Night lighting only: cool moonlight and warm bronze oil-lamp glow; deep blue-black outside; absolutely no sun, dawn, daylight or bright daytime sky.",
       "dimensions": null,
       "sha256": null,
       "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "qc_note": "Rejected after individual QC: clean Bronze Age interior and open floor, but bright daytime exterior contradicts the established moonlit-night sequence. Reroll with moonlight/oil-lamp lighting and explicitly no sun/daylight/dawn.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -125,7 +168,21 @@
       "protected_objects": [
         "open tent entrance",
         "low stool"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "04c901c52b9a6f5678671b5e7e1cb534b69568f823d0c5517bb7d2ac9fea8215",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "result": "rejected",
+          "reason": "Rejected after individual QC: clean Bronze Age interior and open floor, but bright daytime exterior contradicts the established moonlit-night sequence. Reroll with moonlight/oil-lamp lighting and explicitly no sun/daylight/dawn."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_02",
@@ -134,11 +191,11 @@
       "location": "loc_camp",
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
-      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The interior of a plain Bronze Age Greek command tent beside the sea, open tent entrance, a low stool, folded undyed linen and a small bronze oil lamp; no occupants. Detail composition: ground-level environmental detail with architecture receding into an empty room; frame a period surface or architectural detail without clutter; emphasize period materials already appropriate to the reference; invent no props. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A deep-night interior of a plain Bronze Age Greek command tent beside the sea, warm bronze oil-lamp glow, open tent entrance onto a dark moonlit Aegean, a low stool and folded undyed linen; no occupants or daylight. Detail composition: ground-level environmental detail with architecture receding into an empty room; frame a period surface or architectural detail without clutter; emphasize period materials already appropriate to the reference; invent no props. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Night lighting only: cool moonlight and warm bronze oil-lamp glow; deep blue-black outside; absolutely no sun, dawn, daylight or bright daytime sky.",
       "dimensions": null,
       "sha256": null,
       "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "qc_note": "Rejected after individual QC: clean tent interior and open floor, but bright daytime light contradicts the established moonlit-night sequence. Reroll with moonlight/oil-lamp lighting and explicitly no sun/daylight/dawn.",
       "composition": {
         "view": "close environmental detail at ground level, no figures, visually distinct composition",
         "open_lower_third": true
@@ -146,7 +203,21 @@
       "protected_objects": [
         "open tent entrance",
         "low stool"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "062ff4ca155260333efbe8d945bc008c59b5ac9b49d3460f3f7b52ed1675500b",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "result": "rejected",
+          "reason": "Rejected after individual QC: clean tent interior and open floor, but bright daytime light contradicts the established moonlit-night sequence. Reroll with moonlight/oil-lamp lighting and explicitly no sun/daylight/dawn."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_02",
@@ -155,11 +226,11 @@
       "location": "loc_camp",
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
-      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The interior of a plain Bronze Age Greek command tent beside the sea, open tent entrance, a low stool, folded undyed linen and a small bronze oil lamp; no occupants. Wide composition: oblique view from a different interior corner, with the entrance and open floor visible; keep the interior architecture readable with generous negative space; use natural leading lines across the bare floor toward the empty entrance. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A deep-night interior of a plain Bronze Age Greek command tent beside the sea, warm bronze oil-lamp glow, open tent entrance onto a dark moonlit Aegean, a low stool and folded undyed linen; no occupants or daylight. Wide composition: oblique view from a different interior corner, with the entrance and open floor visible; keep the interior architecture readable with generous negative space; use natural leading lines across the bare floor toward the empty entrance. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Night lighting only: cool moonlight and warm bronze oil-lamp glow; deep blue-black outside; absolutely no sun, dawn, daylight or bright daytime sky.",
       "dimensions": null,
       "sha256": null,
       "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "qc_note": "Rejected after individual QC: clean tent interior and open floor, but the bright daytime exterior contradicts the established moonlit-night sequence. Reroll with moonlight/oil-lamp lighting and explicitly no sun/daylight/dawn.",
       "composition": {
         "view": "reverse wide angle at a different time of day, atmospheric depth and open staging space",
         "open_lower_third": true
@@ -167,7 +238,21 @@
       "protected_objects": [
         "open tent entrance",
         "low stool"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "c4afb8f8bb873285ee733b48a277c43e6ff13fc89520db47e5bdc96830211043",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "result": "rejected",
+          "reason": "Rejected after individual QC: clean tent interior and open floor, but the bright daytime exterior contradicts the established moonlit-night sequence. Reroll with moonlight/oil-lamp lighting and explicitly no sun/daylight/dawn."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_02",
@@ -176,11 +261,11 @@
       "location": "loc_camp",
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
-      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The interior of a plain Bronze Age Greek command tent beside the sea, open tent entrance, a low stool, folded undyed linen and a small bronze oil lamp; no occupants. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; shift to warm lamp or dawn light while preserving the approved room palette. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A deep-night interior of a plain Bronze Age Greek command tent beside the sea, warm bronze oil-lamp glow, open tent entrance onto a dark moonlit Aegean, a low stool and folded undyed linen; no occupants or daylight. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; combine warm oil-lamp glow with cool moonlight; show no dawn or daylight. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Night lighting only: cool moonlight and warm bronze oil-lamp glow; deep blue-black outside; absolutely no sun, dawn, daylight or bright daytime sky.",
       "dimensions": null,
       "sha256": null,
       "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "qc_note": "Rejected after individual QC: clean interior and period materials, but pink dusk/daylight remains inconsistent with the moonlit-night sequence. Reroll with moonlight/oil-lamp lighting and explicitly no sun/daylight/dawn.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -188,7 +273,21 @@
       "protected_objects": [
         "open tent entrance",
         "low stool"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "2689880a247fcfc4ee3926f92af4f8bbe8518dbe61756bb0c28ce1d565fad27e",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "result": "rejected",
+          "reason": "Rejected after individual QC: clean interior and period materials, but pink dusk/daylight remains inconsistent with the moonlit-night sequence. Reroll with moonlight/oil-lamp lighting and explicitly no sun/daylight/dawn."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_02",
@@ -197,11 +296,11 @@
       "location": "loc_camp",
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
-      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The interior of a plain Bronze Age Greek command tent beside the sea, open tent entrance, a low stool, folded undyed linen and a small bronze oil lamp; no occupants. Detail composition: ground-level environmental detail with architecture receding into an empty room; frame a period surface or architectural detail without clutter; show one restrained architectural layer and an unobstructed lower third. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A deep-night interior of a plain Bronze Age Greek command tent beside the sea, warm bronze oil-lamp glow, open tent entrance onto a dark moonlit Aegean, a low stool and folded undyed linen; no occupants or daylight. Detail composition: ground-level environmental detail with architecture receding into an empty room; frame a period surface or architectural detail without clutter; show one restrained architectural layer and an unobstructed lower third. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Night lighting only: cool moonlight and warm bronze oil-lamp glow; deep blue-black outside; absolutely no sun, dawn, daylight or bright daytime sky.",
       "dimensions": null,
       "sha256": null,
       "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "qc_note": "Rejected after individual QC: clean interior and open floor, but bright daytime light contradicts the established moonlit-night sequence. Reroll with moonlight/oil-lamp lighting and explicitly no sun/daylight/dawn.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -209,7 +308,21 @@
       "protected_objects": [
         "open tent entrance",
         "low stool"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "1d0c58755691c409d2b94aeace03b9c1d8bdb9693aaa2ebd4563702051f173bf",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "result": "rejected",
+          "reason": "Rejected after individual QC: clean interior and open floor, but bright daytime light contradicts the established moonlit-night sequence. Reroll with moonlight/oil-lamp lighting and explicitly no sun/daylight/dawn."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_03",
@@ -2545,9 +2658,15 @@
   ],
   "schema_version": 1,
   "total_planned": 121,
-  "accepted": 0,
-  "pending": 121,
+  "accepted": 3,
+  "pending": 118,
   "note": "Part 3 background plates are generated in batches of 10 and accepted only after individual visual review; every plate must have open lower-third staging and contain no people, faces, bodies, text or modern objects.",
   "shot_cadence_seconds_target": 3.0,
-  "character_proxy_note": "Only existing approved cutouts/rigs are used; one-off Chapter 9-10 speakers retain their exact names in dialogue and subtitles, while the proxy map is recorded in scenes.json and part3_scene_plan_notes.md."
+  "character_proxy_note": "Only existing approved cutouts/rigs are used; one-off Chapter 9-10 speakers retain their exact names in dialogue and subtitles, while the proxy map is recorded in scenes.json and part3_scene_plan_notes.md.",
+  "batch_01_review": {
+    "candidate_images_reviewed": 10,
+    "accepted": 3,
+    "rejected_pending_reroll": 7,
+    "rerolls_used": 0
+  }
 }

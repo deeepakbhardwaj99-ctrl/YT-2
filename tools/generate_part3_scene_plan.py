@@ -56,8 +56,8 @@ SPEAKER_VISUAL_MAPPING = {
 # Part 3's 24 measured clips are matched to the narrative beats in order.
 # Background plates remain environment-only; character cutouts are composited later.
 CLIP_DESIGNS = [
-    {"location": "loc_camp", "label": "GREEK CAMP — THE NIGHT APPROACH", "theme": "A quiet Bronze Age Greek beach camp at night, a moonlit sandy path between low canvas command tents and dark braziers, the Aegean barely visible beyond; completely empty", "headline": "PRIAM CROSSES THE PLAIN", "emphasis": "PRIAM", "chips": ["AN OLD KING", "A RANSOM", "ONE LAST NIGHT"], "defaults": ["priam", "mascot"], "protected": ["moonlit path", "command tent entrance"]},
-    {"location": "loc_camp", "label": "GREEK CAMP — ACHILLES'S TENT", "interior": True, "theme": "The interior of a plain Bronze Age Greek command tent beside the sea, open tent entrance, a low stool, folded undyed linen and a small bronze oil lamp; no occupants", "headline": "A FATHER'S PLEA", "emphasis": "FATHER'S", "chips": ["PRIAM", "ACHILLES", "PITY FOR AN ENEMY"], "defaults": ["priam", "achilles"], "supporting_characters": ["achilles"], "protected": ["open tent entrance", "low stool"]},
+    {"location": "loc_camp", "label": "GREEK CAMP — THE NIGHT APPROACH", "night": True, "additional_prompt_constraints": "No carts, chariots, wagons, wheeled vehicles, or extra furniture; keep the lower third as open sand.", "theme": "A quiet Bronze Age Greek beach camp at night, a moonlit sandy path between low canvas command tents and dark braziers, the Aegean barely visible beyond; completely empty", "headline": "PRIAM CROSSES THE PLAIN", "emphasis": "PRIAM", "chips": ["AN OLD KING", "A RANSOM", "ONE LAST NIGHT"], "defaults": ["priam", "mascot"], "protected": ["moonlit path", "command tent entrance"]},
+    {"location": "loc_camp", "label": "GREEK CAMP — ACHILLES'S TENT", "interior": True, "night": True, "theme": "A deep-night interior of a plain Bronze Age Greek command tent beside the sea, warm bronze oil-lamp glow, open tent entrance onto a dark moonlit Aegean, a low stool and folded undyed linen; no occupants or daylight", "headline": "A FATHER'S PLEA", "emphasis": "FATHER'S", "chips": ["PRIAM", "ACHILLES", "PITY FOR AN ENEMY"], "defaults": ["priam", "achilles"], "supporting_characters": ["achilles"], "protected": ["open tent entrance", "low stool"]},
     {"location": "loc_camp", "label": "GREEK CAMP — A SHARED MEAL", "interior": True, "theme": "A spare Bronze Age tent interior with a low wooden table, two simple bowls, folded linen and a warm bronze lamp, quiet and unoccupied", "headline": "SHARED GRIEF", "emphasis": "GRIEF", "chips": ["TWO FATHERS", "A SHARED MEAL", "MOURNING"], "defaults": ["achilles", "priam"], "supporting_characters": ["priam"], "protected": ["low wooden table", "bronze lamp"]},
     {"location": "loc_camp", "label": "GREEK CAMP — HECTOR'S FUNERAL TRUCE", "theme": "A quiet beach camp at first light, an extinguished ceremonial firepit beside open ground, canvas tents and a calm grey sea beyond; no people, remains or bodies", "headline": "THE ILIAD'S END", "emphasis": "ILIAD'S", "chips": ["HECTOR BURIED", "A TRUCE", "THE WAR CONTINUES"], "defaults": ["achilles", "mascot"], "protected": ["empty firepit", "open beach"]},
     {"location": "loc_troy", "label": "TROJAN PLAIN — NEW ALLIES", "theme": "The broad empty plain below Troy's ancient walls, dry grasses, distant ridges and a muted dawn sky suggesting new forces arriving from far away; no figures", "headline": "LOST POEMS, LAST ALLIES", "emphasis": "ALLIES", "chips": ["PENTHESILEA", "MEMNON", "THE STORY CONTINUES"], "defaults": ["mascot"], "protected": ["open plain", "distant city walls"]},
@@ -135,12 +135,21 @@ def build_prompt(design: dict, shot_index: int, shot_type: str, view: str) -> st
             "medium": "layer the environment around one restrained focal area",
             "detail": "frame an environmental surface or architectural detail without clutter",
         }[shot_type]
+    if design.get("night") and "dawn" in unique_detail:
+        unique_detail = "combine warm oil-lamp glow with cool moonlight; show no dawn or daylight"
+    night_guidance = (
+        " Night lighting only: cool moonlight and warm bronze oil-lamp glow; deep blue-black outside; absolutely no sun, dawn, daylight or bright daytime sky."
+        if design.get("night") else ""
+    )
+    extra_constraints = design.get("additional_prompt_constraints", "")
+    extra_constraints = f" Additional composition constraints: {extra_constraints}" if extra_constraints else ""
     return (
         f"One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for {design['theme']}. "
         f"{shot_type.capitalize()} composition: {view}; {focus}; {unique_detail}. Match the approved "
         f"{design.get('reference', design['location'])} location-sheet palette, architecture and Bronze Age materials. "
         "Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. "
         "Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders."
+        f"{night_guidance}{extra_constraints}"
     )
 
 
@@ -341,8 +350,12 @@ def main():
         raise ValueError("Part 3 background manifest contains plate keys absent from the current scene plan.")
     for record in planned_plates:
         key = (record["clip_id"], record["shot_index"])
-        if by_key.get(key, {}).get("qc_status") == "accepted":
+        prior = by_key.get(key, {})
+        if prior.get("qc_status") == "accepted":
             continue
+        for audit_key in ("candidate_history", "rerolls_used", "rerolls_remaining", "qc_note"):
+            if audit_key in prior:
+                record[audit_key] = prior[audit_key]
         by_key[key] = record
     background_manifest.update({
         "part": 3,
