@@ -1,0 +1,246 @@
+{
+  "passed": true,
+  "checks": {
+    "all_8_raw_batches_mapped": true,
+    "all_source_lines_covered": true,
+    "voice_text_matches_source_plus_approved_override": true,
+    "clip_count_matches_estimate": true,
+    "all_clips_within_44_word_cap": true,
+    "all_clip_paces_within_20_percent": true,
+    "all_segment_paces_within_20_percent": true,
+    "average_pace_within_20_percent": true
+  },
+  "clip_count": 24,
+  "expected_clips": 24,
+  "word_count": 778,
+  "duration_seconds": 364.546,
+  "average_wpm": 128.0,
+  "batch_diagnostics": {
+    "p3_narr_c10.mp3": {
+      "voice_id": "voice-00",
+      "lines": 10,
+      "words": 245,
+      "raw_batch_decoded_seconds_after_pretime": 101.096,
+      "estimated_preconform_wpm": 145.4
+    },
+    "p3_narr_c8.mp3": {
+      "voice_id": "voice-00",
+      "lines": 3,
+      "words": 107,
+      "raw_batch_decoded_seconds_after_pretime": 42.985,
+      "estimated_preconform_wpm": 149.4
+    },
+    "p3_narr_c9a.mp3": {
+      "voice_id": "voice-00",
+      "lines": 2,
+      "words": 103,
+      "raw_batch_decoded_seconds_after_pretime": 42.982,
+      "estimated_preconform_wpm": 143.8
+    },
+    "p3_narr_c9b.mp3": {
+      "voice_id": "voice-00",
+      "lines": 4,
+      "words": 87,
+      "raw_batch_decoded_seconds_after_pretime": 41.929,
+      "estimated_preconform_wpm": 124.5
+    },
+    "p3_narr_c9c.mp3": {
+      "voice_id": "voice-00",
+      "lines": 2,
+      "words": 67,
+      "raw_batch_decoded_seconds_after_pretime": 27.128,
+      "estimated_preconform_wpm": 148.2
+    },
+    "p3_v02.mp3": {
+      "voice_id": "voice-02",
+      "lines": 7,
+      "words": 68,
+      "raw_batch_decoded_seconds_after_pretime": 31.714,
+      "estimated_preconform_wpm": 128.6
+    },
+    "p3_v03.mp3": {
+      "voice_id": "voice-03",
+      "lines": 7,
+      "words": 71,
+      "raw_batch_decoded_seconds_after_pretime": 32.289,
+      "estimated_preconform_wpm": 131.9
+    },
+    "p3_v04.mp3": {
+      "voice_id": "voice-04",
+      "lines": 3,
+      "words": 30,
+      "raw_batch_decoded_seconds_after_pretime": 19.249,
+      "estimated_preconform_wpm": 93.5
+    }
+  },
+  "clip_summary": [
+    {
+      "clip_id": "p3_clip_01",
+      "chapter": "[CHAPTER 8: THE KING IN THE TENT]",
+      "words": 29,
+      "duration_s": 13.493,
+      "wpm": 129.0
+    },
+    {
+      "clip_id": "p3_clip_02",
+      "chapter": "[CHAPTER 8: THE KING IN THE TENT]",
+      "words": 36,
+      "duration_s": 16.855,
+      "wpm": 128.2
+    },
+    {
+      "clip_id": "p3_clip_03",
+      "chapter": "[CHAPTER 8: THE KING IN THE TENT]",
+      "words": 31,
+      "duration_s": 14.594,
+      "wpm": 127.4
+    },
+    {
+      "clip_id": "p3_clip_04",
+      "chapter": "[CHAPTER 8: THE KING IN THE TENT]",
+      "words": 35,
+      "duration_s": 16.223,
+      "wpm": 129.4
+    },
+    {
+      "clip_id": "p3_clip_05",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "words": 16,
+      "duration_s": 7.473,
+      "wpm": 128.5
+    },
+    {
+      "clip_id": "p3_clip_06",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "words": 33,
+      "duration_s": 15.314,
+      "wpm": 129.3
+    },
+    {
+      "clip_id": "p3_clip_07",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "words": 31,
+      "duration_s": 14.399,
+      "wpm": 129.2
+    },
+    {
+      "clip_id": "p3_clip_08",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "words": 23,
+      "duration_s": 11.036,
+      "wpm": 125.0
+    },
+    {
+      "clip_id": "p3_clip_09",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "words": 38,
+      "duration_s": 17.415,
+      "wpm": 130.9
+    },
+    {
+      "clip_id": "p3_clip_10",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "words": 11,
+      "duration_s": 5.311,
+      "wpm": 124.3
+    },
+    {
+      "clip_id": "p3_clip_11",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "words": 42,
+      "duration_s": 19.404,
+      "wpm": 129.9
+    },
+    {
+      "clip_id": "p3_clip_12",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "words": 35,
+      "duration_s": 16.365,
+      "wpm": 128.3
+    },
+    {
+      "clip_id": "p3_clip_13",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "words": 37,
+      "duration_s": 17.285,
+      "wpm": 128.4
+    },
+    {
+      "clip_id": "p3_clip_14",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "words": 27,
+      "duration_s": 12.799,
+      "wpm": 126.6
+    },
+    {
+      "clip_id": "p3_clip_15",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "words": 22,
+      "duration_s": 10.327,
+      "wpm": 127.8
+    },
+    {
+      "clip_id": "p3_clip_16",
+      "chapter": "[CHAPTER 10: THE HORSE]",
+      "words": 37,
+      "duration_s": 16.996,
+      "wpm": 130.6
+    },
+    {
+      "clip_id": "p3_clip_17",
+      "chapter": "[CHAPTER 10: THE HORSE]",
+      "words": 30,
+      "duration_s": 14.359,
+      "wpm": 125.4
+    },
+    {
+      "clip_id": "p3_clip_18",
+      "chapter": "[CHAPTER 10: THE HORSE]",
+      "words": 31,
+      "duration_s": 14.405,
+      "wpm": 129.1
+    },
+    {
+      "clip_id": "p3_clip_19",
+      "chapter": "[CHAPTER 10: THE HORSE]",
+      "words": 43,
+      "duration_s": 20.632,
+      "wpm": 125.0
+    },
+    {
+      "clip_id": "p3_clip_20",
+      "chapter": "[CHAPTER 10: THE HORSE]",
+      "words": 44,
+      "duration_s": 20.576,
+      "wpm": 128.3
+    },
+    {
+      "clip_id": "p3_clip_21",
+      "chapter": "[CHAPTER 10: THE HORSE]",
+      "words": 25,
+      "duration_s": 11.863,
+      "wpm": 126.4
+    },
+    {
+      "clip_id": "p3_clip_22",
+      "chapter": "[CHAPTER 10: THE HORSE]",
+      "words": 38,
+      "duration_s": 18.033,
+      "wpm": 126.4
+    },
+    {
+      "clip_id": "p3_clip_23",
+      "chapter": "[CHAPTER 10: THE HORSE]",
+      "words": 41,
+      "duration_s": 19.15,
+      "wpm": 128.5
+    },
+    {
+      "clip_id": "p3_clip_24",
+      "chapter": "[CHAPTER 10: THE HORSE]",
+      "words": 43,
+      "duration_s": 20.239,
+      "wpm": 127.5
+    }
+  ]
+}

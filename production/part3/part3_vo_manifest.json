@@ -1,0 +1,999 @@
+{
+  "part": 3,
+  "title": "Part 3: The Fall of Heroes & The Wooden Horse",
+  "source_script": "production/script_approved.txt",
+  "source_script_sha256": "f5dd617da3dfe78ffb70a49a6efdb246a93e1990d352fc8335fe696eb9d72240",
+  "override_path": "production/part3/chapter9_vo_override.json",
+  "clip_count": 24,
+  "word_count": 778,
+  "total_duration_s": 364.546,
+  "total_minutes": 6.076,
+  "average_wpm": 128.0,
+  "target_wpm": 130.0,
+  "batch_diagnostics": {
+    "p3_narr_c10.mp3": {
+      "voice_id": "voice-00",
+      "lines": 10,
+      "words": 245,
+      "raw_batch_decoded_seconds_after_pretime": 101.096,
+      "estimated_preconform_wpm": 145.4
+    },
+    "p3_narr_c8.mp3": {
+      "voice_id": "voice-00",
+      "lines": 3,
+      "words": 107,
+      "raw_batch_decoded_seconds_after_pretime": 42.985,
+      "estimated_preconform_wpm": 149.4
+    },
+    "p3_narr_c9a.mp3": {
+      "voice_id": "voice-00",
+      "lines": 2,
+      "words": 103,
+      "raw_batch_decoded_seconds_after_pretime": 42.982,
+      "estimated_preconform_wpm": 143.8
+    },
+    "p3_narr_c9b.mp3": {
+      "voice_id": "voice-00",
+      "lines": 4,
+      "words": 87,
+      "raw_batch_decoded_seconds_after_pretime": 41.929,
+      "estimated_preconform_wpm": 124.5
+    },
+    "p3_narr_c9c.mp3": {
+      "voice_id": "voice-00",
+      "lines": 2,
+      "words": 67,
+      "raw_batch_decoded_seconds_after_pretime": 27.128,
+      "estimated_preconform_wpm": 148.2
+    },
+    "p3_v02.mp3": {
+      "voice_id": "voice-02",
+      "lines": 7,
+      "words": 68,
+      "raw_batch_decoded_seconds_after_pretime": 31.714,
+      "estimated_preconform_wpm": 128.6
+    },
+    "p3_v03.mp3": {
+      "voice_id": "voice-03",
+      "lines": 7,
+      "words": 71,
+      "raw_batch_decoded_seconds_after_pretime": 32.289,
+      "estimated_preconform_wpm": 131.9
+    },
+    "p3_v04.mp3": {
+      "voice_id": "voice-04",
+      "lines": 3,
+      "words": 30,
+      "raw_batch_decoded_seconds_after_pretime": 19.249,
+      "estimated_preconform_wpm": 93.5
+    }
+  },
+  "generation_voice_sessions": {
+    "p3_narr_c8.mp3": "session voice-00 (narrator)",
+    "p3_narr_c9a.mp3": "session voice-00 (narrator)",
+    "p3_narr_c9b.mp3": "session voice-00 (narrator)",
+    "p3_narr_c9c.mp3": "session voice-00 (narrator)",
+    "p3_narr_c10.mp3": "session voice-00 (narrator)",
+    "p3_v02.mp3": "session voice-01 (heroic/young male; project voice-02 role)",
+    "p3_v03.mp3": "session voice-04 (regal/gruff; project voice-03 role)",
+    "p3_v04.mp3": "session voice-03 (female; project voice-04 role)"
+  },
+  "clips": [
+    {
+      "clip_id": "p3_clip_01",
+      "chapter": "[CHAPTER 8: THE KING IN THE TENT]",
+      "file_path": "production/part3/vo/p3_clip_01.mp3",
+      "duration_s": 13.493,
+      "words": 29,
+      "wpm": 129.0,
+      "segments": [
+        {
+          "line_index": 0,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "On the twelfth night, an old man crossed the plain alone. Priam, king of Troy, had come to the Greek camp, led by the god Hermes, carrying a ransom.",
+          "words": 29,
+          "t_start": 0.12,
+          "t_end": 13.293,
+          "duration_s": 13.173,
+          "speech_wpm": 132.1,
+          "raw_batch": "p3_narr_c8.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 13.493,
+      "audio_peak_dbfs": -1.72,
+      "audio_rms_dbfs": -18.97,
+      "file_bytes": 271724,
+      "file_sha256": "8a3f5f2c58f2bdc13b8daa950b208e37a5f84c953bab2f2a66bf93874d861b3a"
+    },
+    {
+      "clip_id": "p3_clip_02",
+      "chapter": "[CHAPTER 8: THE KING IN THE TENT]",
+      "file_path": "production/part3/vo/p3_clip_02.mp3",
+      "duration_s": 16.855,
+      "words": 36,
+      "wpm": 128.2,
+      "segments": [
+        {
+          "line_index": 0,
+          "subline_index": 2,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "He walked past the guards, into the tent of the man who had killed his son, and knelt. He took Achilles's hands and kissed them.",
+          "words": 25,
+          "t_start": 0.12,
+          "t_end": 11.473,
+          "duration_s": 11.353,
+          "speech_wpm": 132.1,
+          "raw_batch": "p3_narr_c8.mp3"
+        },
+        {
+          "line_index": 1,
+          "subline_index": 1,
+          "speaker": "PRIAM",
+          "voice_id": "voice-03",
+          "text": "Think of your own father, Achilles. He is old, like me.",
+          "words": 11,
+          "t_start": 11.673,
+          "t_end": 16.655,
+          "duration_s": 4.982,
+          "speech_wpm": 132.5,
+          "raw_batch": "p3_v03.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 16.855,
+      "audio_peak_dbfs": -2.51,
+      "audio_rms_dbfs": -19.0,
+      "file_bytes": 338924,
+      "file_sha256": "efd23f86ced1340e49316dfed754ee4d2468b70cac0c9e8783d0633f0c421f60"
+    },
+    {
+      "clip_id": "p3_clip_03",
+      "chapter": "[CHAPTER 8: THE KING IN THE TENT]",
+      "file_path": "production/part3/vo/p3_clip_03.mp3",
+      "duration_s": 14.594,
+      "words": 31,
+      "wpm": 127.4,
+      "segments": [
+        {
+          "line_index": 2,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Achilles did. The two of them wept in the same room, one for Hector and one for Patroclus.",
+          "words": 18,
+          "t_start": 0.12,
+          "t_end": 8.282,
+          "duration_s": 8.162,
+          "speech_wpm": 132.3,
+          "raw_batch": "p3_narr_c8.mp3"
+        },
+        {
+          "line_index": 3,
+          "subline_index": 1,
+          "speaker": "ACHILLES",
+          "voice_id": "voice-02",
+          "text": "Sit, old king. Eat. Even Niobe ate, after she lost all her children.",
+          "words": 13,
+          "t_start": 8.482,
+          "t_end": 14.394,
+          "duration_s": 5.913,
+          "speech_wpm": 131.9,
+          "raw_batch": "p3_v02.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 14.594,
+      "audio_peak_dbfs": -2.93,
+      "audio_rms_dbfs": -19.02,
+      "file_bytes": 293804,
+      "file_sha256": "819e0440beaad5bd360aeee6255f189c1be5417e063e335d741f478cc04d8814"
+    },
+    {
+      "clip_id": "p3_clip_04",
+      "chapter": "[CHAPTER 8: THE KING IN THE TENT]",
+      "file_path": "production/part3/vo/p3_clip_04.mp3",
+      "duration_s": 16.223,
+      "words": 35,
+      "wpm": 129.4,
+      "segments": [
+        {
+          "line_index": 4,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "He gave back the body and promised a truce for the funeral. The Iliad ends right there, with the burial of Hector, tamer of horses. Not with a victory. But the war was not over.",
+          "words": 35,
+          "t_start": 0.12,
+          "t_end": 16.023,
+          "duration_s": 15.903,
+          "speech_wpm": 132.1,
+          "raw_batch": "p3_narr_c8.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 16.223,
+      "audio_peak_dbfs": -1.89,
+      "audio_rms_dbfs": -18.95,
+      "file_bytes": 325964,
+      "file_sha256": "8664cf02472a048f772aca17fcf63b2abe546cfcb16c1400c3d5fe623bc9177b"
+    },
+    {
+      "clip_id": "p3_clip_05",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "file_path": "production/part3/vo/p3_clip_05.mp3",
+      "duration_s": 7.473,
+      "words": 16,
+      "wpm": 128.5,
+      "segments": [
+        {
+          "line_index": 5,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "The rest comes from lost poems and later writers. Two more allies arrived to help Troy.",
+          "words": 16,
+          "t_start": 0.12,
+          "t_end": 7.273,
+          "duration_s": 7.153,
+          "speech_wpm": 134.2,
+          "raw_batch": "p3_narr_c9a.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 7.473,
+      "audio_peak_dbfs": -3.26,
+      "audio_rms_dbfs": -19.05,
+      "file_bytes": 151244,
+      "file_sha256": "ce5c5ff697bf75457db8886e5ca2b1206223bcf36759a570caf9e75c33cbfda9"
+    },
+    {
+      "clip_id": "p3_clip_06",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "file_path": "production/part3/vo/p3_clip_06.mp3",
+      "duration_s": 15.314,
+      "words": 33,
+      "wpm": 129.3,
+      "segments": [
+        {
+          "line_index": 5,
+          "subline_index": 2,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "An Amazon queen named Penthesilea, whom Achilles killed, and then, the story says, regretted. Then Memnon, a king from the east and the son of the goddess of dawn. Achilles killed him too.",
+          "words": 33,
+          "t_start": 0.12,
+          "t_end": 15.114,
+          "duration_s": 14.994,
+          "speech_wpm": 132.1,
+          "raw_batch": "p3_narr_c9a.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 15.314,
+      "audio_peak_dbfs": -2.58,
+      "audio_rms_dbfs": -18.96,
+      "file_bytes": 308204,
+      "file_sha256": "71d8b5834925de38d3564f80de2ade972948ea92620867eedbc780447110b51f"
+    },
+    {
+      "clip_id": "p3_clip_07",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "file_path": "production/part3/vo/p3_clip_07.mp3",
+      "duration_s": 14.399,
+      "words": 31,
+      "wpm": 129.2,
+      "segments": [
+        {
+          "line_index": 6,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "But Paris, the shepherd who started it all, drew his bow at the city gates. The arrow struck Achilles, guided by Apollo, and the greatest warrior of the Greeks was dead.",
+          "words": 31,
+          "t_start": 0.12,
+          "t_end": 14.199,
+          "duration_s": 14.079,
+          "speech_wpm": 132.1,
+          "raw_batch": "p3_narr_c9a.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 14.399,
+      "audio_peak_dbfs": -2.31,
+      "audio_rms_dbfs": -18.96,
+      "file_bytes": 289484,
+      "file_sha256": "c301c5fa81f80dd563273fa19faeef7ee09f904a8506d9db66b8e71421415c0f"
+    },
+    {
+      "clip_id": "p3_clip_08",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "file_path": "production/part3/vo/p3_clip_08.mp3",
+      "duration_s": 11.036,
+      "words": 23,
+      "wpm": 125.0,
+      "segments": [
+        {
+          "line_index": 6,
+          "subline_index": 2,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "The famous heel does not appear in any of the early poems. A Roman poet added it more than a thousand years later.",
+          "words": 23,
+          "t_start": 0.12,
+          "t_end": 10.836,
+          "duration_s": 10.716,
+          "speech_wpm": 128.8,
+          "raw_batch": "p3_narr_c9a.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 11.036,
+      "audio_peak_dbfs": -4.84,
+      "audio_rms_dbfs": -18.99,
+      "file_bytes": 222284,
+      "file_sha256": "76c5488aa09188dae500b0f52416b4681f13d5d2748487207e396bb36f629bbd"
+    },
+    {
+      "clip_id": "p3_clip_09",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "file_path": "production/part3/vo/p3_clip_09.mp3",
+      "duration_s": 17.415,
+      "words": 38,
+      "wpm": 130.9,
+      "segments": [
+        {
+          "line_index": 7,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Achilles's divine armor now needed an owner. Ajax, the huge, stubborn warrior who had carried the body from the field, was sure it was his.",
+          "words": 25,
+          "t_start": 0.186,
+          "t_end": 10.922,
+          "duration_s": 10.736,
+          "speech_wpm": 139.7,
+          "raw_batch": "p3_narr_c9c.mp3"
+        },
+        {
+          "line_index": 8,
+          "subline_index": 1,
+          "speaker": "AJAX",
+          "voice_id": "voice-03",
+          "text": "I stood over his body while the arrows fell. Those weapons are mine.",
+          "words": 13,
+          "t_start": 11.231,
+          "t_end": 17.105,
+          "duration_s": 5.875,
+          "speech_wpm": 132.8,
+          "raw_batch": "p3_v03.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 17.415,
+      "audio_peak_dbfs": -1.98,
+      "audio_rms_dbfs": -19.07,
+      "file_bytes": 349964,
+      "file_sha256": "753e18d7191e9387597b68bf2ebc2d770e094b9cf06cef92af1db9ae6bf09403"
+    },
+    {
+      "clip_id": "p3_clip_10",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "file_path": "production/part3/vo/p3_clip_10.mp3",
+      "duration_s": 5.311,
+      "words": 11,
+      "wpm": 124.3,
+      "segments": [
+        {
+          "line_index": 9,
+          "subline_index": 1,
+          "speaker": "ODYSSEUS",
+          "voice_id": "voice-02",
+          "text": "And I held the line behind you. Let the judges decide.",
+          "words": 11,
+          "t_start": 0.12,
+          "t_end": 5.111,
+          "duration_s": 4.991,
+          "speech_wpm": 132.2,
+          "raw_batch": "p3_v02.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 5.311,
+      "audio_peak_dbfs": -4.71,
+      "audio_rms_dbfs": -19.13,
+      "file_bytes": 108044,
+      "file_sha256": "b5c1cf78790f848004f8e29b6be7baba97916f502fb0d5f8bfb8ca21c7dbbf62"
+    },
+    {
+      "clip_id": "p3_clip_11",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "file_path": "production/part3/vo/p3_clip_11.mp3",
+      "duration_s": 19.404,
+      "words": 42,
+      "wpm": 129.9,
+      "segments": [
+        {
+          "line_index": 10,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "The Greeks gave it to Odysseus. Ajax lost his reason and slaughtered a flock of livestock, thinking they were his own commanders. When he came to his senses, he could not bear what he had done, and he succumbed to his grief.",
+          "words": 42,
+          "t_start": 0.12,
+          "t_end": 19.204,
+          "duration_s": 19.084,
+          "speech_wpm": 132.0,
+          "raw_batch": "p3_narr_c9c.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 19.404,
+      "audio_peak_dbfs": -3.7,
+      "audio_rms_dbfs": -18.94,
+      "file_bytes": 389804,
+      "file_sha256": "2c632648af0367e3cc8d307cf22b23dc5e9c9e9833b25aaaa9f20875579b48f9"
+    },
+    {
+      "clip_id": "p3_clip_12",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "file_path": "production/part3/vo/p3_clip_12.mp3",
+      "duration_s": 16.365,
+      "words": 35,
+      "wpm": 128.3,
+      "segments": [
+        {
+          "line_index": 11,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Then a captured Trojan seer told the Greeks what they still needed.",
+          "words": 12,
+          "t_start": 0.12,
+          "t_end": 5.581,
+          "duration_s": 5.461,
+          "speech_wpm": 131.8,
+          "raw_batch": "p3_narr_c9b.mp3"
+        },
+        {
+          "line_index": 12,
+          "subline_index": 1,
+          "speaker": "HELENUS",
+          "voice_id": "voice-03",
+          "text": "You need three things. Achilles's son. The statue of Athena inside the city. And the bow of Heracles. Without them, Troy stands forever.",
+          "words": 23,
+          "t_start": 5.781,
+          "t_end": 16.165,
+          "duration_s": 10.384,
+          "speech_wpm": 132.9,
+          "raw_batch": "p3_v03.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 16.365,
+      "audio_peak_dbfs": -3.25,
+      "audio_rms_dbfs": -19.0,
+      "file_bytes": 328844,
+      "file_sha256": "aac422a26035ba9dc942194a1fe081c4cf5310f509ae0614046dc445e8c3fd8e"
+    },
+    {
+      "clip_id": "p3_clip_13",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "file_path": "production/part3/vo/p3_clip_13.mp3",
+      "duration_s": 17.285,
+      "words": 37,
+      "wpm": 128.4,
+      "segments": [
+        {
+          "line_index": 13,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "They sent for all three. Philoctetes was healed and went back to the war. His first target was Paris. The arrow struck, and Paris, dying, begged for help from Oenone, a nymph he had abandoned years before.",
+          "words": 37,
+          "t_start": 0.12,
+          "t_end": 17.084,
+          "duration_s": 16.965,
+          "speech_wpm": 130.9,
+          "raw_batch": "p3_narr_c9b.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 17.285,
+      "audio_peak_dbfs": -3.08,
+      "audio_rms_dbfs": -18.94,
+      "file_bytes": 347564,
+      "file_sha256": "4131a2ea1cc65259c2e93bf357408860f1912261135d6004af1c3e2385276b01"
+    },
+    {
+      "clip_id": "p3_clip_14",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "file_path": "production/part3/vo/p3_clip_14.mp3",
+      "duration_s": 12.799,
+      "words": 27,
+      "wpm": 126.6,
+      "segments": [
+        {
+          "line_index": 14,
+          "subline_index": 1,
+          "speaker": "OENONE",
+          "voice_id": "voice-04",
+          "text": "You left me for her. And now you want my help?",
+          "words": 11,
+          "t_start": 0.12,
+          "t_end": 5.132,
+          "duration_s": 5.012,
+          "speech_wpm": 131.7,
+          "raw_batch": "p3_v04.mp3"
+        },
+        {
+          "line_index": 15,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "She refused. She changed her mind too late, and grief took her beside his funeral fire.",
+          "words": 16,
+          "t_start": 5.332,
+          "t_end": 12.599,
+          "duration_s": 7.267,
+          "speech_wpm": 132.1,
+          "raw_batch": "p3_narr_c9b.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 12.799,
+      "audio_peak_dbfs": -1.67,
+      "audio_rms_dbfs": -19.04,
+      "file_bytes": 257804,
+      "file_sha256": "50195db885e591a78438d9eb83fec782efccf5e70a99e51da2762c5c412e79b2"
+    },
+    {
+      "clip_id": "p3_clip_15",
+      "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+      "file_path": "production/part3/vo/p3_clip_15.mp3",
+      "duration_s": 10.327,
+      "words": 22,
+      "wpm": 127.8,
+      "segments": [
+        {
+          "line_index": 16,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Odysseus and Diomedes crept into Troy at night and stole the statue. Every prophecy was now fulfilled. And Troy's walls still stood.",
+          "words": 22,
+          "t_start": 0.12,
+          "t_end": 10.127,
+          "duration_s": 10.007,
+          "speech_wpm": 131.9,
+          "raw_batch": "p3_narr_c9b.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 10.327,
+      "audio_peak_dbfs": -2.85,
+      "audio_rms_dbfs": -19.0,
+      "file_bytes": 208364,
+      "file_sha256": "5ccb7881617d72b7b661f5b0b6884c66fe24d96c388a2363cb2db434ecabbea3"
+    },
+    {
+      "clip_id": "p3_clip_16",
+      "chapter": "[CHAPTER 10: THE HORSE]",
+      "file_path": "production/part3/vo/p3_clip_16.mp3",
+      "duration_s": 16.996,
+      "words": 37,
+      "wpm": 130.6,
+      "segments": [
+        {
+          "line_index": 17,
+          "subline_index": 1,
+          "speaker": "ODYSSEUS",
+          "voice_id": "voice-02",
+          "text": "We can't break their walls. So we make them open the gates themselves.",
+          "words": 13,
+          "t_start": 0.121,
+          "t_end": 6.021,
+          "duration_s": 5.9,
+          "speech_wpm": 132.2,
+          "raw_batch": "p3_v02.mp3"
+        },
+        {
+          "line_index": 18,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "The Greeks would build a giant wooden horse and leave it outside the gate, as an offering to Athena for a safe voyage home.",
+          "words": 24,
+          "t_start": 6.223,
+          "t_end": 16.794,
+          "duration_s": 10.571,
+          "speech_wpm": 136.2,
+          "raw_batch": "p3_narr_c10.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 16.996,
+      "audio_peak_dbfs": -2.97,
+      "audio_rms_dbfs": -19.0,
+      "file_bytes": 341804,
+      "file_sha256": "9c138cab70aa010472e06ea325fb2f936a39d396f50e445a96a3ada9f7205464"
+    },
+    {
+      "clip_id": "p3_clip_17",
+      "chapter": "[CHAPTER 10: THE HORSE]",
+      "file_path": "production/part3/vo/p3_clip_17.mp3",
+      "duration_s": 14.359,
+      "words": 30,
+      "wpm": 125.4,
+      "segments": [
+        {
+          "line_index": 18,
+          "subline_index": 2,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Inside, they would hide their best men. The rest would burn the camp and sail away, hiding behind a nearby island.",
+          "words": 21,
+          "t_start": 0.12,
+          "t_end": 9.652,
+          "duration_s": 9.532,
+          "speech_wpm": 132.2,
+          "raw_batch": "p3_narr_c10.mp3"
+        },
+        {
+          "line_index": 19,
+          "subline_index": 1,
+          "speaker": "EPEIUS",
+          "voice_id": "voice-02",
+          "text": "Give me pine from Mount Ida and three days.",
+          "words": 9,
+          "t_start": 9.852,
+          "t_end": 14.159,
+          "duration_s": 4.306,
+          "speech_wpm": 125.4,
+          "raw_batch": "p3_v02.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 14.359,
+      "audio_peak_dbfs": -2.79,
+      "audio_rms_dbfs": -19.02,
+      "file_bytes": 289004,
+      "file_sha256": "011194f8c0141a1c6ca4c38014be6c0c1a61c2a3f0588ba214688ffd9b6df54b"
+    },
+    {
+      "clip_id": "p3_clip_18",
+      "chapter": "[CHAPTER 10: THE HORSE]",
+      "file_path": "production/part3/vo/p3_clip_18.mp3",
+      "duration_s": 14.405,
+      "words": 31,
+      "wpm": 129.1,
+      "segments": [
+        {
+          "line_index": 20,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "A craftsman named Epeius built it, with Athena's help. The story does not agree on how many men fit inside. Some say twenty. Some say fifty. Nobody says it was comfortable.",
+          "words": 31,
+          "t_start": 0.12,
+          "t_end": 14.205,
+          "duration_s": 14.085,
+          "speech_wpm": 132.1,
+          "raw_batch": "p3_narr_c10.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 14.405,
+      "audio_peak_dbfs": -2.49,
+      "audio_rms_dbfs": -18.96,
+      "file_bytes": 289964,
+      "file_sha256": "af76c048ed638ec27546181bdffe12dd84e4ce4f46efbd51ba7edbf94a5bc4ca"
+    },
+    {
+      "clip_id": "p3_clip_19",
+      "chapter": "[CHAPTER 10: THE HORSE]",
+      "file_path": "production/part3/vo/p3_clip_19.mp3",
+      "duration_s": 20.632,
+      "words": 43,
+      "wpm": 125.0,
+      "segments": [
+        {
+          "line_index": 21,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "In the morning, the Trojans walked out to find the Greek camp gone and an enormous horse standing in the sand. They argued.",
+          "words": 23,
+          "t_start": 0.12,
+          "t_end": 10.552,
+          "duration_s": 10.432,
+          "speech_wpm": 132.3,
+          "raw_batch": "p3_narr_c10.mp3"
+        },
+        {
+          "line_index": 22,
+          "subline_index": 1,
+          "speaker": "TROJAN",
+          "voice_id": "voice-02",
+          "text": "Burn it.",
+          "words": 2,
+          "t_start": 10.752,
+          "t_end": 11.667,
+          "duration_s": 0.915,
+          "speech_wpm": 131.1,
+          "raw_batch": "p3_v02.mp3"
+        },
+        {
+          "line_index": 23,
+          "subline_index": 1,
+          "speaker": "ANOTHER TROJAN",
+          "voice_id": "voice-03",
+          "text": "Break it open.",
+          "words": 3,
+          "t_start": 11.867,
+          "t_end": 13.222,
+          "duration_s": 1.355,
+          "speech_wpm": 132.8,
+          "raw_batch": "p3_v03.mp3"
+        },
+        {
+          "line_index": 24,
+          "subline_index": 1,
+          "speaker": "THIRD TROJAN",
+          "voice_id": "voice-03",
+          "text": "Drag it inside. It's a gift to Athena.",
+          "words": 8,
+          "t_start": 13.422,
+          "t_end": 17.043,
+          "duration_s": 3.621,
+          "speech_wpm": 132.6,
+          "raw_batch": "p3_v03.mp3"
+        },
+        {
+          "line_index": 25,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "A priest named Laoco\u00f6n had no doubt.",
+          "words": 7,
+          "t_start": 17.243,
+          "t_end": 20.432,
+          "duration_s": 3.189,
+          "speech_wpm": 131.7,
+          "raw_batch": "p3_narr_c10.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 20.632,
+      "audio_peak_dbfs": -2.54,
+      "audio_rms_dbfs": -19.11,
+      "file_bytes": 414284,
+      "file_sha256": "98804b3b89958318035b0658541ac269c92edd7dce1199f07382b2ab6412dd60"
+    },
+    {
+      "clip_id": "p3_clip_20",
+      "chapter": "[CHAPTER 10: THE HORSE]",
+      "file_path": "production/part3/vo/p3_clip_20.mp3",
+      "duration_s": 20.576,
+      "words": 44,
+      "wpm": 128.3,
+      "segments": [
+        {
+          "line_index": 26,
+          "subline_index": 1,
+          "speaker": "LAOCOON",
+          "voice_id": "voice-03",
+          "text": "I don't trust Greeks, even when they bring gifts.",
+          "words": 9,
+          "t_start": 0.12,
+          "t_end": 4.282,
+          "duration_s": 4.162,
+          "speech_wpm": 129.8,
+          "raw_batch": "p3_v03.mp3"
+        },
+        {
+          "line_index": 27,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "He threw a spear into its side, and the horse rang hollow. But that night, two sea serpents rose from the water and killed him and his sons. The Trojans took it as a sign.",
+          "words": 35,
+          "t_start": 4.482,
+          "t_end": 20.376,
+          "duration_s": 15.895,
+          "speech_wpm": 132.1,
+          "raw_batch": "p3_narr_c10.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 20.576,
+      "audio_peak_dbfs": -3.16,
+      "audio_rms_dbfs": -18.97,
+      "file_bytes": 413324,
+      "file_sha256": "af6dbc00fec2b28870739a90045448f346eba2c55adb8dbf41a8c4e46404f1f7"
+    },
+    {
+      "clip_id": "p3_clip_21",
+      "chapter": "[CHAPTER 10: THE HORSE]",
+      "file_path": "production/part3/vo/p3_clip_21.mp3",
+      "duration_s": 11.863,
+      "words": 25,
+      "wpm": 126.4,
+      "segments": [
+        {
+          "line_index": 28,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "A Greek prisoner named Sinon helped them decide.",
+          "words": 8,
+          "t_start": 0.12,
+          "t_end": 3.745,
+          "duration_s": 3.625,
+          "speech_wpm": 132.4,
+          "raw_batch": "p3_narr_c10.mp3"
+        },
+        {
+          "line_index": 29,
+          "subline_index": 1,
+          "speaker": "SINON",
+          "voice_id": "voice-02",
+          "text": "They left me to die. I'm telling you the truth. Keep the horse, and Athena protects you.",
+          "words": 17,
+          "t_start": 3.945,
+          "t_end": 11.663,
+          "duration_s": 7.718,
+          "speech_wpm": 132.2,
+          "raw_batch": "p3_v02.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 11.863,
+      "audio_peak_dbfs": -4.16,
+      "audio_rms_dbfs": -19.06,
+      "file_bytes": 239084,
+      "file_sha256": "7c284a9f19c1fcecaf6a96db1d793a32ae985b3cd13f61e195bc3474d8b1d932"
+    },
+    {
+      "clip_id": "p3_clip_22",
+      "chapter": "[CHAPTER 10: THE HORSE]",
+      "file_path": "production/part3/vo/p3_clip_22.mp3",
+      "duration_s": 18.033,
+      "words": 38,
+      "wpm": 126.4,
+      "segments": [
+        {
+          "line_index": 30,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "Cassandra, a daughter of Priam, told them the truth. Apollo had given her the gift of prophecy and the curse of never being believed.",
+          "words": 24,
+          "t_start": 0.12,
+          "t_end": 11.013,
+          "duration_s": 10.893,
+          "speech_wpm": 132.2,
+          "raw_batch": "p3_narr_c10.mp3"
+        },
+        {
+          "line_index": 31,
+          "subline_index": 1,
+          "speaker": "CASSANDRA",
+          "voice_id": "voice-04",
+          "text": "There are men inside. Burn it, before it burns you.",
+          "words": 10,
+          "t_start": 11.213,
+          "t_end": 15.733,
+          "duration_s": 4.52,
+          "speech_wpm": 132.7,
+          "raw_batch": "p3_v04.mp3"
+        },
+        {
+          "line_index": 32,
+          "subline_index": 1,
+          "speaker": "CROWD",
+          "voice_id": "voice-03",
+          "text": "Quiet, Cassandra. Not tonight.",
+          "words": 4,
+          "t_start": 15.933,
+          "t_end": 17.833,
+          "duration_s": 1.899,
+          "speech_wpm": 126.4,
+          "raw_batch": "p3_v03.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 18.033,
+      "audio_peak_dbfs": -1.44,
+      "audio_rms_dbfs": -19.04,
+      "file_bytes": 362444,
+      "file_sha256": "54f78d4ea40bfd5a80d450b5c50325bbf100d69dd2b3b6110e5f1df59a7ce8ad"
+    },
+    {
+      "clip_id": "p3_clip_23",
+      "chapter": "[CHAPTER 10: THE HORSE]",
+      "file_path": "production/part3/vo/p3_clip_23.mp3",
+      "duration_s": 19.15,
+      "words": 41,
+      "wpm": 128.5,
+      "segments": [
+        {
+          "line_index": 33,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "And the Odyssey adds a detail that gives me chills. Helen, in the dark, walked around the horse and called out to the men inside, in the voices of their own wives.",
+          "words": 32,
+          "t_start": 0.12,
+          "t_end": 14.649,
+          "duration_s": 14.529,
+          "speech_wpm": 132.1,
+          "raw_batch": "p3_narr_c10.mp3"
+        },
+        {
+          "line_index": 34,
+          "subline_index": 1,
+          "speaker": "HELEN",
+          "voice_id": "voice-04",
+          "text": "Is that you, my love? Come out. It's me.",
+          "words": 9,
+          "t_start": 14.849,
+          "t_end": 18.95,
+          "duration_s": 4.101,
+          "speech_wpm": 131.7,
+          "raw_batch": "p3_v04.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 19.15,
+      "audio_peak_dbfs": -1.45,
+      "audio_rms_dbfs": -18.98,
+      "file_bytes": 384524,
+      "file_sha256": "eb7b47471cd614ac7e415f84c9db72f645fbb81b16a56adc01477fc92ed0d721"
+    },
+    {
+      "clip_id": "p3_clip_24",
+      "chapter": "[CHAPTER 10: THE HORSE]",
+      "file_path": "production/part3/vo/p3_clip_24.mp3",
+      "duration_s": 20.239,
+      "words": 43,
+      "wpm": 127.5,
+      "segments": [
+        {
+          "line_index": 35,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "The men inside went still. One of them started to answer. Odysseus clamped a hand over his mouth.",
+          "words": 18,
+          "t_start": 0.12,
+          "t_end": 8.287,
+          "duration_s": 8.167,
+          "speech_wpm": 132.2,
+          "raw_batch": "p3_narr_c10.mp3"
+        },
+        {
+          "line_index": 36,
+          "subline_index": 1,
+          "speaker": "ODYSSEUS",
+          "voice_id": "voice-02",
+          "text": "Not a sound.",
+          "words": 3,
+          "t_start": 8.487,
+          "t_end": 9.844,
+          "duration_s": 1.357,
+          "speech_wpm": 132.7,
+          "raw_batch": "p3_v02.mp3"
+        },
+        {
+          "line_index": 37,
+          "subline_index": 1,
+          "speaker": "NARRATOR",
+          "voice_id": "voice-00",
+          "text": "He held it there until she went away. The Trojans pulled the horse inside. They celebrated all night, and then they slept.",
+          "words": 22,
+          "t_start": 10.044,
+          "t_end": 20.039,
+          "duration_s": 9.996,
+          "speech_wpm": 132.1,
+          "raw_batch": "p3_narr_c10.mp3"
+        }
+      ],
+      "decoded_seconds_after_mp3": 20.239,
+      "audio_peak_dbfs": -3.15,
+      "audio_rms_dbfs": -19.02,
+      "file_bytes": 406604,
+      "file_sha256": "c318507cdfefd1cf3090082967221f75d0caa448a15a4efb2e50d1c10d8441c4"
+    }
+  ],
+  "qc_checks": {
+    "all_8_raw_batches_mapped": true,
+    "all_source_lines_covered": true,
+    "voice_text_matches_source_plus_approved_override": true,
+    "clip_count_matches_estimate": true,
+    "all_clips_within_44_word_cap": true,
+    "all_clip_paces_within_20_percent": true,
+    "all_segment_paces_within_20_percent": true,
+    "average_pace_within_20_percent": true
+  }
+}

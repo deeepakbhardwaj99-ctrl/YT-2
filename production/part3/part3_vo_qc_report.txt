@@ -1,0 +1,39 @@
+PART 3 VO QC — PASS
+Raw batches: 8/8 | Clips: 24 (estimate 24)
+VO words: 778 | Runtime: 364.55s (6.08 min) | Average pace: 128.0 WPM
+
+Checks:
+  PASS  all 8 raw batches mapped
+  PASS  all source lines covered
+  PASS  voice text matches source plus approved override
+  PASS  clip count matches estimate
+  PASS  all clips within 44 word cap
+  PASS  all clip paces within 20 percent
+  PASS  all segment paces within 20 percent
+  PASS  average pace within 20 percent
+
+Clip pace summary:
+  p3_clip_01 | [CHAPTER 8: THE KING IN THE TENT] | 29w | 13.49s | 129.0 WPM
+  p3_clip_02 | [CHAPTER 8: THE KING IN THE TENT] | 36w | 16.86s | 128.2 WPM
+  p3_clip_03 | [CHAPTER 8: THE KING IN THE TENT] | 31w | 14.59s | 127.4 WPM
+  p3_clip_04 | [CHAPTER 8: THE KING IN THE TENT] | 35w | 16.22s | 129.4 WPM
+  p3_clip_05 | [CHAPTER 9: THE DEATH OF ACHILLES] | 16w | 7.47s | 128.5 WPM
+  p3_clip_06 | [CHAPTER 9: THE DEATH OF ACHILLES] | 33w | 15.31s | 129.3 WPM
+  p3_clip_07 | [CHAPTER 9: THE DEATH OF ACHILLES] | 31w | 14.40s | 129.2 WPM
+  p3_clip_08 | [CHAPTER 9: THE DEATH OF ACHILLES] | 23w | 11.04s | 125.0 WPM
+  p3_clip_09 | [CHAPTER 9: THE DEATH OF ACHILLES] | 38w | 17.41s | 130.9 WPM
+  p3_clip_10 | [CHAPTER 9: THE DEATH OF ACHILLES] | 11w | 5.31s | 124.3 WPM
+  p3_clip_11 | [CHAPTER 9: THE DEATH OF ACHILLES] | 42w | 19.40s | 129.9 WPM
+  p3_clip_12 | [CHAPTER 9: THE DEATH OF ACHILLES] | 35w | 16.36s | 128.3 WPM
+  p3_clip_13 | [CHAPTER 9: THE DEATH OF ACHILLES] | 37w | 17.29s | 128.4 WPM
+  p3_clip_14 | [CHAPTER 9: THE DEATH OF ACHILLES] | 27w | 12.80s | 126.6 WPM
+  p3_clip_15 | [CHAPTER 9: THE DEATH OF ACHILLES] | 22w | 10.33s | 127.8 WPM
+  p3_clip_16 | [CHAPTER 10: THE HORSE] | 37w | 17.00s | 130.6 WPM
+  p3_clip_17 | [CHAPTER 10: THE HORSE] | 30w | 14.36s | 125.4 WPM
+  p3_clip_18 | [CHAPTER 10: THE HORSE] | 31w | 14.40s | 129.1 WPM
+  p3_clip_19 | [CHAPTER 10: THE HORSE] | 43w | 20.63s | 125.0 WPM
+  p3_clip_20 | [CHAPTER 10: THE HORSE] | 44w | 20.58s | 128.3 WPM
+  p3_clip_21 | [CHAPTER 10: THE HORSE] | 25w | 11.86s | 126.4 WPM
+  p3_clip_22 | [CHAPTER 10: THE HORSE] | 38w | 18.03s | 126.4 WPM
+  p3_clip_23 | [CHAPTER 10: THE HORSE] | 41w | 19.15s | 128.5 WPM
+  p3_clip_24 | [CHAPTER 10: THE HORSE] | 43w | 20.24s | 127.5 WPM
