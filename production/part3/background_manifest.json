@@ -4063,10 +4063,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for At pale dawn outside Troy, the empty Greek beach camp has been struck and a huge wooden horse stands alone in the sand before the distant city gate; no people, figures or text. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and a clear open lower-third foreground; place the setting's main environmental feature in a distinct part of the composition. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "147267527a29799632f0de20ff71ed37c09a74c8611ad8cb75432fcbfdbb5d12",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: final panoramic dawn view of the lone inanimate timber horse before Troy's gate; empty camp and wide clear lower-third ground. No people or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -4074,6 +4077,25 @@
       "protected_objects": [
         "wooden horse",
         "distant city gate"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "147267527a29799632f0de20ff71ed37c09a74c8611ad8cb75432fcbfdbb5d12",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            179,
+            167,
+            166
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: final panoramic dawn view of the lone inanimate timber horse before Troy's gate; empty camp and wide clear lower-third ground. No people or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4084,10 +4106,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The immense wooden horse outside Troy at night, one plain spear resting against its hollow timber side and moonlit water beyond the wall, no people or bodies. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "d68233397323bff5674207ddb4380cb4dbeda4b9adf6a893962a71bf6d908036",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: moonlit close view of the hollow wooden horse and one plain spear resting against it; open ground to the left. No people, bodies, serpents or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "close environmental detail at ground level, no figures, visually distinct composition",
         "open_lower_third": true
@@ -4095,6 +4120,25 @@
       "protected_objects": [
         "horse timber side",
         "plain spear"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "d68233397323bff5674207ddb4380cb4dbeda4b9adf6a893962a71bf6d908036",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            31,
+            50,
+            63
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: moonlit close view of the hollow wooden horse and one plain spear resting against it; open ground to the left. No people, bodies, serpents or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4105,10 +4149,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The immense wooden horse outside Troy at night, one plain spear resting against its hollow timber side and moonlit water beyond the wall, no people or bodies. Wide composition: reverse wide angle at a different time of day, atmospheric depth and open staging space; keep the major geography visible with generous negative space; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "93edcb392622dedb858cda939ed0aed88230674b00aab8e46f18351135de481c",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: reverse wide moonlit approach with horse, spear and distant wall/water; broad open foreground and no occupants. No prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "reverse wide angle at a different time of day, atmospheric depth and open staging space",
         "open_lower_third": true
@@ -4116,6 +4163,25 @@
       "protected_objects": [
         "horse timber side",
         "plain spear"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "93edcb392622dedb858cda939ed0aed88230674b00aab8e46f18351135de481c",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            18,
+            51,
+            96
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: reverse wide moonlit approach with horse, spear and distant wall/water; broad open foreground and no occupants. No prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4126,10 +4192,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The immense wooden horse outside Troy at night, one plain spear resting against its hollow timber side and moonlit water beyond the wall, no people or bodies. Medium composition: raised three-quarter view that reveals a new spatial layer and an unobstructed foreground; layer the environment around one restrained focal area; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "b22d0e27da5f332ea6fecf86c98ca08ced8146e286ae004ab4d86dd06f56d344",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: raised three-quarter night view, hollow horse and single spear to one side, clear ground and moonlit water beyond Troy. No people or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -4137,6 +4206,25 @@
       "protected_objects": [
         "horse timber side",
         "plain spear"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "b22d0e27da5f332ea6fecf86c98ca08ced8146e286ae004ab4d86dd06f56d344",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            26,
+            66,
+            102
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: raised three-quarter night view, hollow horse and single spear to one side, clear ground and moonlit water beyond Troy. No people or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4147,10 +4235,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The immense wooden horse outside Troy at night, one plain spear resting against its hollow timber side and moonlit water beyond the wall, no people or bodies. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; use natural leading lines to guide the eye through a clear, subject-free environment. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "e8dcd66db7c3579dc57fb33da4ab10095cb67a0effdbfddbc7ea0653dc9ede38",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: low-angle timber/spear insert beside the horse; broad clear ground on the left and no markings or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -4158,6 +4249,25 @@
       "protected_objects": [
         "horse timber side",
         "plain spear"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "e8dcd66db7c3579dc57fb33da4ab10095cb67a0effdbfddbc7ea0653dc9ede38",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            32,
+            35,
+            41
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: low-angle timber/spear insert beside the horse; broad clear ground on the left and no markings or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4168,10 +4278,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The immense wooden horse outside Troy at night, one plain spear resting against its hollow timber side and moonlit water beyond the wall, no people or bodies. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; shift to softer evening or dawn light and a reverse-axis composition. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "d5462f0829e6d79dde2af8a8f2d6e72549d03b8895dafc988fb9f62938762ca3",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: distant moonlit view of the hollow horse and spear before Troy; open foreground, no figures or extra animals. Filename banner/signature verified.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -4179,6 +4292,25 @@
       "protected_objects": [
         "horse timber side",
         "plain spear"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "d5462f0829e6d79dde2af8a8f2d6e72549d03b8895dafc988fb9f62938762ca3",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            13,
+            35,
+            56
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: distant moonlit view of the hollow horse and spear before Troy; open foreground, no figures or extra animals. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4189,10 +4321,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The immense wooden horse outside Troy at night, one plain spear resting against its hollow timber side and moonlit water beyond the wall, no people or bodies. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and a clear open lower-third foreground; add a raised spatial layer without introducing structures absent from the location reference. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "fb09079894c95b0d75b243eeba60fbb9b49dbc816078c7e4037cbd532ebb4251",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: wide moonlit gate-and-sea composition with the lone wooden horse and spear at midground; clear staging foreground. No people or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -4200,6 +4335,25 @@
       "protected_objects": [
         "horse timber side",
         "plain spear"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "fb09079894c95b0d75b243eeba60fbb9b49dbc816078c7e4037cbd532ebb4251",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            9,
+            27,
+            49
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: wide moonlit gate-and-sea composition with the lone wooden horse and spear at midground; clear staging foreground. No people or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4210,10 +4364,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The immense wooden horse outside Troy at night, one plain spear resting against its hollow timber side and moonlit water beyond the wall, no people or bodies. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; place the setting's main environmental feature in a distinct part of the composition. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "b51444af3e1839d556da7d337e2c87174e3108f02e8c95f78e965c2983e7a384",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: oblique nighttime view along Troy's wall, horse and single spear off-centre, broad lower ground open. No people, serpents or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -4221,6 +4378,25 @@
       "protected_objects": [
         "horse timber side",
         "plain spear"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "b51444af3e1839d556da7d337e2c87174e3108f02e8c95f78e965c2983e7a384",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            2,
+            23,
+            56
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: oblique nighttime view along Troy's wall, horse and single spear off-centre, broad lower ground open. No people, serpents or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4231,10 +4407,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A shadowed gate courtyard with the wooden horse visible through the open entrance, an empty stone step and a dropped unmarked cloak in cool morning light; no people. Wide composition: reverse wide angle at a different time of day, atmospheric depth and open staging space; keep the major geography visible with generous negative space; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "ffe783f3e4a8a94251f5f5dd74f745ab394af3d44112d244f2d57b94e11dda38",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: cool-morning courtyard view through the open gate toward the horse; cloak lies flat on the far-left step, clearly cloth rather than a body, with clear floor. No people or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "reverse wide angle at a different time of day, atmospheric depth and open staging space",
         "open_lower_third": true
@@ -4242,6 +4421,25 @@
       "protected_objects": [
         "open gate",
         "unmarked cloak"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "ffe783f3e4a8a94251f5f5dd74f745ab394af3d44112d244f2d57b94e11dda38",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            164,
+            209,
+            238
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: cool-morning courtyard view through the open gate toward the horse; cloak lies flat on the far-left step, clearly cloth rather than a body, with clear floor. No people or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4252,10 +4450,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A shadowed gate courtyard with the wooden horse visible through the open entrance, an empty stone step and a dropped unmarked cloak in cool morning light; no people. Medium composition: raised three-quarter view that reveals a new spatial layer and an unobstructed foreground; layer the environment around one restrained focal area; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "9e3dad9aa5867624a17e3201a9bcf58bedaf08d32055fed6cfdbe13dd79ba4e5",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: raised courtyard view with horse through the arch and a flat unmarked cloak on the side steps; central lower floor remains clear. No person-shaped form or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -4263,6 +4464,25 @@
       "protected_objects": [
         "open gate",
         "unmarked cloak"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "9e3dad9aa5867624a17e3201a9bcf58bedaf08d32055fed6cfdbe13dd79ba4e5",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            60,
+            71,
+            78
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: raised courtyard view with horse through the arch and a flat unmarked cloak on the side steps; central lower floor remains clear. No person-shaped form or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4709,8 +4929,8 @@
   ],
   "schema_version": 1,
   "total_planned": 121,
-  "accepted": 90,
-  "pending": 31,
+  "accepted": 100,
+  "pending": 21,
   "note": "Part 3 background plates are generated in batches of 10 and accepted only after individual visual review; every plate must have open lower-third staging and contain no people, faces, bodies, text or modern objects.",
   "shot_cadence_seconds_target": 3.0,
   "character_proxy_note": "Only existing approved cutouts/rigs are used; one-off Chapter 9-10 speakers retain their exact names in dialogue and subtitles, while the proxy map is recorded in scenes.json and part3_scene_plan_notes.md.",
@@ -4782,6 +5002,14 @@
     "status": "complete"
   },
   "batch_09_review": {
+    "initial_candidates_reviewed": 10,
+    "accepted": 10,
+    "rejected_pending_reroll": 0,
+    "rerolls_used": 0,
+    "remaining_rerolls_by_plate": {},
+    "status": "complete"
+  },
+  "batch_10_review": {
     "initial_candidates_reviewed": 10,
     "accepted": 10,
     "rejected_pending_reroll": 0,

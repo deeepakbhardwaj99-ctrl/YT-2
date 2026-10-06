@@ -19600,7 +19600,7 @@
             "wooden horse",
             "distant city gate"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -19751,7 +19751,7 @@
             "horse timber side",
             "plain spear"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "LAOCOON",
@@ -19799,7 +19799,7 @@
             "horse timber side",
             "plain spear"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "LAOCOON",
@@ -19853,7 +19853,7 @@
             "horse timber side",
             "plain spear"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -19901,7 +19901,7 @@
             "horse timber side",
             "plain spear"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -19949,7 +19949,7 @@
             "horse timber side",
             "plain spear"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -19997,7 +19997,7 @@
             "horse timber side",
             "plain spear"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -20045,7 +20045,7 @@
             "horse timber side",
             "plain spear"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -20156,7 +20156,7 @@
             "open gate",
             "unmarked cloak"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -20203,7 +20203,7 @@
             "open gate",
             "unmarked cloak"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
