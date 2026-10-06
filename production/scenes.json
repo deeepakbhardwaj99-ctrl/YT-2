@@ -17760,7 +17760,7 @@
             "unmarked bow",
             "open field"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -17859,7 +17859,7 @@
             "stone hearth",
             "empty grove path"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "OENONE",
@@ -17907,7 +17907,7 @@
             "stone hearth",
             "empty grove path"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "OENONE",
@@ -17961,7 +17961,7 @@
             "stone hearth",
             "empty grove path"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -18009,7 +18009,7 @@
             "stone hearth",
             "empty grove path"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -18111,7 +18111,7 @@
             "empty stone plinth",
             "open alcove"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -18159,7 +18159,7 @@
             "empty stone plinth",
             "open alcove"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -18210,7 +18210,7 @@
             "empty stone plinth",
             "open alcove"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -18312,7 +18312,7 @@
             "timber horse frame",
             "open beach"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ODYSSEUS",
@@ -18360,7 +18360,7 @@
             "timber horse frame",
             "open beach"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ODYSSEUS",

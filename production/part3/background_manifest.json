@@ -2758,10 +2758,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A broad empty field before Troy's weathered walls, an unmarked bow and a single arrow on a low stone ledge, clear ochre earth and distant gates; no people. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; add a raised spatial layer without introducing structures absent from the location reference. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "ba61b0a1f18df60a6b934173710caab3f4178ed29d30858ec4c595fac7988373",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: wide empty ochre field before Troy's weathered walls; bow and single arrow remain on the far-right ledge, leaving broad lower-ground staging open. No people or prohibited content; filename banner and signature verified.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -2769,6 +2772,25 @@
       "protected_objects": [
         "unmarked bow",
         "open field"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "ba61b0a1f18df60a6b934173710caab3f4178ed29d30858ec4c595fac7988373",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            205,
+            168,
+            118
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: wide empty ochre field before Troy's weathered walls; bow and single arrow remain on the far-right ledge, leaving broad lower-ground staging open. No people or prohibited content; filename banner and signature verified."
+        }
       ]
     },
     {
@@ -2779,10 +2801,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A secluded grove on the slopes near Troy at dusk, olive branches, a small stone hearth with a low funeral flame and an empty path through the trees; no people, remains or bodies. Medium composition: raised three-quarter view that reveals a new spatial layer and an unobstructed foreground; layer the environment around one restrained focal area; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "9eec4dddd4411f02998269d22182527a694bba032a450f7ba88d238edbaf5725",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: raised three-quarter view of a secluded olive grove at dusk, with a low hearth/flame and empty path set in the midground; clear open foreground. No people, remains, bodies or prohibited content; filename banner and signature verified.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -2790,6 +2815,25 @@
       "protected_objects": [
         "stone hearth",
         "empty grove path"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "9eec4dddd4411f02998269d22182527a694bba032a450f7ba88d238edbaf5725",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            201,
+            132,
+            60
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: raised three-quarter view of a secluded olive grove at dusk, with a low hearth/flame and empty path set in the midground; clear open foreground. No people, remains, bodies or prohibited content; filename banner and signature verified."
+        }
       ]
     },
     {
@@ -2800,10 +2844,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A secluded grove on the slopes near Troy at dusk, olive branches, a small stone hearth with a low funeral flame and an empty path through the trees; no people, remains or bodies. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "7580579e5c132742840d6c08fa4cf3bba3312c0fabec79784a0702161c5913f2",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: low side-angle grove path framed by olive roots, with the small hearth in the midground and central lower staging clear. No people, remains, bodies or prohibited content; filename banner and signature verified.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -2811,6 +2858,25 @@
       "protected_objects": [
         "stone hearth",
         "empty grove path"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "7580579e5c132742840d6c08fa4cf3bba3312c0fabec79784a0702161c5913f2",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            46,
+            31,
+            14
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: low side-angle grove path framed by olive roots, with the small hearth in the midground and central lower staging clear. No people, remains, bodies or prohibited content; filename banner and signature verified."
+        }
       ]
     },
     {
@@ -2821,10 +2887,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A secluded grove on the slopes near Troy at dusk, olive branches, a small stone hearth with a low funeral flame and an empty path through the trees; no people, remains or bodies. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "c144910c1c2f838d1a580040071f0b141fd3276fc0fc0e07031b0ea0ce748df8",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: hazy reverse view of the dusk grove with distant path and small hearth to the right; broad clear lower third. No people, remains, bodies or prohibited content; filename banner and signature verified.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -2832,6 +2901,25 @@
       "protected_objects": [
         "stone hearth",
         "empty grove path"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "c144910c1c2f838d1a580040071f0b141fd3276fc0fc0e07031b0ea0ce748df8",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            95,
+            75,
+            74
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: hazy reverse view of the dusk grove with distant path and small hearth to the right; broad clear lower third. No people, remains, bodies or prohibited content; filename banner and signature verified."
+        }
       ]
     },
     {
@@ -2842,10 +2930,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A secluded grove on the slopes near Troy at dusk, olive branches, a small stone hearth with a low funeral flame and an empty path through the trees; no people, remains or bodies. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and a clear open lower-third foreground; use natural leading lines to guide the eye through a clear, subject-free environment. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "a74b4d8a43b00232c17b3c479aa17d1fe644259b2dd40ff9699c07fdcf182035",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: wide low-horizon olive-grove landscape, modest hearth off-centre and open bare-earth foreground. No people, remains, bodies or prohibited content; filename banner and signature verified.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -2853,6 +2944,25 @@
       "protected_objects": [
         "stone hearth",
         "empty grove path"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "a74b4d8a43b00232c17b3c479aa17d1fe644259b2dd40ff9699c07fdcf182035",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            210,
+            154,
+            95
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: wide low-horizon olive-grove landscape, modest hearth off-centre and open bare-earth foreground. No people, remains, bodies or prohibited content; filename banner and signature verified."
+        }
       ]
     },
     {
@@ -2863,10 +2973,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_palace_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A quiet Bronze Age Trojan temple chamber at night, an empty stone plinth and open alcove beneath woven fabric, soft moonlight and no statue, people, writing or inscriptions. Establishing composition: wide view from the open doorway, showing the empty room and clear lower-third floor; show the room's broad layout and a clear open lower-third floor; keep the doorway and clear floor visible; add no occupants or extra furniture. Match the approved loc_palace location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "d1c36d02e89476155b93e1a274ce418a545f2f966ccfcf36bf222bfab7449b5f",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: empty nighttime temple chamber from doorway, unmarked alcove, empty plinth and clear floor; no statue or writing. Filename banner and signature verified.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -2874,6 +2987,25 @@
       "protected_objects": [
         "empty stone plinth",
         "open alcove"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "d1c36d02e89476155b93e1a274ce418a545f2f966ccfcf36bf222bfab7449b5f",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            23,
+            20,
+            16
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: empty nighttime temple chamber from doorway, unmarked alcove, empty plinth and clear floor; no statue or writing. Filename banner and signature verified."
+        }
       ]
     },
     {
@@ -2884,10 +3016,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_palace_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A quiet Bronze Age Trojan temple chamber at night, an empty stone plinth and open alcove beneath woven fabric, soft moonlight and no statue, people, writing or inscriptions. Wide composition: oblique view from a different interior corner, with the entrance and open floor visible; keep the interior architecture readable with generous negative space; use foreground-to-background depth through canvas, stone or timber without clutter. Match the approved loc_palace location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "bd05a6a345209054198143fefd5df48150f3992543870c6fe144db4915954570",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: oblique empty temple interior with doorway, blank-draped alcove and plinth to the side; broad clear floor, no statue or inscriptions. Filename banner and signature verified.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -2895,6 +3030,25 @@
       "protected_objects": [
         "empty stone plinth",
         "open alcove"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "bd05a6a345209054198143fefd5df48150f3992543870c6fe144db4915954570",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            46,
+            42,
+            44
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: oblique empty temple interior with doorway, blank-draped alcove and plinth to the side; broad clear floor, no statue or inscriptions. Filename banner and signature verified."
+        }
       ]
     },
     {
@@ -2905,10 +3059,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_palace_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A quiet Bronze Age Trojan temple chamber at night, an empty stone plinth and open alcove beneath woven fabric, soft moonlight and no statue, people, writing or inscriptions. Establishing composition: wide view from the open doorway, showing the empty room and clear lower-third floor; show the room's broad layout and a clear open lower-third floor; emphasize period materials already appropriate to the reference; invent no props. Match the approved loc_palace location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "286ef4d67f05dd4903efe3041f7fea27bca4cec44af84f61f527af5ba5ee6148",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: reverse symmetrical temple-chamber view with empty plinth and plain fabric, open staging floor and no statue, symbols or writing. Filename banner and signature verified.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -2916,6 +3073,25 @@
       "protected_objects": [
         "empty stone plinth",
         "open alcove"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "286ef4d67f05dd4903efe3041f7fea27bca4cec44af84f61f527af5ba5ee6148",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            75,
+            91,
+            108
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: reverse symmetrical temple-chamber view with empty plinth and plain fabric, open staging floor and no statue, symbols or writing. Filename banner and signature verified."
+        }
       ]
     },
     {
@@ -2926,10 +3102,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty stretch of the Bronze Age Greek beach camp with a colossal horse-shaped timber framework under construction, neat ropes and cut beams, distant ships and open sand; no people. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and a clear open lower-third foreground; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "6615785b1a1a5c8f1ea1c717ed40b20f156e4b8b7834825051ce3874915b845c",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: riderless, hollow timber horse framework is clearly an inert wooden construction prop at the right; broad sand remains open across the centre-left foreground. No people or living animals; filename banner and signature verified.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -2937,6 +3116,25 @@
       "protected_objects": [
         "timber horse frame",
         "open beach"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "6615785b1a1a5c8f1ea1c717ed40b20f156e4b8b7834825051ce3874915b845c",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            139,
+            168,
+            189
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: riderless, hollow timber horse framework is clearly an inert wooden construction prop at the right; broad sand remains open across the centre-left foreground. No people or living animals; filename banner and signature verified."
+        }
       ]
     },
     {
@@ -2947,10 +3145,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty stretch of the Bronze Age Greek beach camp with a colossal horse-shaped timber framework under construction, neat ropes and cut beams, distant ships and open sand; no people. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and a clear open lower-third foreground; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "dc47d55d4a155d26bdfa7a8776405ccf0779cc15f758a20a289f14ce05c1e86f",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: hollow riderless timber horse framework in the midground, with broad uninterrupted sand foreground and ancient ships beyond. No people or living animals; filename banner and signature verified.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -2958,6 +3159,25 @@
       "protected_objects": [
         "timber horse frame",
         "open beach"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "dc47d55d4a155d26bdfa7a8776405ccf0779cc15f758a20a289f14ce05c1e86f",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            140,
+            168,
+            189
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: hollow riderless timber horse framework in the midground, with broad uninterrupted sand foreground and ancient ships beyond. No people or living animals; filename banner and signature verified."
+        }
       ]
     },
     {
@@ -4034,8 +4254,8 @@
   ],
   "schema_version": 1,
   "total_planned": 121,
-  "accepted": 60,
-  "pending": 61,
+  "accepted": 70,
+  "pending": 51,
   "note": "Part 3 background plates are generated in batches of 10 and accepted only after individual visual review; every plate must have open lower-third staging and contain no people, faces, bodies, text or modern objects.",
   "shot_cadence_seconds_target": 3.0,
   "character_proxy_note": "Only existing approved cutouts/rigs are used; one-off Chapter 9-10 speakers retain their exact names in dialogue and subtitles, while the proxy map is recorded in scenes.json and part3_scene_plan_notes.md.",
@@ -4086,6 +4306,14 @@
     "accepted": 10,
     "rejected_pending_reroll": 0,
     "rerolls_used": 1,
+    "remaining_rerolls_by_plate": {},
+    "status": "complete"
+  },
+  "batch_07_review": {
+    "initial_candidates_reviewed": 10,
+    "accepted": 10,
+    "rejected_pending_reroll": 0,
+    "rerolls_used": 0,
     "remaining_rerolls_by_plate": {},
     "status": "complete"
   }
