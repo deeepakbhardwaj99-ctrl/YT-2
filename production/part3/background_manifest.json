@@ -1408,10 +1408,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The wide approach to Troy's monumental Bronze Age gate, empty dusty ground, one unmarked bow and arrow lying in the foreground and storm-soft light on the walls; no people. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; use natural leading lines to guide the eye through a clear, subject-free environment. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "c3523d675e0da261a83d8da7e3c17f4ff12b1ede2b10c78f0031d0c9ba53a5cd",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: oblique storm-lit view of Troy's Bronze Age gate and dusty approach, bow/arrow kept at the far edge, broad clear lower-third staging, no prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -1419,6 +1422,25 @@
       "protected_objects": [
         "unmarked bow",
         "distant city gate"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "c3523d675e0da261a83d8da7e3c17f4ff12b1ede2b10c78f0031d0c9ba53a5cd",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            142,
+            141,
+            136
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: oblique storm-lit view of Troy's Bronze Age gate and dusty approach, bow/arrow kept at the far edge, broad clear lower-third staging, no prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1429,10 +1451,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for The wide approach to Troy's monumental Bronze Age gate, empty dusty ground, one unmarked bow and arrow lying in the foreground and storm-soft light on the walls; no people. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; shift to softer evening or dawn light and a reverse-axis composition. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "fb2e5ad5022a43c5b734cefc179dcbad361c8232e13b79fde3873b8553a51efb",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: medium environmental gate approach with layered ancient walls and open dusty ground; no people, text, modern objects or staging obstruction. Filename banner/signature verified.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -1440,6 +1465,25 @@
       "protected_objects": [
         "unmarked bow",
         "distant city gate"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "fb2e5ad5022a43c5b734cefc179dcbad361c8232e13b79fde3873b8553a51efb",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            167,
+            166,
+            164
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: medium environmental gate approach with layered ancient walls and open dusty ground; no people, text, modern objects or staging obstruction. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1450,10 +1494,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_palace_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A quiet ancient palace writing room with a blank, unmarked clay tablet, a bronze stylus and a simple bronze greave on a low table; no writing, inscriptions or people. Establishing composition: wide view from the open doorway, showing the empty room and clear lower-third floor; show the room's broad layout and a clear open lower-third floor; keep the doorway and clear floor visible; add no occupants or extra furniture. Match the approved loc_palace location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "6a7dfb05780e10e982b6495545022bdc555cece11dfacabcbeacfbd24705d0ea",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: quiet palace writing room matching approved palace reference; blank tablet, stylus and greave set aside with broad clear floor, no writing or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -1461,6 +1508,25 @@
       "protected_objects": [
         "blank tablet",
         "bronze greave"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "6a7dfb05780e10e982b6495545022bdc555cece11dfacabcbeacfbd24705d0ea",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            66,
+            23,
+            2
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: quiet palace writing room matching approved palace reference; blank tablet, stylus and greave set aside with broad clear floor, no writing or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1471,10 +1537,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_palace_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A quiet ancient palace writing room with a blank, unmarked clay tablet, a bronze stylus and a simple bronze greave on a low table; no writing, inscriptions or people. Establishing composition: wide view from the open doorway, showing the empty room and clear lower-third floor; show the room's broad layout and a clear open lower-third floor; use foreground-to-background depth through canvas, stone or timber without clutter. Match the approved loc_palace location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1365,
+        768
+      ],
+      "sha256": "275dd96ee456820b26234692d8c178d2edc038470a18eaa4256d0b236f3419a7",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: second wide palace-room angle, reference-matched painted columns, blank tablet and clear floor; no text/inscriptions or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -1482,6 +1551,25 @@
       "protected_objects": [
         "blank tablet",
         "bronze greave"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "275dd96ee456820b26234692d8c178d2edc038470a18eaa4256d0b236f3419a7",
+          "candidate_dimensions": [
+            1365,
+            768
+          ],
+          "top_mid_rgb_median": [
+            67,
+            25,
+            2
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: second wide palace-room angle, reference-matched painted columns, blank tablet and clear floor; no text/inscriptions or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1492,10 +1580,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_palace_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A quiet ancient palace writing room with a blank, unmarked clay tablet, a bronze stylus and a simple bronze greave on a low table; no writing, inscriptions or people. Wide composition: oblique view from a different interior corner, with the entrance and open floor visible; keep the interior architecture readable with generous negative space; emphasize period materials already appropriate to the reference; invent no props. Match the approved loc_palace location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "3d35187e1c0fda6798f497ca0122b683a61c6f81e9e1faf20cacc8e85cb661d5",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: oblique writing-room interior with doorway, open floor and blank tablet/greave off to one side; no writing or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -1503,6 +1594,25 @@
       "protected_objects": [
         "blank tablet",
         "bronze greave"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "3d35187e1c0fda6798f497ca0122b683a61c6f81e9e1faf20cacc8e85cb661d5",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            122,
+            72,
+            38
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: oblique writing-room interior with doorway, open floor and blank tablet/greave off to one side; no writing or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1513,10 +1623,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_palace_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A quiet ancient palace writing room with a blank, unmarked clay tablet, a bronze stylus and a simple bronze greave on a low table; no writing, inscriptions or people. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; use natural leading lines across the bare floor toward the empty entrance. Match the approved loc_palace location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "84b87f0ac87353b2bf4f8575000cee7d2a814a34944ed34a624e53a20997dc25",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: medium palace interior with leading lines and open central floor; tablet remains unmarked, no prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -1524,6 +1637,25 @@
       "protected_objects": [
         "blank tablet",
         "bronze greave"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "84b87f0ac87353b2bf4f8575000cee7d2a814a34944ed34a624e53a20997dc25",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            63,
+            23,
+            2
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: medium palace interior with leading lines and open central floor; tablet remains unmarked, no prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1534,10 +1666,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty Greek command pavilion after battle, ornate bronze armor and a large round shield displayed on a low stand between two vacant places, no people. Establishing composition: wide view from the open doorway, showing the empty room and clear lower-third floor; show the room's broad layout and a clear open lower-third floor; keep the doorway and clear floor visible; add no occupants or extra furniture. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "dd4ae93d97a1002dc4812b81f5634df830c983b29434aa1d3bd81d30589dd8ac",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: empty Greek command pavilion, bronze cuirass and unmarked shield on display, vacant low stools and open lower-third floor; no people or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -1545,6 +1680,25 @@
       "protected_objects": [
         "bronze armor",
         "round shield"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "dd4ae93d97a1002dc4812b81f5634df830c983b29434aa1d3bd81d30589dd8ac",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            119,
+            83,
+            50
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: empty Greek command pavilion, bronze cuirass and unmarked shield on display, vacant low stools and open lower-third floor; no people or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1555,10 +1709,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty Greek command pavilion after battle, ornate bronze armor and a large round shield displayed on a low stand between two vacant places, no people. Wide composition: oblique view from a different interior corner, with the entrance and open floor visible; keep the interior architecture readable with generous negative space; use foreground-to-background depth through canvas, stone or timber without clutter. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "4c159a281e902c0e1d13da52279c6c5fc445c859316e458dba3822470a3aaea0",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: oblique pavilion interior with armor and plain shield set to one side, vacant places and clear central staging; no prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -1566,6 +1723,25 @@
       "protected_objects": [
         "bronze armor",
         "round shield"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "4c159a281e902c0e1d13da52279c6c5fc445c859316e458dba3822470a3aaea0",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            100,
+            68,
+            39
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: oblique pavilion interior with armor and plain shield set to one side, vacant places and clear central staging; no prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1576,10 +1752,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty Greek command pavilion after battle, ornate bronze armor and a large round shield displayed on a low stand between two vacant places, no people. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; emphasize period materials already appropriate to the reference; invent no props. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "2cd15f27cca0bc6cf902ef9cc2d657b1a36bc64ec7b05fcf2f7cf011947a2257",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: medium post-battle pavilion detail, bronze armor and unmarked shield on display, open lower-third floor and no people/text/modern objects. Filename banner/signature verified.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -1587,6 +1766,25 @@
       "protected_objects": [
         "bronze armor",
         "round shield"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "2cd15f27cca0bc6cf902ef9cc2d657b1a36bc64ec7b05fcf2f7cf011947a2257",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            174,
+            133,
+            84
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: medium post-battle pavilion detail, bronze armor and unmarked shield on display, open lower-third floor and no people/text/modern objects. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1597,10 +1795,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty Greek command pavilion after battle, ornate bronze armor and a large round shield displayed on a low stand between two vacant places, no people. Detail composition: ground-level environmental detail with architecture receding into an empty room; frame a period surface or architectural detail without clutter; use natural leading lines across the bare floor toward the empty entrance. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "61d816ae5804b1f12624c16320e44036b9a948ff4cc6b13749ee6c086bb05800",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: ground-level pavilion detail receding into an empty room, greave in midground, broad open floor; no prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "close environmental detail at ground level, no figures, visually distinct composition",
         "open_lower_third": true
@@ -1608,6 +1809,25 @@
       "protected_objects": [
         "bronze armor",
         "round shield"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "61d816ae5804b1f12624c16320e44036b9a948ff4cc6b13749ee6c086bb05800",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            76,
+            52,
+            29
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: ground-level pavilion detail receding into an empty room, greave in midground, broad open floor; no prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -3314,8 +3534,8 @@
   ],
   "schema_version": 1,
   "total_planned": 121,
-  "accepted": 30,
-  "pending": 91,
+  "accepted": 40,
+  "pending": 81,
   "note": "Part 3 background plates are generated in batches of 10 and accepted only after individual visual review; every plate must have open lower-third staging and contain no people, faces, bodies, text or modern objects.",
   "shot_cadence_seconds_target": 3.0,
   "character_proxy_note": "Only existing approved cutouts/rigs are used; one-off Chapter 9-10 speakers retain their exact names in dialogue and subtitles, while the proxy map is recorded in scenes.json and part3_scene_plan_notes.md.",
@@ -3338,6 +3558,13 @@
     "status": "complete"
   },
   "batch_03_review": {
+    "initial_candidates_reviewed": 10,
+    "accepted": 10,
+    "rejected_pending_reroll": 0,
+    "rerolls_used": 0,
+    "status": "complete"
+  },
+  "batch_04_review": {
     "initial_candidates_reviewed": 10,
     "accepted": 10,
     "rejected_pending_reroll": 0,

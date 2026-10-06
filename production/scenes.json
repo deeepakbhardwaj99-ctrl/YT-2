@@ -15999,7 +15999,7 @@
             "unmarked bow",
             "distant city gate"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -16047,7 +16047,7 @@
             "unmarked bow",
             "distant city gate"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -16135,7 +16135,7 @@
             "blank tablet",
             "bronze greave"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -16183,7 +16183,7 @@
             "blank tablet",
             "bronze greave"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -16233,7 +16233,7 @@
             "blank tablet",
             "bronze greave"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -16283,7 +16283,7 @@
             "blank tablet",
             "bronze greave"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -16384,7 +16384,7 @@
             "bronze armor",
             "round shield"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -16429,7 +16429,7 @@
             "bronze armor",
             "round shield"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -16477,7 +16477,7 @@
             "bronze armor",
             "round shield"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -16525,7 +16525,7 @@
             "bronze armor",
             "round shield"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
