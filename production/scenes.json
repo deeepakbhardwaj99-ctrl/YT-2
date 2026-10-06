@@ -17223,7 +17223,7 @@
             "plain bow",
             "empty niche"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -17271,7 +17271,7 @@
             "plain bow",
             "empty niche"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -17314,7 +17314,7 @@
           "location": "loc_camp",
           "shot_type": "medium",
           "bg_path": "production/part3/backgrounds/p3_clip_12_bg_03.jpg",
-          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty command tent used for a prophecy, a plain bow on a low table and an empty wall niche with lamplight falling across the canvas; no writing or people. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; emphasize period materials already appropriate to the reference; invent no props. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty command tent used for a prophecy, a plain bow on a low table and an empty wall niche with lamplight falling across the canvas; no writing or people. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; emphasize period materials already appropriate to the reference; invent no props. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Additional composition constraints: Keep the plain bow laid flat on the tabletop off-centre in the midground; no bow, table, lampstand or other prop may extend into the lower third. Preserve the full lower third as clear bare floor.",
           "reference_path": "production/assets/locations/loc_camp_ref.png",
           "setting_label": "GREEK CAMP \u2014 THE SEER'S WARNING",
           "composition": {
@@ -17373,7 +17373,7 @@
             "plain bow",
             "empty niche"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "HELENUS",
@@ -17421,7 +17421,7 @@
             "plain bow",
             "empty niche"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "HELENUS",
@@ -17523,7 +17523,7 @@
             "unmarked bow",
             "open field"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -17568,7 +17568,7 @@
             "unmarked bow",
             "open field"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -17616,7 +17616,7 @@
             "unmarked bow",
             "open field"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -17664,7 +17664,7 @@
             "unmarked bow",
             "open field"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -17712,7 +17712,7 @@
             "unmarked bow",
             "open field"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",

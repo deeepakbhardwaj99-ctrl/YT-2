@@ -2313,10 +2313,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty command tent used for a prophecy, a plain bow on a low table and an empty wall niche with lamplight falling across the canvas; no writing or people. Detail composition: ground-level environmental detail with architecture receding into an empty room; frame a period surface or architectural detail without clutter; keep the doorway and clear floor visible; add no occupants or extra furniture. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "c89deb00570eee84d8280c8e6cae3af87708b348a6f28a5d7b44733d9a054a8e",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: empty prophecy tent, blank niche and low table/bow detail, broad clear floor; no people, writing or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "close environmental detail at ground level, no figures, visually distinct composition",
         "open_lower_third": true
@@ -2324,7 +2327,26 @@
       "protected_objects": [
         "plain bow",
         "empty niche"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "c89deb00570eee84d8280c8e6cae3af87708b348a6f28a5d7b44733d9a054a8e",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            60,
+            32,
+            11
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: empty prophecy tent, blank niche and low table/bow detail, broad clear floor; no people, writing or prohibited content. Filename banner/signature verified."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_12",
@@ -2334,10 +2356,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty command tent used for a prophecy, a plain bow on a low table and an empty wall niche with lamplight falling across the canvas; no writing or people. Wide composition: oblique view from a different interior corner, with the entrance and open floor visible; keep the interior architecture readable with generous negative space; use foreground-to-background depth through canvas, stone or timber without clutter. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "7e0a3e6a4d4727b6e2dffd21977aa5f9e02448ec3760f3d7f08d7e8fec0ffe5b",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: wide oblique canvas-tent interior with open entrance, bow/table aside and generous lower-floor staging; blank surfaces, no prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "reverse wide angle at a different time of day, atmospheric depth and open staging space",
         "open_lower_third": true
@@ -2345,7 +2370,26 @@
       "protected_objects": [
         "plain bow",
         "empty niche"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "7e0a3e6a4d4727b6e2dffd21977aa5f9e02448ec3760f3d7f08d7e8fec0ffe5b",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            63,
+            40,
+            20
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: wide oblique canvas-tent interior with open entrance, bow/table aside and generous lower-floor staging; blank surfaces, no prohibited content. Filename banner/signature verified."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_12",
@@ -2354,11 +2398,11 @@
       "location": "loc_camp",
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
-      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty command tent used for a prophecy, a plain bow on a low table and an empty wall niche with lamplight falling across the canvas; no writing or people. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; emphasize period materials already appropriate to the reference; invent no props. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty command tent used for a prophecy, a plain bow on a low table and an empty wall niche with lamplight falling across the canvas; no writing or people. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; emphasize period materials already appropriate to the reference; invent no props. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Additional composition constraints: Keep the plain bow laid flat on the tabletop off-centre in the midground; no bow, table, lampstand or other prop may extend into the lower third. Preserve the full lower third as clear bare floor.",
       "dimensions": null,
       "sha256": null,
       "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "qc_note": "Rejected after individual QC: the long bow leans down from the table into the lower-centre staging zone. No people or text detected. Reroll with the bow laid flat on the tabletop, off-centre in the midground, and the entire lower third kept clear of props.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -2366,7 +2410,26 @@
       "protected_objects": [
         "plain bow",
         "empty niche"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "26b0aa453e4286b3b69557d47846f635dac5c0313932ffee9139aef187e1b419",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            96,
+            61,
+            29
+          ],
+          "result": "rejected",
+          "reason": "Rejected after individual QC: the long bow leans down from the table into the lower-centre staging zone. No people or text detected. Reroll with the bow laid flat on the tabletop, off-centre in the midground, and the entire lower third kept clear of props."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_12",
@@ -2376,10 +2439,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty command tent used for a prophecy, a plain bow on a low table and an empty wall niche with lamplight falling across the canvas; no writing or people. Detail composition: ground-level environmental detail with architecture receding into an empty room; frame a period surface or architectural detail without clutter; use natural leading lines across the bare floor toward the empty entrance. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "6a88e8b6462c5b9c1f4ea007661530dfe5ab627c9809e541a26737771b28545a",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: tent corridor/detail with clear floor, blank niche and bow/table in the midground; no people, writing or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -2387,7 +2453,26 @@
       "protected_objects": [
         "plain bow",
         "empty niche"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "6a88e8b6462c5b9c1f4ea007661530dfe5ab627c9809e541a26737771b28545a",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            102,
+            61,
+            26
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: tent corridor/detail with clear floor, blank niche and bow/table in the midground; no people, writing or prohibited content. Filename banner/signature verified."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_12",
@@ -2397,10 +2482,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty command tent used for a prophecy, a plain bow on a low table and an empty wall niche with lamplight falling across the canvas; no writing or people. Wide composition: oblique view from a different interior corner, with the entrance and open floor visible; keep the interior architecture readable with generous negative space; shift to warm lamp or dawn light while preserving the approved room palette. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "593542026a5e1a18c14ea370f477dc77eed8e7c2bd01c4cb1961344ea4c3df11",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: reverse tent view, warm lamplight and bow/table to one side; open floor and no prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -2408,7 +2496,26 @@
       "protected_objects": [
         "plain bow",
         "empty niche"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "593542026a5e1a18c14ea370f477dc77eed8e7c2bd01c4cb1961344ea4c3df11",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            113,
+            72,
+            36
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: reverse tent view, warm lamplight and bow/table to one side; open floor and no prohibited content. Filename banner/signature verified."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_13",
@@ -2418,10 +2525,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A broad empty field before Troy's weathered walls, an unmarked bow and a single arrow on a low stone ledge, clear ochre earth and distant gates; no people. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and a clear open lower-third foreground; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "7348a8539854b44da19ea1a48ef24d5411c8adf914f206c7e69ea509abb6e3ab",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: broad dawn field and distant Troy walls; bow/arrow and ledge stay to the far edge, leaving central lower staging open. No people or prohibited marks. Filename banner/signature verified.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -2429,7 +2539,26 @@
       "protected_objects": [
         "unmarked bow",
         "open field"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "7348a8539854b44da19ea1a48ef24d5411c8adf914f206c7e69ea509abb6e3ab",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            199,
+            201,
+            228
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: broad dawn field and distant Troy walls; bow/arrow and ledge stay to the far edge, leaving central lower staging open. No people or prohibited marks. Filename banner/signature verified."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_13",
@@ -2439,10 +2568,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A broad empty field before Troy's weathered walls, an unmarked bow and a single arrow on a low stone ledge, clear ochre earth and distant gates; no people. Medium composition: raised three-quarter view that reveals a new spatial layer and an unobstructed foreground; layer the environment around one restrained focal area; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "a062e8104a59236571bb2e864d6b0371e4d9050b3149a27d46fe31bdead69cef",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: raised view of empty field and weathered gate; bow/arrow is off-centre, lower-third ground otherwise open. No prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -2450,7 +2582,26 @@
       "protected_objects": [
         "unmarked bow",
         "open field"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "a062e8104a59236571bb2e864d6b0371e4d9050b3149a27d46fe31bdead69cef",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            223,
+            190,
+            138
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: raised view of empty field and weathered gate; bow/arrow is off-centre, lower-third ground otherwise open. No prohibited content. Filename banner/signature verified."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_13",
@@ -2460,10 +2611,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A broad empty field before Troy's weathered walls, an unmarked bow and a single arrow on a low stone ledge, clear ochre earth and distant gates; no people. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "3e058ba19246b518410b9e1abd7758b4a8fc1b0912a1574549ade4e781ec0c76",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: side-angle wall/field detail with bow at the edge and clear central foreground; no people, writing or modern objects. Filename banner/signature verified.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -2471,7 +2625,26 @@
       "protected_objects": [
         "unmarked bow",
         "open field"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "3e058ba19246b518410b9e1abd7758b4a8fc1b0912a1574549ade4e781ec0c76",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            210,
+            196,
+            185
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: side-angle wall/field detail with bow at the edge and clear central foreground; no people, writing or modern objects. Filename banner/signature verified."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_13",
@@ -2481,10 +2654,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A broad empty field before Troy's weathered walls, an unmarked bow and a single arrow on a low stone ledge, clear ochre earth and distant gates; no people. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; use natural leading lines to guide the eye through a clear, subject-free environment. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "23fe179c9950e04e799f491c414dfee9854c8043e33b1962c5daed5c4a6e1f0b",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: distant reverse gate view with broad empty ground and bow/arrow at far-side ledge; no prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -2492,7 +2668,26 @@
       "protected_objects": [
         "unmarked bow",
         "open field"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "23fe179c9950e04e799f491c414dfee9854c8043e33b1962c5daed5c4a6e1f0b",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            205,
+            204,
+            204
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: distant reverse gate view with broad empty ground and bow/arrow at far-side ledge; no prohibited content. Filename banner/signature verified."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_13",
@@ -2502,10 +2697,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A broad empty field before Troy's weathered walls, an unmarked bow and a single arrow on a low stone ledge, clear ochre earth and distant gates; no people. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and a clear open lower-third foreground; shift to softer evening or dawn light and a reverse-axis composition. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "2fce8b46308d3cf8b16b896903bf3ff1c50d8833d8a4db985b2a26f48eff2c0b",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: wide dawn view with weathered Troy walls, low ledge/bow off to one side and open staging foreground; no prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -2513,7 +2711,26 @@
       "protected_objects": [
         "unmarked bow",
         "open field"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "2fce8b46308d3cf8b16b896903bf3ff1c50d8833d8a4db985b2a26f48eff2c0b",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            197,
+            198,
+            208
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: wide dawn view with weathered Troy walls, low ledge/bow off to one side and open staging foreground; no prohibited content. Filename banner/signature verified."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_13",
@@ -3799,8 +4016,8 @@
   ],
   "schema_version": 1,
   "total_planned": 121,
-  "accepted": 50,
-  "pending": 71,
+  "accepted": 59,
+  "pending": 62,
   "note": "Part 3 background plates are generated in batches of 10 and accepted only after individual visual review; every plate must have open lower-third staging and contain no people, faces, bodies, text or modern objects.",
   "shot_cadence_seconds_target": 3.0,
   "character_proxy_note": "Only existing approved cutouts/rigs are used; one-off Chapter 9-10 speakers retain their exact names in dialogue and subtitles, while the proxy map is recorded in scenes.json and part3_scene_plan_notes.md.",
@@ -3844,5 +4061,15 @@
     "rerolls_used": 3,
     "remaining_rerolls_by_plate": {},
     "status": "complete"
+  },
+  "batch_06_review": {
+    "initial_candidates_reviewed": 10,
+    "accepted": 9,
+    "rejected_pending_reroll": 1,
+    "rerolls_used": 0,
+    "remaining_rerolls_by_plate": {
+      "p3_clip_12_bg_03": 2
+    },
+    "status": "awaiting_targeted_reroll"
   }
 }
