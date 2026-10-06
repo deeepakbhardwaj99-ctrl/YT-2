@@ -22,6 +22,7 @@ Python dependencies are pinned in `requirements.txt`. `render_part1.py` uses sys
 - `qc_part1.py` checks the locked script/VO gate, stream format, frame count, duration/sync, full media decode, audio levels, motion gate, preview preservation, and GitHub single-file size target. It writes text and JSON reports alongside the export.
 - `process_part2_vo.py` reuses the eight saved raw Part 2 voice batches, applies only the approved Chapter 7 VO override, and writes 24 measured clip MP3s plus manifests/QC. Use `--dry-run` to inspect timing first; `--overwrite` is required to replace already-created clips.
 - `process_part3_vo.py` maps eight Part 3 raw batches (Chapter 9 is split into three moderation-safe narrator files), applies only the two user-approved Chapter 9 audio substitutions, and writes 24 measured clips plus manifest/QC. The 44-word assembly cap meets the 24-clip edit estimate; pace gates remain strict. It creates a local `ffmpeg` link from `imageio-ffmpeg` when system FFmpeg is absent. Use `--dry-run` first and `--overwrite` only to replace existing clips.
+- `generate_part3_scene_plan.py` adds 24 Part 3 VO-timed clips and 121 pending plates to `production/scenes.json` / `production/part3/background_manifest.json`, retaining Part 1/2 scenes and accepted assets. Shot holds target ~3 seconds; `tools/validate_part3.py` verifies VO identity, timing, accepted-file hashes, references, and the 10-image ledger. See `production/part3/part3_scene_plan_notes.md` for coverage and the documented reuse of approved character proxies.
 - `generate_part2_scene_plan.py` appends a VO-timed Part 2 motion plan to `production/scenes.json` without changing Part 1, and creates the separate pending-plate ledger at `production/part2/background_manifest.json`. It preserves accepted Part 2 plates if rerun; it does not generate backgrounds. `p2_clip_16` uses eight plates due to its 23.678-second duration.
 - `build_part2_character_contact.py` creates the labelled Step 3 contact grid from the existing approved character sheets and the five Part 2 additions. User approval for all five is recorded in `production/part2/character_sheets/character_sheet_manifest.json`; they are static cutouts, not additional rigs.
 - `build_part2_character_cutouts.py` uses border-connected background removal (so cream clothing is preserved), appends measured face/foot anchors, and writes five approved Part 2 static cutouts plus a calibration contact sheet. It does not regenerate any rig packs.
@@ -36,6 +37,8 @@ Python dependencies are pinned in `requirements.txt`. `render_part1.py` uses sys
 .venv/bin/python tools/process_part3_vo.py --dry-run
 .venv/bin/python tools/process_part3_vo.py
 .venv/bin/python tools/generate_part2_scene_plan.py
+.venv/bin/python tools/generate_part3_scene_plan.py
+.venv/bin/python tools/validate_part3.py
 .venv/bin/python tools/build_part2_character_cutouts.py
 .venv/bin/python tools/build_part2_background_contact.py --clips 1 2 --batch 1
 ```

@@ -23,7 +23,12 @@ SPEAKER_TO_CHAR = {
     "CALCHAS": "priam", "ERIS": "helen", "HERA": "helen",
     "ATHENA": "helen", "APHRODITE": "helen", "THETIS": "helen", "IPHIGENIA": "helen",
     "PROTESILAUS": "protesilaus", "PHILOCTETES": "philoctetes", "CHRYSES": "chryses",
-    "PATROCLUS": "patroclus", "ANDROMACHE": "andromache_astyanax"
+    "PATROCLUS": "patroclus", "ANDROMACHE": "andromache_astyanax",
+    # Part 3 one-off speakers use documented, existing approved visual proxies.
+    "AJAX": "agamemnon", "HELENUS": "priam", "OENONE": "helen",
+    "EPEIUS": "agamemnon", "TROJAN": "hector", "ANOTHER TROJAN": "priam",
+    "THIRD TROJAN": "hector", "LAOCOON": "priam", "SINON": "agamemnon",
+    "CASSANDRA": "helen", "CROWD": "hector"
 }
 
 ACCENT_RGB = (155, 58, 18)       # #9B3A12 Burnt Orange
