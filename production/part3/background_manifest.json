@@ -4493,10 +4493,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A shadowed gate courtyard with the wooden horse visible through the open entrance, an empty stone step and a dropped unmarked cloak in cool morning light; no people. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "22b41373d4d0c8cc8cc553e245eda5cbbee0bf1832508f29a743d0a8a116d87a",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: low detail in the shadowed courtyard; cloak lies flat on the step at one edge, the empty horse is visible through the gate, and the rest of the paving stays clear. No body-like form or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -4504,6 +4507,25 @@
       "protected_objects": [
         "open gate",
         "unmarked cloak"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "22b41373d4d0c8cc8cc553e245eda5cbbee0bf1832508f29a743d0a8a116d87a",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            42,
+            61,
+            74
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: low detail in the shadowed courtyard; cloak lies flat on the step at one edge, the empty horse is visible through the gate, and the rest of the paving stays clear. No body-like form or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4514,10 +4536,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A shadowed gate courtyard with the wooden horse visible through the open entrance, an empty stone step and a dropped unmarked cloak in cool morning light; no people. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; use natural leading lines to guide the eye through a clear, subject-free environment. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "4d9f25d51a8b18533f3875b037064503810c1066b58f9563cf756f5d9f1d0ecb",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: wide empty courtyard and open gate frame the distant timber horse; flat cloak on far-side steps, broad central floor for staging. No people or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -4525,6 +4550,25 @@
       "protected_objects": [
         "open gate",
         "unmarked cloak"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "4d9f25d51a8b18533f3875b037064503810c1066b58f9563cf756f5d9f1d0ecb",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            189,
+            219,
+            236
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: wide empty courtyard and open gate frame the distant timber horse; flat cloak on far-side steps, broad central floor for staging. No people or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4535,10 +4579,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_palace_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty Trojan palace courtyard facing the city gate, long evening shadows, plain stone columns and an open path toward the wooden horse beyond; no people or inscriptions. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and a clear open lower-third foreground; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_palace location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "62c17bfcbfe174a0f7bb9a5af52ed5ad67a7b7aec24a124fdb1889183b492154",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: empty palace courtyard framed by plain columns, long evening shadows and clear path toward the gate/horse. No people, writing or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -4546,6 +4593,25 @@
       "protected_objects": [
         "open courtyard",
         "gate passage"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "62c17bfcbfe174a0f7bb9a5af52ed5ad67a7b7aec24a124fdb1889183b492154",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            41,
+            13,
+            1
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: empty palace courtyard framed by plain columns, long evening shadows and clear path toward the gate/horse. No people, writing or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4556,10 +4622,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_palace_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty Trojan palace courtyard facing the city gate, long evening shadows, plain stone columns and an open path toward the wooden horse beyond; no people or inscriptions. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_palace location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "edfe3eeb5f57461a9212708ddd8364728a34f45e50fd4ec0944dc4d13155753b",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: low column-base detail leads toward the distant gate and wooden horse; clear open paving remains on the right and across the foreground. No inscriptions or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -4567,6 +4636,25 @@
       "protected_objects": [
         "open courtyard",
         "gate passage"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "edfe3eeb5f57461a9212708ddd8364728a34f45e50fd4ec0944dc4d13155753b",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            75,
+            102,
+            125
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: low column-base detail leads toward the distant gate and wooden horse; clear open paving remains on the right and across the foreground. No inscriptions or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4577,10 +4665,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_palace_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty Trojan palace courtyard facing the city gate, long evening shadows, plain stone columns and an open path toward the wooden horse beyond; no people or inscriptions. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_palace location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "fc695774f7e13f4f161f274cdbfcec7ed42308ea384b7166c446cadd7678d454",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: hazy reverse courtyard view with columns, distant horse and broad open lower-third paving. No people or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -4588,6 +4679,25 @@
       "protected_objects": [
         "open courtyard",
         "gate passage"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "fc695774f7e13f4f161f274cdbfcec7ed42308ea384b7166c446cadd7678d454",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            211,
+            166,
+            138
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: hazy reverse courtyard view with columns, distant horse and broad open lower-third paving. No people or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4598,10 +4708,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_palace_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty Trojan palace courtyard facing the city gate, long evening shadows, plain stone columns and an open path toward the wooden horse beyond; no people or inscriptions. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and a clear open lower-third foreground; use natural leading lines to guide the eye through a clear, subject-free environment. Match the approved loc_palace location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "a55ff461dcef8e56e651993ef90372afed0afac7ef551cb3b3104e4e866d536b",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: panoramic palace courtyard with plain columns, period pottery at the far sides, long shadows and clear foreground/path. No people, markings or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -4609,6 +4722,25 @@
       "protected_objects": [
         "open courtyard",
         "gate passage"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "a55ff461dcef8e56e651993ef90372afed0afac7ef551cb3b3104e4e866d536b",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            156,
+            118,
+            108
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: panoramic palace courtyard with plain columns, period pottery at the far sides, long shadows and clear foreground/path. No people, markings or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4619,10 +4751,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_palace_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty Trojan palace courtyard facing the city gate, long evening shadows, plain stone columns and an open path toward the wooden horse beyond; no people or inscriptions. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; shift to softer evening or dawn light and a reverse-axis composition. Match the approved loc_palace location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "8529c45eae56b7ef38633baa8dd482bdb4398e8ba9bcfcf4c0b4686c3141e919",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: oblique evening courtyard, strong architectural shadows and distant horse; central lower paving remains open. No people or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -4630,6 +4765,25 @@
       "protected_objects": [
         "open courtyard",
         "gate passage"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "8529c45eae56b7ef38633baa8dd482bdb4398e8ba9bcfcf4c0b4686c3141e919",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            66,
+            67,
+            93
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: oblique evening courtyard, strong architectural shadows and distant horse; central lower paving remains open. No people or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4640,10 +4794,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_palace_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty Trojan palace courtyard facing the city gate, long evening shadows, plain stone columns and an open path toward the wooden horse beyond; no people or inscriptions. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; add a raised spatial layer without introducing structures absent from the location reference. Match the approved loc_palace location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "16eb70f1bbf4be692b82eade70c992905bda0296aaa12307274e36e10a0d9c4f",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: medium courtyard detail, isolated column and long shadow across clear paving toward the gate; horse visible beyond. No people or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -4651,6 +4808,25 @@
       "protected_objects": [
         "open courtyard",
         "gate passage"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "16eb70f1bbf4be692b82eade70c992905bda0296aaa12307274e36e10a0d9c4f",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            61,
+            69,
+            83
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: medium courtyard detail, isolated column and long shadow across clear paving toward the gate; horse visible beyond. No people or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4661,10 +4837,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A moonlit Trojan gate at night, the towering wooden horse casting a long shadow over empty paving stones and dark walls, eerie stillness; no people, faces or text. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and a clear open lower-third foreground; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "9b3266db5ee6560cd5d073954fe4b94af0992a48d080999f615399e07715eb68",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: moonlit wooden horse by Troy's gate with long shadow on empty paving; timber structure is unoccupied and inanimate. No people or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -4672,6 +4851,25 @@
       "protected_objects": [
         "wooden horse",
         "empty paving"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "9b3266db5ee6560cd5d073954fe4b94af0992a48d080999f615399e07715eb68",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            1,
+            49,
+            90
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: moonlit wooden horse by Troy's gate with long shadow on empty paving; timber structure is unoccupied and inanimate. No people or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4682,10 +4880,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_troy_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A moonlit Trojan gate at night, the towering wooden horse casting a long shadow over empty paving stones and dark walls, eerie stillness; no people, faces or text. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_troy location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "40a5b6b938cb3cfb37909faeb283de75e0ff63b447ff35a3218bb4f6a4d7bdcf",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: frontal view of the empty timber horse at the gate, with its cast shadow across clear stone paving; no occupants or people. No prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -4693,6 +4894,25 @@
       "protected_objects": [
         "wooden horse",
         "empty paving"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "40a5b6b938cb3cfb37909faeb283de75e0ff63b447ff35a3218bb4f6a4d7bdcf",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            43,
+            65,
+            88
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: frontal view of the empty timber horse at the gate, with its cast shadow across clear stone paving; no occupants or people. No prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -4929,8 +5149,8 @@
   ],
   "schema_version": 1,
   "total_planned": 121,
-  "accepted": 100,
-  "pending": 21,
+  "accepted": 110,
+  "pending": 11,
   "note": "Part 3 background plates are generated in batches of 10 and accepted only after individual visual review; every plate must have open lower-third staging and contain no people, faces, bodies, text or modern objects.",
   "shot_cadence_seconds_target": 3.0,
   "character_proxy_note": "Only existing approved cutouts/rigs are used; one-off Chapter 9-10 speakers retain their exact names in dialogue and subtitles, while the proxy map is recorded in scenes.json and part3_scene_plan_notes.md.",
@@ -5010,6 +5230,14 @@
     "status": "complete"
   },
   "batch_10_review": {
+    "initial_candidates_reviewed": 10,
+    "accepted": 10,
+    "rejected_pending_reroll": 0,
+    "rerolls_used": 0,
+    "remaining_rerolls_by_plate": {},
+    "status": "complete"
+  },
+  "batch_11_review": {
     "initial_candidates_reviewed": 10,
     "accepted": 10,
     "rejected_pending_reroll": 0,

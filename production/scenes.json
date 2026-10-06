@@ -20256,7 +20256,7 @@
             "open gate",
             "unmarked cloak"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "SINON",
@@ -20303,7 +20303,7 @@
             "open gate",
             "unmarked cloak"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "SINON",
@@ -20423,7 +20423,7 @@
             "open courtyard",
             "gate passage"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -20468,7 +20468,7 @@
             "open courtyard",
             "gate passage"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -20516,7 +20516,7 @@
             "open courtyard",
             "gate passage"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -20564,7 +20564,7 @@
             "open courtyard",
             "gate passage"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -20618,7 +20618,7 @@
             "open courtyard",
             "gate passage"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "CASSANDRA",
@@ -20666,7 +20666,7 @@
             "open courtyard",
             "gate passage"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "CASSANDRA",
@@ -20796,7 +20796,7 @@
             "wooden horse",
             "empty paving"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -20841,7 +20841,7 @@
             "wooden horse",
             "empty paving"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
