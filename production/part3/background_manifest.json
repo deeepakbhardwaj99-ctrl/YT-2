@@ -473,10 +473,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty nighttime interior of a spare Bronze Age Greek tent, a low wooden table, two simple bowls, folded linen and one warm bronze oil lamp, quiet and unoccupied. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; keep the doorway and clear floor visible; add no occupants or extra furniture. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Night lighting only: cool moonlight and warm bronze oil-lamp glow; deep blue-black outside; absolutely no sun, dawn, daylight or bright daytime sky. Additional composition constraints: This scene continues the same night as Priam's arrival: if the entrance is visible, show only deep blue-black night beyond it, never daylight, dawn or a bright sky.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Rejected after sequence-continuity QC: although the tent setting and staging are suitable, the entrance shows bright daylight. Priam's approach, plea and shared meal take place on the same twelfth night. Reroll with warm bronze-lamp interior light and only deep blue-black night beyond any entrance; no daylight, dawn or bright sky.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "4d5e5a13b30e2398ff80bdc50752971418d3e52efbf191fab56d1c09ec09e6aa",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC on targeted reroll: warm bronze-lamp tent interior continues the twelfth night; entrance opens to dark moonlit camp, with clear lower-third floor. No prohibited content. Filename banner and signature matched the source.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -500,10 +503,25 @@
           ],
           "result": "rejected",
           "reason": "Rejected after sequence-continuity QC: although the tent setting and staging are suitable, the entrance shows bright daylight. Priam's approach, plea and shared meal take place on the same twelfth night. Reroll with warm bronze-lamp interior light and only deep blue-black night beyond any entrance; no daylight, dawn or bright sky."
+        },
+        {
+          "attempt": 1,
+          "candidate_sha256": "4d5e5a13b30e2398ff80bdc50752971418d3e52efbf191fab56d1c09ec09e6aa",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            47,
+            27,
+            15
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC on targeted reroll: warm bronze-lamp tent interior continues the twelfth night; entrance opens to dark moonlit camp, with clear lower-third floor. No prohibited content. Filename banner and signature matched the source."
         }
       ],
-      "rerolls_used": 0,
-      "rerolls_remaining": 2
+      "rerolls_used": 1,
+      "rerolls_remaining": 1
     },
     {
       "clip_id": "p3_clip_03",
@@ -556,10 +574,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty nighttime interior of a spare Bronze Age Greek tent, a low wooden table, two simple bowls, folded linen and one warm bronze oil lamp, quiet and unoccupied. Wide composition: oblique view from a different interior corner, with the entrance and open floor visible; keep the interior architecture readable with generous negative space; emphasize period materials already appropriate to the reference; invent no props. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Night lighting only: cool moonlight and warm bronze oil-lamp glow; deep blue-black outside; absolutely no sun, dawn, daylight or bright daytime sky. Additional composition constraints: This scene continues the same night as Priam's arrival: if the entrance is visible, show only deep blue-black night beyond it, never daylight, dawn or a bright sky.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Rejected after sequence-continuity QC: the wide tent interior is otherwise clear, but its entrance opens onto bright daylight during the continuous twelfth-night meal scene. Reroll with a deep-night exterior, warm bronze lamp and no daylight/dawn.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "dbe1760b72f41723205cfd6daee5dabe5a0e0ebf131cb1c8f81d9b2aaea31f1f",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC on targeted reroll: wide interior tent view at night, dark blue-black exterior through the entrance, meal props to one side and open staging floor. No prohibited content. Filename banner and signature matched the source.",
       "composition": {
         "view": "reverse wide angle at a different time of day, atmospheric depth and open staging space",
         "open_lower_third": true
@@ -583,10 +604,25 @@
           ],
           "result": "rejected",
           "reason": "Rejected after sequence-continuity QC: the wide tent interior is otherwise clear, but its entrance opens onto bright daylight during the continuous twelfth-night meal scene. Reroll with a deep-night exterior, warm bronze lamp and no daylight/dawn."
+        },
+        {
+          "attempt": 1,
+          "candidate_sha256": "dbe1760b72f41723205cfd6daee5dabe5a0e0ebf131cb1c8f81d9b2aaea31f1f",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            37,
+            25,
+            18
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC on targeted reroll: wide interior tent view at night, dark blue-black exterior through the entrance, meal props to one side and open staging floor. No prohibited content. Filename banner and signature matched the source."
         }
       ],
-      "rerolls_used": 0,
-      "rerolls_remaining": 2
+      "rerolls_used": 1,
+      "rerolls_remaining": 1
     },
     {
       "clip_id": "p3_clip_03",
@@ -596,10 +632,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty nighttime interior of a spare Bronze Age Greek tent, a low wooden table, two simple bowls, folded linen and one warm bronze oil lamp, quiet and unoccupied. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; use natural leading lines across the bare floor toward the empty entrance. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Night lighting only: cool moonlight and warm bronze oil-lamp glow; deep blue-black outside; absolutely no sun, dawn, daylight or bright daytime sky. Additional composition constraints: This scene continues the same night as Priam's arrival: if the entrance is visible, show only deep blue-black night beyond it, never daylight, dawn or a bright sky.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Rejected after sequence-continuity QC: the interior composition and open floor are suitable, but bright daylight is visible through the entrance. This shared meal continues the same night as Priam's arrival; reroll with a dark night entrance and warm lamp only, no dawn or daylight.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "25f257356c94be8df15b2f09ede8131a9e35e5cd9fa96e99188a37323ea42df0",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC on targeted reroll: night-lit tent interior with dark entrance, natural floor leading lines and generous clear lower-third staging. No prohibited content. Filename banner and signature matched the source.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -623,10 +662,25 @@
           ],
           "result": "rejected",
           "reason": "Rejected after sequence-continuity QC: the interior composition and open floor are suitable, but bright daylight is visible through the entrance. This shared meal continues the same night as Priam's arrival; reroll with a dark night entrance and warm lamp only, no dawn or daylight."
+        },
+        {
+          "attempt": 1,
+          "candidate_sha256": "25f257356c94be8df15b2f09ede8131a9e35e5cd9fa96e99188a37323ea42df0",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            42,
+            27,
+            16
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC on targeted reroll: night-lit tent interior with dark entrance, natural floor leading lines and generous clear lower-third staging. No prohibited content. Filename banner and signature matched the source."
         }
       ],
-      "rerolls_used": 0,
-      "rerolls_remaining": 2
+      "rerolls_used": 1,
+      "rerolls_remaining": 1
     },
     {
       "clip_id": "p3_clip_03",
@@ -679,10 +733,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A quiet beach camp at first light, an extinguished ceremonial firepit beside open ground, canvas tents and a calm grey sea beyond; no people, remains or bodies. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Additional composition constraints: For ground-level/detail angles, set the extinguished firepit back in the off-centre midground; preserve the entire lower third as clear, level sand. No firepit, pots, vessels or extra objects in the foreground.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Rejected after individual QC: the firepit and two vessels intrude into the lower-right character-staging area. No people, text or modern objects detected. Reroll with the firepit and any props set back from the camera in the off-centre midground, leaving the full lower third clear.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "9a91db6b1d5f08e870f203b19c68990241ef205574fef84ca9a202d534002aa0",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC on targeted reroll: first-light beach-camp detail with the firepit far back in the midground and the full lower third as open sand; no foreground vessels or prohibited content. Filename banner and signature matched the source.",
       "composition": {
         "view": "close environmental detail at ground level, no figures, visually distinct composition",
         "open_lower_third": true
@@ -706,10 +763,25 @@
           ],
           "result": "rejected",
           "reason": "Rejected after individual QC: the firepit and two vessels intrude into the lower-right character-staging area. No people, text or modern objects detected. Reroll with the firepit and any props set back from the camera in the off-centre midground, leaving the full lower third clear."
+        },
+        {
+          "attempt": 1,
+          "candidate_sha256": "9a91db6b1d5f08e870f203b19c68990241ef205574fef84ca9a202d534002aa0",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            207,
+            214,
+            216
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC on targeted reroll: first-light beach-camp detail with the firepit far back in the midground and the full lower third as open sand; no foreground vessels or prohibited content. Filename banner and signature matched the source."
         }
       ],
-      "rerolls_used": 0,
-      "rerolls_remaining": 2
+      "rerolls_used": 1,
+      "rerolls_remaining": 1
     },
     {
       "clip_id": "p3_clip_04",
@@ -805,10 +877,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A quiet beach camp at first light, an extinguished ceremonial firepit beside open ground, canvas tents and a calm grey sea beyond; no people, remains or bodies. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; use natural leading lines to guide the eye through a clear, subject-free environment. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Additional composition constraints: For ground-level/detail angles, set the extinguished firepit back in the off-centre midground; preserve the entire lower third as clear, level sand. No firepit, pots, vessels or extra objects in the foreground.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Rejected after individual QC: the large firepit is centered in the lower foreground and blocks character staging. No people, text or modern objects detected. Reroll with a low side angle but move the firepit back to an off-centre midground position; keep the entire lower third clear sand.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "9555068a2ddcffe59bce53d7e16d4547a26329b4124afdc888f1e6bae4a328a5",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC on targeted reroll: low side-angle dawn camp view, firepit moved off-centre to the midground, lower third unobstructed. No prohibited content. Filename banner and signature matched the source.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -832,10 +907,25 @@
           ],
           "result": "rejected",
           "reason": "Rejected after individual QC: the large firepit is centered in the lower foreground and blocks character staging. No people, text or modern objects detected. Reroll with a low side angle but move the firepit back to an off-centre midground position; keep the entire lower third clear sand."
+        },
+        {
+          "attempt": 1,
+          "candidate_sha256": "9555068a2ddcffe59bce53d7e16d4547a26329b4124afdc888f1e6bae4a328a5",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            163,
+            174,
+            199
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC on targeted reroll: low side-angle dawn camp view, firepit moved off-centre to the midground, lower third unobstructed. No prohibited content. Filename banner and signature matched the source."
         }
       ],
-      "rerolls_used": 0,
-      "rerolls_remaining": 2
+      "rerolls_used": 1,
+      "rerolls_remaining": 1
     },
     {
       "clip_id": "p3_clip_04",
@@ -3004,8 +3094,8 @@
   ],
   "schema_version": 1,
   "total_planned": 121,
-  "accepted": 15,
-  "pending": 106,
+  "accepted": 20,
+  "pending": 101,
   "note": "Part 3 background plates are generated in batches of 10 and accepted only after individual visual review; every plate must have open lower-third staging and contain no people, faces, bodies, text or modern objects.",
   "shot_cadence_seconds_target": 3.0,
   "character_proxy_note": "Only existing approved cutouts/rigs are used; one-off Chapter 9-10 speakers retain their exact names in dialogue and subtitles, while the proxy map is recorded in scenes.json and part3_scene_plan_notes.md.",
@@ -3020,16 +3110,11 @@
   },
   "batch_02_review": {
     "initial_candidates_reviewed": 10,
-    "accepted": 5,
-    "rejected_pending_reroll": 5,
-    "rerolls_used": 0,
-    "remaining_rerolls_by_plate": {
-      "p3_clip_03_bg_01": 2,
-      "p3_clip_03_bg_03": 2,
-      "p3_clip_03_bg_04": 2,
-      "p3_clip_04_bg_01": 2,
-      "p3_clip_04_bg_04": 2
-    },
-    "status": "awaiting_targeted_rerolls"
+    "reroll_candidates_reviewed": 5,
+    "accepted": 10,
+    "rejected_pending_reroll": 0,
+    "rerolls_used": 5,
+    "remaining_rerolls_by_plate": {},
+    "status": "complete"
   }
 }

@@ -14831,7 +14831,7 @@
             "low wooden table",
             "bronze lamp"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -14927,7 +14927,7 @@
             "low wooden table",
             "bronze lamp"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -14981,7 +14981,7 @@
             "low wooden table",
             "bronze lamp"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ACHILLES",
@@ -15131,7 +15131,7 @@
             "empty firepit",
             "open beach"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -15284,7 +15284,7 @@
             "empty firepit",
             "open beach"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
