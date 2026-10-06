@@ -3188,10 +3188,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty stretch of the Bronze Age Greek beach camp with a colossal horse-shaped timber framework under construction, neat ropes and cut beams, distant ships and open sand; no people. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1365,
+        768
+      ],
+      "sha256": "4d9113c9754e6d6cc91b3227f354d0b1cedb7ad865d6ae2fada136c54ad573da",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: oblique beach-camp view with the empty timber horse frame on the left and broad clear sand staging across the right foreground. Ancient ships/tents only; no people or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -3199,7 +3202,26 @@
       "protected_objects": [
         "timber horse frame",
         "open beach"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "4d9113c9754e6d6cc91b3227f354d0b1cedb7ad865d6ae2fada136c54ad573da",
+          "candidate_dimensions": [
+            1365,
+            768
+          ],
+          "top_mid_rgb_median": [
+            142,
+            170,
+            192
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: oblique beach-camp view with the empty timber horse frame on the left and broad clear sand staging across the right foreground. Ancient ships/tents only; no people or prohibited content. Filename banner/signature verified."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_16",
@@ -3209,10 +3231,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty stretch of the Bronze Age Greek beach camp with a colossal horse-shaped timber framework under construction, neat ropes and cut beams, distant ships and open sand; no people. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; use natural leading lines to guide the eye through a clear, subject-free environment. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "2fe9348fb74be63a6d69037c267c1c5fabe1040875c5b7dce9308ea23446e113",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: medium view of the hollow riderless horse framework, held to the right with broad open beach floor to the left for staging. No people, occupants or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -3220,7 +3245,26 @@
       "protected_objects": [
         "timber horse frame",
         "open beach"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "2fe9348fb74be63a6d69037c267c1c5fabe1040875c5b7dce9308ea23446e113",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            140,
+            170,
+            190
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: medium view of the hollow riderless horse framework, held to the right with broad open beach floor to the left for staging. No people, occupants or prohibited content. Filename banner/signature verified."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_16",
@@ -3230,10 +3274,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty stretch of the Bronze Age Greek beach camp with a colossal horse-shaped timber framework under construction, neat ropes and cut beams, distant ships and open sand; no people. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; shift to softer evening or dawn light and a reverse-axis composition. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "dc3e48fbb02c9de2a7c887bcc49c08f06fc0e6762d1a8e2f8e8042dbbb0111d8",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: close joinery/rope detail on the wooden framework at the right, with a clear sand lane in the left lower third. No people or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "close environmental detail at ground level, no figures, visually distinct composition",
         "open_lower_third": true
@@ -3241,7 +3288,26 @@
       "protected_objects": [
         "timber horse frame",
         "open beach"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "dc3e48fbb02c9de2a7c887bcc49c08f06fc0e6762d1a8e2f8e8042dbbb0111d8",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            135,
+            108,
+            76
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: close joinery/rope detail on the wooden framework at the right, with a clear sand lane in the left lower third. No people or prohibited content. Filename banner/signature verified."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_16",
@@ -3251,10 +3317,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty stretch of the Bronze Age Greek beach camp with a colossal horse-shaped timber framework under construction, neat ropes and cut beams, distant ships and open sand; no people. Wide composition: reverse wide angle at a different time of day, atmospheric depth and open staging space; keep the major geography visible with generous negative space; add a raised spatial layer without introducing structures absent from the location reference. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "bf848d9b71131774961fdd77b28c78f872fb02569679c01a2cacd56ec0f99c3f",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: reverse dawn beach view; inert timber horse set back in the midground and broad sand foreground remains open. Small loose beams stay at the edges. No people or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "reverse wide angle at a different time of day, atmospheric depth and open staging space",
         "open_lower_third": true
@@ -3262,7 +3331,26 @@
       "protected_objects": [
         "timber horse frame",
         "open beach"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "bf848d9b71131774961fdd77b28c78f872fb02569679c01a2cacd56ec0f99c3f",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            148,
+            178,
+            202
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: reverse dawn beach view; inert timber horse set back in the midground and broad sand foreground remains open. Small loose beams stay at the edges. No people or prohibited content. Filename banner/signature verified."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_17",
@@ -3272,10 +3360,13 @@
       "shot_type": "establishing",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A temporary Bronze Age carpentry yard beside the Greek camp, pine beams, wooden pegs and an unfinished hollow timber horse frame on clear ground; no people, writing or markings. Establishing composition: panoramic coastline or landscape, low horizon and clear empty foreground; show a broad, readable vista and a clear open lower-third foreground; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "5b6a9810dbaf400daf7657302ddeb576fc0e7ef072e6af67a8c90d238a01e0b5",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: panoramic Bronze Age carpentry yard with hollow horse frame, period timber materials at far sides and clear central sandy staging. No people, markings or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "panoramic coastline or landscape, low horizon and clear empty foreground",
         "open_lower_third": true
@@ -3283,7 +3374,26 @@
       "protected_objects": [
         "pine beams",
         "horse frame"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "5b6a9810dbaf400daf7657302ddeb576fc0e7ef072e6af67a8c90d238a01e0b5",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            141,
+            169,
+            190
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: panoramic Bronze Age carpentry yard with hollow horse frame, period timber materials at far sides and clear central sandy staging. No people, markings or prohibited content. Filename banner/signature verified."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_17",
@@ -3292,11 +3402,11 @@
       "location": "loc_camp",
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
-      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A temporary Bronze Age carpentry yard beside the Greek camp, pine beams, wooden pegs and an unfinished hollow timber horse frame on clear ground; no people, writing or markings. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A temporary Bronze Age carpentry yard beside the Greek camp, pine beams, wooden pegs and an unfinished hollow timber horse frame on clear ground; no people, writing or markings. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Additional composition constraints: Keep all stacks of pine beams, pegs and work supports at the far edges or in the midground; no lumber piles or trestles may enter the lower third. Preserve a broad, unobstructed lower-third area of level bare sand for character staging.",
       "dimensions": null,
       "sha256": null,
       "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "qc_note": "Rejected after individual QC: large lumber stacks spill from the midground across most of the lower-right foreground, leaving too little broad lower-third staging beside the central horse frame. Reroll with all lumber/pegs confined to far edges or distant midground and a wide, uninterrupted bare-sand foreground. No people or prohibited content detected.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -3304,7 +3414,26 @@
       "protected_objects": [
         "pine beams",
         "horse frame"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "84fd54630dda31fbe01401047f99578b05de946801bb7b413f0c585abe3563fd",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            141,
+            193,
+            206
+          ],
+          "result": "rejected",
+          "reason": "Rejected after individual QC: large lumber stacks spill from the midground across most of the lower-right foreground, leaving too little broad lower-third staging beside the central horse frame. Reroll with all lumber/pegs confined to far edges or distant midground and a wide, uninterrupted bare-sand foreground. No people or prohibited content detected."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_17",
@@ -3314,10 +3443,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A temporary Bronze Age carpentry yard beside the Greek camp, pine beams, wooden pegs and an unfinished hollow timber horse frame on clear ground; no people, writing or markings. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "7db6b4c000aef5f3672d34a94c64c8fea7c4d2917b7be08027e579cf0a8ca87f",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: close timber peg-joint detail in the right foreground; a broad empty path remains on the left for lower-third staging. Period rope and wood only; no people or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -3325,7 +3457,26 @@
       "protected_objects": [
         "pine beams",
         "horse frame"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "7db6b4c000aef5f3672d34a94c64c8fea7c4d2917b7be08027e579cf0a8ca87f",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            130,
+            133,
+            94
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: close timber peg-joint detail in the right foreground; a broad empty path remains on the left for lower-third staging. Period rope and wood only; no people or prohibited content. Filename banner/signature verified."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_17",
@@ -3335,10 +3486,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A temporary Bronze Age carpentry yard beside the Greek camp, pine beams, wooden pegs and an unfinished hollow timber horse frame on clear ground; no people, writing or markings. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; use natural leading lines to guide the eye through a clear, subject-free environment. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "6661cc60d36af981949d994260e1d4ebf823d89e1707c04134e0a33d497149d1",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: low-angle carpentry yard, lumber stacks frame the far edges while the central lower-third sand lane remains open. No people or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "close environmental detail at ground level, no figures, visually distinct composition",
         "open_lower_third": true
@@ -3346,7 +3500,26 @@
       "protected_objects": [
         "pine beams",
         "horse frame"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "6661cc60d36af981949d994260e1d4ebf823d89e1707c04134e0a33d497149d1",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            139,
+            168,
+            188
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: low-angle carpentry yard, lumber stacks frame the far edges while the central lower-third sand lane remains open. No people or prohibited content. Filename banner/signature verified."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_17",
@@ -3356,10 +3529,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A temporary Bronze Age carpentry yard beside the Greek camp, pine beams, wooden pegs and an unfinished hollow timber horse frame on clear ground; no people, writing or markings. Wide composition: reverse wide angle at a different time of day, atmospheric depth and open staging space; keep the major geography visible with generous negative space; shift to softer evening or dawn light and a reverse-axis composition. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "3e9093cf1ec0f9cc0d437c931c7581f4abd21c84234f794b97a62017e6ae64c8",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: reverse dawn view of the yard with the inert timber frame and lumber in the midground; broad empty sand foreground. No people or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "reverse wide angle at a different time of day, atmospheric depth and open staging space",
         "open_lower_third": true
@@ -3367,7 +3543,26 @@
       "protected_objects": [
         "pine beams",
         "horse frame"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "3e9093cf1ec0f9cc0d437c931c7581f4abd21c84234f794b97a62017e6ae64c8",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            205,
+            222,
+            232
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: reverse dawn view of the yard with the inert timber frame and lumber in the midground; broad empty sand foreground. No people or prohibited content. Filename banner/signature verified."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_18",
@@ -3377,10 +3572,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A close environmental view through the open ribs of a huge hollow wooden horse, curved timbers, pegs and dark empty interior space, no people, letters or marks. Wide composition: oblique view from a different interior corner, with the entrance and open floor visible; keep the interior architecture readable with generous negative space; keep the doorway and clear floor visible; add no occupants or extra furniture. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1365,
+        768
+      ],
+      "sha256": "7be5ca527078ef7a1d877286cd86e5e244bf916d8da2d41d74b11a0d19ca8a07",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: view from inside the hollow wooden horse through open ribs; the lower-third plank floor is empty and clear, with only the camp visible beyond. No people, occupants or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -3388,7 +3586,26 @@
       "protected_objects": [
         "hollow timber ribs",
         "open interior"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "7be5ca527078ef7a1d877286cd86e5e244bf916d8da2d41d74b11a0d19ca8a07",
+          "candidate_dimensions": [
+            1365,
+            768
+          ],
+          "top_mid_rgb_median": [
+            15,
+            10,
+            6
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: view from inside the hollow wooden horse through open ribs; the lower-third plank floor is empty and clear, with only the camp visible beyond. No people, occupants or prohibited content. Filename banner/signature verified."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_18",
@@ -4254,8 +4471,8 @@
   ],
   "schema_version": 1,
   "total_planned": 121,
-  "accepted": 70,
-  "pending": 51,
+  "accepted": 79,
+  "pending": 42,
   "note": "Part 3 background plates are generated in batches of 10 and accepted only after individual visual review; every plate must have open lower-third staging and contain no people, faces, bodies, text or modern objects.",
   "shot_cadence_seconds_target": 3.0,
   "character_proxy_note": "Only existing approved cutouts/rigs are used; one-off Chapter 9-10 speakers retain their exact names in dialogue and subtitles, while the proxy map is recorded in scenes.json and part3_scene_plan_notes.md.",
@@ -4316,5 +4533,15 @@
     "rerolls_used": 0,
     "remaining_rerolls_by_plate": {},
     "status": "complete"
+  },
+  "batch_08_review": {
+    "initial_candidates_reviewed": 10,
+    "accepted": 9,
+    "rejected_pending_reroll": 1,
+    "rerolls_used": 0,
+    "remaining_rerolls_by_plate": {
+      "p3_clip_17_bg_02": 2
+    },
+    "status": "awaiting_targeted_reroll"
   }
 }

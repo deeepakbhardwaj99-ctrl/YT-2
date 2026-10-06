@@ -18411,7 +18411,7 @@
             "timber horse frame",
             "open beach"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ODYSSEUS",
@@ -18468,7 +18468,7 @@
             "timber horse frame",
             "open beach"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -18519,7 +18519,7 @@
             "timber horse frame",
             "open beach"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -18570,7 +18570,7 @@
             "timber horse frame",
             "open beach"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -18684,7 +18684,7 @@
             "pine beams",
             "horse frame"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -18720,7 +18720,7 @@
           "location": "loc_camp",
           "shot_type": "wide",
           "bg_path": "production/part3/backgrounds/p3_clip_17_bg_02.jpg",
-          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A temporary Bronze Age carpentry yard beside the Greek camp, pine beams, wooden pegs and an unfinished hollow timber horse frame on clear ground; no people, writing or markings. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A temporary Bronze Age carpentry yard beside the Greek camp, pine beams, wooden pegs and an unfinished hollow timber horse frame on clear ground; no people, writing or markings. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Additional composition constraints: Keep all stacks of pine beams, pegs and work supports at the far edges or in the midground; no lumber piles or trestles may enter the lower third. Preserve a broad, unobstructed lower-third area of level bare sand for character staging.",
           "reference_path": "production/assets/locations/loc_camp_ref.png",
           "setting_label": "GREEK CAMP \u2014 EPEIUS'S WORKSHOP",
           "composition": {
@@ -18778,7 +18778,7 @@
             "pine beams",
             "horse frame"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -18825,7 +18825,7 @@
             "pine beams",
             "horse frame"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -18878,7 +18878,7 @@
             "pine beams",
             "horse frame"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "EPEIUS",
@@ -18978,7 +18978,7 @@
             "hollow timber ribs",
             "open interior"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
