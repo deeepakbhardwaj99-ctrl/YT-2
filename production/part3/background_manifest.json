@@ -2399,10 +2399,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty command tent used for a prophecy, a plain bow on a low table and an empty wall niche with lamplight falling across the canvas; no writing or people. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; emphasize period materials already appropriate to the reference; invent no props. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Additional composition constraints: Keep the plain bow laid flat on the tabletop off-centre in the midground; no bow, table, lampstand or other prop may extend into the lower third. Preserve the full lower third as clear bare floor.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Rejected after individual QC: the long bow leans down from the table into the lower-centre staging zone. No people or text detected. Reroll with the bow laid flat on the tabletop, off-centre in the midground, and the entire lower third kept clear of props.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "a3cb4c9944cecc6771db28f1c70e7154c28488e0e3596a69f2ab11c042d83e1e",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC on targeted reroll: empty prophecy tent with blank niche, bronze lamp and plain bow laid flat on the off-centre table; the lower third is clear bare floor. No people/faces/bodies, writing/inscriptions, logos/watermarks, modern objects or layout guides. Filename banner, dimensions and top-band signature matched the source.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -2426,10 +2429,25 @@
           ],
           "result": "rejected",
           "reason": "Rejected after individual QC: the long bow leans down from the table into the lower-centre staging zone. No people or text detected. Reroll with the bow laid flat on the tabletop, off-centre in the midground, and the entire lower third kept clear of props."
+        },
+        {
+          "attempt": 1,
+          "candidate_sha256": "a3cb4c9944cecc6771db28f1c70e7154c28488e0e3596a69f2ab11c042d83e1e",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            61,
+            43,
+            25
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC on targeted reroll: empty prophecy tent with blank niche, bronze lamp and plain bow laid flat on the off-centre table; the lower third is clear bare floor. No people/faces/bodies, writing/inscriptions, logos/watermarks, modern objects or layout guides. Filename banner, dimensions and top-band signature matched the source."
         }
       ],
-      "rerolls_used": 0,
-      "rerolls_remaining": 2
+      "rerolls_used": 1,
+      "rerolls_remaining": 1
     },
     {
       "clip_id": "p3_clip_12",
@@ -4016,8 +4034,8 @@
   ],
   "schema_version": 1,
   "total_planned": 121,
-  "accepted": 59,
-  "pending": 62,
+  "accepted": 60,
+  "pending": 61,
   "note": "Part 3 background plates are generated in batches of 10 and accepted only after individual visual review; every plate must have open lower-third staging and contain no people, faces, bodies, text or modern objects.",
   "shot_cadence_seconds_target": 3.0,
   "character_proxy_note": "Only existing approved cutouts/rigs are used; one-off Chapter 9-10 speakers retain their exact names in dialogue and subtitles, while the proxy map is recorded in scenes.json and part3_scene_plan_notes.md.",
@@ -4064,12 +4082,11 @@
   },
   "batch_06_review": {
     "initial_candidates_reviewed": 10,
-    "accepted": 9,
-    "rejected_pending_reroll": 1,
-    "rerolls_used": 0,
-    "remaining_rerolls_by_plate": {
-      "p3_clip_12_bg_03": 2
-    },
-    "status": "awaiting_targeted_reroll"
+    "reroll_candidates_reviewed": 1,
+    "accepted": 10,
+    "rejected_pending_reroll": 0,
+    "rerolls_used": 1,
+    "remaining_rerolls_by_plate": {},
+    "status": "complete"
   }
 }
