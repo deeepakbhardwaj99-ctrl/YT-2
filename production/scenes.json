@@ -14820,7 +14820,7 @@
           "location": "loc_camp",
           "shot_type": "medium",
           "bg_path": "production/part3/backgrounds/p3_clip_03_bg_01.jpg",
-          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A spare Bronze Age tent interior with a low wooden table, two simple bowls, folded linen and a warm bronze lamp, quiet and unoccupied. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; keep the doorway and clear floor visible; add no occupants or extra furniture. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty nighttime interior of a spare Bronze Age Greek tent, a low wooden table, two simple bowls, folded linen and one warm bronze oil lamp, quiet and unoccupied. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; keep the doorway and clear floor visible; add no occupants or extra furniture. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Night lighting only: cool moonlight and warm bronze oil-lamp glow; deep blue-black outside; absolutely no sun, dawn, daylight or bright daytime sky. Additional composition constraints: This scene continues the same night as Priam's arrival: if the entrance is visible, show only deep blue-black night beyond it, never daylight, dawn or a bright sky.",
           "reference_path": "production/assets/locations/loc_camp_ref.png",
           "setting_label": "GREEK CAMP \u2014 A SHARED MEAL",
           "composition": {
@@ -14879,7 +14879,7 @@
             "low wooden table",
             "bronze lamp"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -14916,7 +14916,7 @@
           "location": "loc_camp",
           "shot_type": "wide",
           "bg_path": "production/part3/backgrounds/p3_clip_03_bg_03.jpg",
-          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A spare Bronze Age tent interior with a low wooden table, two simple bowls, folded linen and a warm bronze lamp, quiet and unoccupied. Wide composition: oblique view from a different interior corner, with the entrance and open floor visible; keep the interior architecture readable with generous negative space; emphasize period materials already appropriate to the reference; invent no props. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty nighttime interior of a spare Bronze Age Greek tent, a low wooden table, two simple bowls, folded linen and one warm bronze oil lamp, quiet and unoccupied. Wide composition: oblique view from a different interior corner, with the entrance and open floor visible; keep the interior architecture readable with generous negative space; emphasize period materials already appropriate to the reference; invent no props. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Night lighting only: cool moonlight and warm bronze oil-lamp glow; deep blue-black outside; absolutely no sun, dawn, daylight or bright daytime sky. Additional composition constraints: This scene continues the same night as Priam's arrival: if the entrance is visible, show only deep blue-black night beyond it, never daylight, dawn or a bright sky.",
           "reference_path": "production/assets/locations/loc_camp_ref.png",
           "setting_label": "GREEK CAMP \u2014 A SHARED MEAL",
           "composition": {
@@ -14970,7 +14970,7 @@
           "location": "loc_camp",
           "shot_type": "medium",
           "bg_path": "production/part3/backgrounds/p3_clip_03_bg_04.jpg",
-          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A spare Bronze Age tent interior with a low wooden table, two simple bowls, folded linen and a warm bronze lamp, quiet and unoccupied. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; use natural leading lines across the bare floor toward the empty entrance. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty nighttime interior of a spare Bronze Age Greek tent, a low wooden table, two simple bowls, folded linen and one warm bronze oil lamp, quiet and unoccupied. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; use natural leading lines across the bare floor toward the empty entrance. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Night lighting only: cool moonlight and warm bronze oil-lamp glow; deep blue-black outside; absolutely no sun, dawn, daylight or bright daytime sky. Additional composition constraints: This scene continues the same night as Priam's arrival: if the entrance is visible, show only deep blue-black night beyond it, never daylight, dawn or a bright sky.",
           "reference_path": "production/assets/locations/loc_camp_ref.png",
           "setting_label": "GREEK CAMP \u2014 A SHARED MEAL",
           "composition": {
@@ -15029,7 +15029,7 @@
             "low wooden table",
             "bronze lamp"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ACHILLES",
@@ -15120,7 +15120,7 @@
           "location": "loc_camp",
           "shot_type": "detail",
           "bg_path": "production/part3/backgrounds/p3_clip_04_bg_01.jpg",
-          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A quiet beach camp at first light, an extinguished ceremonial firepit beside open ground, canvas tents and a calm grey sea beyond; no people, remains or bodies. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A quiet beach camp at first light, an extinguished ceremonial firepit beside open ground, canvas tents and a calm grey sea beyond; no people, remains or bodies. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Additional composition constraints: For ground-level/detail angles, set the extinguished firepit back in the off-centre midground; preserve the entire lower third as clear, level sand. No firepit, pots, vessels or extra objects in the foreground.",
           "reference_path": "production/assets/locations/loc_camp_ref.png",
           "setting_label": "GREEK CAMP \u2014 HECTOR'S FUNERAL TRUCE",
           "composition": {
@@ -15182,7 +15182,7 @@
             "empty firepit",
             "open beach"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -15233,7 +15233,7 @@
             "empty firepit",
             "open beach"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -15273,7 +15273,7 @@
           "location": "loc_camp",
           "shot_type": "detail",
           "bg_path": "production/part3/backgrounds/p3_clip_04_bg_04.jpg",
-          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A quiet beach camp at first light, an extinguished ceremonial firepit beside open ground, canvas tents and a calm grey sea beyond; no people, remains or bodies. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; use natural leading lines to guide the eye through a clear, subject-free environment. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A quiet beach camp at first light, an extinguished ceremonial firepit beside open ground, canvas tents and a calm grey sea beyond; no people, remains or bodies. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; use natural leading lines to guide the eye through a clear, subject-free environment. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Additional composition constraints: For ground-level/detail angles, set the extinguished firepit back in the off-centre midground; preserve the entire lower third as clear, level sand. No firepit, pots, vessels or extra objects in the foreground.",
           "reference_path": "production/assets/locations/loc_camp_ref.png",
           "setting_label": "GREEK CAMP \u2014 HECTOR'S FUNERAL TRUCE",
           "composition": {
@@ -15335,7 +15335,7 @@
             "empty firepit",
             "open beach"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
