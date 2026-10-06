@@ -1838,10 +1838,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty Greek command pavilion after battle, ornate bronze armor and a large round shield displayed on a low stand between two vacant places, no people. Wide composition: oblique view from a different interior corner, with the entrance and open floor visible; keep the interior architecture readable with generous negative space; shift to warm lamp or dawn light while preserving the approved room palette. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "0d40e24bf0bc2e89597c614a76933fde4b43a9b1a20efeab75c044d6bd3ec1b8",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: empty Greek command pavilion with bronze armor and round shield as an inanimate midground display; ample clear floor below, no human forms, writing or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "reverse wide angle at a different time of day, atmospheric depth and open staging space",
         "open_lower_third": true
@@ -1849,6 +1852,25 @@
       "protected_objects": [
         "bronze armor",
         "round shield"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "0d40e24bf0bc2e89597c614a76933fde4b43a9b1a20efeab75c044d6bd3ec1b8",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            88,
+            58,
+            31
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: empty Greek command pavilion with bronze armor and round shield as an inanimate midground display; ample clear floor below, no human forms, writing or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1858,11 +1880,11 @@
       "location": "loc_camp",
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
-      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty Greek command pavilion after battle, ornate bronze armor and a large round shield displayed on a low stand between two vacant places, no people. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; show one restrained architectural layer and an unobstructed lower third. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty Greek command pavilion after battle, ornate bronze armor and a large round shield displayed on a low stand between two vacant places, no people. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; show one restrained architectural layer and an unobstructed lower third. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Additional composition constraints: Place the plain armor and shield on an empty low display stand off-centre in the midground; no armor/display stand in the lower third. Leave the full lower third as clear floor; no mannequin or human-shaped forms.",
       "dimensions": null,
       "sha256": null,
       "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "qc_note": "Rejected after individual QC: armor and shield display with a broad table/stand fills the central lower staging area, leaving insufficient clear ground for character cutouts. No people or text detected. Reroll with empty armor on a small off-centre midground stand and the entire lower third as bare floor.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -1870,7 +1892,26 @@
       "protected_objects": [
         "bronze armor",
         "round shield"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "4b4712c528931ae8558aead943597d725e7aa5d375b75634a1e52aa49aaf5b67",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            77,
+            55,
+            42
+          ],
+          "result": "rejected",
+          "reason": "Rejected after individual QC: armor and shield display with a broad table/stand fills the central lower staging area, leaving insufficient clear ground for character cutouts. No people or text detected. Reroll with empty armor on a small off-centre midground stand and the entire lower third as bare floor."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_10",
@@ -1880,10 +1921,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A bare Greek war-council tent with an empty judging bench and bronze armor resting in warm lamplight, open canvas sides reveal the silent camp; no figures. Wide composition: oblique view from a different interior corner, with the entrance and open floor visible; keep the interior architecture readable with generous negative space; keep the doorway and clear floor visible; add no occupants or extra furniture. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "a0dcfe783ea09eed0d2702eac7281fcdaa734f38043d9cd89cba120fc2ed1926",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: clearly interior war-council tent, empty judging bench and plain armor set to one side; open lower staging and no prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -1891,6 +1935,25 @@
       "protected_objects": [
         "empty judging bench",
         "bronze armor"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "a0dcfe783ea09eed0d2702eac7281fcdaa734f38043d9cd89cba120fc2ed1926",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            139,
+            97,
+            53
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: clearly interior war-council tent, empty judging bench and plain armor set to one side; open lower staging and no prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1900,11 +1963,11 @@
       "location": "loc_camp",
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
-      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A bare Greek war-council tent with an empty judging bench and bronze armor resting in warm lamplight, open canvas sides reveal the silent camp; no figures. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; use foreground-to-background depth through canvas, stone or timber without clutter. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A bare Greek war-council tent with an empty judging bench and bronze armor resting in warm lamplight, open canvas sides reveal the silent camp; no figures. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; use foreground-to-background depth through canvas, stone or timber without clutter. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Additional composition constraints: Show the scene unmistakably from inside a war-council tent, with canvas roof and side walls visible; no exterior-wide camp view. Set the empty judging bench and plain armor to one side in the midground and preserve the whole lower third as clear floor; no mannequins or human forms.",
       "dimensions": null,
       "sha256": null,
       "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "qc_note": "Rejected after individual QC: image shows an exterior camp/palisade rather than the specified war-council tent interior; no judging bench is visible and a box sits in the foreground. Reroll from inside a clearly enclosed canvas tent, with bench/armor to one side and clear lower-third floor.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -1912,7 +1975,26 @@
       "protected_objects": [
         "empty judging bench",
         "bronze armor"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "ab16720530c1afcfa8de475c42ae5f000bb2eb64f954baf3d4ab85c9e5660f4f",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            77,
+            117,
+            159
+          ],
+          "result": "rejected",
+          "reason": "Rejected after individual QC: image shows an exterior camp/palisade rather than the specified war-council tent interior; no judging bench is visible and a box sits in the foreground. Reroll from inside a clearly enclosed canvas tent, with bench/armor to one side and clear lower-third floor."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_11",
@@ -1922,10 +2004,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A deserted animal pen at cold dawn, a tipped wooden trough, scattered straw and an empty fenced corner near the tents, quiet and non-graphic; no animals or people. Medium composition: medium environment detail with a single symbolic prop or architectural feature; layer the environment around one restrained focal area; keep the horizon clear and place only landmarks from the named setting in the distance. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "8a80911e0abc27659ffe5465af86a117500d27079b41738b2a58ba2d66f58b2b",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: cold-dawn empty pen, trough set back near the fence and open foreground; no animals, people, remains or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -1933,6 +2018,25 @@
       "protected_objects": [
         "tipped trough",
         "empty pen"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "8a80911e0abc27659ffe5465af86a117500d27079b41738b2a58ba2d66f58b2b",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            140,
+            176,
+            206
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: cold-dawn empty pen, trough set back near the fence and open foreground; no animals, people, remains or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1943,10 +2047,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A deserted animal pen at cold dawn, a tipped wooden trough, scattered straw and an empty fenced corner near the tents, quiet and non-graphic; no animals or people. Detail composition: close environmental detail at ground level, no figures, visually distinct composition; frame an environmental surface or architectural detail without clutter; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "2b1445b5b46d4f5fb62d444e18099c7882689594355aa62b1798ba706effa10c",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: ground-level pen detail with fence/trough in the background and clear open lower third; non-graphic, no prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "close environmental detail at ground level, no figures, visually distinct composition",
         "open_lower_third": true
@@ -1954,6 +2061,25 @@
       "protected_objects": [
         "tipped trough",
         "empty pen"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "2b1445b5b46d4f5fb62d444e18099c7882689594355aa62b1798ba706effa10c",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            181,
+            207,
+            228
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: ground-level pen detail with fence/trough in the background and clear open lower third; non-graphic, no prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1964,10 +2090,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A deserted animal pen at cold dawn, a tipped wooden trough, scattered straw and an empty fenced corner near the tents, quiet and non-graphic; no animals or people. Wide composition: reverse wide angle at a different time of day, atmospheric depth and open staging space; keep the major geography visible with generous negative space; emphasize weathering and materials already appropriate to this environment; invent no props. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "6ff75459b636c4f19691048afa09b8e6161fe7f9906e05d2f1ff2a7394935472",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: reverse wide empty pen view with broad sandy foreground; trough and fence remain in the midground, no animals or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "reverse wide angle at a different time of day, atmospheric depth and open staging space",
         "open_lower_third": true
@@ -1975,6 +2104,25 @@
       "protected_objects": [
         "tipped trough",
         "empty pen"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "6ff75459b636c4f19691048afa09b8e6161fe7f9906e05d2f1ff2a7394935472",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            115,
+            123,
+            138
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: reverse wide empty pen view with broad sandy foreground; trough and fence remain in the midground, no animals or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -1985,10 +2133,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A deserted animal pen at cold dawn, a tipped wooden trough, scattered straw and an empty fenced corner near the tents, quiet and non-graphic; no animals or people. Medium composition: raised three-quarter view that reveals a new spatial layer and an unobstructed foreground; layer the environment around one restrained focal area; use natural leading lines to guide the eye through a clear, subject-free environment. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "2dae8757f5ee41744dcc65bf15e87b4d39d02d638338fc4351eb61cf2c77a2d5",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: raised view of the empty pen at dawn, trough/fence in the midground and clear lower-third ground. No prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -1996,6 +2147,25 @@
       "protected_objects": [
         "tipped trough",
         "empty pen"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "2dae8757f5ee41744dcc65bf15e87b4d39d02d638338fc4351eb61cf2c77a2d5",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            109,
+            152,
+            169
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: raised view of the empty pen at dawn, trough/fence in the midground and clear lower-third ground. No prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -2005,11 +2175,11 @@
       "location": "loc_camp",
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
-      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A deserted animal pen at cold dawn, a tipped wooden trough, scattered straw and an empty fenced corner near the tents, quiet and non-graphic; no animals or people. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; shift to softer evening or dawn light and a reverse-axis composition. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+      "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A deserted animal pen at cold dawn, a tipped wooden trough, scattered straw and an empty fenced corner near the tents, quiet and non-graphic; no animals or people. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; shift to softer evening or dawn light and a reverse-axis composition. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Additional composition constraints: Keep fence rails and the tipped trough in the midground/background; no foreground fence crossing the lower third. Preserve the entire lower third as clear level ground.",
       "dimensions": null,
       "sha256": null,
       "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "qc_note": "Rejected after individual QC: close fence rails and the tipped trough intrude into the lower-third staging area. No animals, people or text detected. Reroll with fence and trough confined to the midground/background and the full lower third left clear.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -2017,7 +2187,26 @@
       "protected_objects": [
         "tipped trough",
         "empty pen"
-      ]
+      ],
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "afb3e235657e64f7b1262311b5b72215213e92c53d3d725c7365b7fd9078f69d",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            175,
+            223,
+            237
+          ],
+          "result": "rejected",
+          "reason": "Rejected after individual QC: close fence rails and the tipped trough intrude into the lower-third staging area. No animals, people or text detected. Reroll with fence and trough confined to the midground/background and the full lower third left clear."
+        }
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2
     },
     {
       "clip_id": "p3_clip_11",
@@ -2027,10 +2216,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A deserted animal pen at cold dawn, a tipped wooden trough, scattered straw and an empty fenced corner near the tents, quiet and non-graphic; no animals or people. Wide composition: distant reverse view with atmospheric haze, changed light, and generous negative space; keep the major geography visible with generous negative space; add a raised spatial layer without introducing structures absent from the location reference. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Awaiting image generation and individual visual review against the approved location sheet.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "92643f38d5a317d55ba2a7c67674240ed2ce319c72bd378bc2ecf2ce9b5a3cfb",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC: distant reverse pen view, trough/fence set back and broad open foreground; no animals, people, remains or prohibited content. Filename banner/signature verified.",
       "composition": {
         "view": "distant reverse view with atmospheric haze, changed light, and generous negative space",
         "open_lower_third": true
@@ -2038,6 +2230,25 @@
       "protected_objects": [
         "tipped trough",
         "empty pen"
+      ],
+      "rerolls_used": 0,
+      "rerolls_remaining": 2,
+      "candidate_history": [
+        {
+          "attempt": 0,
+          "candidate_sha256": "92643f38d5a317d55ba2a7c67674240ed2ce319c72bd378bc2ecf2ce9b5a3cfb",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            161,
+            188,
+            215
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC: distant reverse pen view, trough/fence set back and broad open foreground; no animals, people, remains or prohibited content. Filename banner/signature verified."
+        }
       ]
     },
     {
@@ -3534,8 +3745,8 @@
   ],
   "schema_version": 1,
   "total_planned": 121,
-  "accepted": 40,
-  "pending": 81,
+  "accepted": 47,
+  "pending": 74,
   "note": "Part 3 background plates are generated in batches of 10 and accepted only after individual visual review; every plate must have open lower-third staging and contain no people, faces, bodies, text or modern objects.",
   "shot_cadence_seconds_target": 3.0,
   "character_proxy_note": "Only existing approved cutouts/rigs are used; one-off Chapter 9-10 speakers retain their exact names in dialogue and subtitles, while the proxy map is recorded in scenes.json and part3_scene_plan_notes.md.",
@@ -3570,5 +3781,17 @@
     "rejected_pending_reroll": 0,
     "rerolls_used": 0,
     "status": "complete"
+  },
+  "batch_05_review": {
+    "initial_candidates_reviewed": 10,
+    "accepted": 7,
+    "rejected_pending_reroll": 3,
+    "rerolls_used": 0,
+    "remaining_rerolls_by_plate": {
+      "p3_clip_09_bg_06": 2,
+      "p3_clip_10_bg_02": 2,
+      "p3_clip_11_bg_05": 2
+    },
+    "status": "awaiting_targeted_rerolls"
   }
 }

@@ -16579,7 +16579,7 @@
             "bronze armor",
             "round shield"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "AJAX",
@@ -16616,7 +16616,7 @@
           "location": "loc_camp",
           "shot_type": "medium",
           "bg_path": "production/part3/backgrounds/p3_clip_09_bg_06.jpg",
-          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty Greek command pavilion after battle, ornate bronze armor and a large round shield displayed on a low stand between two vacant places, no people. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; show one restrained architectural layer and an unobstructed lower third. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty Greek command pavilion after battle, ornate bronze armor and a large round shield displayed on a low stand between two vacant places, no people. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; show one restrained architectural layer and an unobstructed lower third. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Additional composition constraints: Place the plain armor and shield on an empty low display stand off-centre in the midground; no armor/display stand in the lower third. Leave the full lower third as clear floor; no mannequin or human-shaped forms.",
           "reference_path": "production/assets/locations/loc_camp_ref.png",
           "setting_label": "GREEK CAMP \u2014 THE ARMOR DISPUTE",
           "composition": {
@@ -16738,7 +16738,7 @@
             "empty judging bench",
             "bronze armor"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ODYSSEUS",
@@ -16774,7 +16774,7 @@
           "location": "loc_camp",
           "shot_type": "medium",
           "bg_path": "production/part3/backgrounds/p3_clip_10_bg_02.jpg",
-          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A bare Greek war-council tent with an empty judging bench and bronze armor resting in warm lamplight, open canvas sides reveal the silent camp; no figures. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; use foreground-to-background depth through canvas, stone or timber without clutter. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A bare Greek war-council tent with an empty judging bench and bronze armor resting in warm lamplight, open canvas sides reveal the silent camp; no figures. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; use foreground-to-background depth through canvas, stone or timber without clutter. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Additional composition constraints: Show the scene unmistakably from inside a war-council tent, with canvas roof and side walls visible; no exterior-wide camp view. Set the empty judging bench and plain armor to one side in the midground and preserve the whole lower third as clear floor; no mannequins or human forms.",
           "reference_path": "production/assets/locations/loc_camp_ref.png",
           "setting_label": "GREEK CAMP \u2014 THE JUDGMENT",
           "composition": {
@@ -16872,7 +16872,7 @@
             "tipped trough",
             "empty pen"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -16922,7 +16922,7 @@
             "tipped trough",
             "empty pen"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -16972,7 +16972,7 @@
             "tipped trough",
             "empty pen"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -17022,7 +17022,7 @@
             "tipped trough",
             "empty pen"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -17061,7 +17061,7 @@
           "location": "loc_camp",
           "shot_type": "detail",
           "bg_path": "production/part3/backgrounds/p3_clip_11_bg_05.jpg",
-          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A deserted animal pen at cold dawn, a tipped wooden trough, scattered straw and an empty fenced corner near the tents, quiet and non-graphic; no animals or people. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; shift to softer evening or dawn light and a reverse-axis composition. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders.",
+          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A deserted animal pen at cold dawn, a tipped wooden trough, scattered straw and an empty fenced corner near the tents, quiet and non-graphic; no animals or people. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; shift to softer evening or dawn light and a reverse-axis composition. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Additional composition constraints: Keep fence rails and the tipped trough in the midground/background; no foreground fence crossing the lower third. Preserve the entire lower third as clear level ground.",
           "reference_path": "production/assets/locations/loc_camp_ref.png",
           "setting_label": "GREEK CAMP \u2014 AFTER THE AWARD",
           "composition": {
@@ -17122,7 +17122,7 @@
             "tipped trough",
             "empty pen"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
