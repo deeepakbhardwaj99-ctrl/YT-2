@@ -14320,7 +14320,7 @@
             "moonlit path",
             "command tent entrance"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -14473,7 +14473,7 @@
             "open tent entrance",
             "low stool"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -14521,7 +14521,7 @@
             "open tent entrance",
             "low stool"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -14558,7 +14558,7 @@
           "location": "loc_camp",
           "shot_type": "detail",
           "bg_path": "production/part3/backgrounds/p3_clip_02_bg_03.jpg",
-          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A deep-night interior of a plain Bronze Age Greek command tent beside the sea, warm bronze oil-lamp glow, open tent entrance onto a dark moonlit Aegean, a low stool and folded undyed linen; no occupants or daylight. Detail composition: ground-level environmental detail with architecture receding into an empty room; frame a period surface or architectural detail without clutter; emphasize period materials already appropriate to the reference; invent no props. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Night lighting only: cool moonlight and warm bronze oil-lamp glow; deep blue-black outside; absolutely no sun, dawn, daylight or bright daytime sky.",
+          "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A deep-night interior of a plain Bronze Age Greek command tent beside the sea, warm bronze oil-lamp glow, open tent entrance onto a dark moonlit Aegean, a low stool and folded undyed linen; no occupants or daylight. Detail composition: ground-level environmental detail with architecture receding into an empty room; frame a period surface or architectural detail without clutter; emphasize period materials already appropriate to the reference; invent no props. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Night lighting only: cool moonlight and warm bronze oil-lamp glow; deep blue-black outside; absolutely no sun, dawn, daylight or bright daytime sky. Additional composition constraints: Clearly show the scene from inside an enclosed command tent, with canvas roof and side walls framing the view; limit the outside to the dark doorway; no wide exterior beach or camp vista.",
           "reference_path": "production/assets/locations/loc_camp_ref.png",
           "setting_label": "GREEK CAMP \u2014 ACHILLES'S TENT",
           "composition": {
@@ -14617,7 +14617,7 @@
             "open tent entrance",
             "low stool"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -14665,7 +14665,7 @@
             "open tent entrance",
             "low stool"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
@@ -14719,7 +14719,7 @@
             "open tent entrance",
             "low stool"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "PRIAM",

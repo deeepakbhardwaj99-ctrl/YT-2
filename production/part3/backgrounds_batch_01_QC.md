@@ -1,27 +1,33 @@
 # Part 3 Background Batch 01 — QC Record
 
-**Scope:** 10 candidates for clips 01–02 (clip 01: 4 plates; clip 02: 6 plates). Each image was opened individually from a filename-bannered review copy. The banner recorded the exact filename, 1376×768 dimensions, top-centre color signature and SHA-256 prefix; every displayed banner/signature matched the corresponding source file.
+**Scope:** 10 initial candidates (4 for clip 01, 6 for clip 02), followed by 7 targeted rerolls. Each candidate was opened individually from a filename-bannered review copy. Banners recorded the exact filename, dimensions, top-centre RGB median and SHA-256 prefix; the embedded identity/signature was checked against the source file. All 17 images were 1376×768. No candidate contained people/faces/bodies, text/letters/numbers/inscriptions, logos/watermarks or modern objects.
 
-**Result:** 3 accepted, 7 pending targeted reroll. **Batch 01 is not complete**; no later batch has been generated. All 10 candidates were 1376×768 (16:9), matched the approved Greek-camp painterly HYBRID reference, and showed no people/faces/bodies, text/letters/numbers/inscriptions, logos/watermarks or modern objects. The rejected files failed composition/time continuity, not the no-people/no-text checks. Each pending plate has 2 rerolls remaining; none have been used yet.
+**Current result:** 9 of 10 planned Batch 01 plates accepted; `p3_clip_02_bg_03` remains pending one final reroll (1 of 2 rerolls used). No later batch has been generated. The accepted originals are the only eligible files in the production background directory. Rejected candidates are not renderable; their hashes/reasons are preserved in `production/part3/background_manifest.json`.
 
-## Accepted
+## Accepted plates
 
 | Plate | SHA-256 prefix | QC |
 |---|---|---|
-| `p3_clip_01_bg_01.jpg` | `ee142812cef6` | Moonlit establishing view; period camp/coast, clear sandy lower staging, no prohibited content. |
-| `p3_clip_01_bg_02.jpg` | `bb816d8afafd` | Distinct oblique moonlit camp and open central path; no prohibited content. |
-| `p3_clip_01_bg_04.jpg` | `8edc5ba60095` | Reverse camp/coast view with open lower-center sand; no prohibited content. |
+| `p3_clip_01_bg_01.jpg` | `ee142812cef6` | Original candidate passed: moonlit establishing view, period camp/coast, clear sandy lower staging, no prohibited content. |
+| `p3_clip_01_bg_02.jpg` | `bb816d8afafd` | Original candidate passed: distinct oblique moonlit camp and open central path; no prohibited content. |
+| `p3_clip_01_bg_03.jpg` | `fc8cb9444e8b` | Reroll passed: empty moonlit beach camp, open sandy lower third, no cart/chariot/wheeled vehicle or prohibited content. |
+| `p3_clip_01_bg_04.jpg` | `8edc5ba60095` | Original candidate passed: reverse camp/coast view with open lower-center sand; no prohibited content. |
+| `p3_clip_02_bg_01.jpg` | `984771f5e561` | Reroll passed: clearly night-lit tent interior, open floor, moonlit sea at entrance. |
+| `p3_clip_02_bg_02.jpg` | `25e8503c9922` | Reroll passed: quiet night interior with period stool/linen/lamp and clear lower staging. |
+| `p3_clip_02_bg_04.jpg` | `764c19a9c7f8` | Reroll passed: reverse wide tent-interior view, dark moonlit exterior, open floor. |
+| `p3_clip_02_bg_05.jpg` | `a2527cf49bdc` | Reroll passed: lamp-lit night interior, period furnishings, unobstructed lower-third floor. |
+| `p3_clip_02_bg_06.jpg` | `47849e10c361` | Reroll passed: tent interior receding to a dark moonlit entrance, open lower staging. |
 
-## Rejected candidates (initial attempt; reroll budget unchanged)
+## Rejected attempts and remaining correction
 
-| Plate | Candidate SHA-256 prefix | Reason / targeted correction |
-|---|---|---|
-| `p3_clip_01_bg_03.jpg` | `1ca6a849997b` | An unprompted large wheeled cart/chariot and clustered props intruded into the lower-third staging zone. Reroll with open sand and an explicit ban on carts, chariots and wheeled vehicles. |
-| `p3_clip_02_bg_01.jpg` | `046bcbd1a22d` | Clean tent interior, but bright daytime exterior breaks the established moonlit-night continuity. Reroll with only cool moonlight and warm oil-lamp light; no sun, dawn or daylight. |
-| `p3_clip_02_bg_02.jpg` | `04c901c52b9a` | Clean interior, but bright daytime lighting; same night-continuity correction. |
-| `p3_clip_02_bg_03.jpg` | `062ff4ca1552` | Clean interior, but bright daytime lighting; same night-continuity correction. |
-| `p3_clip_02_bg_04.jpg` | `c4afb8f8bb87` | Clean interior, but bright daytime lighting; same night-continuity correction. |
-| `p3_clip_02_bg_05.jpg` | `2689880a247f` | Clean interior, but pink dusk/daylight still breaks the night sequence; same night-continuity correction. |
-| `p3_clip_02_bg_06.jpg` | `1d0c58755691` | Clean interior, but bright daytime lighting; same night-continuity correction. |
+| Plate | Attempt | Candidate SHA-256 prefix | Finding |
+|---|---:|---|---|
+| `p3_clip_01_bg_03.jpg` | 0 (initial) | `1ca6a849997b` | A large unprompted wheeled cart/chariot and clustered props intruded into lower-third staging. Reroll 1 is accepted. |
+| `p3_clip_02_bg_01.jpg` | 0 (initial) | `046bcbd1a22d` | Bright daytime exterior broke the established moonlit-night continuity. Reroll 1 is accepted. |
+| `p3_clip_02_bg_02.jpg` | 0 (initial) | `04c901c52b9a` | Bright daytime lighting broke night continuity. Reroll 1 is accepted. |
+| `p3_clip_02_bg_03.jpg` | 0 (initial) | `062ff4ca1552` | Bright daytime lighting broke night continuity. Reroll 1 is also rejected: although night-lit, it shows an exterior beach/camp vista rather than the required command-tent interior. One reroll remains. |
+| `p3_clip_02_bg_04.jpg` | 0 (initial) | `c4afb8f8bb87` | Bright daytime exterior broke night continuity. Reroll 1 is accepted. |
+| `p3_clip_02_bg_05.jpg` | 0 (initial) | `2689880a247f` | Pink dusk/daylight broke night continuity. Reroll 1 is accepted. |
+| `p3_clip_02_bg_06.jpg` | 0 (initial) | `1d0c58755691` | Bright daytime lighting broke night continuity. Reroll 1 is accepted. |
 
-The rejected original candidates and the ten individual bannered review copies are retained only in the ignored local directory `production/part3/_review/batch_01/`; only accepted originals are eligible for the production background folder. Ledger status, candidate signatures and reroll counters are in `production/part3/background_manifest.json`.
+For `p3_clip_02_bg_03`, the final reroll prompt now explicitly requires an enclosed camera position beneath a canvas roof, tent walls framing both sides and only a small dark doorway opening; it excludes an exterior-wide beach/camp view. All per-plate candidate hashes, dimensions, QC notes and reroll counters are in the background manifest.
