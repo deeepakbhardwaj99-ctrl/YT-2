@@ -3403,10 +3403,13 @@
       "shot_type": "wide",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A temporary Bronze Age carpentry yard beside the Greek camp, pine beams, wooden pegs and an unfinished hollow timber horse frame on clear ground; no people, writing or markings. Wide composition: oblique wide view from a different axis, layered terrain and distant architecture; keep the major geography visible with generous negative space; use strong foreground-to-background separation and generous open staging ground. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Additional composition constraints: Keep all stacks of pine beams, pegs and work supports at the far edges or in the midground; no lumber piles or trestles may enter the lower third. Preserve a broad, unobstructed lower-third area of level bare sand for character staging.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Rejected after individual QC: large lumber stacks spill from the midground across most of the lower-right foreground, leaving too little broad lower-third staging beside the central horse frame. Reroll with all lumber/pegs confined to far edges or distant midground and a wide, uninterrupted bare-sand foreground. No people or prohibited content detected.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "0423eb5ad826126d3bbbbc014270cd518a58be7ec99de64eb409f42d37fe1917",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC on targeted reroll: the unfinished hollow wooden horse frame is small and set back in the midground; beam stacks are confined to far edges and the full lower third is broad, level, clear sand. The horse is an empty inanimate timber structure with no riders or occupants. No people, prohibited text or modern objects. Filename banner, dimensions and top-band signature matched the source.",
       "composition": {
         "view": "oblique wide view from a different axis, layered terrain and distant architecture",
         "open_lower_third": true
@@ -3430,10 +3433,25 @@
           ],
           "result": "rejected",
           "reason": "Rejected after individual QC: large lumber stacks spill from the midground across most of the lower-right foreground, leaving too little broad lower-third staging beside the central horse frame. Reroll with all lumber/pegs confined to far edges or distant midground and a wide, uninterrupted bare-sand foreground. No people or prohibited content detected."
+        },
+        {
+          "attempt": 1,
+          "candidate_sha256": "0423eb5ad826126d3bbbbc014270cd518a58be7ec99de64eb409f42d37fe1917",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            141,
+            170,
+            189
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC on targeted reroll: the unfinished hollow wooden horse frame is small and set back in the midground; beam stacks are confined to far edges and the full lower third is broad, level, clear sand. The horse is an empty inanimate timber structure with no riders or occupants. No people, prohibited text or modern objects. Filename banner, dimensions and top-band signature matched the source."
         }
       ],
-      "rerolls_used": 0,
-      "rerolls_remaining": 2
+      "rerolls_used": 1,
+      "rerolls_remaining": 1
     },
     {
       "clip_id": "p3_clip_17",
@@ -4471,8 +4489,8 @@
   ],
   "schema_version": 1,
   "total_planned": 121,
-  "accepted": 79,
-  "pending": 42,
+  "accepted": 80,
+  "pending": 41,
   "note": "Part 3 background plates are generated in batches of 10 and accepted only after individual visual review; every plate must have open lower-third staging and contain no people, faces, bodies, text or modern objects.",
   "shot_cadence_seconds_target": 3.0,
   "character_proxy_note": "Only existing approved cutouts/rigs are used; one-off Chapter 9-10 speakers retain their exact names in dialogue and subtitles, while the proxy map is recorded in scenes.json and part3_scene_plan_notes.md.",
@@ -4536,12 +4554,11 @@
   },
   "batch_08_review": {
     "initial_candidates_reviewed": 10,
-    "accepted": 9,
-    "rejected_pending_reroll": 1,
-    "rerolls_used": 0,
-    "remaining_rerolls_by_plate": {
-      "p3_clip_17_bg_02": 2
-    },
-    "status": "awaiting_targeted_reroll"
+    "reroll_candidates_reviewed": 1,
+    "accepted": 10,
+    "rejected_pending_reroll": 0,
+    "rerolls_used": 1,
+    "remaining_rerolls_by_plate": {},
+    "status": "complete"
   }
 }
