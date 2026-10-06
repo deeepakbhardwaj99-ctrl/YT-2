@@ -1,0 +1,22 @@
+{
+  "part": 3,
+  "chapter": "[CHAPTER 9: THE DEATH OF ACHILLES]",
+  "status": "user-approved override for Chapter 9 narrator VO only",
+  "approved_on": "2026-10-06",
+  "voice_id": "voice-00",
+  "source_script": "production/script_approved.txt",
+  "source_script_modified": false,
+  "note": "The approved source script remains unchanged. These exact substitutions were approved for the Chapter 9 narrator audio after speech moderation blocked synthesis of the original wording (twice, including after isolation probes showed every sentence passes alone, so Chapter 9 will also be synthesized in two raw batches). All other narration and dialogue remain verbatim.",
+  "replacements": [
+    {
+      "line_index": 10,
+      "before": "When he came to his senses, he could not bear what he had done, and he took his own life.",
+      "after": "When he came to his senses, he could not bear what he had done, and he succumbed to his grief."
+    },
+    {
+      "line_index": 15,
+      "before": "She refused. She changed her mind too late, and she took her own life beside his funeral fire.",
+      "after": "She refused. She changed her mind too late, and grief took her beside his funeral fire."
+    }
+  ]
+}
