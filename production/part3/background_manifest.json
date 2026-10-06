@@ -246,10 +246,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A deep-night interior of a plain Bronze Age Greek command tent beside the sea, warm bronze oil-lamp glow, open tent entrance onto a dark moonlit Aegean, a low stool and folded undyed linen; no occupants or daylight. Detail composition: ground-level environmental detail with architecture receding into an empty room; frame a period surface or architectural detail without clutter; emphasize period materials already appropriate to the reference; invent no props. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Night lighting only: cool moonlight and warm bronze oil-lamp glow; deep blue-black outside; absolutely no sun, dawn, daylight or bright daytime sky. Additional composition constraints: Clearly show the scene from inside an enclosed command tent, with canvas roof and side walls framing the view; limit the outside to the dark doorway; no wide exterior beach or camp vista.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Rejected after individual QC on reroll 1: the image is an empty moonlit exterior beach/camp vista rather than Achilles's command-tent interior. No people or text detected. Use the final reroll for a clearly enclosed camera position beneath a canvas roof, with tent walls framing both sides and only a small dark doorway opening; no exterior-wide camp view.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "a08ca821e68f604dbc4b6cc7e40d808ad3ec5b5a9632ab94f9181e4cb6ee2792",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC on final reroll: clearly enclosed Bronze Age command-tent interior with canvas roof and walls framing the scene, a small dark night doorway, warm bronze oil lamp and a broad open lower-third floor. No people/faces/bodies, text/inscriptions, logos/watermarks, modern objects or layout guides. Filename banner, dimensions and top-band signature matched the source.",
       "composition": {
         "view": "close environmental detail at ground level, no figures, visually distinct composition",
         "open_lower_third": true
@@ -283,10 +286,25 @@
           ],
           "result": "rejected",
           "reason": "Rejected after individual QC on reroll 1: the image is an empty moonlit exterior beach/camp vista rather than Achilles's command-tent interior. No people or text detected. Use the final reroll for a clearly enclosed camera position beneath a canvas roof, with tent walls framing both sides and only a small dark doorway opening; no exterior-wide camp view."
+        },
+        {
+          "attempt": 2,
+          "candidate_sha256": "a08ca821e68f604dbc4b6cc7e40d808ad3ec5b5a9632ab94f9181e4cb6ee2792",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            41,
+            23,
+            9
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC on final reroll: clearly enclosed Bronze Age command-tent interior with canvas roof and walls framing the scene, a small dark night doorway, warm bronze oil lamp and a broad open lower-third floor. No people/faces/bodies, text/inscriptions, logos/watermarks, modern objects or layout guides. Filename banner, dimensions and top-band signature matched the source."
         }
       ],
-      "rerolls_used": 1,
-      "rerolls_remaining": 1
+      "rerolls_used": 2,
+      "rerolls_remaining": 0
     },
     {
       "clip_id": "p3_clip_02",
@@ -2781,17 +2799,18 @@
   ],
   "schema_version": 1,
   "total_planned": 121,
-  "accepted": 9,
-  "pending": 112,
+  "accepted": 10,
+  "pending": 111,
   "note": "Part 3 background plates are generated in batches of 10 and accepted only after individual visual review; every plate must have open lower-third staging and contain no people, faces, bodies, text or modern objects.",
   "shot_cadence_seconds_target": 3.0,
   "character_proxy_note": "Only existing approved cutouts/rigs are used; one-off Chapter 9-10 speakers retain their exact names in dialogue and subtitles, while the proxy map is recorded in scenes.json and part3_scene_plan_notes.md.",
   "batch_01_review": {
     "initial_candidates_reviewed": 10,
-    "reroll_candidates_reviewed": 7,
-    "accepted": 9,
-    "pending_reroll": 1,
-    "rerolls_used": 7,
-    "remaining_for_pending_plate": 1
+    "reroll_candidates_reviewed": 8,
+    "accepted": 10,
+    "pending_reroll": 0,
+    "rerolls_used": 8,
+    "remaining_for_pending_plate": 0,
+    "status": "complete"
   }
 }
