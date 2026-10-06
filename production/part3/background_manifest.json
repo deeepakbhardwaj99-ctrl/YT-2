@@ -1881,10 +1881,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for An empty Greek command pavilion after battle, ornate bronze armor and a large round shield displayed on a low stand between two vacant places, no people. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; show one restrained architectural layer and an unobstructed lower third. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Additional composition constraints: Place the plain armor and shield on an empty low display stand off-centre in the midground; no armor/display stand in the lower third. Leave the full lower third as clear floor; no mannequin or human-shaped forms.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Rejected after individual QC: armor and shield display with a broad table/stand fills the central lower staging area, leaving insufficient clear ground for character cutouts. No people or text detected. Reroll with empty armor on a small off-centre midground stand and the entire lower third as bare floor.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "72546bd2dc5f11b9c568354f08cd6b109ea05c114fb80316d421dfc86837bfe5",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC on targeted reroll: empty pavilion interior; inanimate armor/shield display is off-centre in the midground, leaving the full lower third as bare floor. No mannequins, people, text, or prohibited content. Filename banner and signature matched the source.",
       "composition": {
         "view": "raised three-quarter view that reveals a new spatial layer and an unobstructed foreground",
         "open_lower_third": true
@@ -1908,10 +1911,25 @@
           ],
           "result": "rejected",
           "reason": "Rejected after individual QC: armor and shield display with a broad table/stand fills the central lower staging area, leaving insufficient clear ground for character cutouts. No people or text detected. Reroll with empty armor on a small off-centre midground stand and the entire lower third as bare floor."
+        },
+        {
+          "attempt": 1,
+          "candidate_sha256": "72546bd2dc5f11b9c568354f08cd6b109ea05c114fb80316d421dfc86837bfe5",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            78,
+            53,
+            29
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC on targeted reroll: empty pavilion interior; inanimate armor/shield display is off-centre in the midground, leaving the full lower third as bare floor. No mannequins, people, text, or prohibited content. Filename banner and signature matched the source."
         }
       ],
-      "rerolls_used": 0,
-      "rerolls_remaining": 2
+      "rerolls_used": 1,
+      "rerolls_remaining": 1
     },
     {
       "clip_id": "p3_clip_10",
@@ -1964,10 +1982,13 @@
       "shot_type": "medium",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A bare Greek war-council tent with an empty judging bench and bronze armor resting in warm lamplight, open canvas sides reveal the silent camp; no figures. Medium composition: medium interior view of a restrained period prop with clear foreground floor; layer the room around one restrained focal area; use foreground-to-background depth through canvas, stone or timber without clutter. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Additional composition constraints: Show the scene unmistakably from inside a war-council tent, with canvas roof and side walls visible; no exterior-wide camp view. Set the empty judging bench and plain armor to one side in the midground and preserve the whole lower third as clear floor; no mannequins or human forms.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Rejected after individual QC: image shows an exterior camp/palisade rather than the specified war-council tent interior; no judging bench is visible and a box sits in the foreground. Reroll from inside a clearly enclosed canvas tent, with bench/armor to one side and clear lower-third floor.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "2c75f51a9932f8ec9d2039de9e0c7bf43f1d5934e9a3a83ec3be46f16596684f",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC on targeted reroll: unmistakable enclosed war-council tent interior with canvas roof/walls, an empty bench and inanimate armor/shield set aside; clear central lower-third floor. No people, mannequins, text, or prohibited content. Filename banner and signature matched the source.",
       "composition": {
         "view": "medium environment detail with a single symbolic prop or architectural feature",
         "open_lower_third": true
@@ -1991,10 +2012,25 @@
           ],
           "result": "rejected",
           "reason": "Rejected after individual QC: image shows an exterior camp/palisade rather than the specified war-council tent interior; no judging bench is visible and a box sits in the foreground. Reroll from inside a clearly enclosed canvas tent, with bench/armor to one side and clear lower-third floor."
+        },
+        {
+          "attempt": 1,
+          "candidate_sha256": "2c75f51a9932f8ec9d2039de9e0c7bf43f1d5934e9a3a83ec3be46f16596684f",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            128,
+            82,
+            36
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC on targeted reroll: unmistakable enclosed war-council tent interior with canvas roof/walls, an empty bench and inanimate armor/shield set aside; clear central lower-third floor. No people, mannequins, text, or prohibited content. Filename banner and signature matched the source."
         }
       ],
-      "rerolls_used": 0,
-      "rerolls_remaining": 2
+      "rerolls_used": 1,
+      "rerolls_remaining": 1
     },
     {
       "clip_id": "p3_clip_11",
@@ -2176,10 +2212,13 @@
       "shot_type": "detail",
       "reference": "production/assets/locations/loc_camp_ref.png",
       "image_prompt": "One standalone 16:9 landscape background plate, approximately 1376x768, cinematic painterly-realistic HYBRID style, for A deserted animal pen at cold dawn, a tipped wooden trough, scattered straw and an empty fenced corner near the tents, quiet and non-graphic; no animals or people. Detail composition: low side-angle environmental insert with distinct leading lines and a restrained focal object; frame an environmental surface or architectural detail without clutter; shift to softer evening or dawn light and a reverse-axis composition. Match the approved loc_camp location-sheet palette, architecture and Bronze Age materials. Warm ochre, weathered stone, bronze and deep Aegean blues; soft atmospheric depth; an unobstructed, level lower third for later 2D character cutouts. Environment only: absolutely no people, faces, human silhouettes, bodies, statues or reliefs; no live animals; no text, letters, numbers, inscriptions, emblems, logos, watermarks, modern objects, or layout guides. If the theme specifically calls for the wooden horse, it is the sole permitted animal-shaped object and must be an empty, inanimate timber prop without riders. Additional composition constraints: Keep fence rails and the tipped trough in the midground/background; no foreground fence crossing the lower third. Preserve the entire lower third as clear level ground.",
-      "dimensions": null,
-      "sha256": null,
-      "qc_status": "pending_generation",
-      "qc_note": "Rejected after individual QC: close fence rails and the tipped trough intrude into the lower-third staging area. No animals, people or text detected. Reroll with fence and trough confined to the midground/background and the full lower third left clear.",
+      "dimensions": [
+        1376,
+        768
+      ],
+      "sha256": "62badd9fb50e11043944417172381b386df6eb9b75953d3dd3ba9da3a116debe",
+      "qc_status": "accepted",
+      "qc_note": "Passed individual QC on targeted reroll: deserted pen at cold dawn; fence and tipped trough are set back in the midground, with the entire lower third open and clear. No animals, people, text or prohibited content. Filename banner and signature matched the source.",
       "composition": {
         "view": "low side-angle environmental insert with distinct leading lines and a restrained focal object",
         "open_lower_third": true
@@ -2203,10 +2242,25 @@
           ],
           "result": "rejected",
           "reason": "Rejected after individual QC: close fence rails and the tipped trough intrude into the lower-third staging area. No animals, people or text detected. Reroll with fence and trough confined to the midground/background and the full lower third left clear."
+        },
+        {
+          "attempt": 1,
+          "candidate_sha256": "62badd9fb50e11043944417172381b386df6eb9b75953d3dd3ba9da3a116debe",
+          "candidate_dimensions": [
+            1376,
+            768
+          ],
+          "top_mid_rgb_median": [
+            219,
+            220,
+            211
+          ],
+          "result": "accepted",
+          "reason": "Passed individual QC on targeted reroll: deserted pen at cold dawn; fence and tipped trough are set back in the midground, with the entire lower third open and clear. No animals, people, text or prohibited content. Filename banner and signature matched the source."
         }
       ],
-      "rerolls_used": 0,
-      "rerolls_remaining": 2
+      "rerolls_used": 1,
+      "rerolls_remaining": 1
     },
     {
       "clip_id": "p3_clip_11",
@@ -3745,8 +3799,8 @@
   ],
   "schema_version": 1,
   "total_planned": 121,
-  "accepted": 47,
-  "pending": 74,
+  "accepted": 50,
+  "pending": 71,
   "note": "Part 3 background plates are generated in batches of 10 and accepted only after individual visual review; every plate must have open lower-third staging and contain no people, faces, bodies, text or modern objects.",
   "shot_cadence_seconds_target": 3.0,
   "character_proxy_note": "Only existing approved cutouts/rigs are used; one-off Chapter 9-10 speakers retain their exact names in dialogue and subtitles, while the proxy map is recorded in scenes.json and part3_scene_plan_notes.md.",
@@ -3784,14 +3838,11 @@
   },
   "batch_05_review": {
     "initial_candidates_reviewed": 10,
-    "accepted": 7,
-    "rejected_pending_reroll": 3,
-    "rerolls_used": 0,
-    "remaining_rerolls_by_plate": {
-      "p3_clip_09_bg_06": 2,
-      "p3_clip_10_bg_02": 2,
-      "p3_clip_11_bg_05": 2
-    },
-    "status": "awaiting_targeted_rerolls"
+    "reroll_candidates_reviewed": 3,
+    "accepted": 10,
+    "rejected_pending_reroll": 0,
+    "rerolls_used": 3,
+    "remaining_rerolls_by_plate": {},
+    "status": "complete"
   }
 }

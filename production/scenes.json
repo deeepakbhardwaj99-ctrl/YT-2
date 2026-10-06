@@ -16627,7 +16627,7 @@
             "bronze armor",
             "round shield"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "AJAX",
@@ -16785,7 +16785,7 @@
             "empty judging bench",
             "bronze armor"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "ODYSSEUS",
@@ -17072,7 +17072,7 @@
             "tipped trough",
             "empty pen"
           ],
-          "asset_status": "pending_generation",
+          "asset_status": "accepted",
           "speaker_events": [
             {
               "speaker": "NARRATOR",
